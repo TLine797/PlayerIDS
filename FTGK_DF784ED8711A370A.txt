@@ -1,0 +1,7 @@
+Name: NAZ
+ActorNumber: 364
+PlayerID: DF784ED8711A370A
+Platform: Standalone
+AccountCreationDate: 2025-07-06 20:54:59 UTC
+Color: R=0.11 G=0.00 B=0.33
+Cosmetics: None

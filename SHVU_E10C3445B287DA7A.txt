@@ -1,0 +1,7 @@
+Name: IDK
+ActorNumber: 18
+PlayerID: E10C3445B287DA7A
+Platform: PC
+AccountCreationDate: 2026-02-02 02:18:54 UTC
+Color: R=0.44 G=0.33 B=0.56
+Cosmetics: None

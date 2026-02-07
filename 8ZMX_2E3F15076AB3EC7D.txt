@@ -1,0 +1,7 @@
+Name: ITZTRIPZ
+ActorNumber: 20
+PlayerID: 2E3F15076AB3EC7D
+Platform: Standalone
+AccountCreationDate: 2024-11-02 17:47:31 UTC
+Color: R=0.56 G=1.00 B=0.67
+Cosmetics: None

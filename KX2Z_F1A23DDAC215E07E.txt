@@ -1,0 +1,7 @@
+Name: SAND
+ActorNumber: 1870
+PlayerID: F1A23DDAC215E07E
+Platform: Standalone
+AccountCreationDate: 2025-12-25 22:19:30 UTC
+Color: R=0.00 G=1.00 B=0.00
+Cosmetics: None

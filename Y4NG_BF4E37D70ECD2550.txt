@@ -1,0 +1,7 @@
+Name: FRIED
+ActorNumber: 875
+PlayerID: BF4E37D70ECD2550
+Platform: Unknown
+AccountCreationDate: 2021-07-02 19:30:50 UTC
+Color: R=0.67 G=0.33 B=0.78
+Cosmetics: None

@@ -1,0 +1,7 @@
+Name: ITZTOPHAT
+ActorNumber: 1270
+PlayerID: FB32CA2B946CD47B
+Platform: Standalone
+AccountCreationDate: 2025-08-09 16:22:30 UTC
+Color: R=0.00 G=0.33 B=0.33
+Cosmetics: None

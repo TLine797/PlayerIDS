@@ -1,0 +1,7 @@
+Name: NMPMOOSE
+ActorNumber: 726
+PlayerID: 156E228E201E631B
+Platform: Standalone
+AccountCreationDate: 2026-01-28 20:08:26 UTC
+Color: R=0.44 G=0.33 B=0.22
+Cosmetics: None

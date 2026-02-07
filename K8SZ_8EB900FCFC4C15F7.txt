@@ -1,0 +1,7 @@
+Name: PIXXY
+ActorNumber: 367
+PlayerID: 8EB900FCFC4C15F7
+Platform: Unknown
+AccountCreationDate: 2021-08-24 20:28:44 UTC
+Color: R=1.00 G=0.00 B=0.00
+Cosmetics: None

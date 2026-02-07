@@ -1,0 +1,7 @@
+Name: TTGVOLT
+ActorNumber: 328
+PlayerID: 55D51DF9E976E738
+Platform: Standalone
+AccountCreationDate: 2025-12-25 15:14:46 UTC
+Color: R=0.00 G=0.00 B=0.22
+Cosmetics: None

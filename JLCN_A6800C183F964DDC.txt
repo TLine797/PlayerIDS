@@ -1,0 +1,7 @@
+Name: THATREDMONKE
+ActorNumber: 1987
+PlayerID: A6800C183F964DDC
+Platform: Standalone
+AccountCreationDate: 2025-07-29 01:24:17 UTC
+Color: R=0.89 G=0.22 B=0.00
+Cosmetics: None

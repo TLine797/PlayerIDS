@@ -1,0 +1,7 @@
+Name: PURPLEMAN
+ActorNumber: 1039
+PlayerID: 7464DEA919962110
+Platform: Standalone
+AccountCreationDate: 2025-12-25 17:48:19 UTC
+Color: R=0.56 G=0.00 B=1.00
+Cosmetics: None

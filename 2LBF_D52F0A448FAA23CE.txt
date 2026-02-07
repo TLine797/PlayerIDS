@@ -1,0 +1,7 @@
+Name: PLUSHYVRGT
+ActorNumber: 892
+PlayerID: D52F0A448FAA23CE
+Platform: Standalone
+AccountCreationDate: 2023-12-25 20:29:50 UTC
+Color: R=1.00 G=0.00 B=0.00
+Cosmetics: None

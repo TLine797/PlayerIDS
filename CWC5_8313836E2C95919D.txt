@@ -1,0 +1,7 @@
+Name: SAVA
+ActorNumber: 855
+PlayerID: 8313836E2C95919D
+Platform: PC
+AccountCreationDate: 2025-06-02 03:17:34 UTC
+Color: R=0.44 G=0.00 B=1.00
+Cosmetics: None

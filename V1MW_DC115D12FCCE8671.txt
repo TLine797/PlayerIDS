@@ -1,0 +1,7 @@
+Name: DBJIVKNJIVKD
+ActorNumber: 34
+PlayerID: DC115D12FCCE8671
+Platform: Standalone
+AccountCreationDate: 2023-12-25 02:11:54 UTC
+Color: R=0.67 G=1.00 B=0.67
+Cosmetics: None

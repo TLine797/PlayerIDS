@@ -1,0 +1,7 @@
+Name: GODSAVES
+ActorNumber: 50
+PlayerID: 6D36CCD6C3743326
+Platform: Standalone
+AccountCreationDate: 2025-12-13 22:41:22 UTC
+Color: R=0.33 G=0.00 B=0.78
+Cosmetics: None

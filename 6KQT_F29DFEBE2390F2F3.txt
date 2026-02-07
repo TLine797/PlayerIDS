@@ -1,0 +1,7 @@
+Name: IWANNAEDITUR
+ActorNumber: 274
+PlayerID: F29DFEBE2390F2F3
+Platform: PC
+AccountCreationDate: 2025-02-01 01:53:29 UTC
+Color: R=1.00 G=1.00 B=0.00
+Cosmetics: None

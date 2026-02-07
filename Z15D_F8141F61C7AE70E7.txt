@@ -1,0 +1,7 @@
+Name: VANTAAA
+ActorNumber: 505
+PlayerID: F8141F61C7AE70E7
+Platform: Standalone
+AccountCreationDate: 2024-12-25 12:45:44 UTC
+Color: R=1.00 G=1.00 B=1.00
+Cosmetics: None

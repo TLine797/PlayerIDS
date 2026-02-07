@@ -1,0 +1,7 @@
+Name: HTCVIVE
+ActorNumber: 559
+PlayerID: AE80285315F2FCD5
+Platform: Standalone
+AccountCreationDate: 2025-04-30 23:54:05 UTC
+Color: R=0.56 G=0.67 B=0.89
+Cosmetics: None

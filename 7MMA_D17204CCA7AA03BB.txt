@@ -1,0 +1,7 @@
+Name: CHEFSAUCE
+ActorNumber: 541
+PlayerID: D17204CCA7AA03BB
+Platform: Standalone
+AccountCreationDate: 2023-07-14 21:52:31 UTC
+Color: R=1.00 G=0.00 B=0.11
+Cosmetics: None

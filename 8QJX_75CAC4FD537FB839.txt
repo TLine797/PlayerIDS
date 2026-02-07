@@ -1,0 +1,7 @@
+Name: 1
+ActorNumber: 530
+PlayerID: 75CAC4FD537FB839
+Platform: Standalone
+AccountCreationDate: 2025-01-13 00:36:48 UTC
+Color: R=1.00 G=1.00 B=0.00
+Cosmetics: None

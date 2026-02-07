@@ -1,0 +1,7 @@
+Name: EVILSPIDEY50
+ActorNumber: 1171
+PlayerID: FCFBF7FBCF40691D
+Platform: Standalone
+AccountCreationDate: 2023-12-25 15:32:02 UTC
+Color: R=0.78 G=1.00 B=0.00
+Cosmetics: None

@@ -1,0 +1,7 @@
+Name: GOATMUNCH
+ActorNumber: 328
+PlayerID: 6E8407ED0E98079A
+Platform: Standalone
+AccountCreationDate: 2024-02-06 21:13:35 UTC
+Color: R=1.00 G=0.78 B=0.89
+Cosmetics: None

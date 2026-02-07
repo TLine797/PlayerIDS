@@ -1,0 +1,7 @@
+Name: TABBIRDY
+ActorNumber: 1996
+PlayerID: 125C234F2890E53E
+Platform: Standalone
+AccountCreationDate: 2024-12-25 09:15:19 UTC
+Color: R=0.00 G=0.00 B=1.00
+Cosmetics: None

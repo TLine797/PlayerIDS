@@ -1,0 +1,7 @@
+Name: ESSENTALCHAN
+ActorNumber: 273
+PlayerID: 3AF023401E555E86
+Platform: Standalone
+AccountCreationDate: 2024-07-08 18:52:34 UTC
+Color: R=1.00 G=1.00 B=0.33
+Cosmetics: None

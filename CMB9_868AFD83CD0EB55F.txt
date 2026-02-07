@@ -1,0 +1,7 @@
+Name: DEATHVR
+ActorNumber: 5662
+PlayerID: 868AFD83CD0EB55F
+Platform: Unknown
+AccountCreationDate: 2025-07-30 15:56:15 UTC
+Color: R=0.00 G=0.00 B=0.89
+Cosmetics: None

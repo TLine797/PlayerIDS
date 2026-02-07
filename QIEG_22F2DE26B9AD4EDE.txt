@@ -1,0 +1,7 @@
+Name: TYT
+ActorNumber: 381
+PlayerID: 22F2DE26B9AD4EDE
+Platform: Standalone
+AccountCreationDate: 2023-11-11 04:25:25 UTC
+Color: R=0.56 G=0.44 B=1.00
+Cosmetics: None

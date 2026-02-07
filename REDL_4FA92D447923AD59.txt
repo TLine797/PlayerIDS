@@ -1,0 +1,7 @@
+Name: DARKBLADE
+ActorNumber: 919
+PlayerID: 4FA92D447923AD59
+Platform: Standalone
+AccountCreationDate: 2024-12-16 21:23:26 UTC
+Color: R=0.00 G=1.00 B=1.00
+Cosmetics: None

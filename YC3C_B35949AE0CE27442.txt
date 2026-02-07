@@ -1,0 +1,7 @@
+Name: MONKEY
+ActorNumber: 671
+PlayerID: B35949AE0CE27442
+Platform: Standalone
+AccountCreationDate: 2025-12-31 22:38:49 UTC
+Color: R=0.00 G=0.00 B=0.00
+Cosmetics: None

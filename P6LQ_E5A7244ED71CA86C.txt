@@ -1,0 +1,7 @@
+Name: EL
+ActorNumber: 1313
+PlayerID: E5A7244ED71CA86C
+Platform: Standalone
+AccountCreationDate: 2024-12-27 22:31:49 UTC
+Color: R=0.56 G=0.67 B=1.00
+Cosmetics: None

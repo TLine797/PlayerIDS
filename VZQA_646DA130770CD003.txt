@@ -1,0 +1,7 @@
+Name: gorilla1461
+ActorNumber: 1048
+PlayerID: 646DA130770CD003
+Platform: Standalone
+AccountCreationDate: 2025-12-26 01:03:07 UTC
+Color: R=0.44 G=0.33 B=0.89
+Cosmetics: None

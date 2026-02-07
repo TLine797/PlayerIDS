@@ -1,0 +1,7 @@
+Name: ARISE
+ActorNumber: 1112
+PlayerID: 8194C342373D262C
+Platform: Standalone
+AccountCreationDate: 2023-12-25 23:29:30 UTC
+Color: R=0.44 G=0.00 B=1.00
+Cosmetics: None

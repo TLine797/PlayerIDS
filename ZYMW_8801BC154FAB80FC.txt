@@ -1,0 +1,7 @@
+Name: GRANTGT
+ActorNumber: 11
+PlayerID: 8801BC154FAB80FC
+Platform: Standalone
+AccountCreationDate: 2025-03-09 23:42:17 UTC
+Color: R=0.22 G=0.33 B=0.33
+Cosmetics: None

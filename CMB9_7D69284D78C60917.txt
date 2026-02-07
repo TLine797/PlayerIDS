@@ -1,0 +1,7 @@
+Name: ZRELI
+ActorNumber: 5843
+PlayerID: 7D69284D78C60917
+Platform: Standalone
+AccountCreationDate: 2023-11-24 23:45:30 UTC
+Color: R=0.56 G=0.00 B=1.00
+Cosmetics: None

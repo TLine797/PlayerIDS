@@ -1,0 +1,7 @@
+Name: LORENZO
+ActorNumber: 848
+PlayerID: 4CEEA324ACDCF961
+Platform: Standalone
+AccountCreationDate: 2024-03-23 21:05:24 UTC
+Color: R=0.22 G=0.78 B=0.78
+Cosmetics: None

@@ -1,0 +1,7 @@
+Name: BRYODA
+ActorNumber: 1307
+PlayerID: 62E01028772A84E8
+Platform: Standalone
+AccountCreationDate: 2025-05-25 22:01:54 UTC
+Color: R=0.89 G=0.22 B=0.00
+Cosmetics: None

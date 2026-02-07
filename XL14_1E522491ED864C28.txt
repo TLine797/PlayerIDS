@@ -1,0 +1,7 @@
+Name: LITTLEH4KPY
+ActorNumber: 211
+PlayerID: 1E522491ED864C28
+Platform: Standalone
+AccountCreationDate: 2025-04-13 18:18:38 UTC
+Color: R=0.00 G=0.78 B=1.00
+Cosmetics: None

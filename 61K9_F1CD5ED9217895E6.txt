@@ -1,0 +1,7 @@
+Name: DARKK
+ActorNumber: 1235
+PlayerID: F1CD5ED9217895E6
+Platform: Unknown
+AccountCreationDate: 2021-12-27 16:58:53 UTC
+Color: R=0.00 G=0.00 B=0.00
+Cosmetics: None

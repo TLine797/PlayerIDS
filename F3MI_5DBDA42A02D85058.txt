@@ -1,0 +1,7 @@
+Name: FINLAY
+ActorNumber: 50
+PlayerID: 5DBDA42A02D85058
+Platform: Unknown
+AccountCreationDate: 2022-02-13 14:15:38 UTC
+Color: R=0.56 G=0.00 B=0.00
+Cosmetics: None

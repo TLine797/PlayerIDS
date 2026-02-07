@@ -1,0 +1,7 @@
+Name: RANDOM
+ActorNumber: 395
+PlayerID: 3B380F8AA78EE9A8
+Platform: Unknown
+AccountCreationDate: 2025-03-03 02:12:43 UTC
+Color: R=1.00 G=1.00 B=0.00
+Cosmetics: None

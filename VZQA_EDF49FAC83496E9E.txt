@@ -1,0 +1,7 @@
+Name: MAV
+ActorNumber: 1057
+PlayerID: EDF49FAC83496E9E
+Platform: Standalone
+AccountCreationDate: 2023-10-07 02:11:49 UTC
+Color: R=0.00 G=0.00 B=0.00
+Cosmetics: None

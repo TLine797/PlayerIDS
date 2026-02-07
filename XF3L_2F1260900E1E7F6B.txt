@@ -1,0 +1,7 @@
+Name: WASHEDAF
+ActorNumber: 19
+PlayerID: 2F1260900E1E7F6B
+Platform: Standalone
+AccountCreationDate: 2023-11-21 01:16:32 UTC
+Color: R=0.00 G=0.00 B=1.00
+Cosmetics: None

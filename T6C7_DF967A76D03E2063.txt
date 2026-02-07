@@ -1,0 +1,7 @@
+Name: TSMBEX
+ActorNumber: 30
+PlayerID: DF967A76D03E2063
+Platform: Standalone
+AccountCreationDate: 2026-01-25 01:04:19 UTC
+Color: R=0.00 G=0.00 B=1.00
+Cosmetics: None

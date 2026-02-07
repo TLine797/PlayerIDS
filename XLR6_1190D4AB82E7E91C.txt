@@ -1,0 +1,7 @@
+Name: ECLIPSE
+ActorNumber: 483
+PlayerID: 1190D4AB82E7E91C
+Platform: Standalone
+AccountCreationDate: 2023-07-30 15:21:12 UTC
+Color: R=0.89 G=1.00 B=0.00
+Cosmetics: None

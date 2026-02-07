@@ -1,0 +1,7 @@
+Name: MONO
+ActorNumber: 1250
+PlayerID: 60E27DFC83455DCD
+Platform: Unknown
+AccountCreationDate: 2022-03-20 01:26:05 UTC
+Color: R=1.00 G=0.44 B=0.22
+Cosmetics: None

@@ -1,0 +1,7 @@
+Name: BOB
+ActorNumber: 808
+PlayerID: 358CF4C4D577C086
+Platform: Unknown
+AccountCreationDate: 2021-07-18 23:44:09 UTC
+Color: R=0.67 G=0.56 B=0.78
+Cosmetics: None

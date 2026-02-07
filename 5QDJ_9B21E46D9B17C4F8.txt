@@ -1,0 +1,7 @@
+Name: SADKINITOVR
+ActorNumber: 683
+PlayerID: 9B21E46D9B17C4F8
+Platform: Standalone
+AccountCreationDate: 2025-04-20 18:26:37 UTC
+Color: R=0.56 G=0.00 B=0.00
+Cosmetics: None

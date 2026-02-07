@@ -1,0 +1,7 @@
+Name: DADDYPEBB
+ActorNumber: 73
+PlayerID: E29AE64B573CCE24
+Platform: Unknown
+AccountCreationDate: 2024-04-03 02:04:13 UTC
+Color: R=1.00 G=0.22 B=1.00
+Cosmetics: None

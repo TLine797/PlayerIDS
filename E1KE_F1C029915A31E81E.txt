@@ -1,0 +1,7 @@
+Name: MRMOOSE
+ActorNumber: 35
+PlayerID: F1C029915A31E81E
+Platform: Standalone
+AccountCreationDate: 2023-07-28 14:37:44 UTC
+Color: R=0.00 G=0.00 B=0.00
+Cosmetics: None

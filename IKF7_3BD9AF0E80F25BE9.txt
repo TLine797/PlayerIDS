@@ -1,0 +1,7 @@
+Name: PURPLEGUY
+ActorNumber: 49
+PlayerID: 3BD9AF0E80F25BE9
+Platform: Standalone
+AccountCreationDate: 2025-12-06 01:11:27 UTC
+Color: R=0.44 G=0.00 B=0.78
+Cosmetics: None

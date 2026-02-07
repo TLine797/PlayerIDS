@@ -1,0 +1,7 @@
+Name: 2SWEAT
+ActorNumber: 22
+PlayerID: 9B95AFEA4FE4A2EB
+Platform: Standalone
+AccountCreationDate: 2024-04-09 16:32:48 UTC
+Color: R=0.44 G=0.00 B=1.00
+Cosmetics: None

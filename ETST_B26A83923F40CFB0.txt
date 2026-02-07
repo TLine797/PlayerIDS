@@ -1,0 +1,7 @@
+Name: RARITY
+ActorNumber: 1253
+PlayerID: B26A83923F40CFB0
+Platform: Standalone
+AccountCreationDate: 2025-03-15 16:21:29 UTC
+Color: R=0.44 G=0.00 B=0.78
+Cosmetics: None

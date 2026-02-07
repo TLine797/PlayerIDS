@@ -1,0 +1,7 @@
+Name: SHR3DDERVR
+ActorNumber: 458
+PlayerID: B3A2C00EABA25AFB
+Platform: Standalone
+AccountCreationDate: 2025-07-24 18:17:36 UTC
+Color: R=0.67 G=0.67 B=0.67
+Cosmetics: None

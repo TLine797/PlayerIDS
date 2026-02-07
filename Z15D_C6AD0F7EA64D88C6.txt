@@ -1,0 +1,7 @@
+Name: BOB
+ActorNumber: 496
+PlayerID: C6AD0F7EA64D88C6
+Platform: Standalone
+AccountCreationDate: 2023-12-25 19:35:52 UTC
+Color: R=0.33 G=0.00 B=1.00
+Cosmetics: None

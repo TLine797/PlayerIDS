@@ -1,0 +1,7 @@
+Name: GALAXY
+ActorNumber: 27
+PlayerID: 71B0FF19EFD5DCB
+Platform: Standalone
+AccountCreationDate: 2026-01-04 23:00:47 UTC
+Color: R=0.00 G=0.00 B=0.00
+Cosmetics: None

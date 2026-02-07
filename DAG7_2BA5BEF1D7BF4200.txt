@@ -1,0 +1,7 @@
+Name: COLTVR
+ActorNumber: 877
+PlayerID: 2BA5BEF1D7BF4200
+Platform: Unknown
+AccountCreationDate: 2022-04-09 03:07:22 UTC
+Color: R=0.11 G=1.00 B=0.00
+Cosmetics: None

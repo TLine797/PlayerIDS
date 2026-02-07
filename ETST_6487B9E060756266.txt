@@ -1,0 +1,7 @@
+Name: DASHER
+ActorNumber: 1224
+PlayerID: 6487B9E060756266
+Platform: Standalone
+AccountCreationDate: 2024-01-05 19:55:47 UTC
+Color: R=0.00 G=0.00 B=0.00
+Cosmetics: None

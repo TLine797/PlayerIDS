@@ -1,0 +1,7 @@
+Name: MICBROKEN
+ActorNumber: 663
+PlayerID: AF05191252DCD190
+Platform: Standalone
+AccountCreationDate: 2025-06-18 23:35:05 UTC
+Color: R=0.67 G=0.33 B=0.67
+Cosmetics: None

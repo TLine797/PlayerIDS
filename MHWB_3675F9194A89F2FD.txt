@@ -1,0 +1,7 @@
+Name: LILLY
+ActorNumber: 809
+PlayerID: 3675F9194A89F2FD
+Platform: Unknown
+AccountCreationDate: 2022-02-04 18:33:10 UTC
+Color: R=0.56 G=0.67 B=0.89
+Cosmetics: None

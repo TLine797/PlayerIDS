@@ -1,0 +1,7 @@
+Name: LOLA
+ActorNumber: 1003
+PlayerID: B2E0264285A199FB
+Platform: Standalone
+AccountCreationDate: 2025-12-25 14:48:45 UTC
+Color: R=1.00 G=0.67 B=1.00
+Cosmetics: None

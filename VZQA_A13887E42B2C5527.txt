@@ -1,0 +1,7 @@
+Name: DUSTEDYOUU
+ActorNumber: 1053
+PlayerID: A13887E42B2C5527
+Platform: Standalone
+AccountCreationDate: 2025-12-27 00:22:32 UTC
+Color: R=0.00 G=0.00 B=1.00
+Cosmetics: None

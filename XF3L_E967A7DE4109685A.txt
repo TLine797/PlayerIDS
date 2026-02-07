@@ -1,0 +1,7 @@
+Name: 2XMONKE
+ActorNumber: 9
+PlayerID: E967A7DE4109685A
+Platform: Standalone
+AccountCreationDate: 2025-12-28 23:55:49 UTC
+Color: R=0.00 G=0.89 B=1.00
+Cosmetics: None

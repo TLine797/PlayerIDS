@@ -1,0 +1,7 @@
+Name: GLEAMOTH
+ActorNumber: 1248
+PlayerID: BADA8AD0F94C022E
+Platform: Standalone
+AccountCreationDate: 2023-03-28 22:51:09 UTC
+Color: R=0.00 G=0.00 B=0.00
+Cosmetics: None

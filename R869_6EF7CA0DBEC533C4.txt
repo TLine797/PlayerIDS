@@ -1,0 +1,7 @@
+Name: BGBANDZZZ
+ActorNumber: 756
+PlayerID: 6EF7CA0DBEC533C4
+Platform: Standalone
+AccountCreationDate: 2025-12-26 22:18:37 UTC
+Color: R=0.00 G=0.00 B=0.00
+Cosmetics: None

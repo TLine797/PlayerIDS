@@ -1,0 +1,7 @@
+Name: ICEE
+ActorNumber: 661
+PlayerID: 76E38F55065F6206
+Platform: Standalone
+AccountCreationDate: 2025-12-25 15:57:07 UTC
+Color: R=0.56 G=0.78 B=1.00
+Cosmetics: None

@@ -1,0 +1,7 @@
+Name: CAMXVR
+ActorNumber: 320
+PlayerID: 8280B60C0C4BD4A8
+Platform: Standalone
+AccountCreationDate: 2024-12-15 20:11:20 UTC
+Color: R=0.44 G=0.00 B=0.78
+Cosmetics: None

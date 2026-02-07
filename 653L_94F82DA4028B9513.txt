@@ -1,0 +1,7 @@
+Name: AEPHIX
+ActorNumber: 290
+PlayerID: 94F82DA4028B9513
+Platform: Standalone
+AccountCreationDate: 2025-02-24 18:35:26 UTC
+Color: R=0.00 G=0.00 B=0.00
+Cosmetics: None

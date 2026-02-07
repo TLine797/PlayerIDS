@@ -1,0 +1,7 @@
+Name: HAMBERGER
+ActorNumber: 482
+PlayerID: FCEDFAA05036E5B4
+Platform: Standalone
+AccountCreationDate: 2025-01-26 02:04:52 UTC
+Color: R=0.89 G=0.78 B=0.89
+Cosmetics: None

@@ -1,0 +1,7 @@
+Name: MONEYTALKS
+ActorNumber: 1065
+PlayerID: 6D2C9C4C0440F1DA
+Platform: Unknown
+AccountCreationDate: 2022-12-25 18:13:49 UTC
+Color: R=1.00 G=0.11 B=0.78
+Cosmetics: None

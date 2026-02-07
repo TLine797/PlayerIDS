@@ -1,0 +1,7 @@
+Name: TRBBAT64
+ActorNumber: 1098
+PlayerID: 94D16EFA81BEF754
+Platform: Standalone
+AccountCreationDate: 2023-12-16 05:09:57 UTC
+Color: R=0.00 G=1.00 B=1.00
+Cosmetics: None

@@ -1,0 +1,7 @@
+Name: TAMSTAR
+ActorNumber: 82
+PlayerID: B455515044DD81DD
+Platform: Unknown
+AccountCreationDate: 2022-12-25 03:24:18 UTC
+Color: R=0.44 G=0.22 B=0.56
+Cosmetics: None

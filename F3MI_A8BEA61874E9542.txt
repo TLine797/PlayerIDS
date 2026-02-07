@@ -1,0 +1,7 @@
+Name: GOONSQUAD
+ActorNumber: 56
+PlayerID: A8BEA61874E9542
+Platform: Unknown
+AccountCreationDate: 2022-03-08 23:45:23 UTC
+Color: R=1.00 G=0.00 B=0.00
+Cosmetics: None

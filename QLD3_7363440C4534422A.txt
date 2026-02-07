@@ -1,0 +1,7 @@
+Name: CHASE
+ActorNumber: 836
+PlayerID: 7363440C4534422A
+Platform: Unknown
+AccountCreationDate: 2023-01-21 19:45:58 UTC
+Color: R=0.11 G=0.00 B=0.44
+Cosmetics: None

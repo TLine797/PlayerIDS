@@ -1,0 +1,7 @@
+Name: BOB
+ActorNumber: 252
+PlayerID: 36F5ECFC2893AC53
+Platform: Standalone
+AccountCreationDate: 2025-12-25 15:40:41 UTC
+Color: R=0.00 G=0.89 B=1.00
+Cosmetics: None

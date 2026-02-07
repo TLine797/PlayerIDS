@@ -1,0 +1,7 @@
+Name: CREDZ
+ActorNumber: 670
+PlayerID: 4C1E9C134FBA45CF
+Platform: Standalone
+AccountCreationDate: 2024-06-29 13:44:55 UTC
+Color: R=0.56 G=0.00 B=0.00
+Cosmetics: None

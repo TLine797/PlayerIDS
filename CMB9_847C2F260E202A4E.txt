@@ -1,0 +1,7 @@
+Name: JMNJKMN
+ActorNumber: 5838
+PlayerID: 847C2F260E202A4E
+Platform: Standalone
+AccountCreationDate: 2023-01-03 20:04:52 UTC
+Color: R=0.00 G=0.00 B=0.89
+Cosmetics: None

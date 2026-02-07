@@ -1,0 +1,7 @@
+Name: ANONYMOUS
+ActorNumber: 371
+PlayerID: B0724E2287D5170A
+Platform: Standalone
+AccountCreationDate: 2025-07-14 17:57:27 UTC
+Color: R=0.89 G=0.44 B=0.22
+Cosmetics: None

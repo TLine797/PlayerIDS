@@ -1,0 +1,7 @@
+Name: PABLOVR
+ActorNumber: 100
+PlayerID: 27E8DCDA74FA27E6
+Platform: Standalone
+AccountCreationDate: 2025-02-17 19:52:25 UTC
+Color: R=0.22 G=0.00 B=0.67
+Cosmetics: None

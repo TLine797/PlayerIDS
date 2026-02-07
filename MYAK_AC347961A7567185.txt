@@ -1,0 +1,7 @@
+Name: FGFFGFFGF
+ActorNumber: 716
+PlayerID: AC347961A7567185
+Platform: Standalone
+AccountCreationDate: 2026-02-05 22:01:36 UTC
+Color: R=0.97 G=0.22 B=0.18
+Cosmetics: None

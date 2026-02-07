@@ -1,0 +1,7 @@
+Name: gorilla
+ActorNumber: 903
+PlayerID: B6CAEC67C10B89D8
+Platform: Standalone
+AccountCreationDate: 2025-11-02 14:43:38 UTC
+Color: R=1.00 G=0.78 B=0.89
+Cosmetics: None

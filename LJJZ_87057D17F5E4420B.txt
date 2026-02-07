@@ -1,0 +1,7 @@
+Name: SHAQUA
+ActorNumber: 1346
+PlayerID: 87057D17F5E4420B
+Platform: Standalone
+AccountCreationDate: 2025-12-26 02:23:33 UTC
+Color: R=1.00 G=1.00 B=0.00
+Cosmetics: None

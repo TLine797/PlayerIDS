@@ -1,0 +1,7 @@
+Name: CITYBOY
+ActorNumber: 165
+PlayerID: 28496340249D0B43
+Platform: Standalone
+AccountCreationDate: 2023-12-30 03:00:05 UTC
+Color: R=0.00 G=0.00 B=0.00
+Cosmetics: None

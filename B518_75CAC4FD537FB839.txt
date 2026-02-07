@@ -1,0 +1,7 @@
+Name: JORIZONN
+ActorNumber: 8
+PlayerID: 75CAC4FD537FB839
+Platform: Standalone
+AccountCreationDate: 2025-01-13 00:36:48 UTC
+Color: R=0.44 G=0.00 B=0.33
+Cosmetics: None

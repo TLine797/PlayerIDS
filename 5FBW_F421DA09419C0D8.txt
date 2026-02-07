@@ -1,0 +1,7 @@
+Name: CRAZY
+ActorNumber: 561
+PlayerID: F421DA09419C0D8
+Platform: Unknown
+AccountCreationDate: 2022-01-15 20:40:58 UTC
+Color: R=0.00 G=0.11 B=0.22
+Cosmetics: None

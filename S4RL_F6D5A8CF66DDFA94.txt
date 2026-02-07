@@ -1,0 +1,7 @@
+Name: GAE
+ActorNumber: 828
+PlayerID: F6D5A8CF66DDFA94
+Platform: Standalone
+AccountCreationDate: 2024-12-25 10:57:08 UTC
+Color: R=0.00 G=0.00 B=0.00
+Cosmetics: None

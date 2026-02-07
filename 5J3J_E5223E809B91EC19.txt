@@ -1,0 +1,7 @@
+Name: ZAZA
+ActorNumber: 309
+PlayerID: E5223E809B91EC19
+Platform: Standalone
+AccountCreationDate: 2025-12-25 21:15:57 UTC
+Color: R=0.44 G=0.44 B=1.00
+Cosmetics: None

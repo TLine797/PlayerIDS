@@ -1,0 +1,7 @@
+Name: VRGAMESATA1
+ActorNumber: 199
+PlayerID: A905325EF782FD6D
+Platform: Unknown
+AccountCreationDate: 2022-09-20 18:59:13 UTC
+Color: R=0.56 G=0.67 B=0.89
+Cosmetics: None

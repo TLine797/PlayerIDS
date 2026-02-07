@@ -1,0 +1,7 @@
+Name: TBK
+ActorNumber: 338
+PlayerID: E1CE4F6B9D690B40
+Platform: Standalone
+AccountCreationDate: 2024-12-29 20:11:24 UTC
+Color: R=0.22 G=0.00 B=1.00
+Cosmetics: None

@@ -1,0 +1,7 @@
+Name: DUB
+ActorNumber: 857
+PlayerID: 6168FD5E73FDE0B6
+Platform: Standalone
+AccountCreationDate: 2024-12-25 18:02:25 UTC
+Color: R=0.33 G=0.33 B=0.33
+Cosmetics: None

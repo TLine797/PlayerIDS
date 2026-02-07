@@ -1,0 +1,7 @@
+Name: GREENBEAN
+ActorNumber: 263
+PlayerID: 2D4008A0F199B0C8
+Platform: Standalone
+AccountCreationDate: 2025-12-25 20:51:34 UTC
+Color: R=0.00 G=0.00 B=0.00
+Cosmetics: None

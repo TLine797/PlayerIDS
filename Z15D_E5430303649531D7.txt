@@ -1,0 +1,7 @@
+Name: SAVAFAN
+ActorNumber: 511
+PlayerID: E5430303649531D7
+Platform: Standalone
+AccountCreationDate: 2024-05-20 23:59:22 UTC
+Color: R=0.44 G=0.00 B=1.00
+Cosmetics: None

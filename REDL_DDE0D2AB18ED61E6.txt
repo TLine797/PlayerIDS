@@ -1,0 +1,7 @@
+Name: BURPLEYSHIZ
+ActorNumber: 908
+PlayerID: DDE0D2AB18ED61E6
+Platform: Standalone
+AccountCreationDate: 2023-05-28 22:55:35 UTC
+Color: R=0.22 G=0.11 B=0.56
+Cosmetics: None

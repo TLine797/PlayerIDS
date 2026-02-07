@@ -1,0 +1,7 @@
+Name: PARROTTAGZ
+ActorNumber: 504
+PlayerID: 40F310C3F7EBCDC9
+Platform: Unknown
+AccountCreationDate: 2024-12-25 23:48:41 UTC
+Color: R=0.00 G=0.00 B=0.78
+Cosmetics: None

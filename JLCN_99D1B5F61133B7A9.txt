@@ -1,0 +1,7 @@
+Name: MRUGLY
+ActorNumber: 2003
+PlayerID: 99D1B5F61133B7A9
+Platform: Standalone
+AccountCreationDate: 2025-12-25 19:29:27 UTC
+Color: R=0.44 G=0.33 B=1.00
+Cosmetics: None

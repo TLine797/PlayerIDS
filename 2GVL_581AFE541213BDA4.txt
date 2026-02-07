@@ -1,0 +1,7 @@
+Name: IKICKYOU
+ActorNumber: 210
+PlayerID: 581AFE541213BDA4
+Platform: Standalone
+AccountCreationDate: 2025-05-13 17:30:50 UTC
+Color: R=0.00 G=0.00 B=0.00
+Cosmetics: None

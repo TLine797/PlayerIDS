@@ -1,0 +1,7 @@
+Name: ASTRO
+ActorNumber: 573
+PlayerID: B73B6093BF30AA05
+Platform: Standalone
+AccountCreationDate: 2024-02-10 01:06:16 UTC
+Color: R=0.44 G=0.44 B=0.44
+Cosmetics: None

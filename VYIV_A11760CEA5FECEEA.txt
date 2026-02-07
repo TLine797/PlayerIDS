@@ -1,0 +1,7 @@
+Name: HORIZONKID
+ActorNumber: 11
+PlayerID: A11760CEA5FECEEA
+Platform: Standalone
+AccountCreationDate: 2025-09-19 17:20:31 UTC
+Color: R=1.00 G=0.44 B=0.00
+Cosmetics: None

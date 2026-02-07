@@ -1,0 +1,7 @@
+Name: JOHN146
+ActorNumber: 728
+PlayerID: A55BED3DA31D1E8
+Platform: Standalone
+AccountCreationDate: 2025-01-13 23:42:07 UTC
+Color: R=1.00 G=1.00 B=1.00
+Cosmetics: None

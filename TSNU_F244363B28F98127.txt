@@ -1,0 +1,7 @@
+Name: EEPZY
+ActorNumber: 6
+PlayerID: F244363B28F98127
+Platform: Unknown
+AccountCreationDate: 2022-12-01 21:16:31 UTC
+Color: R=0.00 G=1.00 B=0.56
+Cosmetics: None

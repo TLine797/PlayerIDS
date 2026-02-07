@@ -1,0 +1,7 @@
+Name: MAINE050
+ActorNumber: 826
+PlayerID: C83E977FFC76FF8C
+Platform: Unknown
+AccountCreationDate: 2023-01-20 22:01:34 UTC
+Color: R=0.00 G=0.00 B=0.00
+Cosmetics: None

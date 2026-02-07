@@ -1,0 +1,7 @@
+Name: ME
+ActorNumber: 310
+PlayerID: 5AB9A70BEC9A2364
+Platform: PC
+AccountCreationDate: 2025-12-31 02:19:52 UTC
+Color: R=0.11 G=0.44 B=0.67
+Cosmetics: None

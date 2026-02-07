@@ -1,0 +1,7 @@
+Name: HIIIIIIIIIII
+ActorNumber: 445
+PlayerID: 63C61A1D147EB751
+Platform: Standalone
+AccountCreationDate: 2024-12-23 15:28:41 UTC
+Color: R=1.00 G=0.00 B=0.78
+Cosmetics: None

@@ -1,0 +1,7 @@
+Name: S
+ActorNumber: 121
+PlayerID: 80ED0C649660F164
+Platform: Standalone
+AccountCreationDate: 2026-01-10 22:31:10 UTC
+Color: R=0.22 G=0.00 B=0.00
+Cosmetics: None

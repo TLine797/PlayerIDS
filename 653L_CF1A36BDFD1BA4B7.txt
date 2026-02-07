@@ -1,0 +1,7 @@
+Name: CLUTCHGT10K
+ActorNumber: 298
+PlayerID: CF1A36BDFD1BA4B7
+Platform: Standalone
+AccountCreationDate: 2024-12-25 15:30:58 UTC
+Color: R=0.33 G=0.11 B=0.78
+Cosmetics: None

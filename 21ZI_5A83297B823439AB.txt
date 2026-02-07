@@ -1,0 +1,7 @@
+Name: PRIMECM
+ActorNumber: 52
+PlayerID: 5A83297B823439AB
+Platform: Unknown
+AccountCreationDate: 2022-03-02 22:47:08 UTC
+Color: R=0.00 G=1.00 B=1.00
+Cosmetics: None

@@ -1,0 +1,7 @@
+Name: gorilla
+ActorNumber: 201
+PlayerID: 237D9D0638EA2AF4
+Platform: Standalone
+AccountCreationDate: 2025-02-21 17:50:50 UTC
+Color: R=0.72 G=0.43 B=0.68
+Cosmetics: None

@@ -1,0 +1,7 @@
+Name: EDDY
+ActorNumber: 828
+PlayerID: B420014DDFA55219
+Platform: Standalone
+AccountCreationDate: 2025-05-01 00:50:01 UTC
+Color: R=1.00 G=0.00 B=0.00
+Cosmetics: None

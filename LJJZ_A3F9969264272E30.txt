@@ -1,0 +1,7 @@
+Name: GTYY
+ActorNumber: 1340
+PlayerID: A3F9969264272E30
+Platform: Unknown
+AccountCreationDate: 2022-12-30 18:48:14 UTC
+Color: R=0.67 G=0.44 B=0.11
+Cosmetics: None

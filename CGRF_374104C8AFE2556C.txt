@@ -1,0 +1,7 @@
+Name: gorilla2609
+ActorNumber: 4131
+PlayerID: 374104C8AFE2556C
+Platform: Standalone
+AccountCreationDate: 2025-05-17 03:15:22 UTC
+Color: R=0.56 G=0.00 B=1.00
+Cosmetics: None

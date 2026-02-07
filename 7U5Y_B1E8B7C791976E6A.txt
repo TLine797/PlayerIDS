@@ -1,0 +1,7 @@
+Name: DERT
+ActorNumber: 299
+PlayerID: B1E8B7C791976E6A
+Platform: Unknown
+AccountCreationDate: 2022-03-13 01:16:51 UTC
+Color: R=1.00 G=0.11 B=0.78
+Cosmetics: None

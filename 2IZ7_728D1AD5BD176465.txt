@@ -1,0 +1,7 @@
+Name: CINAAMON
+ActorNumber: 168
+PlayerID: 728D1AD5BD176465
+Platform: Standalone
+AccountCreationDate: 2025-12-26 20:42:23 UTC
+Color: R=0.56 G=0.67 B=0.56
+Cosmetics: None

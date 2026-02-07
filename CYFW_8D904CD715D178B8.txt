@@ -1,0 +1,7 @@
+Name: TGSSHRIMP
+ActorNumber: 121
+PlayerID: 8D904CD715D178B8
+Platform: Standalone
+AccountCreationDate: 2024-08-08 20:21:25 UTC
+Color: R=1.00 G=0.44 B=0.56
+Cosmetics: None

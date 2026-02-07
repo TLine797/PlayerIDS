@@ -1,0 +1,7 @@
+Name: MP40
+ActorNumber: 394
+PlayerID: C038FD5366FAE550
+Platform: Standalone
+AccountCreationDate: 2025-08-29 21:15:39 UTC
+Color: R=0.89 G=0.44 B=0.00
+Cosmetics: None

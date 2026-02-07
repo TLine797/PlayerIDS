@@ -1,0 +1,7 @@
+Name: LIAM
+ActorNumber: 291
+PlayerID: 3DD90E4418E0E7D2
+Platform: Standalone
+AccountCreationDate: 2025-03-11 00:59:57 UTC
+Color: R=0.00 G=1.00 B=0.22
+Cosmetics: None

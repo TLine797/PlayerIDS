@@ -1,0 +1,7 @@
+Name: HOPEXDVR
+ActorNumber: 722
+PlayerID: 46F354385020E55F
+Platform: Standalone
+AccountCreationDate: 2025-01-05 18:33:42 UTC
+Color: R=0.11 G=0.11 B=0.11
+Cosmetics: None

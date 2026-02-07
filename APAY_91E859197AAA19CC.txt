@@ -1,0 +1,7 @@
+Name: MOCHA
+ActorNumber: 46
+PlayerID: 91E859197AAA19CC
+Platform: Standalone
+AccountCreationDate: 2024-12-26 00:07:36 UTC
+Color: R=1.00 G=0.56 B=0.78
+Cosmetics: None

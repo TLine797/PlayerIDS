@@ -1,0 +1,7 @@
+Name: NOOBB
+ActorNumber: 539
+PlayerID: 21F3BD87F4111DE6
+Platform: Standalone
+AccountCreationDate: 2023-04-28 21:45:32 UTC
+Color: R=0.33 G=0.89 B=0.67
+Cosmetics: None

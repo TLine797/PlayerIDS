@@ -1,0 +1,7 @@
+Name: BANANACAM
+ActorNumber: 595
+PlayerID: 7CD3486F5B104381
+Platform: Standalone
+AccountCreationDate: 2024-11-17 00:29:32 UTC
+Color: R=1.00 G=1.00 B=0.00
+Cosmetics: None

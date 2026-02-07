@@ -1,0 +1,7 @@
+Name: STUPID
+ActorNumber: 566
+PlayerID: 835917D6E5B9F5F8
+Platform: Standalone
+AccountCreationDate: 2024-01-03 01:18:01 UTC
+Color: R=1.00 G=0.67 B=1.00
+Cosmetics: None

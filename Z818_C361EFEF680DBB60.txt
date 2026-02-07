@@ -1,0 +1,7 @@
+Name: KARMA
+ActorNumber: 1411
+PlayerID: C361EFEF680DBB60
+Platform: Standalone
+AccountCreationDate: 2024-05-05 00:45:48 UTC
+Color: R=0.89 G=0.00 B=0.33
+Cosmetics: None

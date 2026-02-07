@@ -1,0 +1,7 @@
+Name: RABIES
+ActorNumber: 803
+PlayerID: 7DE587E8210143AB
+Platform: Standalone
+AccountCreationDate: 2025-12-17 02:42:30 UTC
+Color: R=0.00 G=0.33 B=0.22
+Cosmetics: None

@@ -1,0 +1,7 @@
+Name: PEANUT
+ActorNumber: 697
+PlayerID: 58C7D31F7DC116E7
+Platform: Standalone
+AccountCreationDate: 2025-07-12 04:22:00 UTC
+Color: R=0.56 G=0.00 B=1.00
+Cosmetics: None

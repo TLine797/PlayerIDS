@@ -1,0 +1,7 @@
+Name: BLAKECRAFT12
+ActorNumber: 876
+PlayerID: 811E25BA716D351D
+Platform: Standalone
+AccountCreationDate: 2025-08-29 18:58:39 UTC
+Color: R=1.00 G=0.22 B=0.00
+Cosmetics: None

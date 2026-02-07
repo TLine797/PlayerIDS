@@ -1,0 +1,7 @@
+Name: T1NTVR
+ActorNumber: 531
+PlayerID: 279C0213093DCA8
+Platform: Unknown
+AccountCreationDate: 2023-01-08 01:08:17 UTC
+Color: R=0.56 G=0.11 B=0.44
+Cosmetics: None

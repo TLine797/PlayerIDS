@@ -1,0 +1,7 @@
+Name: GFXBW
+ActorNumber: 851
+PlayerID: 7816BD70CFEBC7A6
+Platform: Standalone
+AccountCreationDate: 2025-04-07 21:53:42 UTC
+Color: R=1.00 G=0.00 B=0.00
+Cosmetics: None

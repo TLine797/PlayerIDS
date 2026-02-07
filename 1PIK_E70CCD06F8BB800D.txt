@@ -1,0 +1,7 @@
+Name: HARK
+ActorNumber: 123
+PlayerID: E70CCD06F8BB800D
+Platform: Standalone
+AccountCreationDate: 2024-11-23 18:37:57 UTC
+Color: R=0.00 G=0.00 B=0.56
+Cosmetics: None

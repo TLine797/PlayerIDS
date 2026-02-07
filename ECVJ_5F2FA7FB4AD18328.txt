@@ -1,0 +1,7 @@
+Name: MHBROSYT
+ActorNumber: 295
+PlayerID: 5F2FA7FB4AD18328
+Platform: Standalone
+AccountCreationDate: 2025-12-30 03:25:33 UTC
+Color: R=0.44 G=1.00 B=0.00
+Cosmetics: None

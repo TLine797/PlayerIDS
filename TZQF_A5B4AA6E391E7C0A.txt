@@ -1,0 +1,7 @@
+Name: PURSUER
+ActorNumber: 751
+PlayerID: A5B4AA6E391E7C0A
+Platform: PC
+AccountCreationDate: 2025-05-26 09:11:53 UTC
+Color: R=0.00 G=0.00 B=0.00
+Cosmetics: None

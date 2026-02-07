@@ -1,0 +1,7 @@
+Name: TRTHECTUH
+ActorNumber: 148
+PlayerID: F65F6737D3EBD83B
+Platform: Standalone
+AccountCreationDate: 2023-09-28 04:06:46 UTC
+Color: R=0.56 G=0.22 B=0.22
+Cosmetics: None

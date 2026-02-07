@@ -1,0 +1,7 @@
+Name: DOC
+ActorNumber: 3427
+PlayerID: 7F6342C0A86459B1
+Platform: Standalone
+AccountCreationDate: 2025-12-25 21:09:29 UTC
+Color: R=0.56 G=0.78 B=0.22
+Cosmetics: None

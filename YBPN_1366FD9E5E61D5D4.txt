@@ -1,0 +1,7 @@
+Name: TOILLE
+ActorNumber: 463
+PlayerID: 1366FD9E5E61D5D4
+Platform: Standalone
+AccountCreationDate: 2025-06-29 06:02:43 UTC
+Color: R=0.67 G=0.67 B=0.67
+Cosmetics: None

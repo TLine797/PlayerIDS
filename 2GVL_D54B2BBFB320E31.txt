@@ -1,0 +1,7 @@
+Name: TYLERDURDEN
+ActorNumber: 215
+PlayerID: D54B2BBFB320E31
+Platform: Standalone
+AccountCreationDate: 2022-12-15 19:46:26 UTC
+Color: R=0.67 G=0.00 B=0.00
+Cosmetics: None

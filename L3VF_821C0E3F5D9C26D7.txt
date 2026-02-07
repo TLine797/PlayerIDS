@@ -1,0 +1,7 @@
+Name: ILOVEPIZZA
+ActorNumber: 205
+PlayerID: 821C0E3F5D9C26D7
+Platform: Standalone
+AccountCreationDate: 2026-01-24 03:31:51 UTC
+Color: R=1.00 G=1.00 B=0.00
+Cosmetics: None

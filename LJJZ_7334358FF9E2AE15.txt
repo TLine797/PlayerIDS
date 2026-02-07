@@ -1,0 +1,7 @@
+Name: IBAD
+ActorNumber: 1321
+PlayerID: 7334358FF9E2AE15
+Platform: Standalone
+AccountCreationDate: 2023-02-24 22:58:41 UTC
+Color: R=0.56 G=0.89 B=0.67
+Cosmetics: None

@@ -1,0 +1,7 @@
+Name: APPLE
+ActorNumber: 36
+PlayerID: AE15D7776F2645B9
+Platform: Standalone
+AccountCreationDate: 2025-12-26 02:28:43 UTC
+Color: R=0.44 G=0.00 B=1.00
+Cosmetics: None

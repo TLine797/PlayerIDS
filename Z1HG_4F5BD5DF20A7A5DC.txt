@@ -1,0 +1,7 @@
+Name: GREENBEAN
+ActorNumber: 1269
+PlayerID: 4F5BD5DF20A7A5DC
+Platform: Standalone
+AccountCreationDate: 2025-06-14 20:40:29 UTC
+Color: R=0.33 G=0.44 B=0.00
+Cosmetics: None

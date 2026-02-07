@@ -1,0 +1,7 @@
+Name: TBBELKOO
+ActorNumber: 638
+PlayerID: AA6784950A7AE71
+Platform: Standalone
+AccountCreationDate: 2025-03-14 20:49:32 UTC
+Color: R=1.00 G=0.33 B=1.00
+Cosmetics: None

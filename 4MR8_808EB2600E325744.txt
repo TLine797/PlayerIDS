@@ -1,0 +1,7 @@
+Name: 4TK45
+ActorNumber: 1601
+PlayerID: 808EB2600E325744
+Platform: Standalone
+AccountCreationDate: 2024-12-14 04:05:28 UTC
+Color: R=1.00 G=1.00 B=1.00
+Cosmetics: None

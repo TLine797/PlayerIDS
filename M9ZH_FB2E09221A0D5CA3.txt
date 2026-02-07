@@ -1,0 +1,7 @@
+Name: TMCAUREXYT
+ActorNumber: 351
+PlayerID: FB2E09221A0D5CA3
+Platform: Standalone
+AccountCreationDate: 2025-07-14 22:29:26 UTC
+Color: R=0.56 G=1.00 B=0.78
+Cosmetics: None

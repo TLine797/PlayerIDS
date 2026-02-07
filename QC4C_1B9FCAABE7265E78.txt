@@ -1,0 +1,7 @@
+Name: KINGGEORGE
+ActorNumber: 175
+PlayerID: 1B9FCAABE7265E78
+Platform: Standalone
+AccountCreationDate: 2023-12-07 00:58:15 UTC
+Color: R=0.22 G=0.00 B=0.56
+Cosmetics: None

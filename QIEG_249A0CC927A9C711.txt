@@ -1,0 +1,7 @@
+Name: GHGR
+ActorNumber: 396
+PlayerID: 249A0CC927A9C711
+Platform: Standalone
+AccountCreationDate: 2026-01-19 23:39:53 UTC
+Color: R=0.44 G=0.33 B=0.78
+Cosmetics: None

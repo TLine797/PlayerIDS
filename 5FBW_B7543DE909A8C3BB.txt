@@ -1,0 +1,7 @@
+Name: SHYDIAMONDZ
+ActorNumber: 548
+PlayerID: B7543DE909A8C3BB
+Platform: Standalone
+AccountCreationDate: 2023-04-16 02:46:07 UTC
+Color: R=0.33 G=0.44 B=1.00
+Cosmetics: None

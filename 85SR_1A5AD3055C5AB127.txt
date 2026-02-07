@@ -1,0 +1,7 @@
+Name: PICKLEDGRAPE
+ActorNumber: 106
+PlayerID: 1A5AD3055C5AB127
+Platform: Standalone
+AccountCreationDate: 2023-12-25 23:23:11 UTC
+Color: R=0.67 G=0.00 B=1.00
+Cosmetics: None

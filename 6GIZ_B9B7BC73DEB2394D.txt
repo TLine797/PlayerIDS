@@ -1,0 +1,7 @@
+Name: LUMAAAAAAAAA
+ActorNumber: 12
+PlayerID: B9B7BC73DEB2394D
+Platform: Unknown
+AccountCreationDate: 2022-03-07 21:21:09 UTC
+Color: R=0.56 G=1.00 B=0.67
+Cosmetics: None

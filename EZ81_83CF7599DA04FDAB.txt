@@ -1,0 +1,7 @@
+Name: ZACSFLYS5
+ActorNumber: 1085
+PlayerID: 83CF7599DA04FDAB
+Platform: Standalone
+AccountCreationDate: 2025-03-23 01:48:54 UTC
+Color: R=0.89 G=1.00 B=0.11
+Cosmetics: None

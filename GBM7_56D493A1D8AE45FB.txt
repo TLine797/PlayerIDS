@@ -1,0 +1,7 @@
+Name: S7UD
+ActorNumber: 1022
+PlayerID: 56D493A1D8AE45FB
+Platform: Unknown
+AccountCreationDate: 2023-01-01 04:19:29 UTC
+Color: R=1.00 G=1.00 B=1.00
+Cosmetics: None

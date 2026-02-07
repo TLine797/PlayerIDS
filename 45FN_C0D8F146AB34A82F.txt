@@ -1,0 +1,7 @@
+Name: DAISY09
+ActorNumber: 819
+PlayerID: C0D8F146AB34A82F
+Platform: Standalone
+AccountCreationDate: 2025-12-25 20:23:48 UTC
+Color: R=1.00 G=0.32 B=0.91
+Cosmetics: None

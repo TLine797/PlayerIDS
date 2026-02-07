@@ -1,0 +1,7 @@
+Name: MYVCISBANNOW
+ActorNumber: 1358
+PlayerID: 2FBCC60C82D31D51
+Platform: Standalone
+AccountCreationDate: 2024-08-02 00:54:47 UTC
+Color: R=0.00 G=0.00 B=0.00
+Cosmetics: None

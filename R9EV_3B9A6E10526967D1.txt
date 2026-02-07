@@ -1,0 +1,7 @@
+Name: JIIMMY
+ActorNumber: 601
+PlayerID: 3B9A6E10526967D1
+Platform: Unknown
+AccountCreationDate: 2023-11-17 03:20:28 UTC
+Color: R=0.78 G=0.89 B=1.00
+Cosmetics: None

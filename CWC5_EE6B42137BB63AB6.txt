@@ -1,0 +1,7 @@
+Name: TRPWINGS
+ActorNumber: 848
+PlayerID: EE6B42137BB63AB6
+Platform: Standalone
+AccountCreationDate: 2024-04-15 02:19:01 UTC
+Color: R=0.67 G=0.00 B=0.00
+Cosmetics: None

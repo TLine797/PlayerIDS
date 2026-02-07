@@ -1,0 +1,7 @@
+Name: IRATE
+ActorNumber: 123
+PlayerID: CE1B57885C02EAB8
+Platform: Unknown
+AccountCreationDate: 2022-12-27 15:28:09 UTC
+Color: R=0.00 G=0.00 B=0.00
+Cosmetics: None

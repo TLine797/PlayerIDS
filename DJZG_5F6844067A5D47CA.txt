@@ -1,0 +1,7 @@
+Name: PURPLEDUDEFR
+ActorNumber: 115
+PlayerID: 5F6844067A5D47CA
+Platform: Standalone
+AccountCreationDate: 2025-02-06 00:15:29 UTC
+Color: R=0.67 G=0.00 B=0.89
+Cosmetics: None

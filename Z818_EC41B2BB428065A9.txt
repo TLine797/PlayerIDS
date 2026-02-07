@@ -1,0 +1,7 @@
+Name: BCRCREATORVR
+ActorNumber: 1371
+PlayerID: EC41B2BB428065A9
+Platform: Standalone
+AccountCreationDate: 2025-12-25 19:24:14 UTC
+Color: R=0.89 G=0.33 B=0.00
+Cosmetics: None

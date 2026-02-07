@@ -1,0 +1,7 @@
+Name: NOOB
+ActorNumber: 140
+PlayerID: 1A47767F6F40BAC9
+Platform: Standalone
+AccountCreationDate: 2024-12-25 16:17:42 UTC
+Color: R=0.44 G=0.44 B=0.44
+Cosmetics: None

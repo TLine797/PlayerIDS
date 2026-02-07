@@ -1,0 +1,7 @@
+Name: CLAIRE
+ActorNumber: 948
+PlayerID: 4C000006384C0189
+Platform: Unknown
+AccountCreationDate: 2021-12-25 14:41:29 UTC
+Color: R=0.78 G=0.56 B=0.67
+Cosmetics: None

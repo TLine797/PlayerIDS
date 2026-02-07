@@ -1,0 +1,7 @@
+Name: MINGAMS
+ActorNumber: 5
+PlayerID: CA6CF22BAAA90BA9
+Platform: Standalone
+AccountCreationDate: 2025-08-11 20:39:11 UTC
+Color: R=0.44 G=0.00 B=0.00
+Cosmetics: None

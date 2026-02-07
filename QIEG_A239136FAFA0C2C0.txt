@@ -1,0 +1,7 @@
+Name: BRY
+ActorNumber: 443
+PlayerID: A239136FAFA0C2C0
+Platform: Standalone
+AccountCreationDate: 2025-12-24 02:08:19 UTC
+Color: R=1.00 G=0.67 B=1.00
+Cosmetics: None

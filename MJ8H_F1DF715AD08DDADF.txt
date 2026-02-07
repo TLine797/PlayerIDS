@@ -1,0 +1,7 @@
+Name: MPASTA
+ActorNumber: 49
+PlayerID: F1DF715AD08DDADF
+Platform: Standalone
+AccountCreationDate: 2023-08-07 01:20:51 UTC
+Color: R=0.00 G=0.44 B=0.56
+Cosmetics: None

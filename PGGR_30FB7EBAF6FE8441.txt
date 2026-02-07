@@ -1,0 +1,7 @@
+Name: FFFCOOLBOY
+ActorNumber: 1962
+PlayerID: 30FB7EBAF6FE8441
+Platform: Standalone
+AccountCreationDate: 2025-12-27 23:16:16 UTC
+Color: R=0.00 G=0.56 B=1.00
+Cosmetics: None

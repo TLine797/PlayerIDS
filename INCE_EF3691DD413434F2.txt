@@ -1,0 +1,7 @@
+Name: ROSCO
+ActorNumber: 741
+PlayerID: EF3691DD413434F2
+Platform: Standalone
+AccountCreationDate: 2025-12-25 16:51:22 UTC
+Color: R=0.00 G=0.00 B=0.22
+Cosmetics: None

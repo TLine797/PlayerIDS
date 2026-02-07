@@ -1,0 +1,7 @@
+Name: 226LLAMA
+ActorNumber: 543
+PlayerID: 2D9C1AC6512FAAA8
+Platform: Unknown
+AccountCreationDate: 2022-06-12 01:18:29 UTC
+Color: R=0.22 G=0.22 B=0.67
+Cosmetics: None

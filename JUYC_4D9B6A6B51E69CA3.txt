@@ -1,0 +1,7 @@
+Name: CGTLTRYHARD
+ActorNumber: 731
+PlayerID: 4D9B6A6B51E69CA3
+Platform: Standalone
+AccountCreationDate: 2024-12-25 00:01:48 UTC
+Color: R=0.11 G=0.44 B=1.00
+Cosmetics: None

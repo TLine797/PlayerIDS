@@ -1,0 +1,7 @@
+Name: BLUBERRY
+ActorNumber: 1191
+PlayerID: 28102C58196304E1
+Platform: Standalone
+AccountCreationDate: 2022-01-16 02:25:07 UTC
+Color: R=0.00 G=1.00 B=1.00
+Cosmetics: None

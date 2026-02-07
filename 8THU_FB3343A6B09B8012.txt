@@ -1,0 +1,7 @@
+Name: POQOE
+ActorNumber: 232
+PlayerID: FB3343A6B09B8012
+Platform: Standalone
+AccountCreationDate: 2021-12-31 16:42:56 UTC
+Color: R=1.00 G=0.78 B=0.44
+Cosmetics: None

@@ -1,0 +1,7 @@
+Name: THATFR
+ActorNumber: 174
+PlayerID: 9B3849104770239A
+Platform: Standalone
+AccountCreationDate: 2024-09-26 20:48:31 UTC
+Color: R=0.33 G=0.33 B=0.56
+Cosmetics: None

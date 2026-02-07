@@ -1,0 +1,7 @@
+Name: AGGRODEATH
+ActorNumber: 184
+PlayerID: ED23A7008403C6AC
+Platform: Standalone
+AccountCreationDate: 2024-05-26 23:14:55 UTC
+Color: R=0.44 G=0.11 B=0.11
+Cosmetics: None

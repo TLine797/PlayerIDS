@@ -1,0 +1,7 @@
+Name: FAHHVR
+ActorNumber: 3981
+PlayerID: EB3C24DEC07F73B9
+Platform: Standalone
+AccountCreationDate: 2024-12-19 00:10:48 UTC
+Color: R=0.44 G=0.00 B=0.78
+Cosmetics: None

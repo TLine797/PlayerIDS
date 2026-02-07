@@ -1,0 +1,7 @@
+Name: FOID
+ActorNumber: 749
+PlayerID: B201F2553C90ECF5
+Platform: Standalone
+AccountCreationDate: 2024-07-13 00:32:28 UTC
+Color: R=0.44 G=0.33 B=0.44
+Cosmetics: None

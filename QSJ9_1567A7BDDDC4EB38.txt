@@ -1,0 +1,7 @@
+Name: GORILLA63877
+ActorNumber: 7
+PlayerID: 1567A7BDDDC4EB38
+Platform: Standalone
+AccountCreationDate: 2025-10-16 03:03:22 UTC
+Color: R=1.00 G=0.33 B=0.00
+Cosmetics: None

@@ -1,0 +1,7 @@
+Name: TGGCAM
+ActorNumber: 675
+PlayerID: 7889E3E3CD811751
+Platform: Standalone
+AccountCreationDate: 2024-12-25 14:16:03 UTC
+Color: R=0.89 G=0.00 B=0.67
+Cosmetics: None

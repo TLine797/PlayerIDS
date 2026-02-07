@@ -1,0 +1,7 @@
+Name: HORIZONFAN
+ActorNumber: 296
+PlayerID: 3D8CB4659FF7F4F
+Platform: PC
+AccountCreationDate: 2024-10-03 00:30:24 UTC
+Color: R=1.00 G=0.44 B=0.00
+Cosmetics: None

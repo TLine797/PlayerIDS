@@ -1,0 +1,7 @@
+Name: NOTPEBB
+ActorNumber: 29
+PlayerID: F3734261CDA0A6B8
+Platform: Standalone
+AccountCreationDate: 2025-08-15 21:55:41 UTC
+Color: R=0.00 G=0.56 B=0.89
+Cosmetics: None

@@ -1,0 +1,7 @@
+Name: FORTUNEFAN67
+ActorNumber: 1149
+PlayerID: 7FDF080DB199C16F
+Platform: Standalone
+AccountCreationDate: 2024-12-25 16:10:23 UTC
+Color: R=0.00 G=0.89 B=1.00
+Cosmetics: None

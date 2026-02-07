@@ -1,0 +1,7 @@
+Name: DONKEY
+ActorNumber: 54
+PlayerID: 367D9ABF519D8C8D
+Platform: Standalone
+AccountCreationDate: 2023-07-05 19:42:38 UTC
+Color: R=1.00 G=0.67 B=1.00
+Cosmetics: None

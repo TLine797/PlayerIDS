@@ -1,0 +1,7 @@
+Name: PROFESSOR
+ActorNumber: 757
+PlayerID: 1E9609CCA5876EF9
+Platform: Standalone
+AccountCreationDate: 2023-08-01 17:05:01 UTC
+Color: R=0.00 G=0.00 B=0.00
+Cosmetics: None

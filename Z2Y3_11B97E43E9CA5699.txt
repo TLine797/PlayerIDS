@@ -1,0 +1,7 @@
+Name: JERRY
+ActorNumber: 183
+PlayerID: 11B97E43E9CA5699
+Platform: Unknown
+AccountCreationDate: 2022-03-03 20:41:41 UTC
+Color: R=0.00 G=0.00 B=0.33
+Cosmetics: None

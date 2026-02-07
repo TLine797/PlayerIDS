@@ -1,0 +1,7 @@
+Name: FCBANANAMAN
+ActorNumber: 1622
+PlayerID: A1665DFF4DEECD49
+Platform: Standalone
+AccountCreationDate: 2024-05-25 03:11:10 UTC
+Color: R=0.00 G=0.00 B=0.89
+Cosmetics: None

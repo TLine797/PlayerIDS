@@ -1,0 +1,7 @@
+Name: NICKK
+ActorNumber: 556
+PlayerID: B6B257618BDD0B1E
+Platform: Standalone
+AccountCreationDate: 2023-05-28 17:53:52 UTC
+Color: R=0.22 G=0.53 B=0.54
+Cosmetics: None

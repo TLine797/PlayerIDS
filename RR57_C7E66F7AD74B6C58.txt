@@ -1,0 +1,7 @@
+Name: SALAHSDESERT
+ActorNumber: 1372
+PlayerID: C7E66F7AD74B6C58
+Platform: Standalone
+AccountCreationDate: 2024-10-19 16:14:38 UTC
+Color: R=0.67 G=0.67 B=1.00
+Cosmetics: None

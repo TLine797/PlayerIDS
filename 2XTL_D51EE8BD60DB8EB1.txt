@@ -1,0 +1,7 @@
+Name: FLOWEZEM
+ActorNumber: 1190
+PlayerID: D51EE8BD60DB8EB1
+Platform: Standalone
+AccountCreationDate: 2024-05-08 20:21:25 UTC
+Color: R=0.56 G=0.11 B=1.00
+Cosmetics: None

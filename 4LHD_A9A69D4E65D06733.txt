@@ -1,0 +1,7 @@
+Name: PHWOLLFF
+ActorNumber: 278
+PlayerID: A9A69D4E65D06733
+Platform: Standalone
+AccountCreationDate: 2025-12-27 00:20:11 UTC
+Color: R=0.22 G=0.00 B=0.78
+Cosmetics: None

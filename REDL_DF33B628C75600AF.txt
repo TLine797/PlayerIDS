@@ -1,0 +1,7 @@
+Name: IMAGOODBOY
+ActorNumber: 1245
+PlayerID: DF33B628C75600AF
+Platform: Unknown
+AccountCreationDate: 2022-07-17 23:04:46 UTC
+Color: R=0.11 G=0.67 B=0.22
+Cosmetics: None

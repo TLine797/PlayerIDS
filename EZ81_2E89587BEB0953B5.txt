@@ -1,0 +1,7 @@
+Name: KO
+ActorNumber: 1174
+PlayerID: 2E89587BEB0953B5
+Platform: Standalone
+AccountCreationDate: 2026-01-03 04:20:58 UTC
+Color: R=0.44 G=0.00 B=0.78
+Cosmetics: None

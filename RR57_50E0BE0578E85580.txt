@@ -1,0 +1,7 @@
+Name: TRISTANVR
+ActorNumber: 1244
+PlayerID: 50E0BE0578E85580
+Platform: Standalone
+AccountCreationDate: 2025-07-19 20:32:31 UTC
+Color: R=0.00 G=0.67 B=1.00
+Cosmetics: None

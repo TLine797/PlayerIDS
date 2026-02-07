@@ -1,0 +1,7 @@
+Name: RUN
+ActorNumber: 896
+PlayerID: E694AEC7B54744CE
+Platform: Unknown
+AccountCreationDate: 2026-01-17 23:35:26 UTC
+Color: R=0.11 G=0.11 B=0.89
+Cosmetics: None

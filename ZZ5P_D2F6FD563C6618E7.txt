@@ -1,0 +1,7 @@
+Name: TTTFAN
+ActorNumber: 996
+PlayerID: D2F6FD563C6618E7
+Platform: Standalone
+AccountCreationDate: 2023-12-26 01:14:22 UTC
+Color: R=0.44 G=0.00 B=1.00
+Cosmetics: None

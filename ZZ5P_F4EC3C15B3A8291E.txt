@@ -1,0 +1,7 @@
+Name: GGTR
+ActorNumber: 966
+PlayerID: F4EC3C15B3A8291E
+Platform: Standalone
+AccountCreationDate: 2025-12-28 23:13:30 UTC
+Color: R=0.33 G=0.33 B=0.67
+Cosmetics: None

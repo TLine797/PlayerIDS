@@ -1,0 +1,7 @@
+Name: SSGDREAM
+ActorNumber: 319
+PlayerID: B232919E7F0EF60D
+Platform: Standalone
+AccountCreationDate: 2024-04-06 00:03:23 UTC
+Color: R=1.00 G=0.11 B=0.22
+Cosmetics: None

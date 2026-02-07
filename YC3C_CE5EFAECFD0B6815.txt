@@ -1,0 +1,7 @@
+Name: TRIALSINE
+ActorNumber: 666
+PlayerID: CE5EFAECFD0B6815
+Platform: Standalone
+AccountCreationDate: 2024-01-26 23:37:46 UTC
+Color: R=1.00 G=0.11 B=0.22
+Cosmetics: None

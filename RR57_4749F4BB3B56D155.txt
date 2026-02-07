@@ -1,0 +1,7 @@
+Name: NOKIA
+ActorNumber: 1246
+PlayerID: 4749F4BB3B56D155
+Platform: Standalone
+AccountCreationDate: 2026-01-08 20:24:55 UTC
+Color: R=0.33 G=0.33 B=0.33
+Cosmetics: None

@@ -1,0 +1,7 @@
+Name: QUEST3
+ActorNumber: 521
+PlayerID: 8A6865F5055CD69E
+Platform: Unknown
+AccountCreationDate: 2022-10-21 15:25:52 UTC
+Color: R=1.00 G=0.00 B=0.00
+Cosmetics: None

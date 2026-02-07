@@ -1,0 +1,7 @@
+Name: GHOST
+ActorNumber: 21
+PlayerID: 10A044E9CA247CC5
+Platform: Standalone
+AccountCreationDate: 2025-07-19 03:51:18 UTC
+Color: R=0.89 G=0.22 B=0.00
+Cosmetics: None

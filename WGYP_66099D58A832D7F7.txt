@@ -1,0 +1,7 @@
+Name: BUMBLEBEES
+ActorNumber: 3748
+PlayerID: 66099D58A832D7F7
+Platform: Standalone
+AccountCreationDate: 2025-01-24 16:49:13 UTC
+Color: R=0.00 G=0.44 B=0.33
+Cosmetics: None

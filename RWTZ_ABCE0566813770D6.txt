@@ -1,0 +1,7 @@
+Name: DEE
+ActorNumber: 1141
+PlayerID: ABCE0566813770D6
+Platform: Unknown
+AccountCreationDate: 2021-12-25 17:59:09 UTC
+Color: R=0.22 G=0.00 B=0.67
+Cosmetics: None

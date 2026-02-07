@@ -1,0 +1,7 @@
+Name: GORILLAFYHRH
+ActorNumber: 1076
+PlayerID: 8027F9B3070D0C24
+Platform: Standalone
+AccountCreationDate: 2024-06-26 23:27:03 UTC
+Color: R=0.33 G=0.00 B=0.89
+Cosmetics: None

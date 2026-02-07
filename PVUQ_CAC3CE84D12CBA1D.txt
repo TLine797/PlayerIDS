@@ -1,0 +1,7 @@
+Name: LILTIMS
+ActorNumber: 176
+PlayerID: CAC3CE84D12CBA1D
+Platform: Standalone
+AccountCreationDate: 2024-12-25 09:57:23 UTC
+Color: R=0.00 G=1.00 B=1.00
+Cosmetics: None

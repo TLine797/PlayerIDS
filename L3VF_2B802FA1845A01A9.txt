@@ -1,0 +1,7 @@
+Name: TRED
+ActorNumber: 188
+PlayerID: 2B802FA1845A01A9
+Platform: Standalone
+AccountCreationDate: 2024-10-20 00:42:21 UTC
+Color: R=0.22 G=0.78 B=1.00
+Cosmetics: None

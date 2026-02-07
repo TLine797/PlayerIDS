@@ -1,0 +1,7 @@
+Name: gorilla8874
+ActorNumber: 846
+PlayerID: 62B7D9D4DEBED23D
+Platform: Standalone
+AccountCreationDate: 2025-12-25 18:57:32 UTC
+Color: R=1.00 G=0.44 B=0.00
+Cosmetics: None

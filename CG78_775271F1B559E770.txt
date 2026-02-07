@@ -1,0 +1,7 @@
+Name: TTTLEMONZ
+ActorNumber: 260
+PlayerID: 775271F1B559E770
+Platform: Standalone
+AccountCreationDate: 2025-12-25 09:37:23 UTC
+Color: R=0.00 G=0.67 B=0.00
+Cosmetics: None

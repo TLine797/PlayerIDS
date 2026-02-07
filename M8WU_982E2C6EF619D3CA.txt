@@ -1,0 +1,7 @@
+Name: NTXBERRY
+ActorNumber: 260
+PlayerID: 982E2C6EF619D3CA
+Platform: Standalone
+AccountCreationDate: 2024-01-25 02:03:39 UTC
+Color: R=1.00 G=0.89 B=0.89
+Cosmetics: None

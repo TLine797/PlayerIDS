@@ -1,0 +1,7 @@
+Name: STARLIGHTVR
+ActorNumber: 115
+PlayerID: 475FA4CCA19CFB3
+Platform: PC
+AccountCreationDate: 2021-09-26 13:47:07 UTC
+Color: R=0.00 G=0.00 B=0.33
+Cosmetics: None

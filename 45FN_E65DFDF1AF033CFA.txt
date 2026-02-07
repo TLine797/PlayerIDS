@@ -1,0 +1,7 @@
+Name: ILUVU
+ActorNumber: 818
+PlayerID: E65DFDF1AF033CFA
+Platform: Unknown
+AccountCreationDate: 2022-12-27 18:12:38 UTC
+Color: R=0.00 G=0.00 B=0.00
+Cosmetics: None

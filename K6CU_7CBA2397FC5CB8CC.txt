@@ -1,0 +1,7 @@
+Name: YOUSTINK
+ActorNumber: 427
+PlayerID: 7CBA2397FC5CB8CC
+Platform: Standalone
+AccountCreationDate: 2024-03-08 17:35:57 UTC
+Color: R=0.00 G=0.89 B=1.00
+Cosmetics: None

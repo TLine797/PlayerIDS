@@ -1,0 +1,7 @@
+Name: I2FAIL
+ActorNumber: 760
+PlayerID: 242F6F0C4544F91D
+Platform: Standalone
+AccountCreationDate: 2024-02-03 13:33:40 UTC
+Color: R=0.00 G=0.00 B=0.00
+Cosmetics: None

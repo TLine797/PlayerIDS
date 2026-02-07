@@ -1,0 +1,7 @@
+Name: ECHO
+ActorNumber: 906
+PlayerID: F34423E71FE2EB62
+Platform: Unknown
+AccountCreationDate: 2022-12-25 20:24:04 UTC
+Color: R=0.22 G=0.78 B=0.89
+Cosmetics: None

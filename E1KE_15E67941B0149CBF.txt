@@ -1,0 +1,7 @@
+Name: SNEEZYOD
+ActorNumber: 58
+PlayerID: 15E67941B0149CBF
+Platform: Standalone
+AccountCreationDate: 2024-09-14 14:02:33 UTC
+Color: R=1.00 G=0.67 B=1.00
+Cosmetics: None

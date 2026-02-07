@@ -1,0 +1,7 @@
+Name: LORD
+ActorNumber: 772
+PlayerID: 6EB18DEAD63414BD
+Platform: Standalone
+AccountCreationDate: 2024-12-25 18:36:11 UTC
+Color: R=0.00 G=0.00 B=0.00
+Cosmetics: None

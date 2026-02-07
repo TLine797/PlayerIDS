@@ -1,0 +1,7 @@
+Name: ELLOIT
+ActorNumber: 3
+PlayerID: 57B480AB6D01AF98
+Platform: Standalone
+AccountCreationDate: 2024-08-24 17:05:23 UTC
+Color: R=0.00 G=1.00 B=0.00
+Cosmetics: None

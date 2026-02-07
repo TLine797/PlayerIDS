@@ -1,0 +1,7 @@
+Name: GINGER
+ActorNumber: 259
+PlayerID: 2736E3FF7A72F54
+Platform: Unknown
+AccountCreationDate: 2021-06-15 07:39:14 UTC
+Color: R=0.11 G=0.00 B=0.00
+Cosmetics: None

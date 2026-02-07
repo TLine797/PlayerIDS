@@ -1,0 +1,7 @@
+Name: YK
+ActorNumber: 1124
+PlayerID: DD190553C0C88B8D
+Platform: Standalone
+AccountCreationDate: 2025-12-28 21:23:40 UTC
+Color: R=0.11 G=0.00 B=1.00
+Cosmetics: None

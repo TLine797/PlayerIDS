@@ -1,0 +1,7 @@
+Name: J3VU
+ActorNumber: 1158
+PlayerID: 386F32FBB198EB17
+Platform: Standalone
+AccountCreationDate: 2026-01-21 06:08:10 UTC
+Color: R=0.00 G=0.00 B=0.00
+Cosmetics: None

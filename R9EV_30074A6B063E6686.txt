@@ -1,0 +1,7 @@
+Name: LUKE
+ActorNumber: 580
+PlayerID: 30074A6B063E6686
+Platform: Unknown
+AccountCreationDate: 2021-07-11 02:19:04 UTC
+Color: R=0.22 G=0.44 B=0.78
+Cosmetics: None

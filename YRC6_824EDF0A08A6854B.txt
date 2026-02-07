@@ -1,0 +1,7 @@
+Name: MJAZW198
+ActorNumber: 140
+PlayerID: 824EDF0A08A6854B
+Platform: Standalone
+AccountCreationDate: 2025-02-24 21:37:14 UTC
+Color: R=0.00 G=0.78 B=1.00
+Cosmetics: None

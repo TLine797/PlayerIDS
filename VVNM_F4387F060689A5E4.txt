@@ -1,0 +1,7 @@
+Name: WANNAPLAYMIN
+ActorNumber: 1197
+PlayerID: F4387F060689A5E4
+Platform: Unknown
+AccountCreationDate: 2023-09-11 23:55:51 UTC
+Color: R=0.56 G=0.00 B=0.56
+Cosmetics: None

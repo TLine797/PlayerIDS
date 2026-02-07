@@ -1,0 +1,7 @@
+Name: SIGMABOY
+ActorNumber: 734
+PlayerID: 235FDDA8B9A93264
+Platform: Standalone
+AccountCreationDate: 2025-12-14 10:08:13 UTC
+Color: R=0.00 G=1.00 B=0.78
+Cosmetics: None

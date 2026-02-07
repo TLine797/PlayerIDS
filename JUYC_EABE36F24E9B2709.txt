@@ -1,0 +1,7 @@
+Name: MOLDYYTOEZ
+ActorNumber: 730
+PlayerID: EABE36F24E9B2709
+Platform: Standalone
+AccountCreationDate: 2025-12-25 15:18:47 UTC
+Color: R=0.44 G=0.67 B=0.56
+Cosmetics: None

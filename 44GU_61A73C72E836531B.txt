@@ -1,0 +1,7 @@
+Name: NOTDRXO
+ActorNumber: 1431
+PlayerID: 61A73C72E836531B
+Platform: Standalone
+AccountCreationDate: 2025-12-27 21:17:08 UTC
+Color: R=0.56 G=0.00 B=1.00
+Cosmetics: None

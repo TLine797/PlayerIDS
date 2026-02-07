@@ -1,0 +1,7 @@
+Name: DECO
+ActorNumber: 426
+PlayerID: D67BF3D47D1D376D
+Platform: PC
+AccountCreationDate: 2025-10-08 14:57:19 UTC
+Color: R=0.00 G=0.00 B=0.00
+Cosmetics: None

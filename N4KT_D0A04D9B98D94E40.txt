@@ -1,0 +1,7 @@
+Name: GORILLANADER
+ActorNumber: 724
+PlayerID: D0A04D9B98D94E40
+Platform: Standalone
+AccountCreationDate: 2023-12-25 13:50:00 UTC
+Color: R=0.44 G=0.00 B=1.00
+Cosmetics: None

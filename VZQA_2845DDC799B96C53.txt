@@ -1,0 +1,7 @@
+Name: LEROY
+ActorNumber: 1065
+PlayerID: 2845DDC799B96C53
+Platform: Standalone
+AccountCreationDate: 2025-02-11 20:56:50 UTC
+Color: R=0.67 G=0.78 B=0.67
+Cosmetics: None

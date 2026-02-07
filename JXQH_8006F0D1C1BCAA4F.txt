@@ -1,0 +1,7 @@
+Name: XXX
+ActorNumber: 1273
+PlayerID: 8006F0D1C1BCAA4F
+Platform: Standalone
+AccountCreationDate: 2024-08-15 00:39:41 UTC
+Color: R=0.89 G=0.56 B=0.89
+Cosmetics: None

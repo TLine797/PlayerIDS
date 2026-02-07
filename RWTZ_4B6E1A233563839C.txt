@@ -1,0 +1,7 @@
+Name: MIKAMI
+ActorNumber: 539
+PlayerID: 4B6E1A233563839C
+Platform: Standalone
+AccountCreationDate: 2024-11-29 14:48:26 UTC
+Color: R=1.00 G=1.00 B=1.00
+Cosmetics: None

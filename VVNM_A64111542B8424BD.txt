@@ -1,0 +1,7 @@
+Name: CATEATER
+ActorNumber: 1142
+PlayerID: A64111542B8424BD
+Platform: Standalone
+AccountCreationDate: 2023-05-07 19:46:04 UTC
+Color: R=0.89 G=0.00 B=1.00
+Cosmetics: None

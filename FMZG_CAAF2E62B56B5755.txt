@@ -1,0 +1,7 @@
+Name: BATMAN
+ActorNumber: 1052
+PlayerID: CAAF2E62B56B5755
+Platform: Unknown
+AccountCreationDate: 2022-12-25 14:41:05 UTC
+Color: R=0.00 G=0.00 B=0.00
+Cosmetics: None

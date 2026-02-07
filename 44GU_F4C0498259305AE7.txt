@@ -1,0 +1,7 @@
+Name: BUILDTHEWALL
+ActorNumber: 1378
+PlayerID: F4C0498259305AE7
+Platform: Unknown
+AccountCreationDate: 2022-04-30 01:29:53 UTC
+Color: R=0.00 G=0.56 B=0.78
+Cosmetics: None

@@ -1,0 +1,7 @@
+Name: ASPECT
+ActorNumber: 896
+PlayerID: 687A525B33062E3D
+Platform: Standalone
+AccountCreationDate: 2025-04-24 21:48:36 UTC
+Color: R=0.78 G=0.56 B=0.89
+Cosmetics: None

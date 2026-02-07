@@ -1,0 +1,7 @@
+Name: IAMNEW
+ActorNumber: 564
+PlayerID: DC43C528CD79B5F5
+Platform: Unknown
+AccountCreationDate: 2023-01-05 00:00:20 UTC
+Color: R=1.00 G=0.00 B=0.56
+Cosmetics: None

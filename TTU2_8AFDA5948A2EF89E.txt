@@ -1,0 +1,7 @@
+Name: MASTERCANDY
+ActorNumber: 77
+PlayerID: 8AFDA5948A2EF89E
+Platform: Standalone
+AccountCreationDate: 2024-12-16 04:22:31 UTC
+Color: R=0.33 G=0.11 B=0.78
+Cosmetics: None

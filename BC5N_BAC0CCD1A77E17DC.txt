@@ -1,0 +1,7 @@
+Name: moxoPAID
+ActorNumber: 461
+PlayerID: BAC0CCD1A77E17DC
+Platform: Standalone
+AccountCreationDate: 2026-01-03 20:24:30 UTC
+Color: R=1.00 G=0.50 B=0.02
+Cosmetics: None

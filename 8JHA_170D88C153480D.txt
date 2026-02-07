@@ -1,0 +1,7 @@
+Name: ALEXIS
+ActorNumber: 670
+PlayerID: 170D88C153480D
+Platform: Standalone
+AccountCreationDate: 2023-12-26 19:20:33 UTC
+Color: R=0.00 G=0.00 B=0.22
+Cosmetics: None

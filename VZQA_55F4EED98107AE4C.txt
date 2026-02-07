@@ -1,0 +1,7 @@
+Name: HIIAMYOURMUM
+ActorNumber: 1045
+PlayerID: 55F4EED98107AE4C
+Platform: Standalone
+AccountCreationDate: 2025-12-26 12:25:29 UTC
+Color: R=0.00 G=0.00 B=1.00
+Cosmetics: None

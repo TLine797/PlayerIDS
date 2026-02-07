@@ -1,0 +1,7 @@
+Name: WOFMIST
+ActorNumber: 107
+PlayerID: A11E60576974071B
+Platform: Standalone
+AccountCreationDate: 2026-01-24 01:22:26 UTC
+Color: R=0.00 G=0.00 B=0.78
+Cosmetics: None

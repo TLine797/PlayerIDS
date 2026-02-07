@@ -1,0 +1,7 @@
+Name: CHASE
+ActorNumber: 820
+PlayerID: 95F76F23F0AED59
+Platform: Unknown
+AccountCreationDate: 2022-06-12 17:29:02 UTC
+Color: R=0.00 G=0.00 B=1.00
+Cosmetics: None

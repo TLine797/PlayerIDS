@@ -1,0 +1,7 @@
+Name: gorilla9040
+ActorNumber: 229
+PlayerID: 528CFE081CC67C67
+Platform: Standalone
+AccountCreationDate: 2025-08-01 10:35:00 UTC
+Color: R=1.00 G=0.00 B=1.00
+Cosmetics: None

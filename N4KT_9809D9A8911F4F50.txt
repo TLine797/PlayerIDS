@@ -1,0 +1,7 @@
+Name: YOUNG
+ActorNumber: 740
+PlayerID: 9809D9A8911F4F50
+Platform: Unknown
+AccountCreationDate: 2022-03-08 20:54:42 UTC
+Color: R=0.33 G=0.22 B=0.11
+Cosmetics: None

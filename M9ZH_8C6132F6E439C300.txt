@@ -1,0 +1,7 @@
+Name: COOKIE7OL
+ActorNumber: 349
+PlayerID: 8C6132F6E439C300
+Platform: Standalone
+AccountCreationDate: 2025-12-25 15:21:11 UTC
+Color: R=1.00 G=0.78 B=0.33
+Cosmetics: None

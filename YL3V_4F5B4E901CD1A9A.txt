@@ -1,0 +1,7 @@
+Name: JEANSHORTS
+ActorNumber: 293
+PlayerID: 4F5B4E901CD1A9A
+Platform: Standalone
+AccountCreationDate: 2025-07-02 21:23:10 UTC
+Color: R=0.22 G=0.22 B=0.22
+Cosmetics: None

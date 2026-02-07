@@ -1,0 +1,7 @@
+Name: MTFCOAL
+ActorNumber: 334
+PlayerID: F3A7D86BA8F1DBC7
+Platform: Standalone
+AccountCreationDate: 2026-01-12 22:19:49 UTC
+Color: R=0.44 G=0.00 B=0.78
+Cosmetics: None

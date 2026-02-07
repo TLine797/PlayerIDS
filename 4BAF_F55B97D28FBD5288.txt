@@ -1,0 +1,7 @@
+Name: SANTA
+ActorNumber: 920
+PlayerID: F55B97D28FBD5288
+Platform: Standalone
+AccountCreationDate: 2021-09-06 00:08:49 UTC
+Color: R=1.00 G=1.00 B=1.00
+Cosmetics: None

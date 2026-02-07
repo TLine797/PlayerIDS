@@ -1,0 +1,7 @@
+Name: COLA
+ActorNumber: 103
+PlayerID: E9844DB4C1534C45
+Platform: Standalone
+AccountCreationDate: 2026-01-02 21:56:39 UTC
+Color: R=1.00 G=0.00 B=0.22
+Cosmetics: None

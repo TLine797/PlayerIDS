@@ -1,0 +1,7 @@
+Name: RUBY
+ActorNumber: 74
+PlayerID: 79FDA219CD5D7268
+Platform: Standalone
+AccountCreationDate: 2025-12-25 08:45:49 UTC
+Color: R=1.00 G=0.56 B=0.56
+Cosmetics: None

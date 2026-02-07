@@ -1,0 +1,7 @@
+Name: RANDOM
+ActorNumber: 326
+PlayerID: 2260B53317F90206
+Platform: Standalone
+AccountCreationDate: 2023-10-09 22:55:07 UTC
+Color: R=0.67 G=0.11 B=0.00
+Cosmetics: None

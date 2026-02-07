@@ -1,0 +1,7 @@
+Name: FROSTCORE
+ActorNumber: 5911
+PlayerID: CBFFE33E4979EA0A
+Platform: Standalone
+AccountCreationDate: 2025-12-25 16:35:05 UTC
+Color: R=0.56 G=0.67 B=1.00
+Cosmetics: None

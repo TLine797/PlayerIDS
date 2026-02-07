@@ -1,0 +1,7 @@
+Name: DINO
+ActorNumber: 1021
+PlayerID: 7255943D2DB526AD
+Platform: Standalone
+AccountCreationDate: 2022-12-28 18:53:30 UTC
+Color: R=0.44 G=0.00 B=1.00
+Cosmetics: None

@@ -1,0 +1,7 @@
+Name: IZZY
+ActorNumber: 325
+PlayerID: 7B27373DC47A47FC
+Platform: Standalone
+AccountCreationDate: 2023-06-21 01:44:03 UTC
+Color: R=0.44 G=0.67 B=1.00
+Cosmetics: None

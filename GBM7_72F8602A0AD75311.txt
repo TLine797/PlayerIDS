@@ -1,0 +1,7 @@
+Name: SQUIRRLZ
+ActorNumber: 1015
+PlayerID: 72F8602A0AD75311
+Platform: Standalone
+AccountCreationDate: 2022-03-08 21:30:14 UTC
+Color: R=0.00 G=0.00 B=0.00
+Cosmetics: None

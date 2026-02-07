@@ -1,0 +1,7 @@
+Name: COOKJAXON
+ActorNumber: 422
+PlayerID: 43B085C1BFCBA091
+Platform: Standalone
+AccountCreationDate: 2026-01-13 02:05:11 UTC
+Color: R=0.78 G=1.00 B=0.89
+Cosmetics: None

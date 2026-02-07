@@ -1,0 +1,7 @@
+Name: XEN
+ActorNumber: 34
+PlayerID: 57301EC5F680F3BB
+Platform: Standalone
+AccountCreationDate: 2024-07-13 22:14:47 UTC
+Color: R=1.00 G=0.78 B=1.00
+Cosmetics: None

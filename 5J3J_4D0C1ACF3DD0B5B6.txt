@@ -1,0 +1,7 @@
+Name: HI
+ActorNumber: 255
+PlayerID: 4D0C1ACF3DD0B5B6
+Platform: Standalone
+AccountCreationDate: 2025-01-08 00:31:49 UTC
+Color: R=0.33 G=0.00 B=1.00
+Cosmetics: None

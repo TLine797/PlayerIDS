@@ -1,0 +1,7 @@
+Name: CHEE3
+ActorNumber: 3
+PlayerID: D6A663FDC15B70E1
+Platform: PC
+AccountCreationDate: 2025-01-10 16:46:48 UTC
+Color: R=0.44 G=0.67 B=0.89
+Cosmetics: None

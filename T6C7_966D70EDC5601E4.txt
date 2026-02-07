@@ -1,0 +1,7 @@
+Name: BNANVR
+ActorNumber: 31
+PlayerID: 966D70EDC5601E4
+Platform: Standalone
+AccountCreationDate: 2026-01-07 00:17:14 UTC
+Color: R=0.00 G=0.00 B=0.00
+Cosmetics: None

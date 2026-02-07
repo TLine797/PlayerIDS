@@ -1,0 +1,7 @@
+Name: FRED
+ActorNumber: 549
+PlayerID: AFC53387D7DA9E49
+Platform: Standalone
+AccountCreationDate: 2025-05-17 16:53:50 UTC
+Color: R=0.44 G=0.11 B=1.00
+Cosmetics: None

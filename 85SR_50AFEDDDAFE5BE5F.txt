@@ -1,0 +1,7 @@
+Name: CHEF
+ActorNumber: 141
+PlayerID: 50AFEDDDAFE5BE5F
+Platform: Standalone
+AccountCreationDate: 2024-12-26 05:40:19 UTC
+Color: R=0.44 G=0.00 B=0.89
+Cosmetics: None

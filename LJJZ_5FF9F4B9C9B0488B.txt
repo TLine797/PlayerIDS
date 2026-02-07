@@ -1,0 +1,7 @@
+Name: J3VU
+ActorNumber: 1350
+PlayerID: 5FF9F4B9C9B0488B
+Platform: Standalone
+AccountCreationDate: 2026-01-17 03:17:26 UTC
+Color: R=0.00 G=1.00 B=0.00
+Cosmetics: None

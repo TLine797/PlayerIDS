@@ -1,0 +1,7 @@
+Name: BROOKSLATOR
+ActorNumber: 798
+PlayerID: 523FEECDC3D8173B
+Platform: Standalone
+AccountCreationDate: 2023-12-10 03:56:45 UTC
+Color: R=0.44 G=0.22 B=0.78
+Cosmetics: None

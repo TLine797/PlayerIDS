@@ -1,0 +1,7 @@
+Name: AGREST
+ActorNumber: 129
+PlayerID: EB5A2CA37510DA5
+Platform: Standalone
+AccountCreationDate: 2023-12-25 17:25:57 UTC
+Color: R=0.67 G=0.22 B=0.89
+Cosmetics: None

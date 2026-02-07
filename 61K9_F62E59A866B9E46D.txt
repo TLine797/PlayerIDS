@@ -1,0 +1,7 @@
+Name: NORMALSAGER1
+ActorNumber: 1176
+PlayerID: F62E59A866B9E46D
+Platform: Standalone
+AccountCreationDate: 2023-04-29 23:17:42 UTC
+Color: R=0.56 G=0.00 B=0.89
+Cosmetics: None

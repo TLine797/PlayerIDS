@@ -1,0 +1,7 @@
+Name: SHLUCIO
+ActorNumber: 29
+PlayerID: 36D6D16AA42CC14D
+Platform: Unknown
+AccountCreationDate: 2022-09-11 02:12:22 UTC
+Color: R=0.11 G=1.00 B=0.33
+Cosmetics: None

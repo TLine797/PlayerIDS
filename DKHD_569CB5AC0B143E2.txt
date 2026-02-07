@@ -1,0 +1,7 @@
+Name: PEANUT
+ActorNumber: 1405
+PlayerID: 569CB5AC0B143E2
+Platform: Standalone
+AccountCreationDate: 2025-12-25 15:15:24 UTC
+Color: R=0.44 G=0.00 B=0.67
+Cosmetics: None

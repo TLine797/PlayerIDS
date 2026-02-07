@@ -1,0 +1,7 @@
+Name: CORSUM
+ActorNumber: 971
+PlayerID: 93B757A5BFF5D517
+Platform: Unknown
+AccountCreationDate: 2022-04-03 03:04:29 UTC
+Color: R=0.44 G=0.22 B=0.56
+Cosmetics: None

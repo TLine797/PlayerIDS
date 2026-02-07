@@ -1,0 +1,7 @@
+Name: CHATIMCOOKED
+ActorNumber: 25
+PlayerID: B7629CF3A5CD8112
+Platform: Standalone
+AccountCreationDate: 2023-10-12 23:26:51 UTC
+Color: R=0.00 G=0.78 B=0.89
+Cosmetics: None

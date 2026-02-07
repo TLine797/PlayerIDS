@@ -1,0 +1,7 @@
+Name: SAKURAA
+ActorNumber: 1
+PlayerID: 38C7AFBF5FC3014C
+Platform: Unknown
+AccountCreationDate: 2021-03-24 01:39:32 UTC
+Color: R=0.50 G=0.90 B=0.46
+Cosmetics: None

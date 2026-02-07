@@ -1,0 +1,7 @@
+Name: RTPIG
+ActorNumber: 1235
+PlayerID: D892C791D2A27EED
+Platform: Standalone
+AccountCreationDate: 2024-08-06 22:16:32 UTC
+Color: R=1.00 G=0.00 B=1.00
+Cosmetics: None

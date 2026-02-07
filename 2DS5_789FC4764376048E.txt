@@ -1,0 +1,7 @@
+Name: ECHO
+ActorNumber: 752
+PlayerID: 789FC4764376048E
+Platform: Unknown
+AccountCreationDate: 2025-12-25 11:49:00 UTC
+Color: R=0.44 G=0.44 B=0.78
+Cosmetics: None

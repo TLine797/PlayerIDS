@@ -1,0 +1,7 @@
+Name: FAXGT
+ActorNumber: 57
+PlayerID: BB211EBD48FB6D5A
+Platform: Standalone
+AccountCreationDate: 2025-02-12 03:11:03 UTC
+Color: R=0.22 G=0.22 B=1.00
+Cosmetics: None

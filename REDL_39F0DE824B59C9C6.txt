@@ -1,0 +1,7 @@
+Name: KINGJACKERZ
+ActorNumber: 1268
+PlayerID: 39F0DE824B59C9C6
+Platform: Standalone
+AccountCreationDate: 2023-12-25 20:49:57 UTC
+Color: R=0.00 G=0.00 B=0.00
+Cosmetics: None

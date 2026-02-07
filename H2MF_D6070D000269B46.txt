@@ -1,0 +1,7 @@
+Name: VISUALGT
+ActorNumber: 188
+PlayerID: D6070D000269B46
+Platform: Standalone
+AccountCreationDate: 2024-05-10 21:39:05 UTC
+Color: R=0.33 G=0.56 B=0.89
+Cosmetics: None

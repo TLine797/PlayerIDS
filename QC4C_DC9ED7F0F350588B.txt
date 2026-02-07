@@ -1,0 +1,7 @@
+Name: MIRRORMAN
+ActorNumber: 170
+PlayerID: DC9ED7F0F350588B
+Platform: Standalone
+AccountCreationDate: 2025-03-29 18:39:07 UTC
+Color: R=0.00 G=0.00 B=0.00
+Cosmetics: None

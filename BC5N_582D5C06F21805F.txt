@@ -1,0 +1,7 @@
+Name: JONNY
+ActorNumber: 463
+PlayerID: 582D5C06F21805F
+Platform: Unknown
+AccountCreationDate: 2025-07-13 05:25:24 UTC
+Color: R=0.33 G=0.22 B=0.22
+Cosmetics: None

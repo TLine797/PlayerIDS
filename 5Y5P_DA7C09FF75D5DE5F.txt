@@ -1,0 +1,7 @@
+Name: MRBLUE
+ActorNumber: 217
+PlayerID: DA7C09FF75D5DE5F
+Platform: Unknown
+AccountCreationDate: 2024-04-20 12:15:15 UTC
+Color: R=0.00 G=0.22 B=1.00
+Cosmetics: None

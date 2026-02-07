@@ -1,0 +1,7 @@
+Name: PHILIPIAN413
+ActorNumber: 107
+PlayerID: BCEF8AC6291DB70F
+Platform: Standalone
+AccountCreationDate: 2025-12-25 16:56:21 UTC
+Color: R=1.00 G=0.00 B=1.00
+Cosmetics: None

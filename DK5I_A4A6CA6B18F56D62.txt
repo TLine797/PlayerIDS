@@ -1,0 +1,7 @@
+Name: GB11
+ActorNumber: 410
+PlayerID: A4A6CA6B18F56D62
+Platform: Standalone
+AccountCreationDate: 2024-11-30 17:47:00 UTC
+Color: R=1.00 G=0.00 B=0.00
+Cosmetics: None

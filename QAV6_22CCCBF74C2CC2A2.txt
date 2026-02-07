@@ -1,0 +1,7 @@
+Name: AUX
+ActorNumber: 126
+PlayerID: 22CCCBF74C2CC2A2
+Platform: Unknown
+AccountCreationDate: 2021-12-25 13:08:38 UTC
+Color: R=0.56 G=0.11 B=0.33
+Cosmetics: None

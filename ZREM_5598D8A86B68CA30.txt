@@ -1,0 +1,7 @@
+Name: XQUL
+ActorNumber: 1057
+PlayerID: 5598D8A86B68CA30
+Platform: Unknown
+AccountCreationDate: 2022-09-06 15:31:58 UTC
+Color: R=0.11 G=0.22 B=0.33
+Cosmetics: None

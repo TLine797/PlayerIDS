@@ -1,0 +1,7 @@
+Name: 7DVR
+ActorNumber: 392
+PlayerID: ACE85A8DCF768E06
+Platform: Unknown
+AccountCreationDate: 2023-01-14 18:10:19 UTC
+Color: R=0.11 G=0.00 B=1.00
+Cosmetics: None

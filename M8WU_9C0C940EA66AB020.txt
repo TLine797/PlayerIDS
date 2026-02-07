@@ -1,0 +1,7 @@
+Name: SSGRESET
+ActorNumber: 270
+PlayerID: 9C0C940EA66AB020
+Platform: Standalone
+AccountCreationDate: 2023-09-30 23:25:29 UTC
+Color: R=0.44 G=0.00 B=0.67
+Cosmetics: None

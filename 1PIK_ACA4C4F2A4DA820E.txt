@@ -1,0 +1,7 @@
+Name: SFB
+ActorNumber: 122
+PlayerID: ACA4C4F2A4DA820E
+Platform: Standalone
+AccountCreationDate: 2024-05-04 19:31:39 UTC
+Color: R=0.56 G=0.00 B=0.89
+Cosmetics: None

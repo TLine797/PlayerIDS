@@ -1,0 +1,7 @@
+Name: TG
+ActorNumber: 400
+PlayerID: 74BC3CB1A0874FC9
+Platform: Unknown
+AccountCreationDate: 2021-06-08 17:19:56 UTC
+Color: R=0.67 G=0.67 B=1.00
+Cosmetics: None

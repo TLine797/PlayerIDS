@@ -1,0 +1,7 @@
+Name: gorilla2216
+ActorNumber: 4103
+PlayerID: 739651D6C14643E3
+Platform: Standalone
+AccountCreationDate: 2025-05-31 16:35:26 UTC
+Color: R=1.00 G=0.78 B=1.00
+Cosmetics: None

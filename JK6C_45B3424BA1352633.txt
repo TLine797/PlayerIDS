@@ -1,0 +1,7 @@
+Name: LUCAS
+ActorNumber: 242
+PlayerID: 45B3424BA1352633
+Platform: Unknown
+AccountCreationDate: 2023-01-29 19:21:59 UTC
+Color: R=0.89 G=0.22 B=0.22
+Cosmetics: None

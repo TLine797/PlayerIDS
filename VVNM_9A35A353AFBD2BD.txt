@@ -1,0 +1,7 @@
+Name: OGBRAINROT
+ActorNumber: 204
+PlayerID: 9A35A353AFBD2BD
+Platform: Standalone
+AccountCreationDate: 2025-12-25 20:56:41 UTC
+Color: R=0.00 G=0.00 B=1.00
+Cosmetics: None

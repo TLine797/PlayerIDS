@@ -1,0 +1,7 @@
+Name: MIXELVRYT
+ActorNumber: 245
+PlayerID: FC2759709EBB5472
+Platform: Unknown
+AccountCreationDate: 2022-08-08 08:54:04 UTC
+Color: R=0.00 G=0.44 B=0.33
+Cosmetics: None

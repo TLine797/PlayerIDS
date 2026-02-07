@@ -1,0 +1,7 @@
+Name: BRASHEESHIL
+ActorNumber: 94
+PlayerID: D8357F3E9D202EF5
+Platform: Standalone
+AccountCreationDate: 2025-12-25 18:38:16 UTC
+Color: R=0.56 G=0.22 B=1.00
+Cosmetics: None

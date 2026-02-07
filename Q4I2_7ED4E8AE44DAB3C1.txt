@@ -1,0 +1,7 @@
+Name: TEBRANCH
+ActorNumber: 3434
+PlayerID: 7ED4E8AE44DAB3C1
+Platform: Standalone
+AccountCreationDate: 2024-03-27 17:30:33 UTC
+Color: R=0.56 G=0.11 B=1.00
+Cosmetics: None

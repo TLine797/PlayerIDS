@@ -1,0 +1,7 @@
+Name: YOKI
+ActorNumber: 867
+PlayerID: DAC5B57E935CFE98
+Platform: Standalone
+AccountCreationDate: 2025-12-26 03:45:46 UTC
+Color: R=0.33 G=0.56 B=0.89
+Cosmetics: None

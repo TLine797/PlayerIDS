@@ -1,0 +1,7 @@
+Name: THET411EST
+ActorNumber: 535
+PlayerID: 7483DBC54358D704
+Platform: Unknown
+AccountCreationDate: 2022-06-26 20:03:59 UTC
+Color: R=0.67 G=0.89 B=0.44
+Cosmetics: None

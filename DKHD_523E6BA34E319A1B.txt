@@ -1,0 +1,7 @@
+Name: CAUT1ON
+ActorNumber: 1397
+PlayerID: 523E6BA34E319A1B
+Platform: Standalone
+AccountCreationDate: 2023-07-16 15:00:59 UTC
+Color: R=0.00 G=0.00 B=0.00
+Cosmetics: None

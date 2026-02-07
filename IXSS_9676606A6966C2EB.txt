@@ -1,0 +1,7 @@
+Name: UWU
+ActorNumber: 413
+PlayerID: 9676606A6966C2EB
+Platform: PC
+AccountCreationDate: 2022-10-07 22:31:22 UTC
+Color: R=0.56 G=0.00 B=1.00
+Cosmetics: None

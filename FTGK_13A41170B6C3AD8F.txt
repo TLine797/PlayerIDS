@@ -1,0 +1,7 @@
+Name: NEXA17K
+ActorNumber: 374
+PlayerID: 13A41170B6C3AD8F
+Platform: Unknown
+AccountCreationDate: 2023-02-01 21:05:06 UTC
+Color: R=0.00 G=0.78 B=0.78
+Cosmetics: None

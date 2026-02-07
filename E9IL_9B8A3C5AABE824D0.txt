@@ -1,0 +1,7 @@
+Name: YRRY
+ActorNumber: 278
+PlayerID: 9B8A3C5AABE824D0
+Platform: Standalone
+AccountCreationDate: 2025-12-25 20:44:36 UTC
+Color: R=0.00 G=0.00 B=0.00
+Cosmetics: None

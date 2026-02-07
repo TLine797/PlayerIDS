@@ -1,0 +1,7 @@
+Name: gorilla0551
+ActorNumber: 842
+PlayerID: 1443905977369FD8
+Platform: Standalone
+AccountCreationDate: 2025-12-26 20:25:10 UTC
+Color: R=0.44 G=0.00 B=0.89
+Cosmetics: None

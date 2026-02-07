@@ -1,0 +1,7 @@
+Name: ERVO
+ActorNumber: 108
+PlayerID: 37E7196228864822
+Platform: Standalone
+AccountCreationDate: 2026-01-17 18:18:32 UTC
+Color: R=0.00 G=0.00 B=0.33
+Cosmetics: None

@@ -1,0 +1,7 @@
+Name: G
+ActorNumber: 459
+PlayerID: BF58BE959B746B3C
+Platform: Standalone
+AccountCreationDate: 2025-07-18 17:40:28 UTC
+Color: R=0.44 G=0.11 B=0.89
+Cosmetics: None

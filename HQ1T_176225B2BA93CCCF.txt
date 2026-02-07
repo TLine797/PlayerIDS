@@ -1,0 +1,7 @@
+Name: KFC
+ActorNumber: 479
+PlayerID: 176225B2BA93CCCF
+Platform: Standalone
+AccountCreationDate: 2026-01-07 04:27:09 UTC
+Color: R=0.56 G=0.00 B=1.00
+Cosmetics: None

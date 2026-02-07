@@ -1,0 +1,7 @@
+Name: RESET
+ActorNumber: 726
+PlayerID: 918DCE571F9C5812
+Platform: Standalone
+AccountCreationDate: 2025-12-31 23:14:42 UTC
+Color: R=0.00 G=0.89 B=0.44
+Cosmetics: None

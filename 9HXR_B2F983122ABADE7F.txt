@@ -1,0 +1,7 @@
+Name: SKYE
+ActorNumber: 25
+PlayerID: B2F983122ABADE7F
+Platform: Unknown
+AccountCreationDate: 2022-07-16 21:13:09 UTC
+Color: R=0.67 G=0.67 B=1.00
+Cosmetics: None

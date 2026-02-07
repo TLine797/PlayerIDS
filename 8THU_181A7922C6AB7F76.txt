@@ -1,0 +1,7 @@
+Name: ACEVR8
+ActorNumber: 236
+PlayerID: 181A7922C6AB7F76
+Platform: Standalone
+AccountCreationDate: 2024-12-25 14:16:58 UTC
+Color: R=0.11 G=0.33 B=0.78
+Cosmetics: None

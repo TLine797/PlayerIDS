@@ -1,0 +1,7 @@
+Name: ZOROVR
+ActorNumber: 1225
+PlayerID: 20C2C604192230E4
+Platform: Unknown
+AccountCreationDate: 2021-12-26 18:06:54 UTC
+Color: R=0.78 G=0.78 B=1.00
+Cosmetics: None

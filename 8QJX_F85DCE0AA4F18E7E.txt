@@ -1,0 +1,7 @@
+Name: CHUCKNORRIS
+ActorNumber: 181
+PlayerID: F85DCE0AA4F18E7E
+Platform: Unknown
+AccountCreationDate: 2021-08-07 12:09:54 UTC
+Color: R=0.00 G=0.00 B=0.00
+Cosmetics: None

@@ -1,0 +1,7 @@
+Name: SPRITE
+ActorNumber: 3439
+PlayerID: 474F1EDD1216E648
+Platform: Standalone
+AccountCreationDate: 2023-12-26 05:16:30 UTC
+Color: R=1.00 G=1.00 B=1.00
+Cosmetics: None

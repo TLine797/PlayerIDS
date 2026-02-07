@@ -1,0 +1,7 @@
+Name: BOBLXY
+ActorNumber: 28
+PlayerID: CB4E73060AD62611
+Platform: Standalone
+AccountCreationDate: 2025-12-25 13:37:12 UTC
+Color: R=0.78 G=0.78 B=0.78
+Cosmetics: None

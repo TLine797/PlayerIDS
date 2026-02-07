@@ -1,0 +1,7 @@
+Name: DEER
+ActorNumber: 1672
+PlayerID: C518B7858C68D1CF
+Platform: Unknown
+AccountCreationDate: 2022-01-02 06:11:31 UTC
+Color: R=0.33 G=0.22 B=0.00
+Cosmetics: None

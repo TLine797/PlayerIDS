@@ -1,0 +1,7 @@
+Name: RUNNER
+ActorNumber: 717
+PlayerID: D07FA18A4D4AACB5
+Platform: Unknown
+AccountCreationDate: 2022-12-27 01:20:46 UTC
+Color: R=0.22 G=0.00 B=0.33
+Cosmetics: None

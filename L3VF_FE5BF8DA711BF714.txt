@@ -1,0 +1,7 @@
+Name: BENDSOVER
+ActorNumber: 204
+PlayerID: FE5BF8DA711BF714
+Platform: Unknown
+AccountCreationDate: 2024-12-29 01:22:52 UTC
+Color: R=0.44 G=0.00 B=0.78
+Cosmetics: None

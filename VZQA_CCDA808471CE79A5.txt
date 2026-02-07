@@ -1,0 +1,7 @@
+Name: TOGA
+ActorNumber: 1039
+PlayerID: CCDA808471CE79A5
+Platform: Standalone
+AccountCreationDate: 2025-11-01 16:04:39 UTC
+Color: R=0.44 G=0.11 B=0.00
+Cosmetics: None

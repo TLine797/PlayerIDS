@@ -1,0 +1,7 @@
+Name: HAEDYN1303
+ActorNumber: 188
+PlayerID: FB0FB3BE58EB0DFC
+Platform: Standalone
+AccountCreationDate: 2025-08-13 21:40:10 UTC
+Color: R=1.00 G=0.33 B=0.33
+Cosmetics: None

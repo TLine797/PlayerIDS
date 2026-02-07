@@ -1,0 +1,7 @@
+Name: S4NNYJR
+ActorNumber: 2330
+PlayerID: 2E70F9AF31F390AD
+Platform: Unknown
+AccountCreationDate: 2021-07-23 16:39:53 UTC
+Color: R=0.89 G=0.44 B=0.00
+Cosmetics: None

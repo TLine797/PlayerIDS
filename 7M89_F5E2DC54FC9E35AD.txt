@@ -1,0 +1,7 @@
+Name: NAXXX115
+ActorNumber: 19
+PlayerID: F5E2DC54FC9E35AD
+Platform: Standalone
+AccountCreationDate: 2025-02-09 01:54:36 UTC
+Color: R=0.00 G=0.33 B=0.78
+Cosmetics: None

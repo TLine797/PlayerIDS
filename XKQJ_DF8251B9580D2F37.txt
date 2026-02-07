@@ -1,0 +1,7 @@
+Name: VAZ
+ActorNumber: 416
+PlayerID: DF8251B9580D2F37
+Platform: Standalone
+AccountCreationDate: 2025-12-23 21:22:01 UTC
+Color: R=0.00 G=0.44 B=0.00
+Cosmetics: None

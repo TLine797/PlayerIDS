@@ -1,0 +1,7 @@
+Name: JIMMY
+ActorNumber: 942
+PlayerID: 3373A686954D56EF
+Platform: Unknown
+AccountCreationDate: 2021-05-28 21:35:39 UTC
+Color: R=0.44 G=0.11 B=0.33
+Cosmetics: None

@@ -1,0 +1,7 @@
+Name: WILLBERT
+ActorNumber: 69
+PlayerID: 8D4D1CCDF1A14D8
+Platform: Standalone
+AccountCreationDate: 2024-12-25 18:35:36 UTC
+Color: R=0.00 G=0.00 B=0.00
+Cosmetics: None

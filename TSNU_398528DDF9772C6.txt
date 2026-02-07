@@ -1,0 +1,7 @@
+Name: MARIJUANA
+ActorNumber: 44
+PlayerID: 398528DDF9772C6
+Platform: PC
+AccountCreationDate: 2022-02-25 10:54:08 UTC
+Color: R=0.56 G=0.35 B=0.35
+Cosmetics: None

@@ -1,0 +1,7 @@
+Name: PICKLE
+ActorNumber: 875
+PlayerID: 4B71E4E35C075505
+Platform: Unknown
+AccountCreationDate: 2025-12-15 20:13:19 UTC
+Color: R=1.00 G=0.78 B=0.78
+Cosmetics: None

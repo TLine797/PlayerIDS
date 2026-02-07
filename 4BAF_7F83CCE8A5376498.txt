@@ -1,0 +1,7 @@
+Name: WCBREXVR
+ActorNumber: 863
+PlayerID: 7F83CCE8A5376498
+Platform: Standalone
+AccountCreationDate: 2026-01-25 19:33:35 UTC
+Color: R=0.11 G=0.11 B=0.33
+Cosmetics: None

@@ -1,0 +1,7 @@
+Name: TTM
+ActorNumber: 538
+PlayerID: 8484FBFE1EB29B7
+Platform: Standalone
+AccountCreationDate: 2025-12-25 17:54:43 UTC
+Color: R=0.89 G=0.44 B=0.44
+Cosmetics: None

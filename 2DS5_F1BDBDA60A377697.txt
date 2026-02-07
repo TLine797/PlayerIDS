@@ -1,0 +1,7 @@
+Name: TGDJOHN
+ActorNumber: 754
+PlayerID: F1BDBDA60A377697
+Platform: Standalone
+AccountCreationDate: 2025-12-27 11:47:45 UTC
+Color: R=1.00 G=0.00 B=0.33
+Cosmetics: None

@@ -1,0 +1,7 @@
+Name: TLDS14SHVR
+ActorNumber: 230
+PlayerID: 4B6E0A2A72C47A70
+Platform: Unknown
+AccountCreationDate: 2025-05-06 00:43:49 UTC
+Color: R=0.22 G=0.22 B=0.22
+Cosmetics: None

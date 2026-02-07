@@ -1,0 +1,7 @@
+Name: H
+ActorNumber: 326
+PlayerID: 188237AFC87604CB
+Platform: PC
+AccountCreationDate: 2022-01-05 21:12:40 UTC
+Color: R=1.00 G=0.67 B=0.00
+Cosmetics: None

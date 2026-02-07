@@ -1,0 +1,7 @@
+Name: JXYDENLXR
+ActorNumber: 198
+PlayerID: 6D56327B57B1E81
+Platform: Standalone
+AccountCreationDate: 2025-12-24 23:58:19 UTC
+Color: R=0.00 G=0.44 B=0.22
+Cosmetics: None

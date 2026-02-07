@@ -1,0 +1,7 @@
+Name: SIPSIP
+ActorNumber: 833
+PlayerID: A75943E511830A06
+Platform: Standalone
+AccountCreationDate: 2025-12-17 23:37:20 UTC
+Color: R=1.00 G=1.00 B=1.00
+Cosmetics: None

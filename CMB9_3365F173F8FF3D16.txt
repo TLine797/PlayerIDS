@@ -1,0 +1,7 @@
+Name: MRCOOLIO
+ActorNumber: 5814
+PlayerID: 3365F173F8FF3D16
+Platform: Standalone
+AccountCreationDate: 2021-07-24 18:48:27 UTC
+Color: R=0.00 G=0.67 B=0.78
+Cosmetics: None

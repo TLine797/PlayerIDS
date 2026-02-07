@@ -1,0 +1,7 @@
+Name: ISUCK
+ActorNumber: 1682
+PlayerID: 6E4BC4E738A787D1
+Platform: Standalone
+AccountCreationDate: 2026-01-17 22:06:04 UTC
+Color: R=0.33 G=0.00 B=0.67
+Cosmetics: None

@@ -1,0 +1,7 @@
+Name: LEOGT
+ActorNumber: 3704
+PlayerID: D8C303D2C17617CF
+Platform: Standalone
+AccountCreationDate: 2024-12-25 10:04:30 UTC
+Color: R=0.67 G=0.00 B=1.00
+Cosmetics: None

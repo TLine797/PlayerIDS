@@ -1,0 +1,7 @@
+Name: TEMUVMT
+ActorNumber: 521
+PlayerID: 8CA2E5C10AD80A45
+Platform: Standalone
+AccountCreationDate: 2024-08-05 11:57:22 UTC
+Color: R=1.00 G=0.00 B=0.00
+Cosmetics: None

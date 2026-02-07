@@ -1,0 +1,7 @@
+Name: KUBA
+ActorNumber: 659
+PlayerID: CAC7AA53E57C337
+Platform: Standalone
+AccountCreationDate: 2023-01-29 02:35:57 UTC
+Color: R=1.00 G=0.00 B=0.00
+Cosmetics: None

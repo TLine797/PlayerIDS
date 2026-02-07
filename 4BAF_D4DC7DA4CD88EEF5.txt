@@ -1,0 +1,7 @@
+Name: RORO
+ActorNumber: 904
+PlayerID: D4DC7DA4CD88EEF5
+Platform: Standalone
+AccountCreationDate: 2025-12-25 21:09:55 UTC
+Color: R=0.89 G=0.33 B=0.00
+Cosmetics: None

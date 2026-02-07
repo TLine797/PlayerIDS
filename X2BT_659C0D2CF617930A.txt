@@ -1,0 +1,7 @@
+Name: TFBDAZE
+ActorNumber: 70
+PlayerID: 659C0D2CF617930A
+Platform: Standalone
+AccountCreationDate: 2025-06-06 15:58:36 UTC
+Color: R=0.89 G=0.22 B=0.22
+Cosmetics: None

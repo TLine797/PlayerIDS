@@ -1,0 +1,7 @@
+Name: LAWSON
+ActorNumber: 725
+PlayerID: F5A7F722FBC372CD
+Platform: Standalone
+AccountCreationDate: 2025-12-25 08:46:46 UTC
+Color: R=0.89 G=0.78 B=0.44
+Cosmetics: None

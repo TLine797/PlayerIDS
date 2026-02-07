@@ -1,0 +1,7 @@
+Name: SMELLDOG16
+ActorNumber: 46
+PlayerID: F888203D24B94084
+Platform: Standalone
+AccountCreationDate: 2024-03-04 23:07:13 UTC
+Color: R=0.89 G=0.78 B=0.78
+Cosmetics: None

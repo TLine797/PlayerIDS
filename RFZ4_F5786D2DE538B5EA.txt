@@ -1,0 +1,7 @@
+Name: FURRY
+ActorNumber: 910
+PlayerID: F5786D2DE538B5EA
+Platform: Standalone
+AccountCreationDate: 2024-02-29 16:24:25 UTC
+Color: R=0.00 G=0.00 B=1.00
+Cosmetics: None

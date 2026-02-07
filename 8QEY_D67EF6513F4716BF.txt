@@ -1,0 +1,7 @@
+Name: TRUEADAM
+ActorNumber: 4
+PlayerID: D67EF6513F4716BF
+Platform: Standalone
+AccountCreationDate: 2024-03-07 15:36:56 UTC
+Color: R=0.00 G=0.67 B=1.00
+Cosmetics: None

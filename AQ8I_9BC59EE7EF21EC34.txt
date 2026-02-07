@@ -1,0 +1,7 @@
+Name: ROSE
+ActorNumber: 351
+PlayerID: 9BC59EE7EF21EC34
+Platform: Standalone
+AccountCreationDate: 2024-12-25 12:49:51 UTC
+Color: R=0.44 G=0.33 B=0.67
+Cosmetics: None

@@ -1,0 +1,7 @@
+Name: PRINCESS
+ActorNumber: 44
+PlayerID: E106339474CE32A3
+Platform: Unknown
+AccountCreationDate: 2022-10-08 19:35:41 UTC
+Color: R=0.22 G=0.00 B=1.00
+Cosmetics: None

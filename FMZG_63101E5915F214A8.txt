@@ -1,0 +1,7 @@
+Name: FNTIKTOKBEN
+ActorNumber: 1055
+PlayerID: 63101E5915F214A8
+Platform: Standalone
+AccountCreationDate: 2025-12-26 00:17:33 UTC
+Color: R=1.00 G=1.00 B=1.00
+Cosmetics: None

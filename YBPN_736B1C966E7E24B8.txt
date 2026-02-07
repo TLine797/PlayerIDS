@@ -1,0 +1,7 @@
+Name: KK
+ActorNumber: 486
+PlayerID: 736B1C966E7E24B8
+Platform: Standalone
+AccountCreationDate: 2025-12-25 20:08:14 UTC
+Color: R=0.44 G=0.00 B=1.00
+Cosmetics: None

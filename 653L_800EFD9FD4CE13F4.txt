@@ -1,0 +1,7 @@
+Name: NBB
+ActorNumber: 304
+PlayerID: 800EFD9FD4CE13F4
+Platform: Unknown
+AccountCreationDate: 2025-03-22 13:58:16 UTC
+Color: R=0.11 G=0.00 B=0.11
+Cosmetics: None

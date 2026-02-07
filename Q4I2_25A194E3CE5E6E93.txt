@@ -1,0 +1,7 @@
+Name: LOVE
+ActorNumber: 3425
+PlayerID: 25A194E3CE5E6E93
+Platform: Standalone
+AccountCreationDate: 2024-12-25 22:40:15 UTC
+Color: R=1.00 G=0.78 B=0.78
+Cosmetics: None

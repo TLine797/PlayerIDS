@@ -1,0 +1,7 @@
+Name: CREEPERBOY
+ActorNumber: 413
+PlayerID: BB846139567DFA1D
+Platform: Unknown
+AccountCreationDate: 2022-12-26 08:06:48 UTC
+Color: R=0.44 G=0.00 B=0.78
+Cosmetics: None

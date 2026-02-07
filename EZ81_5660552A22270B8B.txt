@@ -1,0 +1,7 @@
+Name: BBLDRIZY
+ActorNumber: 1189
+PlayerID: 5660552A22270B8B
+Platform: Standalone
+AccountCreationDate: 2024-03-03 00:13:15 UTC
+Color: R=0.00 G=1.00 B=1.00
+Cosmetics: None

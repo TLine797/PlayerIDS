@@ -1,0 +1,7 @@
+Name: K1NG
+ActorNumber: 499
+PlayerID: 838074A6FDAA7EE7
+Platform: Standalone
+AccountCreationDate: 2023-12-26 20:50:22 UTC
+Color: R=0.00 G=0.00 B=0.00
+Cosmetics: None

@@ -1,0 +1,7 @@
+Name: CHUMCHUM
+ActorNumber: 95
+PlayerID: 5AC4549641EA17A0
+Platform: Unknown
+AccountCreationDate: 2022-12-31 22:08:20 UTC
+Color: R=0.11 G=0.00 B=0.22
+Cosmetics: None

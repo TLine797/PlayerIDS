@@ -1,0 +1,7 @@
+Name: COWBOY
+ActorNumber: 734
+PlayerID: 45EAAFBB002C53E9
+Platform: Standalone
+AccountCreationDate: 2023-11-23 16:53:36 UTC
+Color: R=1.00 G=0.44 B=0.00
+Cosmetics: None

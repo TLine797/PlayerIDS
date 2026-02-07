@@ -1,0 +1,7 @@
+Name: SODA
+ActorNumber: 1197
+PlayerID: 40FA1A503F02D99D
+Platform: Standalone
+AccountCreationDate: 2024-02-16 18:50:38 UTC
+Color: R=0.00 G=0.00 B=0.00
+Cosmetics: None

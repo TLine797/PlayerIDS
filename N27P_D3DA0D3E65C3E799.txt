@@ -1,0 +1,7 @@
+Name: ROZAY110
+ActorNumber: 835
+PlayerID: D3DA0D3E65C3E799
+Platform: Standalone
+AccountCreationDate: 2025-06-25 12:00:20 UTC
+Color: R=0.00 G=0.00 B=0.00
+Cosmetics: None

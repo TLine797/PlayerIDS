@@ -1,0 +1,7 @@
+Name: MARSVR
+ActorNumber: 1375
+PlayerID: D9E9CE02831CAA10
+Platform: Standalone
+AccountCreationDate: 2026-01-02 00:11:27 UTC
+Color: R=0.56 G=0.00 B=1.00
+Cosmetics: None

@@ -1,0 +1,7 @@
+Name: SCUBSCUB
+ActorNumber: 131
+PlayerID: 5C1F8EA71C72C312
+Platform: Standalone
+AccountCreationDate: 2025-12-25 01:32:46 UTC
+Color: R=0.00 G=1.00 B=0.89
+Cosmetics: None

@@ -1,0 +1,7 @@
+Name: BINGOVR
+ActorNumber: 116
+PlayerID: F7ED083AFB9E2A3C
+Platform: Standalone
+AccountCreationDate: 2025-07-28 01:00:18 UTC
+Color: R=0.00 G=0.44 B=0.00
+Cosmetics: None

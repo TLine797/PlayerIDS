@@ -1,0 +1,7 @@
+Name: ATORIX
+ActorNumber: 320
+PlayerID: 782CA82F7F19758B
+Platform: Standalone
+AccountCreationDate: 2025-03-30 15:11:53 UTC
+Color: R=1.00 G=0.44 B=0.00
+Cosmetics: None

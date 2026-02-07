@@ -1,0 +1,7 @@
+Name: PUFFY
+ActorNumber: 262
+PlayerID: 3ADDC67C1CC53AAB
+Platform: Standalone
+AccountCreationDate: 2024-05-03 18:53:29 UTC
+Color: R=1.00 G=0.67 B=0.89
+Cosmetics: None

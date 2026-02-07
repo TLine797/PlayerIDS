@@ -1,0 +1,7 @@
+Name: ICYBOYVR710
+ActorNumber: 11
+PlayerID: A01ACB156FFECAF
+Platform: Standalone
+AccountCreationDate: 2025-03-15 18:22:49 UTC
+Color: R=0.44 G=0.22 B=1.00
+Cosmetics: None

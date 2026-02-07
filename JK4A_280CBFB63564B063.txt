@@ -1,0 +1,7 @@
+Name: TGKYMANIVR
+ActorNumber: 521
+PlayerID: 280CBFB63564B063
+Platform: Standalone
+AccountCreationDate: 2023-04-15 22:37:54 UTC
+Color: R=0.00 G=1.00 B=1.00
+Cosmetics: None

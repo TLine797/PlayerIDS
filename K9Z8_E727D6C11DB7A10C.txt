@@ -1,0 +1,7 @@
+Name: TSMLUNAR
+ActorNumber: 725
+PlayerID: E727D6C11DB7A10C
+Platform: Standalone
+AccountCreationDate: 2024-04-14 16:35:56 UTC
+Color: R=1.00 G=0.33 B=0.67
+Cosmetics: None

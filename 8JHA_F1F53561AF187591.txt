@@ -1,0 +1,7 @@
+Name: TBG67
+ActorNumber: 667
+PlayerID: F1F53561AF187591
+Platform: Standalone
+AccountCreationDate: 2025-06-16 20:30:24 UTC
+Color: R=1.00 G=0.00 B=0.00
+Cosmetics: None

@@ -1,0 +1,7 @@
+Name: MRMAN
+ActorNumber: 15
+PlayerID: E016548E35740FBC
+Platform: Standalone
+AccountCreationDate: 2025-12-25 15:53:48 UTC
+Color: R=0.67 G=0.56 B=0.78
+Cosmetics: None

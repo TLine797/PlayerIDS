@@ -1,0 +1,7 @@
+Name: TOASTVR
+ActorNumber: 119
+PlayerID: E897257AF0C33D7A
+Platform: Standalone
+AccountCreationDate: 2022-03-20 15:53:28 UTC
+Color: R=0.44 G=0.00 B=0.78
+Cosmetics: None

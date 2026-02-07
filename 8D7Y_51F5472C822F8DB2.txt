@@ -1,0 +1,7 @@
+Name: SHADOW
+ActorNumber: 938
+PlayerID: 51F5472C822F8DB2
+Platform: Standalone
+AccountCreationDate: 2025-12-25 14:55:23 UTC
+Color: R=0.00 G=0.00 B=1.00
+Cosmetics: None

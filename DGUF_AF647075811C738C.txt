@@ -1,0 +1,7 @@
+Name: JESUSLOVESUS
+ActorNumber: 210
+PlayerID: AF647075811C738C
+Platform: Standalone
+AccountCreationDate: 2025-12-26 05:21:36 UTC
+Color: R=0.67 G=0.56 B=0.67
+Cosmetics: None

@@ -1,0 +1,7 @@
+Name: GORILLA
+ActorNumber: 507
+PlayerID: C694DEE96D59B1A2
+Platform: Unknown
+AccountCreationDate: 2022-06-18 23:22:47 UTC
+Color: R=0.44 G=0.44 B=0.56
+Cosmetics: None

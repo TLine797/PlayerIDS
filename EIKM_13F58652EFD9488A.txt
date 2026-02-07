@@ -1,0 +1,7 @@
+Name: VALVEINDEX
+ActorNumber: 538
+PlayerID: 13F58652EFD9488A
+Platform: Standalone
+AccountCreationDate: 2024-12-16 19:15:24 UTC
+Color: R=0.00 G=1.00 B=0.00
+Cosmetics: None

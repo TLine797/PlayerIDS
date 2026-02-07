@@ -1,0 +1,7 @@
+Name: CUTEFEMBOY
+ActorNumber: 704
+PlayerID: B4D72933FD8AFAA7
+Platform: Standalone
+AccountCreationDate: 2025-11-02 01:59:03 UTC
+Color: R=1.00 G=0.67 B=1.00
+Cosmetics: None

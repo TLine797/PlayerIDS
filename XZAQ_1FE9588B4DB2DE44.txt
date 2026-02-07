@@ -1,0 +1,7 @@
+Name: MEENCANTA
+ActorNumber: 537
+PlayerID: 1FE9588B4DB2DE44
+Platform: Unknown
+AccountCreationDate: 2021-10-20 00:45:06 UTC
+Color: R=0.44 G=0.00 B=0.78
+Cosmetics: None

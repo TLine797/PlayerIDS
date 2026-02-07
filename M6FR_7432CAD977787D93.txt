@@ -1,0 +1,7 @@
+Name: VNCNM
+ActorNumber: 421
+PlayerID: 7432CAD977787D93
+Platform: Standalone
+AccountCreationDate: 2026-01-24 23:52:58 UTC
+Color: R=0.00 G=0.97 B=1.00
+Cosmetics: None

@@ -1,0 +1,7 @@
+Name: GORILLA76543
+ActorNumber: 344
+PlayerID: 3B48799848F59FAB
+Platform: Standalone
+AccountCreationDate: 2024-11-10 03:52:11 UTC
+Color: R=1.00 G=0.00 B=0.51
+Cosmetics: None

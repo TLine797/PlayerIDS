@@ -1,0 +1,7 @@
+Name: MS
+ActorNumber: 594
+PlayerID: 86157220BB69E78B
+Platform: Standalone
+AccountCreationDate: 2023-10-04 00:37:06 UTC
+Color: R=0.22 G=0.22 B=0.33
+Cosmetics: None

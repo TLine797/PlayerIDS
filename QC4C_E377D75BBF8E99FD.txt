@@ -1,0 +1,7 @@
+Name: HI
+ActorNumber: 163
+PlayerID: E377D75BBF8E99FD
+Platform: Standalone
+AccountCreationDate: 2024-09-08 19:34:09 UTC
+Color: R=0.22 G=0.22 B=0.44
+Cosmetics: None

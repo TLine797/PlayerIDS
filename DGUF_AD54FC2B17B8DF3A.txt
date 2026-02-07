@@ -1,0 +1,7 @@
+Name: IMDEAF
+ActorNumber: 205
+PlayerID: AD54FC2B17B8DF3A
+Platform: Standalone
+AccountCreationDate: 2023-12-25 16:48:06 UTC
+Color: R=0.00 G=0.67 B=1.00
+Cosmetics: None

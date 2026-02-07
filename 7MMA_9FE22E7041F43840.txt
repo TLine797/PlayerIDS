@@ -1,0 +1,7 @@
+Name: DDDPO
+ActorNumber: 506
+PlayerID: 9FE22E7041F43840
+Platform: Standalone
+AccountCreationDate: 2025-12-25 18:09:35 UTC
+Color: R=0.89 G=0.78 B=0.00
+Cosmetics: None

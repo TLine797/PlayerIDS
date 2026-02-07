@@ -1,0 +1,7 @@
+Name: FROGYGT46K
+ActorNumber: 35
+PlayerID: E54F8AA94FE2E9BF
+Platform: PC
+AccountCreationDate: 2022-02-10 19:31:12 UTC
+Color: R=0.78 G=1.00 B=0.44
+Cosmetics: None

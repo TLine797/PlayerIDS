@@ -1,0 +1,7 @@
+Name: SYLVESTER
+ActorNumber: 35
+PlayerID: 666756F5DCF06DCB
+Platform: Unknown
+AccountCreationDate: 2022-09-04 06:17:03 UTC
+Color: R=0.11 G=0.22 B=0.44
+Cosmetics: None

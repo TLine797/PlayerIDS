@@ -1,0 +1,7 @@
+Name: FXRCE
+ActorNumber: 23
+PlayerID: 530E0EC473ECA29A
+Platform: PC
+AccountCreationDate: 2022-01-01 23:50:24 UTC
+Color: R=0.00 G=0.00 B=1.00
+Cosmetics: None

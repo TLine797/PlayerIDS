@@ -1,0 +1,7 @@
+Name: BOB
+ActorNumber: 264
+PlayerID: 6D55841E27F80B86
+Platform: Standalone
+AccountCreationDate: 2023-07-30 14:35:44 UTC
+Color: R=0.00 G=0.00 B=1.00
+Cosmetics: None

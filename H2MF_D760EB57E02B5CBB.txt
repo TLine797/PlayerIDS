@@ -1,0 +1,7 @@
+Name: gorilla0528
+ActorNumber: 177
+PlayerID: D760EB57E02B5CBB
+Platform: Standalone
+AccountCreationDate: 2024-05-01 21:41:40 UTC
+Color: R=0.33 G=0.00 B=0.78
+Cosmetics: None

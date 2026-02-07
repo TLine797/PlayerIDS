@@ -1,0 +1,7 @@
+Name: HI
+ActorNumber: 467
+PlayerID: 9845C4DA21E62B1B
+Platform: Standalone
+AccountCreationDate: 2024-09-29 02:51:03 UTC
+Color: R=0.00 G=1.00 B=0.00
+Cosmetics: None

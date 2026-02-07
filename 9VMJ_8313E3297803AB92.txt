@@ -1,0 +1,7 @@
+Name: GGS
+ActorNumber: 867
+PlayerID: 8313E3297803AB92
+Platform: Standalone
+AccountCreationDate: 2025-12-25 13:55:28 UTC
+Color: R=0.56 G=0.00 B=0.00
+Cosmetics: None

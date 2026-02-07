@@ -1,0 +1,7 @@
+Name: SHAQ
+ActorNumber: 695
+PlayerID: 1C49EA5DBD4A29F9
+Platform: Unknown
+AccountCreationDate: 2025-12-25 22:18:28 UTC
+Color: R=0.00 G=0.11 B=0.33
+Cosmetics: None

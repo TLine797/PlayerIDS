@@ -1,0 +1,7 @@
+Name: RANDOMMONKE
+ActorNumber: 49
+PlayerID: 1D0485E8A032B1E2
+Platform: Standalone
+AccountCreationDate: 2025-04-24 19:45:56 UTC
+Color: R=0.00 G=1.00 B=0.67
+Cosmetics: None

@@ -1,0 +1,7 @@
+Name: TITANGOOBERR
+ActorNumber: 415
+PlayerID: 7CB0F344C9F7EBA5
+Platform: Standalone
+AccountCreationDate: 2023-06-19 23:44:55 UTC
+Color: R=0.56 G=0.00 B=0.89
+Cosmetics: None

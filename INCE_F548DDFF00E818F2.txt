@@ -1,0 +1,7 @@
+Name: FROST
+ActorNumber: 740
+PlayerID: F548DDFF00E818F2
+Platform: Standalone
+AccountCreationDate: 2025-11-28 01:30:37 UTC
+Color: R=0.44 G=0.00 B=1.00
+Cosmetics: None

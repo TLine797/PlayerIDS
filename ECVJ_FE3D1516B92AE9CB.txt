@@ -1,0 +1,7 @@
+Name: gorilla1816
+ActorNumber: 296
+PlayerID: FE3D1516B92AE9CB
+Platform: Standalone
+AccountCreationDate: 2023-12-29 01:19:58 UTC
+Color: R=1.00 G=0.67 B=0.00
+Cosmetics: None

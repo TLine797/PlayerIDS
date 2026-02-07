@@ -1,0 +1,7 @@
+Name: POE
+ActorNumber: 19
+PlayerID: 9F7A2FB124991BC7
+Platform: Unknown
+AccountCreationDate: 2022-02-04 19:57:49 UTC
+Color: R=0.00 G=0.00 B=0.00
+Cosmetics: None

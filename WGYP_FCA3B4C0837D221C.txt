@@ -1,0 +1,7 @@
+Name: AMRTCM
+ActorNumber: 3717
+PlayerID: FCA3B4C0837D221C
+Platform: Standalone
+AccountCreationDate: 2024-10-27 11:25:05 UTC
+Color: R=1.00 G=0.22 B=0.22
+Cosmetics: None

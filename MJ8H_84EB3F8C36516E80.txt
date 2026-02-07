@@ -1,0 +1,7 @@
+Name: SALTYBASTIA
+ActorNumber: 48
+PlayerID: 84EB3F8C36516E80
+Platform: Standalone
+AccountCreationDate: 2023-12-25 21:29:15 UTC
+Color: R=0.44 G=0.00 B=0.78
+Cosmetics: None

@@ -1,0 +1,7 @@
+Name: DABIGKNOX
+ActorNumber: 208
+PlayerID: 5AF3288E7A59AD4A
+Platform: Unknown
+AccountCreationDate: 2022-05-02 21:28:22 UTC
+Color: R=1.00 G=0.33 B=0.56
+Cosmetics: None

@@ -1,0 +1,7 @@
+Name: BANANANANANA
+ActorNumber: 835
+PlayerID: 49CB995B4C3CF230
+Platform: Standalone
+AccountCreationDate: 2023-07-28 01:05:36 UTC
+Color: R=0.33 G=0.22 B=0.22
+Cosmetics: None

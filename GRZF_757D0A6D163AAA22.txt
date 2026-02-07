@@ -1,0 +1,7 @@
+Name: GLTFLY
+ActorNumber: 33
+PlayerID: 757D0A6D163AAA22
+Platform: Standalone
+AccountCreationDate: 2025-05-25 09:26:44 UTC
+Color: R=1.00 G=0.00 B=0.33
+Cosmetics: None

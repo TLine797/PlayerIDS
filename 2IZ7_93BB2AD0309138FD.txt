@@ -1,0 +1,7 @@
+Name: BOT7
+ActorNumber: 175
+PlayerID: 93BB2AD0309138FD
+Platform: PC
+AccountCreationDate: 2024-12-25 04:30:36 UTC
+Color: R=1.00 G=0.22 B=0.00
+Cosmetics: None

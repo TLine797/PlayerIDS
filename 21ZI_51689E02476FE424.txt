@@ -1,0 +1,7 @@
+Name: ELIANA
+ActorNumber: 74
+PlayerID: 51689E02476FE424
+Platform: Standalone
+AccountCreationDate: 2022-02-14 00:01:39 UTC
+Color: R=1.00 G=1.00 B=1.00
+Cosmetics: None

@@ -1,0 +1,7 @@
+Name: BLOOM
+ActorNumber: 138
+PlayerID: 283917E617527DB2
+Platform: Unknown
+AccountCreationDate: 2022-12-25 15:20:17 UTC
+Color: R=0.00 G=0.00 B=1.00
+Cosmetics: None

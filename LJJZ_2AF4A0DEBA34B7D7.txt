@@ -1,0 +1,7 @@
+Name: gorillaSSSEE
+ActorNumber: 1354
+PlayerID: 2AF4A0DEBA34B7D7
+Platform: Standalone
+AccountCreationDate: 2025-12-19 21:24:14 UTC
+Color: R=0.00 G=1.00 B=1.00
+Cosmetics: None

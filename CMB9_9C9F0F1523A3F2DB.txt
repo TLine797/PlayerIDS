@@ -1,0 +1,7 @@
+Name: DASHER
+ActorNumber: 5841
+PlayerID: 9C9F0F1523A3F2DB
+Platform: Standalone
+AccountCreationDate: 2026-01-16 01:58:55 UTC
+Color: R=0.56 G=0.22 B=0.67
+Cosmetics: None

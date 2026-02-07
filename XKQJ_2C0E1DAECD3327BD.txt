@@ -1,0 +1,7 @@
+Name: VELOCITY
+ActorNumber: 439
+PlayerID: 2C0E1DAECD3327BD
+Platform: Standalone
+AccountCreationDate: 2026-01-16 05:56:49 UTC
+Color: R=0.44 G=0.00 B=0.78
+Cosmetics: None

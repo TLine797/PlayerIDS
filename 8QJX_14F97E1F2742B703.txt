@@ -1,0 +1,7 @@
+Name: C
+ActorNumber: 510
+PlayerID: 14F97E1F2742B703
+Platform: Standalone
+AccountCreationDate: 2026-01-25 02:41:54 UTC
+Color: R=0.44 G=0.00 B=0.78
+Cosmetics: None

@@ -1,0 +1,7 @@
+Name: gorilla8234
+ActorNumber: 2367
+PlayerID: 490D802FCDDCBBB8
+Platform: Standalone
+AccountCreationDate: 2025-03-07 04:53:15 UTC
+Color: R=1.00 G=0.78 B=0.89
+Cosmetics: None

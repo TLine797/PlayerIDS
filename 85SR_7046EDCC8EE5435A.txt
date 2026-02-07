@@ -1,0 +1,7 @@
+Name: DP9VR
+ActorNumber: 112
+PlayerID: 7046EDCC8EE5435A
+Platform: Standalone
+AccountCreationDate: 2025-12-25 08:19:18 UTC
+Color: R=1.00 G=0.00 B=1.00
+Cosmetics: None

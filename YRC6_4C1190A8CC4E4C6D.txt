@@ -1,0 +1,7 @@
+Name: EMMA
+ActorNumber: 122
+PlayerID: 4C1190A8CC4E4C6D
+Platform: Unknown
+AccountCreationDate: 2022-01-03 20:45:05 UTC
+Color: R=0.00 G=0.67 B=1.00
+Cosmetics: None

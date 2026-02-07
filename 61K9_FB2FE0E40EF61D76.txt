@@ -1,0 +1,7 @@
+Name: ERRORFAKE
+ActorNumber: 1229
+PlayerID: FB2FE0E40EF61D76
+Platform: Standalone
+AccountCreationDate: 2025-12-13 01:00:14 UTC
+Color: R=0.00 G=0.00 B=0.00
+Cosmetics: None

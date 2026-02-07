@@ -1,0 +1,7 @@
+Name: DGMGTFY5ESC
+ActorNumber: 360
+PlayerID: B146D10DDF24746E
+Platform: Standalone
+AccountCreationDate: 2025-02-05 23:24:51 UTC
+Color: R=0.67 G=0.67 B=0.67
+Cosmetics: None

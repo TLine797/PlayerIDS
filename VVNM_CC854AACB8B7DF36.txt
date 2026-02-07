@@ -1,0 +1,7 @@
+Name: FETHERMONKEY
+ActorNumber: 187
+PlayerID: CC854AACB8B7DF36
+Platform: Standalone
+AccountCreationDate: 2024-02-03 16:55:05 UTC
+Color: R=0.33 G=0.33 B=1.00
+Cosmetics: None

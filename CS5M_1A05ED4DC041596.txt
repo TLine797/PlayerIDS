@@ -1,0 +1,7 @@
+Name: TMTPARK
+ActorNumber: 51
+PlayerID: 1A05ED4DC041596
+Platform: Standalone
+AccountCreationDate: 2025-12-28 23:06:15 UTC
+Color: R=0.22 G=0.78 B=0.00
+Cosmetics: None

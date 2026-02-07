@@ -1,0 +1,7 @@
+Name: BUNNY
+ActorNumber: 806
+PlayerID: 78098776F95E7F95
+Platform: Unknown
+AccountCreationDate: 2022-09-27 02:05:17 UTC
+Color: R=1.00 G=1.00 B=1.00
+Cosmetics: None

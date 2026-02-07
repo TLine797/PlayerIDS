@@ -1,0 +1,7 @@
+Name: CHEIFMINTED
+ActorNumber: 254
+PlayerID: EAB344F76A16E9BE
+Platform: Standalone
+AccountCreationDate: 2024-11-11 01:24:03 UTC
+Color: R=0.33 G=1.00 B=0.67
+Cosmetics: None

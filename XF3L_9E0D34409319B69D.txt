@@ -1,0 +1,7 @@
+Name: GIGGLESHIT
+ActorNumber: 43
+PlayerID: 9E0D34409319B69D
+Platform: Unknown
+AccountCreationDate: 2023-01-05 01:55:16 UTC
+Color: R=0.56 G=0.33 B=0.56
+Cosmetics: None

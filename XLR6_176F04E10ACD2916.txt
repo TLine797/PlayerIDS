@@ -1,0 +1,7 @@
+Name: PBGMANI
+ActorNumber: 487
+PlayerID: 176F04E10ACD2916
+Platform: Standalone
+AccountCreationDate: 2023-10-29 21:11:20 UTC
+Color: R=1.00 G=0.67 B=0.44
+Cosmetics: None

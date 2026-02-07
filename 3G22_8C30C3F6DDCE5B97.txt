@@ -1,0 +1,7 @@
+Name: SYNCLOVESYA
+ActorNumber: 927
+PlayerID: 8C30C3F6DDCE5B97
+Platform: Unknown
+AccountCreationDate: 2021-12-16 01:03:06 UTC
+Color: R=1.00 G=1.00 B=0.44
+Cosmetics: None

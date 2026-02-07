@@ -1,0 +1,7 @@
+Name: Y4KKZ
+ActorNumber: 312
+PlayerID: 9B0DDDCC04B7D74F
+Platform: Standalone
+AccountCreationDate: 2026-01-03 18:53:37 UTC
+Color: R=0.22 G=0.44 B=0.78
+Cosmetics: None

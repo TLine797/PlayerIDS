@@ -1,0 +1,7 @@
+Name: CRUNCHYFRIES
+ActorNumber: 443
+PlayerID: 451BB47F752A8299
+Platform: Standalone
+AccountCreationDate: 2023-08-19 21:34:22 UTC
+Color: R=0.00 G=0.00 B=0.00
+Cosmetics: None

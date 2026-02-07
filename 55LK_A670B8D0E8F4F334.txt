@@ -1,0 +1,7 @@
+Name: BRIGGS
+ActorNumber: 707
+PlayerID: A670B8D0E8F4F334
+Platform: Unknown
+AccountCreationDate: 2021-11-28 01:06:50 UTC
+Color: R=1.00 G=1.00 B=1.00
+Cosmetics: None

@@ -1,0 +1,7 @@
+Name: TEKISCOOL
+ActorNumber: 732
+PlayerID: C7B2E8FD2F6BF047
+Platform: Standalone
+AccountCreationDate: 2024-03-25 11:35:16 UTC
+Color: R=1.00 G=1.00 B=1.00
+Cosmetics: None

@@ -1,0 +1,7 @@
+Name: K5
+ActorNumber: 176
+PlayerID: 1EA7A619C6A77544
+Platform: Unknown
+AccountCreationDate: 2022-12-25 09:29:06 UTC
+Color: R=0.56 G=0.22 B=0.67
+Cosmetics: None

@@ -1,0 +1,7 @@
+Name: THEO
+ActorNumber: 2004
+PlayerID: 30602CF5872DC820
+Platform: Standalone
+AccountCreationDate: 2023-12-25 15:31:54 UTC
+Color: R=0.67 G=0.00 B=1.00
+Cosmetics: None

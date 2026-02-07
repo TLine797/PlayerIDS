@@ -1,0 +1,7 @@
+Name: BANANABRO1
+ActorNumber: 37
+PlayerID: C576C1C1521D42F7
+Platform: Standalone
+AccountCreationDate: 2023-12-17 19:34:38 UTC
+Color: R=0.00 G=0.00 B=0.33
+Cosmetics: None

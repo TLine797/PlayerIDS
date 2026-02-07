@@ -1,0 +1,7 @@
+Name: gorilla5814
+ActorNumber: 436
+PlayerID: A7FF9446C70441BA
+Platform: Standalone
+AccountCreationDate: 2025-12-25 05:42:27 UTC
+Color: R=0.00 G=0.33 B=1.00
+Cosmetics: None

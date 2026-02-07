@@ -1,0 +1,7 @@
+Name: SHAZZA
+ActorNumber: 554
+PlayerID: A48BBC8405432B93
+Platform: Unknown
+AccountCreationDate: 2022-12-25 12:27:18 UTC
+Color: R=0.56 G=0.33 B=0.00
+Cosmetics: None

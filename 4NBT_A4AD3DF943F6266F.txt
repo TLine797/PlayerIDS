@@ -1,0 +1,7 @@
+Name: RUSSIAN
+ActorNumber: 1498
+PlayerID: A4AD3DF943F6266F
+Platform: Standalone
+AccountCreationDate: 2023-06-12 18:10:25 UTC
+Color: R=0.00 G=0.00 B=0.00
+Cosmetics: None

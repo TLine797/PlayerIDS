@@ -1,0 +1,7 @@
+Name: TTCCLAN
+ActorNumber: 808
+PlayerID: 892E7DD972C54B47
+Platform: Standalone
+AccountCreationDate: 2023-06-21 18:47:52 UTC
+Color: R=0.00 G=1.00 B=0.00
+Cosmetics: None

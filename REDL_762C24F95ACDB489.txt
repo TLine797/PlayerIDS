@@ -1,0 +1,7 @@
+Name: CLAV
+ActorNumber: 892
+PlayerID: 762C24F95ACDB489
+Platform: Standalone
+AccountCreationDate: 2026-01-12 20:44:38 UTC
+Color: R=0.44 G=0.00 B=1.00
+Cosmetics: None

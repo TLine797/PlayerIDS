@@ -1,0 +1,7 @@
+Name: G
+ActorNumber: 74
+PlayerID: 80DAF2D49BE1B63E
+Platform: Standalone
+AccountCreationDate: 2024-05-14 01:49:30 UTC
+Color: R=0.56 G=0.00 B=0.78
+Cosmetics: None

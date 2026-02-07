@@ -1,0 +1,7 @@
+Name: 5ANIVERSERY
+ActorNumber: 225
+PlayerID: DEBFC892732F272E
+Platform: Standalone
+AccountCreationDate: 2025-12-25 17:48:10 UTC
+Color: R=0.56 G=0.44 B=0.56
+Cosmetics: None

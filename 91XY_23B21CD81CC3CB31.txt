@@ -1,0 +1,7 @@
+Name: TPSELAVATE
+ActorNumber: 28
+PlayerID: 23B21CD81CC3CB31
+Platform: Standalone
+AccountCreationDate: 2024-06-04 15:06:06 UTC
+Color: R=0.33 G=0.00 B=0.67
+Cosmetics: None

@@ -1,0 +1,7 @@
+Name: GORILLA
+ActorNumber: 290
+PlayerID: 921D71B1F74E7
+Platform: Standalone
+AccountCreationDate: 2025-12-25 17:05:54 UTC
+Color: R=0.89 G=0.00 B=0.00
+Cosmetics: None

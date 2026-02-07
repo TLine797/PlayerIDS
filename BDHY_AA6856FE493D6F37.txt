@@ -1,0 +1,7 @@
+Name: NICK
+ActorNumber: 267
+PlayerID: AA6856FE493D6F37
+Platform: Unknown
+AccountCreationDate: 2021-08-07 03:59:00 UTC
+Color: R=0.00 G=0.00 B=0.00
+Cosmetics: None

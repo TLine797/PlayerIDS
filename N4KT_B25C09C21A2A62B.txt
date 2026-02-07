@@ -1,0 +1,7 @@
+Name: A1FREDERICK
+ActorNumber: 693
+PlayerID: B25C09C21A2A62B
+Platform: Standalone
+AccountCreationDate: 2023-12-25 19:21:44 UTC
+Color: R=0.11 G=0.22 B=1.00
+Cosmetics: None

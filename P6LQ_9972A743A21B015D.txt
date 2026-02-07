@@ -1,0 +1,7 @@
+Name: TMAALEX
+ActorNumber: 1312
+PlayerID: 9972A743A21B015D
+Platform: Unknown
+AccountCreationDate: 2022-01-25 01:18:14 UTC
+Color: R=0.22 G=1.00 B=0.44
+Cosmetics: None

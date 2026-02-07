@@ -1,0 +1,7 @@
+Name: M
+ActorNumber: 10
+PlayerID: BC0B1BB4839CA6F4
+Platform: Standalone
+AccountCreationDate: 2025-01-24 01:10:10 UTC
+Color: R=0.44 G=0.00 B=0.00
+Cosmetics: None

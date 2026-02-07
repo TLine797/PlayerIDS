@@ -1,0 +1,7 @@
+Name: SHADOW
+ActorNumber: 130
+PlayerID: 8A8C0637A5156604
+Platform: Standalone
+AccountCreationDate: 2025-12-25 15:56:23 UTC
+Color: R=0.00 G=0.00 B=0.00
+Cosmetics: None

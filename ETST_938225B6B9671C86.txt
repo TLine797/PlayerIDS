@@ -1,0 +1,7 @@
+Name: REZXYYY
+ActorNumber: 1222
+PlayerID: 938225B6B9671C86
+Platform: Standalone
+AccountCreationDate: 2025-12-24 01:45:47 UTC
+Color: R=1.00 G=0.50 B=0.00
+Cosmetics: None

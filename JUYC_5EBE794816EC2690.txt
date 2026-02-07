@@ -1,0 +1,7 @@
+Name: gorilla2412
+ActorNumber: 738
+PlayerID: 5EBE794816EC2690
+Platform: Standalone
+AccountCreationDate: 2025-12-25 13:45:09 UTC
+Color: R=0.11 G=0.56 B=1.00
+Cosmetics: None

@@ -1,0 +1,7 @@
+Name: GODLOVESYOU
+ActorNumber: 319
+PlayerID: 2788E5E006B239C5
+Platform: Standalone
+AccountCreationDate: 2024-12-24 06:10:08 UTC
+Color: R=0.44 G=0.00 B=0.00
+Cosmetics: None

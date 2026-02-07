@@ -1,0 +1,7 @@
+Name: GOOBER
+ActorNumber: 892
+PlayerID: 8F7DE4168D4CD935
+Platform: Unknown
+AccountCreationDate: 2023-01-03 21:19:53 UTC
+Color: R=1.00 G=0.00 B=0.22
+Cosmetics: None

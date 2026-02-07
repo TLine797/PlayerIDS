@@ -1,0 +1,7 @@
+Name: ER1K
+ActorNumber: 483
+PlayerID: 6FE8FAA459ECA10C
+Platform: Unknown
+AccountCreationDate: 2022-12-18 17:56:27 UTC
+Color: R=0.56 G=0.78 B=1.00
+Cosmetics: None

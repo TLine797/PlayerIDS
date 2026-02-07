@@ -1,0 +1,7 @@
+Name: gorilla1416
+ActorNumber: 297
+PlayerID: FD449C5BB5EAF194
+Platform: Standalone
+AccountCreationDate: 2025-04-07 21:01:22 UTC
+Color: R=0.44 G=0.00 B=0.89
+Cosmetics: None

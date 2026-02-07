@@ -1,0 +1,7 @@
+Name: ZUP
+ActorNumber: 128
+PlayerID: 538F2792419E2FB3
+Platform: Standalone
+AccountCreationDate: 2024-11-05 19:06:17 UTC
+Color: R=1.00 G=0.44 B=0.00
+Cosmetics: None

@@ -1,0 +1,7 @@
+Name: TTJBEARDY
+ActorNumber: 213
+PlayerID: 362D87D53C01E337
+Platform: Standalone
+AccountCreationDate: 2023-12-25 13:46:50 UTC
+Color: R=0.00 G=0.89 B=0.22
+Cosmetics: None

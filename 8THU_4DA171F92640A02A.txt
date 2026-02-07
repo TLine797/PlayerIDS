@@ -1,0 +1,7 @@
+Name: IMONPICO
+ActorNumber: 226
+PlayerID: 4DA171F92640A02A
+Platform: Standalone
+AccountCreationDate: 2025-12-05 01:11:07 UTC
+Color: R=0.44 G=0.00 B=1.00
+Cosmetics: None

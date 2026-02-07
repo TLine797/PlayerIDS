@@ -1,0 +1,7 @@
+Name: REINDEER
+ActorNumber: 1950
+PlayerID: 11DCE0EC26E61091
+Platform: Unknown
+AccountCreationDate: 2022-12-23 11:03:04 UTC
+Color: R=0.33 G=0.22 B=0.11
+Cosmetics: None

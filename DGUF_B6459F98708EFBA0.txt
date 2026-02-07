@@ -1,0 +1,7 @@
+Name: LITTLEBANNED
+ActorNumber: 202
+PlayerID: B6459F98708EFBA0
+Platform: Standalone
+AccountCreationDate: 2024-01-02 00:35:08 UTC
+Color: R=0.09 G=0.20 B=0.15
+Cosmetics: None

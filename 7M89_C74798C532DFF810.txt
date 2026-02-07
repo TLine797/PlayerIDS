@@ -1,0 +1,7 @@
+Name: TCR
+ActorNumber: 18
+PlayerID: C74798C532DFF810
+Platform: Standalone
+AccountCreationDate: 2024-02-03 18:28:03 UTC
+Color: R=0.44 G=0.00 B=0.78
+Cosmetics: None

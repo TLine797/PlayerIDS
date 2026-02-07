@@ -1,0 +1,7 @@
+Name: SATURN
+ActorNumber: 809
+PlayerID: C025B06C8A1ABEAC
+Platform: Standalone
+AccountCreationDate: 2025-01-11 02:19:00 UTC
+Color: R=0.00 G=0.00 B=0.00
+Cosmetics: None

@@ -1,0 +1,7 @@
+Name: NUT
+ActorNumber: 1417
+PlayerID: 3E22A4EE1DA41A51
+Platform: Standalone
+AccountCreationDate: 2024-07-26 16:09:40 UTC
+Color: R=1.00 G=1.00 B=1.00
+Cosmetics: None

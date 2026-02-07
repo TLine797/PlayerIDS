@@ -1,0 +1,7 @@
+Name: KYLE999
+ActorNumber: 816
+PlayerID: ECA81A5438F345D3
+Platform: Standalone
+AccountCreationDate: 2023-04-30 19:31:22 UTC
+Color: R=1.00 G=1.00 B=1.00
+Cosmetics: None

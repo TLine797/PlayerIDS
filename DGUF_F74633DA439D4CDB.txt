@@ -1,0 +1,7 @@
+Name: PARADISE
+ActorNumber: 204
+PlayerID: F74633DA439D4CDB
+Platform: Standalone
+AccountCreationDate: 2021-08-07 19:16:11 UTC
+Color: R=0.22 G=0.00 B=0.78
+Cosmetics: None

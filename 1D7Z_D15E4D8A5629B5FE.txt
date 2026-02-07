@@ -1,0 +1,7 @@
+Name: TSOKYE
+ActorNumber: 568
+PlayerID: D15E4D8A5629B5FE
+Platform: Unknown
+AccountCreationDate: 2022-02-06 22:02:34 UTC
+Color: R=0.00 G=0.00 B=0.00
+Cosmetics: None

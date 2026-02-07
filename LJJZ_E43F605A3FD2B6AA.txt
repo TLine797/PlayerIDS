@@ -1,0 +1,7 @@
+Name: JEFF
+ActorNumber: 1349
+PlayerID: E43F605A3FD2B6AA
+Platform: Unknown
+AccountCreationDate: 2023-06-17 01:25:42 UTC
+Color: R=1.00 G=0.78 B=1.00
+Cosmetics: None

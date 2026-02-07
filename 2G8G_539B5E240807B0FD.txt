@@ -1,0 +1,7 @@
+Name: IBUPROFEN
+ActorNumber: 15
+PlayerID: 539B5E240807B0FD
+Platform: Unknown
+AccountCreationDate: 2026-01-12 21:43:08 UTC
+Color: R=0.67 G=0.67 B=1.00
+Cosmetics: None

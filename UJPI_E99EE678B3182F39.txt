@@ -1,0 +1,7 @@
+Name: ZUZA
+ActorNumber: 131
+PlayerID: E99EE678B3182F39
+Platform: Standalone
+AccountCreationDate: 2023-09-24 22:41:10 UTC
+Color: R=0.00 G=0.00 B=0.00
+Cosmetics: None

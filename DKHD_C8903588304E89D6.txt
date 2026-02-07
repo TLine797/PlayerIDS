@@ -1,0 +1,7 @@
+Name: BLITZO
+ActorNumber: 1411
+PlayerID: C8903588304E89D6
+Platform: Standalone
+AccountCreationDate: 2023-12-19 22:18:09 UTC
+Color: R=1.00 G=1.00 B=0.00
+Cosmetics: None

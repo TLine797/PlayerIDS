@@ -1,0 +1,7 @@
+Name: SHELESS
+ActorNumber: 785
+PlayerID: CE614C5E1CF512EC
+Platform: Standalone
+AccountCreationDate: 2025-12-25 14:53:32 UTC
+Color: R=1.00 G=0.00 B=0.00
+Cosmetics: None

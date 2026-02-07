@@ -1,0 +1,7 @@
+Name: RTRWIG
+ActorNumber: 1516
+PlayerID: 5074C9C6649724F1
+Platform: Standalone
+AccountCreationDate: 2024-01-18 03:13:39 UTC
+Color: R=0.78 G=0.00 B=0.22
+Cosmetics: None

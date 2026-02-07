@@ -1,0 +1,7 @@
+Name: PARZAVAL
+ActorNumber: 505
+PlayerID: A7EBEF4C77148F6E
+Platform: Standalone
+AccountCreationDate: 2026-01-01 21:20:41 UTC
+Color: R=0.00 G=1.00 B=1.00
+Cosmetics: None

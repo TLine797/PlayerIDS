@@ -1,0 +1,7 @@
+Name: BIGRED
+ActorNumber: 1221
+PlayerID: CF60DAAB39A1A275
+Platform: Unknown
+AccountCreationDate: 2022-03-20 20:36:20 UTC
+Color: R=0.89 G=0.00 B=0.00
+Cosmetics: None

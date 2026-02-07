@@ -1,0 +1,7 @@
+Name: I
+ActorNumber: 1205
+PlayerID: 7FF3E6BF4D644526
+Platform: Unknown
+AccountCreationDate: 2023-01-29 21:10:41 UTC
+Color: R=0.15 G=0.43 B=0.98
+Cosmetics: None

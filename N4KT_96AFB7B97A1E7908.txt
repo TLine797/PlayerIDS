@@ -1,0 +1,7 @@
+Name: SIRGORILLA
+ActorNumber: 692
+PlayerID: 96AFB7B97A1E7908
+Platform: Standalone
+AccountCreationDate: 2025-04-11 12:55:04 UTC
+Color: R=0.56 G=0.56 B=0.67
+Cosmetics: None

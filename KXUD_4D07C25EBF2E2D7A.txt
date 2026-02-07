@@ -1,0 +1,7 @@
+Name: ITZ6
+ActorNumber: 550
+PlayerID: 4D07C25EBF2E2D7A
+Platform: Standalone
+AccountCreationDate: 2024-06-10 20:01:26 UTC
+Color: R=0.00 G=0.44 B=1.00
+Cosmetics: None

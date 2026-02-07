@@ -1,0 +1,7 @@
+Name: COOKIE
+ActorNumber: 49
+PlayerID: 6F3585156AD34DAB
+Platform: Standalone
+AccountCreationDate: 2024-12-25 15:45:29 UTC
+Color: R=0.67 G=0.56 B=0.89
+Cosmetics: None

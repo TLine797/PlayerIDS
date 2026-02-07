@@ -1,0 +1,7 @@
+Name: DREX
+ActorNumber: 4038
+PlayerID: 2D0FB212D8E4AF48
+Platform: Standalone
+AccountCreationDate: 2022-12-25 20:25:48 UTC
+Color: R=0.44 G=0.00 B=1.00
+Cosmetics: None

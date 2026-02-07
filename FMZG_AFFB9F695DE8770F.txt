@@ -1,0 +1,7 @@
+Name: MP40
+ActorNumber: 1090
+PlayerID: AFFB9F695DE8770F
+Platform: Standalone
+AccountCreationDate: 2025-04-24 23:04:43 UTC
+Color: R=0.56 G=1.00 B=0.67
+Cosmetics: None

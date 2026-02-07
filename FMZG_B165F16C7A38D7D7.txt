@@ -1,0 +1,7 @@
+Name: CWSBEN
+ActorNumber: 845
+PlayerID: B165F16C7A38D7D7
+Platform: PC
+AccountCreationDate: 2024-12-26 19:04:40 UTC
+Color: R=0.33 G=0.22 B=1.00
+Cosmetics: None

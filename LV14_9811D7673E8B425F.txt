@@ -1,0 +1,7 @@
+Name: GOOSE
+ActorNumber: 303
+PlayerID: 9811D7673E8B425F
+Platform: Standalone
+AccountCreationDate: 2026-01-03 05:55:23 UTC
+Color: R=0.44 G=1.00 B=0.78
+Cosmetics: None

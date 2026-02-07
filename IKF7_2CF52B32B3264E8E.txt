@@ -1,0 +1,7 @@
+Name: gorilla
+ActorNumber: 83
+PlayerID: 2CF52B32B3264E8E
+Platform: Standalone
+AccountCreationDate: 2023-03-16 01:51:27 UTC
+Color: R=1.00 G=1.00 B=0.56
+Cosmetics: None

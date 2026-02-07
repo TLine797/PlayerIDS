@@ -1,0 +1,7 @@
+Name: PLANE
+ActorNumber: 180
+PlayerID: CCB65D33A58AF008
+Platform: Standalone
+AccountCreationDate: 2025-12-24 16:16:52 UTC
+Color: R=0.00 G=0.00 B=0.00
+Cosmetics: None

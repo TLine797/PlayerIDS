@@ -1,0 +1,7 @@
+Name: ZEUS
+ActorNumber: 350
+PlayerID: CAC110D9ED181089
+Platform: Standalone
+AccountCreationDate: 2025-01-22 21:54:59 UTC
+Color: R=1.00 G=1.00 B=1.00
+Cosmetics: None

@@ -1,0 +1,7 @@
+Name: BORINGATHENA
+ActorNumber: 5657
+PlayerID: B975AC58F3343B96
+Platform: Standalone
+AccountCreationDate: 2026-01-07 21:43:34 UTC
+Color: R=0.44 G=0.33 B=0.67
+Cosmetics: None

@@ -1,0 +1,7 @@
+Name: BUDDYCUTBOY
+ActorNumber: 1260
+PlayerID: 411458AAF61D48F4
+Platform: Standalone
+AccountCreationDate: 2024-12-25 16:17:01 UTC
+Color: R=1.00 G=0.44 B=0.56
+Cosmetics: None

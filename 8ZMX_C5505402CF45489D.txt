@@ -1,0 +1,7 @@
+Name: ELK
+ActorNumber: 31
+PlayerID: C5505402CF45489D
+Platform: Standalone
+AccountCreationDate: 2024-05-12 14:22:13 UTC
+Color: R=0.44 G=0.44 B=1.00
+Cosmetics: None

@@ -1,0 +1,7 @@
+Name: KID
+ActorNumber: 123
+PlayerID: AC9A81C5F7B4BC2A
+Platform: Standalone
+AccountCreationDate: 2024-12-22 17:31:59 UTC
+Color: R=0.00 G=0.00 B=1.00
+Cosmetics: None

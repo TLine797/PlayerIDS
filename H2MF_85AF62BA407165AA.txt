@@ -1,0 +1,7 @@
+Name: MONKEYMAN
+ActorNumber: 169
+PlayerID: 85AF62BA407165AA
+Platform: Standalone
+AccountCreationDate: 2025-12-25 18:54:20 UTC
+Color: R=0.00 G=0.00 B=0.00
+Cosmetics: None

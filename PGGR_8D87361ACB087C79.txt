@@ -1,0 +1,7 @@
+Name: IBMN
+ActorNumber: 1960
+PlayerID: 8D87361ACB087C79
+Platform: Standalone
+AccountCreationDate: 2023-10-02 13:44:08 UTC
+Color: R=1.00 G=0.67 B=1.00
+Cosmetics: None

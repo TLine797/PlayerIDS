@@ -1,0 +1,7 @@
+Name: CHANCE
+ActorNumber: 669
+PlayerID: D7105C907C356164
+Platform: Standalone
+AccountCreationDate: 2025-12-25 17:59:47 UTC
+Color: R=0.22 G=0.22 B=0.22
+Cosmetics: None

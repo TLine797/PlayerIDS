@@ -1,0 +1,7 @@
+Name: TYSPY
+ActorNumber: 107
+PlayerID: D7C8C602972561DF
+Platform: Unknown
+AccountCreationDate: 2021-12-25 00:17:30 UTC
+Color: R=0.89 G=0.78 B=0.56
+Cosmetics: None

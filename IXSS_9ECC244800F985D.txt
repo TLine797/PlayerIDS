@@ -1,0 +1,7 @@
+Name: MINDSET
+ActorNumber: 394
+PlayerID: 9ECC244800F985D
+Platform: Standalone
+AccountCreationDate: 2025-12-25 20:05:07 UTC
+Color: R=0.00 G=0.78 B=0.56
+Cosmetics: None

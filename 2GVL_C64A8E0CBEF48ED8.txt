@@ -1,0 +1,7 @@
+Name: DAISY09
+ActorNumber: 204
+PlayerID: C64A8E0CBEF48ED8
+Platform: Standalone
+AccountCreationDate: 2023-08-19 14:55:19 UTC
+Color: R=0.00 G=0.00 B=0.00
+Cosmetics: None

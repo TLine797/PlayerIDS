@@ -1,0 +1,7 @@
+Name: HTREWSC
+ActorNumber: 1184
+PlayerID: 4DFF7696BC3BCFE7
+Platform: Standalone
+AccountCreationDate: 2024-12-25 02:10:39 UTC
+Color: R=0.56 G=0.44 B=0.33
+Cosmetics: None

@@ -1,0 +1,7 @@
+Name: 467R
+ActorNumber: 294
+PlayerID: C649468568E93E1F
+Platform: Standalone
+AccountCreationDate: 2023-12-25 21:50:52 UTC
+Color: R=0.33 G=0.89 B=1.00
+Cosmetics: None

@@ -1,0 +1,7 @@
+Name: GORILLA65492
+ActorNumber: 20
+PlayerID: 66E0080EBFC539ED
+Platform: Standalone
+AccountCreationDate: 2024-04-13 23:10:23 UTC
+Color: R=1.00 G=1.00 B=1.00
+Cosmetics: None

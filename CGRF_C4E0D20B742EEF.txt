@@ -1,0 +1,7 @@
+Name: gorilla7209
+ActorNumber: 4144
+PlayerID: C4E0D20B742EEF
+Platform: Standalone
+AccountCreationDate: 2025-12-25 15:44:29 UTC
+Color: R=0.33 G=0.00 B=0.00
+Cosmetics: None

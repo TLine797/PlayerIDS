@@ -1,0 +1,7 @@
+Name: MASK
+ActorNumber: 36
+PlayerID: C3011DA3C62D83CD
+Platform: Standalone
+AccountCreationDate: 2024-12-25 16:04:18 UTC
+Color: R=0.89 G=0.56 B=0.78
+Cosmetics: None

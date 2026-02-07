@@ -1,0 +1,7 @@
+Name: MRQUACKERS
+ActorNumber: 1292
+PlayerID: 7229192CF5A1CD57
+Platform: Standalone
+AccountCreationDate: 2026-01-16 23:47:55 UTC
+Color: R=0.56 G=0.00 B=0.89
+Cosmetics: None

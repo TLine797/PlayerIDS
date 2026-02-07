@@ -1,0 +1,7 @@
+Name: NAME
+ActorNumber: 221
+PlayerID: EC6CAA6A980E3CD3
+Platform: Unknown
+AccountCreationDate: 2021-10-29 15:57:06 UTC
+Color: R=0.56 G=0.00 B=1.00
+Cosmetics: None

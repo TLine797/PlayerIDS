@@ -1,0 +1,7 @@
+Name: GODLOVES
+ActorNumber: 514
+PlayerID: 6CFBC815C85792BE
+Platform: Standalone
+AccountCreationDate: 2024-12-28 04:14:25 UTC
+Color: R=0.44 G=0.44 B=0.56
+Cosmetics: None

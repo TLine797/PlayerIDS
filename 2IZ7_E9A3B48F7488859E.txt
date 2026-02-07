@@ -1,0 +1,7 @@
+Name: KINGPOOP
+ActorNumber: 166
+PlayerID: E9A3B48F7488859E
+Platform: Standalone
+AccountCreationDate: 2023-12-25 18:03:09 UTC
+Color: R=0.22 G=0.00 B=0.00
+Cosmetics: None

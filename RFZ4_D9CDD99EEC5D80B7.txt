@@ -1,0 +1,7 @@
+Name: BLUEFROST
+ActorNumber: 903
+PlayerID: D9CDD99EEC5D80B7
+Platform: Standalone
+AccountCreationDate: 2025-05-31 06:36:48 UTC
+Color: R=0.44 G=0.00 B=0.89
+Cosmetics: None

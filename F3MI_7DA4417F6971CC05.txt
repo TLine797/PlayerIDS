@@ -1,0 +1,7 @@
+Name: KASON
+ActorNumber: 43
+PlayerID: 7DA4417F6971CC05
+Platform: Standalone
+AccountCreationDate: 2023-11-11 04:56:43 UTC
+Color: R=0.44 G=0.67 B=1.00
+Cosmetics: None

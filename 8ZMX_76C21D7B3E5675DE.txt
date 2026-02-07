@@ -1,0 +1,7 @@
+Name: gorilla0647
+ActorNumber: 26
+PlayerID: 76C21D7B3E5675DE
+Platform: Standalone
+AccountCreationDate: 2024-12-26 21:57:01 UTC
+Color: R=0.44 G=0.00 B=0.67
+Cosmetics: None

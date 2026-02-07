@@ -1,0 +1,7 @@
+Name: NSP
+ActorNumber: 67
+PlayerID: 316D74D2E2BF655
+Platform: Standalone
+AccountCreationDate: 2024-12-29 16:55:38 UTC
+Color: R=0.00 G=0.22 B=0.11
+Cosmetics: None

@@ -1,0 +1,7 @@
+Name: WALTA
+ActorNumber: 832
+PlayerID: 3D7D5F00EAF4B800
+Platform: Standalone
+AccountCreationDate: 2023-05-31 03:31:18 UTC
+Color: R=0.44 G=0.67 B=1.00
+Cosmetics: None

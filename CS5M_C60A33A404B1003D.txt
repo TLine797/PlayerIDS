@@ -1,0 +1,7 @@
+Name: RMBORED
+ActorNumber: 55
+PlayerID: C60A33A404B1003D
+Platform: PC
+AccountCreationDate: 2024-04-16 02:05:45 UTC
+Color: R=0.22 G=0.22 B=0.22
+Cosmetics: None

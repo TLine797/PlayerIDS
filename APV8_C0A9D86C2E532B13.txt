@@ -1,0 +1,7 @@
+Name: FWMST4RYYYYY
+ActorNumber: 581
+PlayerID: C0A9D86C2E532B13
+Platform: Standalone
+AccountCreationDate: 2025-07-28 15:30:15 UTC
+Color: R=0.11 G=0.22 B=0.33
+Cosmetics: None

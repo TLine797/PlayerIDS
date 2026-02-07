@@ -1,0 +1,7 @@
+Name: KINGVR
+ActorNumber: 1353
+PlayerID: 14A025FE2CBFF7CB
+Platform: Standalone
+AccountCreationDate: 2025-05-24 22:15:08 UTC
+Color: R=0.22 G=0.11 B=1.00
+Cosmetics: None

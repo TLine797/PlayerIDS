@@ -1,0 +1,7 @@
+Name: BRADLYFARTED
+ActorNumber: 60
+PlayerID: 9B93BA654DC4806B
+Platform: Standalone
+AccountCreationDate: 2023-12-17 23:10:50 UTC
+Color: R=0.56 G=0.67 B=0.89
+Cosmetics: None

@@ -1,0 +1,7 @@
+Name: JSVIBE
+ActorNumber: 574
+PlayerID: 7887E8C975A2B0BC
+Platform: Standalone
+AccountCreationDate: 2024-12-18 00:46:56 UTC
+Color: R=0.22 G=0.89 B=0.44
+Cosmetics: None

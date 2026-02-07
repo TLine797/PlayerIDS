@@ -1,0 +1,7 @@
+Name: SLIPP
+ActorNumber: 31
+PlayerID: 3ED364D43FAD6A24
+Platform: Unknown
+AccountCreationDate: 2022-03-24 23:04:21 UTC
+Color: R=0.22 G=0.33 B=0.56
+Cosmetics: None

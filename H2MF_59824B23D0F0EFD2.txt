@@ -1,0 +1,7 @@
+Name: TCHMREX
+ActorNumber: 1286
+PlayerID: 59824B23D0F0EFD2
+Platform: Standalone
+AccountCreationDate: 2026-01-26 18:55:41 UTC
+Color: R=0.22 G=0.00 B=0.44
+Cosmetics: None

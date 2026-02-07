@@ -1,0 +1,7 @@
+Name: DESIPPLES
+ActorNumber: 573
+PlayerID: ED90D32DCFC7CD2D
+Platform: Unknown
+AccountCreationDate: 2022-11-17 02:22:27 UTC
+Color: R=0.89 G=0.00 B=0.00
+Cosmetics: None

@@ -1,0 +1,7 @@
+Name: LEGITLUSID
+ActorNumber: 1035
+PlayerID: C47ADF07A0482C7B
+Platform: Standalone
+AccountCreationDate: 2025-06-04 01:04:59 UTC
+Color: R=0.33 G=1.00 B=0.00
+Cosmetics: None

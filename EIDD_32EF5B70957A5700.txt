@@ -1,0 +1,7 @@
+Name: ADRIAN
+ActorNumber: 17
+PlayerID: 32EF5B70957A5700
+Platform: Standalone
+AccountCreationDate: 2024-06-12 23:56:46 UTC
+Color: R=0.44 G=0.00 B=0.89
+Cosmetics: None

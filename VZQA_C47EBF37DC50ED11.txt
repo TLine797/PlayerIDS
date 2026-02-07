@@ -1,0 +1,7 @@
+Name: gorilla8768
+ActorNumber: 1082
+PlayerID: C47EBF37DC50ED11
+Platform: Unknown
+AccountCreationDate: 2025-04-25 19:22:30 UTC
+Color: R=1.00 G=0.78 B=1.00
+Cosmetics: None

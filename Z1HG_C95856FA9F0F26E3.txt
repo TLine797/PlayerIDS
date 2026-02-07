@@ -1,0 +1,7 @@
+Name: TAGNOOB
+ActorNumber: 1299
+PlayerID: C95856FA9F0F26E3
+Platform: Standalone
+AccountCreationDate: 2025-05-20 21:26:52 UTC
+Color: R=0.22 G=0.00 B=0.33
+Cosmetics: None

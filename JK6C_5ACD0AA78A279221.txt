@@ -1,0 +1,7 @@
+Name: NETANYAHU
+ActorNumber: 211
+PlayerID: 5ACD0AA78A279221
+Platform: Standalone
+AccountCreationDate: 2024-05-19 18:18:59 UTC
+Color: R=0.44 G=0.00 B=0.67
+Cosmetics: None

@@ -1,0 +1,7 @@
+Name: PH4NT0M
+ActorNumber: 48
+PlayerID: 181BE2CBF931F559
+Platform: Standalone
+AccountCreationDate: 2025-12-25 15:29:25 UTC
+Color: R=0.44 G=0.44 B=0.44
+Cosmetics: None

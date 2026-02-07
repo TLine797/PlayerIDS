@@ -1,0 +1,7 @@
+Name: COCO
+ActorNumber: 1077
+PlayerID: 560B0BA86DC36294
+Platform: Unknown
+AccountCreationDate: 2025-12-25 15:37:10 UTC
+Color: R=1.00 G=0.89 B=1.00
+Cosmetics: None

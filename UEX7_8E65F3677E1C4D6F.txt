@@ -1,0 +1,7 @@
+Name: TARTS
+ActorNumber: 32
+PlayerID: 8E65F3677E1C4D6F
+Platform: Standalone
+AccountCreationDate: 2025-12-25 17:18:40 UTC
+Color: R=0.00 G=0.00 B=0.00
+Cosmetics: None

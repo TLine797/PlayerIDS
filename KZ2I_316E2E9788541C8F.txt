@@ -1,0 +1,7 @@
+Name: JOHN408
+ActorNumber: 500
+PlayerID: 316E2E9788541C8F
+Platform: Standalone
+AccountCreationDate: 2024-03-11 00:28:43 UTC
+Color: R=0.22 G=0.00 B=0.78
+Cosmetics: None

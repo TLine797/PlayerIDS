@@ -1,0 +1,7 @@
+Name: TTCTRUEMONKE
+ActorNumber: 958
+PlayerID: EF8BAA3595F13B64
+Platform: Unknown
+AccountCreationDate: 2021-07-04 23:15:28 UTC
+Color: R=0.44 G=0.00 B=1.00
+Cosmetics: None

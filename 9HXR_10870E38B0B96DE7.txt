@@ -1,0 +1,7 @@
+Name: PEXOZ
+ActorNumber: 27
+PlayerID: 10870E38B0B96DE7
+Platform: Standalone
+AccountCreationDate: 2026-01-28 00:00:06 UTC
+Color: R=0.00 G=1.00 B=0.00
+Cosmetics: None

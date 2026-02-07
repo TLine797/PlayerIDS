@@ -1,0 +1,7 @@
+Name: BLEUETVR
+ActorNumber: 861
+PlayerID: 7E5083A77F6AC49B
+Platform: Standalone
+AccountCreationDate: 2025-08-15 15:33:01 UTC
+Color: R=0.00 G=0.89 B=1.00
+Cosmetics: None

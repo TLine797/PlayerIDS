@@ -1,0 +1,7 @@
+Name: NAVA
+ActorNumber: 10
+PlayerID: CD096C07CE2265BA
+Platform: Standalone
+AccountCreationDate: 2023-11-23 14:07:07 UTC
+Color: R=1.00 G=1.00 B=1.00
+Cosmetics: None

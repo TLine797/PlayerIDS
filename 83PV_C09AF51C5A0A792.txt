@@ -1,0 +1,7 @@
+Name: STICKY
+ActorNumber: 6929
+PlayerID: C09AF51C5A0A792
+Platform: Standalone
+AccountCreationDate: 2025-12-26 00:55:21 UTC
+Color: R=0.00 G=0.00 B=0.00
+Cosmetics: None

@@ -1,0 +1,7 @@
+Name: 67FRFR
+ActorNumber: 1524
+PlayerID: A19F4679A7BB3B32
+Platform: Standalone
+AccountCreationDate: 2023-02-26 18:33:38 UTC
+Color: R=1.00 G=0.22 B=1.00
+Cosmetics: None

@@ -1,0 +1,7 @@
+Name: LN
+ActorNumber: 124
+PlayerID: 2454F7D2F2C5EDEF
+Platform: Standalone
+AccountCreationDate: 2025-12-25 14:10:27 UTC
+Color: R=0.00 G=0.78 B=1.00
+Cosmetics: None

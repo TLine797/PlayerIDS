@@ -1,0 +1,7 @@
+Name: ICECREAMSON
+ActorNumber: 1226
+PlayerID: 78E118E7AD666105
+Platform: Unknown
+AccountCreationDate: 2024-12-26 00:13:53 UTC
+Color: R=1.00 G=0.44 B=0.44
+Cosmetics: None

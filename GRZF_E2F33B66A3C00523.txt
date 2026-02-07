@@ -1,0 +1,7 @@
+Name: DUMBUM
+ActorNumber: 52
+PlayerID: E2F33B66A3C00523
+Platform: Standalone
+AccountCreationDate: 2021-12-27 20:45:04 UTC
+Color: R=1.00 G=1.00 B=1.00
+Cosmetics: None

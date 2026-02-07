@@ -1,0 +1,7 @@
+Name: SOPHIE
+ActorNumber: 794
+PlayerID: 1ED285A0BFB0748E
+Platform: Standalone
+AccountCreationDate: 2025-12-26 21:38:44 UTC
+Color: R=0.00 G=0.44 B=1.00
+Cosmetics: None

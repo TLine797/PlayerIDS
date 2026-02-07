@@ -1,0 +1,7 @@
+Name: TRACKRUNNER
+ActorNumber: 295
+PlayerID: 755E5EDA7E6DD99D
+Platform: PC
+AccountCreationDate: 2024-12-24 00:15:25 UTC
+Color: R=0.78 G=0.78 B=0.78
+Cosmetics: None

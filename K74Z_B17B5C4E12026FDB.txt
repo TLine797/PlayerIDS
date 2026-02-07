@@ -1,0 +1,7 @@
+Name: AGENTLEAF
+ActorNumber: 220
+PlayerID: B17B5C4E12026FDB
+Platform: Unknown
+AccountCreationDate: 2021-12-25 14:04:52 UTC
+Color: R=0.44 G=0.00 B=0.22
+Cosmetics: None

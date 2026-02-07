@@ -1,0 +1,7 @@
+Name: FE4R
+ActorNumber: 86
+PlayerID: F50D6380D8DF5FB6
+Platform: Unknown
+AccountCreationDate: 2022-10-22 22:18:10 UTC
+Color: R=0.44 G=0.33 B=1.00
+Cosmetics: None

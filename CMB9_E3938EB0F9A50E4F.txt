@@ -1,0 +1,7 @@
+Name: CLAV
+ActorNumber: 5818
+PlayerID: E3938EB0F9A50E4F
+Platform: Standalone
+AccountCreationDate: 2025-08-12 21:51:08 UTC
+Color: R=0.44 G=0.00 B=0.78
+Cosmetics: None

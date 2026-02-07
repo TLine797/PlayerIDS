@@ -1,0 +1,7 @@
+Name: PTNPURPLE
+ActorNumber: 1182
+PlayerID: 2022945B0161B7FD
+Platform: Unknown
+AccountCreationDate: 2022-03-26 04:11:22 UTC
+Color: R=0.44 G=0.00 B=0.89
+Cosmetics: None

@@ -1,0 +1,7 @@
+Name: NOTFEATHERS
+ActorNumber: 1123
+PlayerID: 9802DDBC5E86CAB1
+Platform: Standalone
+AccountCreationDate: 2025-01-23 11:14:22 UTC
+Color: R=0.00 G=0.44 B=0.89
+Cosmetics: None

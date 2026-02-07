@@ -1,0 +1,7 @@
+Name: ZAP
+ActorNumber: 1144
+PlayerID: B729A432FBC4DDE
+Platform: Standalone
+AccountCreationDate: 2024-09-22 17:42:11 UTC
+Color: R=0.56 G=0.78 B=1.00
+Cosmetics: None

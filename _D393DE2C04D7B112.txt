@@ -1,0 +1,7 @@
+Name: COCONUTVR
+ActorNumber: 1198
+PlayerID: D393DE2C04D7B112
+Platform: Standalone
+AccountCreationDate: 2023-12-25 15:29:51 UTC
+Color: R=0.78 G=1.00 B=0.00
+Cosmetics: None

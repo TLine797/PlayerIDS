@@ -1,0 +1,7 @@
+Name: TTAGGER
+ActorNumber: 2362
+PlayerID: DFC9FC862CE65A38
+Platform: Standalone
+AccountCreationDate: 2024-12-25 16:13:16 UTC
+Color: R=0.00 G=0.00 B=0.00
+Cosmetics: None

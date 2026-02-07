@@ -1,0 +1,7 @@
+Name: CHILLDUDE
+ActorNumber: 239
+PlayerID: 193F93B4B98335C2
+Platform: Standalone
+AccountCreationDate: 2023-12-25 13:58:58 UTC
+Color: R=1.00 G=0.33 B=0.00
+Cosmetics: None

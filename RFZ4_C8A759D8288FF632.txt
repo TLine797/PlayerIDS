@@ -1,0 +1,7 @@
+Name: ICE
+ActorNumber: 1054
+PlayerID: C8A759D8288FF632
+Platform: Unknown
+AccountCreationDate: 2021-07-12 23:04:43 UTC
+Color: R=0.00 G=1.00 B=0.89
+Cosmetics: None

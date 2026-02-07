@@ -1,0 +1,7 @@
+Name: BONEZTTC
+ActorNumber: 315
+PlayerID: 41B9C968C79D4C59
+Platform: Standalone
+AccountCreationDate: 2024-02-25 17:17:43 UTC
+Color: R=0.22 G=0.11 B=0.00
+Cosmetics: None

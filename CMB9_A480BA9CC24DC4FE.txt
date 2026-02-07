@@ -1,0 +1,7 @@
+Name: TTTGORO
+ActorNumber: 5812
+PlayerID: A480BA9CC24DC4FE
+Platform: Standalone
+AccountCreationDate: 2025-01-07 03:05:14 UTC
+Color: R=0.44 G=0.11 B=0.89
+Cosmetics: None

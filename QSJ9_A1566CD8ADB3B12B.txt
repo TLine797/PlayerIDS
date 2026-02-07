@@ -1,0 +1,7 @@
+Name: TPWRAPPS
+ActorNumber: 1
+PlayerID: A1566CD8ADB3B12B
+Platform: Standalone
+AccountCreationDate: 2025-03-02 02:00:26 UTC
+Color: R=0.44 G=0.56 B=0.67
+Cosmetics: None

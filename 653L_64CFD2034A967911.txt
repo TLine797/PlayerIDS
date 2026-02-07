@@ -1,0 +1,7 @@
+Name: PUPRLEFART
+ActorNumber: 282
+PlayerID: 64CFD2034A967911
+Platform: Standalone
+AccountCreationDate: 2025-12-18 21:34:40 UTC
+Color: R=0.44 G=0.11 B=0.67
+Cosmetics: None

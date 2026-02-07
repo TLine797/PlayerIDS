@@ -1,0 +1,7 @@
+Name: TSTW1SH
+ActorNumber: 36
+PlayerID: 6498FCD8220F7B67
+Platform: PC
+AccountCreationDate: 2025-08-02 04:52:14 UTC
+Color: R=0.44 G=0.11 B=0.78
+Cosmetics: None

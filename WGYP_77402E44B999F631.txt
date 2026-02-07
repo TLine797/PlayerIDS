@@ -1,0 +1,7 @@
+Name: SCRIMS
+ActorNumber: 3737
+PlayerID: 77402E44B999F631
+Platform: Standalone
+AccountCreationDate: 2025-02-20 18:04:17 UTC
+Color: R=1.00 G=0.00 B=0.00
+Cosmetics: None

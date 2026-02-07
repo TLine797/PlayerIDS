@@ -1,0 +1,7 @@
+Name: STEAMVR
+ActorNumber: 291
+PlayerID: D1836CF6D3EACDF2
+Platform: Unknown
+AccountCreationDate: 2022-10-02 01:50:09 UTC
+Color: R=0.00 G=0.00 B=0.00
+Cosmetics: None

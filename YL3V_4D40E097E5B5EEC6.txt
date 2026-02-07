@@ -1,0 +1,7 @@
+Name: ANICEFELLA
+ActorNumber: 321
+PlayerID: 4D40E097E5B5EEC6
+Platform: Standalone
+AccountCreationDate: 2024-02-08 04:42:25 UTC
+Color: R=0.89 G=0.00 B=0.89
+Cosmetics: None

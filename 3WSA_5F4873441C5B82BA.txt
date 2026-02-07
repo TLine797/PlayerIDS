@@ -1,0 +1,7 @@
+Name: MISCHIEVIOUS
+ActorNumber: 197
+PlayerID: 5F4873441C5B82BA
+Platform: Unknown
+AccountCreationDate: 2022-03-28 14:57:44 UTC
+Color: R=0.22 G=0.00 B=0.22
+Cosmetics: None

@@ -1,0 +1,7 @@
+Name: LASERJETS
+ActorNumber: 5
+PlayerID: 728E99EA2F43A34A
+Platform: Unknown
+AccountCreationDate: 2022-12-25 15:35:46 UTC
+Color: R=0.33 G=0.11 B=0.67
+Cosmetics: None

@@ -1,0 +1,7 @@
+Name: JUKEVR
+ActorNumber: 440
+PlayerID: 20CF1D3C617D09F7
+Platform: Unknown
+AccountCreationDate: 2025-08-15 23:39:38 UTC
+Color: R=0.44 G=0.00 B=0.78
+Cosmetics: None

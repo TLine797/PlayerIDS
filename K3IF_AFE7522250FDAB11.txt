@@ -1,0 +1,7 @@
+Name: APIX
+ActorNumber: 427
+PlayerID: AFE7522250FDAB11
+Platform: Standalone
+AccountCreationDate: 2023-12-29 23:57:21 UTC
+Color: R=0.00 G=0.00 B=0.11
+Cosmetics: None

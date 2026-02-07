@@ -1,0 +1,7 @@
+Name: FLINX
+ActorNumber: 598
+PlayerID: F13470786033BA69
+Platform: PC
+AccountCreationDate: 2025-12-13 19:41:45 UTC
+Color: R=0.78 G=0.78 B=0.78
+Cosmetics: None

@@ -1,0 +1,7 @@
+Name: NUTNUT
+ActorNumber: 986
+PlayerID: EFAA82CDF0967CCA
+Platform: Standalone
+AccountCreationDate: 2023-12-24 23:39:26 UTC
+Color: R=1.00 G=0.78 B=0.44
+Cosmetics: None

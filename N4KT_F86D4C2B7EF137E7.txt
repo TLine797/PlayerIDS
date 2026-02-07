@@ -1,0 +1,7 @@
+Name: PRINCESS
+ActorNumber: 685
+PlayerID: F86D4C2B7EF137E7
+Platform: Standalone
+AccountCreationDate: 2025-11-03 21:54:55 UTC
+Color: R=0.56 G=0.67 B=1.00
+Cosmetics: None

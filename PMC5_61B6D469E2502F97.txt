@@ -1,0 +1,7 @@
+Name: YOYOVR
+ActorNumber: 543
+PlayerID: 61B6D469E2502F97
+Platform: Standalone
+AccountCreationDate: 2025-12-25 06:43:23 UTC
+Color: R=1.00 G=0.89 B=0.89
+Cosmetics: None

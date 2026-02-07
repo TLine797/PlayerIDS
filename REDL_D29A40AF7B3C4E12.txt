@@ -1,0 +1,7 @@
+Name: PLEBJR
+ActorNumber: 1273
+PlayerID: D29A40AF7B3C4E12
+Platform: Standalone
+AccountCreationDate: 2024-12-08 22:59:05 UTC
+Color: R=0.44 G=0.44 B=1.00
+Cosmetics: None

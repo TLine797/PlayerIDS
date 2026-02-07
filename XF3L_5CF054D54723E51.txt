@@ -1,0 +1,7 @@
+Name: IMNOTEZZA
+ActorNumber: 23
+PlayerID: 5CF054D54723E51
+Platform: Standalone
+AccountCreationDate: 2023-06-12 21:23:36 UTC
+Color: R=1.00 G=0.00 B=0.00
+Cosmetics: None

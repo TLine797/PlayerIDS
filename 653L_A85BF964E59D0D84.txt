@@ -1,0 +1,7 @@
+Name: ZENITHGTAGVR
+ActorNumber: 295
+PlayerID: A85BF964E59D0D84
+Platform: PC
+AccountCreationDate: 2024-12-29 17:44:20 UTC
+Color: R=0.56 G=0.00 B=1.00
+Cosmetics: None

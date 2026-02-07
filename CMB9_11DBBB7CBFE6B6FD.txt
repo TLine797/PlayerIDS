@@ -1,0 +1,7 @@
+Name: NXYNOCTYX
+ActorNumber: 5668
+PlayerID: 11DBBB7CBFE6B6FD
+Platform: Unknown
+AccountCreationDate: 2024-04-14 12:57:32 UTC
+Color: R=0.44 G=0.00 B=0.78
+Cosmetics: None

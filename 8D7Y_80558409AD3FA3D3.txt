@@ -1,0 +1,7 @@
+Name: LUNARVGT
+ActorNumber: 328
+PlayerID: 80558409AD3FA3D3
+Platform: Unknown
+AccountCreationDate: 2022-09-30 01:35:53 UTC
+Color: R=0.44 G=0.22 B=0.78
+Cosmetics: None

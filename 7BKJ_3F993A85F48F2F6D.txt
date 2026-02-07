@@ -1,0 +1,7 @@
+Name: 7JO
+ActorNumber: 347
+PlayerID: 3F993A85F48F2F6D
+Platform: PC
+AccountCreationDate: 2026-01-14 01:43:42 UTC
+Color: R=0.89 G=1.00 B=1.00
+Cosmetics: None

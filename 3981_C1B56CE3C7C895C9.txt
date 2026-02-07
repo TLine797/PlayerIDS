@@ -1,0 +1,7 @@
+Name: STTSUN
+ActorNumber: 6
+PlayerID: C1B56CE3C7C895C9
+Platform: Standalone
+AccountCreationDate: 2025-12-22 21:43:01 UTC
+Color: R=1.00 G=1.00 B=1.00
+Cosmetics: None

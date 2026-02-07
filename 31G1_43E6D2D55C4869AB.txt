@@ -1,0 +1,7 @@
+Name: TUFFBOI
+ActorNumber: 1149
+PlayerID: 43E6D2D55C4869AB
+Platform: Unknown
+AccountCreationDate: 2022-02-03 12:14:02 UTC
+Color: R=0.00 G=0.00 B=0.00
+Cosmetics: None

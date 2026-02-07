@@ -1,0 +1,7 @@
+Name: FAANUM
+ActorNumber: 717
+PlayerID: D86E2E97005E754E
+Platform: Standalone
+AccountCreationDate: 2025-12-26 16:16:35 UTC
+Color: R=1.00 G=0.78 B=0.89
+Cosmetics: None

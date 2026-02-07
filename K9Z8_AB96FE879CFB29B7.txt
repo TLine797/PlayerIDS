@@ -1,0 +1,7 @@
+Name: MRSMASH
+ActorNumber: 732
+PlayerID: AB96FE879CFB29B7
+Platform: Standalone
+AccountCreationDate: 2026-01-10 18:06:29 UTC
+Color: R=1.00 G=0.22 B=0.33
+Cosmetics: None

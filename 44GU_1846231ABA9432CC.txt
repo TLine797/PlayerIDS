@@ -1,0 +1,7 @@
+Name: ZAZA
+ActorNumber: 1415
+PlayerID: 1846231ABA9432CC
+Platform: Standalone
+AccountCreationDate: 2024-05-18 13:18:28 UTC
+Color: R=0.56 G=0.56 B=0.89
+Cosmetics: None

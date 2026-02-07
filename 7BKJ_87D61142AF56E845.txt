@@ -1,0 +1,7 @@
+Name: SYNC2119
+ActorNumber: 341
+PlayerID: 87D61142AF56E845
+Platform: Standalone
+AccountCreationDate: 2025-02-22 02:56:25 UTC
+Color: R=0.00 G=0.00 B=0.00
+Cosmetics: None

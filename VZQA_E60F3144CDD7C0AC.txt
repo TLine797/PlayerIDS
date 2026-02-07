@@ -1,0 +1,7 @@
+Name: BOBBYPP
+ActorNumber: 1070
+PlayerID: E60F3144CDD7C0AC
+Platform: Standalone
+AccountCreationDate: 2025-04-12 13:20:30 UTC
+Color: R=0.22 G=0.44 B=1.00
+Cosmetics: None

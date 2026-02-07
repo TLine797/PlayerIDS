@@ -1,0 +1,7 @@
+Name: HAPPYWHALE68
+ActorNumber: 341
+PlayerID: E0E1469C24916C2A
+Platform: Unknown
+AccountCreationDate: 2023-01-01 00:57:39 UTC
+Color: R=0.67 G=0.00 B=0.89
+Cosmetics: None

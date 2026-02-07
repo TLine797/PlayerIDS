@@ -1,0 +1,7 @@
+Name: TTTWERTO
+ActorNumber: 642
+PlayerID: F132AFE3301AD9D2
+Platform: Standalone
+AccountCreationDate: 2025-08-25 14:23:09 UTC
+Color: R=1.00 G=0.89 B=1.00
+Cosmetics: None

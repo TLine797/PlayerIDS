@@ -1,0 +1,7 @@
+Name: SWAG
+ActorNumber: 583
+PlayerID: A4454A2909D1E9B0
+Platform: Standalone
+AccountCreationDate: 2025-07-17 21:14:22 UTC
+Color: R=0.11 G=0.22 B=0.33
+Cosmetics: None

@@ -1,0 +1,7 @@
+Name: JBBJ
+ActorNumber: 307
+PlayerID: 48F61C0E34C75FD1
+Platform: Standalone
+AccountCreationDate: 2024-09-07 00:19:17 UTC
+Color: R=0.00 G=0.00 B=0.00
+Cosmetics: None

@@ -1,0 +1,7 @@
+Name: 123IDRINKPEE
+ActorNumber: 1160
+PlayerID: F5FA5707D494DBB0
+Platform: Standalone
+AccountCreationDate: 2024-03-19 01:13:16 UTC
+Color: R=0.44 G=0.33 B=1.00
+Cosmetics: None

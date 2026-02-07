@@ -1,0 +1,7 @@
+Name: GREEN
+ActorNumber: 1188
+PlayerID: 240F0EB48F53CF6C
+Platform: Standalone
+AccountCreationDate: 2024-11-21 04:33:45 UTC
+Color: R=0.67 G=0.78 B=0.78
+Cosmetics: None

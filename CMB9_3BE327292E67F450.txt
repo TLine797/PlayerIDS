@@ -1,0 +1,7 @@
+Name: 76GT5GT6
+ActorNumber: 5672
+PlayerID: 3BE327292E67F450
+Platform: Standalone
+AccountCreationDate: 2023-08-28 17:02:29 UTC
+Color: R=0.44 G=0.89 B=1.00
+Cosmetics: None

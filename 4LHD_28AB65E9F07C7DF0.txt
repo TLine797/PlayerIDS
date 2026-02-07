@@ -1,0 +1,7 @@
+Name: JESUSAVES
+ActorNumber: 277
+PlayerID: 28AB65E9F07C7DF0
+Platform: Standalone
+AccountCreationDate: 2025-12-20 14:36:57 UTC
+Color: R=0.44 G=0.33 B=1.00
+Cosmetics: None

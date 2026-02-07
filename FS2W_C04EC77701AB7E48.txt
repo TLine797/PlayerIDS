@@ -1,0 +1,7 @@
+Name: MANGO67
+ActorNumber: 2366
+PlayerID: C04EC77701AB7E48
+Platform: Standalone
+AccountCreationDate: 2022-04-17 13:01:56 UTC
+Color: R=0.00 G=0.00 B=0.00
+Cosmetics: None

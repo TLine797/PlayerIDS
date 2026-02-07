@@ -1,0 +1,7 @@
+Name: TIPTICKLE
+ActorNumber: 940
+PlayerID: 86CA97F85153A1D3
+Platform: Standalone
+AccountCreationDate: 2025-02-02 21:10:01 UTC
+Color: R=0.33 G=0.00 B=0.78
+Cosmetics: None

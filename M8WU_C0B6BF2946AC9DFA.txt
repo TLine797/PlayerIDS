@@ -1,0 +1,7 @@
+Name: LOVESOSA
+ActorNumber: 264
+PlayerID: C0B6BF2946AC9DFA
+Platform: Standalone
+AccountCreationDate: 2024-10-17 23:20:34 UTC
+Color: R=1.00 G=1.00 B=0.00
+Cosmetics: None

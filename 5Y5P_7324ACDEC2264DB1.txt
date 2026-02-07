@@ -1,0 +1,7 @@
+Name: gorilla6706
+ActorNumber: 581
+PlayerID: 7324ACDEC2264DB1
+Platform: Standalone
+AccountCreationDate: 2025-12-25 13:49:39 UTC
+Color: R=0.44 G=0.33 B=0.89
+Cosmetics: None

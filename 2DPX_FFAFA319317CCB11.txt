@@ -1,0 +1,7 @@
+Name: X4NIX
+ActorNumber: 191
+PlayerID: FFAFA319317CCB11
+Platform: Standalone
+AccountCreationDate: 2023-12-15 00:48:02 UTC
+Color: R=0.44 G=0.00 B=0.78
+Cosmetics: None

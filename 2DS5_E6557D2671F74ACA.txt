@@ -1,0 +1,7 @@
+Name: G00DVIBES
+ActorNumber: 742
+PlayerID: E6557D2671F74ACA
+Platform: Standalone
+AccountCreationDate: 2026-01-17 23:56:00 UTC
+Color: R=0.67 G=1.00 B=0.67
+Cosmetics: None

@@ -1,0 +1,7 @@
+Name: VB9BUN09NH80
+ActorNumber: 213
+PlayerID: 7F38C4A66315EACB
+Platform: Unknown
+AccountCreationDate: 2022-05-06 02:54:31 UTC
+Color: R=0.44 G=0.00 B=1.00
+Cosmetics: None

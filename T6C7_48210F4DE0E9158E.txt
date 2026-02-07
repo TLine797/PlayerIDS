@@ -1,0 +1,7 @@
+Name: IZEN
+ActorNumber: 34
+PlayerID: 48210F4DE0E9158E
+Platform: Standalone
+AccountCreationDate: 2025-05-10 17:18:16 UTC
+Color: R=0.00 G=0.89 B=1.00
+Cosmetics: None

@@ -1,0 +1,7 @@
+Name: gorilla8832
+ActorNumber: 222
+PlayerID: 28AC24915FAF1C3A
+Platform: Standalone
+AccountCreationDate: 2023-12-25 14:23:48 UTC
+Color: R=0.44 G=0.00 B=0.89
+Cosmetics: None

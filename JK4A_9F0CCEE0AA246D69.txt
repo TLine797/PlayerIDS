@@ -1,0 +1,7 @@
+Name: TTTH1M
+ActorNumber: 554
+PlayerID: 9F0CCEE0AA246D69
+Platform: Standalone
+AccountCreationDate: 2025-11-08 01:11:39 UTC
+Color: R=0.44 G=0.33 B=1.00
+Cosmetics: None

@@ -1,0 +1,7 @@
+Name: BIVE
+ActorNumber: 113
+PlayerID: 81C2E6237AAF609A
+Platform: Standalone
+AccountCreationDate: 2026-01-27 21:21:00 UTC
+Color: R=0.00 G=0.00 B=0.00
+Cosmetics: None

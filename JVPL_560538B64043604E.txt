@@ -1,0 +1,7 @@
+Name: gorilla8970
+ActorNumber: 485
+PlayerID: 560538B64043604E
+Platform: Standalone
+AccountCreationDate: 2026-01-16 22:58:22 UTC
+Color: R=1.00 G=0.56 B=0.78
+Cosmetics: None

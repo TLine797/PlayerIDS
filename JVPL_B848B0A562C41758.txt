@@ -1,0 +1,7 @@
+Name: POOPGHOST
+ActorNumber: 514
+PlayerID: B848B0A562C41758
+Platform: Unknown
+AccountCreationDate: 2022-02-06 20:37:45 UTC
+Color: R=0.11 G=0.44 B=0.44
+Cosmetics: None

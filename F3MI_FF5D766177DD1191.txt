@@ -1,0 +1,7 @@
+Name: COCA
+ActorNumber: 73
+PlayerID: FF5D766177DD1191
+Platform: Unknown
+AccountCreationDate: 2022-10-16 23:35:38 UTC
+Color: R=0.44 G=0.89 B=1.00
+Cosmetics: None

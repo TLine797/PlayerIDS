@@ -1,0 +1,7 @@
+Name: GUBBYFOOD
+ActorNumber: 1231
+PlayerID: 168646074F78482B
+Platform: Standalone
+AccountCreationDate: 2023-12-25 15:05:57 UTC
+Color: R=1.00 G=1.00 B=1.00
+Cosmetics: None

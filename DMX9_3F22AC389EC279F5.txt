@@ -1,0 +1,7 @@
+Name: JJX
+ActorNumber: 1248
+PlayerID: 3F22AC389EC279F5
+Platform: Standalone
+AccountCreationDate: 2025-03-13 15:55:39 UTC
+Color: R=0.89 G=0.00 B=0.00
+Cosmetics: None

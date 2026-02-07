@@ -1,0 +1,7 @@
+Name: GORILLA1952
+ActorNumber: 25
+PlayerID: 145A519609EC01
+Platform: Standalone
+AccountCreationDate: 2026-01-07 22:04:07 UTC
+Color: R=0.67 G=0.78 B=0.89
+Cosmetics: None

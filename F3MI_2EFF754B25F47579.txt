@@ -1,0 +1,7 @@
+Name: VORTEX
+ActorNumber: 66
+PlayerID: 2EFF754B25F47579
+Platform: Standalone
+AccountCreationDate: 2024-12-26 14:29:11 UTC
+Color: R=0.44 G=1.00 B=0.44
+Cosmetics: None

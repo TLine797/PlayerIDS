@@ -1,0 +1,7 @@
+Name: THEMONKE
+ActorNumber: 316
+PlayerID: DC981D137A3A4289
+Platform: Standalone
+AccountCreationDate: 2024-07-19 22:07:25 UTC
+Color: R=0.00 G=0.00 B=0.00
+Cosmetics: None

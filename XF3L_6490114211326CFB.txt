@@ -1,0 +1,7 @@
+Name: DRPEPPER
+ActorNumber: 11
+PlayerID: 6490114211326CFB
+Platform: Standalone
+AccountCreationDate: 2025-02-08 23:17:15 UTC
+Color: R=0.44 G=0.00 B=0.00
+Cosmetics: None

@@ -1,0 +1,7 @@
+Name: BEANIE
+ActorNumber: 839
+PlayerID: A1E8BE332E2A6D3F
+Platform: Standalone
+AccountCreationDate: 2024-12-28 23:22:19 UTC
+Color: R=0.00 G=0.33 B=0.33
+Cosmetics: None

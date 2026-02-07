@@ -1,0 +1,7 @@
+Name: INZDEXLMAO
+ActorNumber: 1125
+PlayerID: 1ED9DCCCC14EC429
+Platform: PC
+AccountCreationDate: 2025-04-21 21:46:16 UTC
+Color: R=1.00 G=0.44 B=0.00
+Cosmetics: None

@@ -1,0 +1,7 @@
+Name: SADNESS
+ActorNumber: 1269
+PlayerID: C3C7AED72A70CE5D
+Platform: Unknown
+AccountCreationDate: 2022-06-10 19:44:42 UTC
+Color: R=0.44 G=0.00 B=0.78
+Cosmetics: None

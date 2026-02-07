@@ -1,0 +1,7 @@
+Name: K
+ActorNumber: 7
+PlayerID: 9EC612A3FA321217
+Platform: Unknown
+AccountCreationDate: 2022-06-07 06:31:36 UTC
+Color: R=0.56 G=0.22 B=0.00
+Cosmetics: None

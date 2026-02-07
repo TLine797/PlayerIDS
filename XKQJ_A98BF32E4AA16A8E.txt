@@ -1,0 +1,7 @@
+Name: SHARKE
+ActorNumber: 405
+PlayerID: A98BF32E4AA16A8E
+Platform: Unknown
+AccountCreationDate: 2022-04-25 01:04:16 UTC
+Color: R=0.00 G=0.89 B=1.00
+Cosmetics: None

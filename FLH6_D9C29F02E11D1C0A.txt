@@ -1,0 +1,7 @@
+Name: MUNNCHYUM
+ActorNumber: 298
+PlayerID: D9C29F02E11D1C0A
+Platform: Standalone
+AccountCreationDate: 2023-12-30 03:12:26 UTC
+Color: R=1.00 G=1.00 B=0.78
+Cosmetics: None

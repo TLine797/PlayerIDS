@@ -1,0 +1,7 @@
+Name: IMJSL
+ActorNumber: 42
+PlayerID: 8F9B8DCD60FAFBAC
+Platform: Standalone
+AccountCreationDate: 2025-03-04 23:16:41 UTC
+Color: R=0.44 G=0.44 B=1.00
+Cosmetics: None

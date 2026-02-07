@@ -1,0 +1,7 @@
+Name: BOBBY
+ActorNumber: 5816
+PlayerID: C9BC793B844E2EED
+Platform: Standalone
+AccountCreationDate: 2025-12-26 10:10:59 UTC
+Color: R=0.00 G=0.00 B=0.00
+Cosmetics: None

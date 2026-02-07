@@ -1,0 +1,7 @@
+Name: ALASTOR
+ActorNumber: 465
+PlayerID: FD4B88A8E27504A8
+Platform: Standalone
+AccountCreationDate: 2023-11-24 22:22:11 UTC
+Color: R=0.89 G=0.11 B=0.00
+Cosmetics: None

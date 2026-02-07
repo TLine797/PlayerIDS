@@ -1,0 +1,7 @@
+Name: TARNISHED
+ActorNumber: 227
+PlayerID: 180DED9FCBEAEF62
+Platform: Standalone
+AccountCreationDate: 2025-10-22 19:17:57 UTC
+Color: R=0.44 G=0.11 B=0.00
+Cosmetics: None

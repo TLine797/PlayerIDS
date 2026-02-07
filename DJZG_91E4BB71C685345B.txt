@@ -1,0 +1,7 @@
+Name: gorilla6540
+ActorNumber: 120
+PlayerID: 91E4BB71C685345B
+Platform: Standalone
+AccountCreationDate: 2025-12-25 22:13:04 UTC
+Color: R=0.00 G=0.44 B=1.00
+Cosmetics: None

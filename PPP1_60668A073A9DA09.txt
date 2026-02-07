@@ -1,0 +1,7 @@
+Name: OBVIOUS5980
+ActorNumber: 25
+PlayerID: 60668A073A9DA09
+Platform: Standalone
+AccountCreationDate: 2024-06-16 17:00:59 UTC
+Color: R=0.67 G=0.89 B=0.56
+Cosmetics: None

@@ -1,0 +1,7 @@
+Name: IMNOTANOOB
+ActorNumber: 147
+PlayerID: CAD65CA93B8D7FE2
+Platform: Unknown
+AccountCreationDate: 2022-07-06 22:45:35 UTC
+Color: R=1.00 G=0.00 B=0.00
+Cosmetics: None

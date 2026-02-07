@@ -1,0 +1,7 @@
+Name: PPPTIG
+ActorNumber: 1164
+PlayerID: A165A2CBC410807
+Platform: Standalone
+AccountCreationDate: 2025-11-29 02:35:31 UTC
+Color: R=0.44 G=0.00 B=0.78
+Cosmetics: None

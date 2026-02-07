@@ -1,0 +1,7 @@
+Name: TICK88
+ActorNumber: 30
+PlayerID: EAD4B45465AC3F90
+Platform: Standalone
+AccountCreationDate: 2025-07-01 05:45:12 UTC
+Color: R=1.00 G=0.00 B=0.00
+Cosmetics: None

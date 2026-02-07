@@ -1,0 +1,7 @@
+Name: STANK
+ActorNumber: 837
+PlayerID: F475B8B6E33BC6DF
+Platform: Standalone
+AccountCreationDate: 2023-11-24 22:36:28 UTC
+Color: R=1.00 G=1.00 B=0.00
+Cosmetics: None

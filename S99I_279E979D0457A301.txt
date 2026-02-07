@@ -1,0 +1,7 @@
+Name: EPIK
+ActorNumber: 930
+PlayerID: 279E979D0457A301
+Platform: Unknown
+AccountCreationDate: 2022-02-24 20:01:39 UTC
+Color: R=0.89 G=0.67 B=0.22
+Cosmetics: None

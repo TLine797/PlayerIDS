@@ -1,0 +1,7 @@
+Name: BRITO
+ActorNumber: 27
+PlayerID: D5A657B9AC2774C5
+Platform: Standalone
+AccountCreationDate: 2025-08-23 15:50:57 UTC
+Color: R=0.44 G=0.00 B=0.89
+Cosmetics: None

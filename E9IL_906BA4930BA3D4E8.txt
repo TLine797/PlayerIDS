@@ -1,0 +1,7 @@
+Name: JELLYBELLY
+ActorNumber: 279
+PlayerID: 906BA4930BA3D4E8
+Platform: Unknown
+AccountCreationDate: 2023-01-14 23:55:55 UTC
+Color: R=0.22 G=0.11 B=0.44
+Cosmetics: None

@@ -1,0 +1,7 @@
+Name: RAPIDFIRVR
+ActorNumber: 565
+PlayerID: 2E92E3E1C17EDBC1
+Platform: Unknown
+AccountCreationDate: 2022-12-16 01:46:37 UTC
+Color: R=0.11 G=0.11 B=1.00
+Cosmetics: None

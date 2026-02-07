@@ -1,0 +1,7 @@
+Name: BOYJOEY
+ActorNumber: 1408
+PlayerID: 30FFE094B7F77EC
+Platform: Standalone
+AccountCreationDate: 2025-12-25 20:24:45 UTC
+Color: R=0.00 G=1.00 B=0.00
+Cosmetics: None

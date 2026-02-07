@@ -1,0 +1,7 @@
+Name: HERCULES
+ActorNumber: 366
+PlayerID: 77119A47E82F6346
+Platform: Standalone
+AccountCreationDate: 2024-12-26 23:58:22 UTC
+Color: R=0.00 G=0.00 B=0.78
+Cosmetics: None

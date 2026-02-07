@@ -1,0 +1,7 @@
+Name: EMAN9484
+ActorNumber: 229
+PlayerID: D76504C1812D514D
+Platform: Standalone
+AccountCreationDate: 2025-10-05 20:53:35 UTC
+Color: R=0.00 G=0.00 B=0.00
+Cosmetics: None

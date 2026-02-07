@@ -1,0 +1,7 @@
+Name: gorilla1123
+ActorNumber: 43
+PlayerID: DEFC5CB94A6C5ACE
+Platform: Standalone
+AccountCreationDate: 2026-01-06 07:28:42 UTC
+Color: R=0.00 G=0.67 B=0.78
+Cosmetics: None

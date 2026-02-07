@@ -1,0 +1,7 @@
+Name: DAWGYV6R
+ActorNumber: 339
+PlayerID: 33C72B89A193518F
+Platform: Standalone
+AccountCreationDate: 2025-07-20 02:34:12 UTC
+Color: R=0.33 G=0.78 B=0.44
+Cosmetics: None

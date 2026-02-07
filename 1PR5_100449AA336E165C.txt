@@ -1,0 +1,7 @@
+Name: MYSTIC
+ActorNumber: 1522
+PlayerID: 100449AA336E165C
+Platform: Unknown
+AccountCreationDate: 2025-02-23 01:20:10 UTC
+Color: R=0.44 G=0.00 B=0.00
+Cosmetics: None

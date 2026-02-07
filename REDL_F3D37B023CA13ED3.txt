@@ -1,0 +1,7 @@
+Name: TTTPIG
+ActorNumber: 929
+PlayerID: F3D37B023CA13ED3
+Platform: Standalone
+AccountCreationDate: 2023-12-28 20:20:06 UTC
+Color: R=0.56 G=0.00 B=1.00
+Cosmetics: None

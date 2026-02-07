@@ -1,0 +1,7 @@
+Name: gorilla0128
+ActorNumber: 23
+PlayerID: 895D8AA053A1280D
+Platform: PC
+AccountCreationDate: 2024-12-26 21:56:05 UTC
+Color: R=0.21 G=0.45 B=0.83
+Cosmetics: None

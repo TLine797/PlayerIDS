@@ -1,0 +1,7 @@
+Name: ECHO
+ActorNumber: 925
+PlayerID: E9A8A4D2DFD8ED3D
+Platform: Unknown
+AccountCreationDate: 2021-12-25 17:11:17 UTC
+Color: R=0.00 G=0.89 B=0.56
+Cosmetics: None

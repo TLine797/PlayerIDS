@@ -1,0 +1,7 @@
+Name: SANRIOVR
+ActorNumber: 732
+PlayerID: E02313B343502828
+Platform: Unknown
+AccountCreationDate: 2022-10-18 10:44:13 UTC
+Color: R=0.00 G=0.00 B=0.00
+Cosmetics: None

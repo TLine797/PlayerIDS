@@ -1,0 +1,7 @@
+Name: WINDEX
+ActorNumber: 72
+PlayerID: D71678DD646B763B
+Platform: Unknown
+AccountCreationDate: 2022-01-12 00:32:14 UTC
+Color: R=0.22 G=0.00 B=0.67
+Cosmetics: None

@@ -1,0 +1,7 @@
+Name: CHOREJASTUJ
+ActorNumber: 269
+PlayerID: B6D7AF905059FD75
+Platform: Unknown
+AccountCreationDate: 2021-05-28 00:37:50 UTC
+Color: R=0.44 G=0.00 B=0.78
+Cosmetics: None

@@ -1,0 +1,7 @@
+Name: GORRILA142
+ActorNumber: 237
+PlayerID: F89EF3880A5CBA4A
+Platform: Standalone
+AccountCreationDate: 2025-12-25 15:08:19 UTC
+Color: R=0.22 G=0.00 B=0.33
+Cosmetics: None

@@ -1,0 +1,7 @@
+Name: TWD
+ActorNumber: 959
+PlayerID: 832F387FC6EDFADC
+Platform: Standalone
+AccountCreationDate: 2025-12-16 23:53:13 UTC
+Color: R=1.00 G=0.33 B=0.00
+Cosmetics: None

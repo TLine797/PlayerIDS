@@ -1,0 +1,7 @@
+Name: KONDOM
+ActorNumber: 6
+PlayerID: A9004E7FFC10E0B7
+Platform: Unknown
+AccountCreationDate: 2021-09-05 01:34:22 UTC
+Color: R=0.33 G=0.44 B=0.89
+Cosmetics: None

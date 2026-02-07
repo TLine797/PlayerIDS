@@ -1,0 +1,7 @@
+Name: 77879
+ActorNumber: 1250
+PlayerID: 9A42CB855419DC7A
+Platform: Standalone
+AccountCreationDate: 2025-07-08 04:39:33 UTC
+Color: R=0.44 G=1.00 B=1.00
+Cosmetics: None

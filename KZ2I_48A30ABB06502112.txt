@@ -1,0 +1,7 @@
+Name: TIG
+ActorNumber: 494
+PlayerID: 48A30ABB06502112
+Platform: Standalone
+AccountCreationDate: 2024-03-08 02:39:15 UTC
+Color: R=0.00 G=0.67 B=1.00
+Cosmetics: None

@@ -1,0 +1,7 @@
+Name: STAYWHITE
+ActorNumber: 470
+PlayerID: 35CA849F03FBB6DE
+Platform: Unknown
+AccountCreationDate: 2022-04-18 15:06:44 UTC
+Color: R=1.00 G=1.00 B=1.00
+Cosmetics: None

@@ -1,0 +1,7 @@
+Name: JUBILATOR
+ActorNumber: 555
+PlayerID: 190DB9FAAEB3B3BA
+Platform: Standalone
+AccountCreationDate: 2024-11-23 20:04:22 UTC
+Color: R=0.78 G=0.11 B=0.11
+Cosmetics: None

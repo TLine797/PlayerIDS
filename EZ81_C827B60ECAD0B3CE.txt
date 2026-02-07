@@ -1,0 +1,7 @@
+Name: gorilla1519
+ActorNumber: 1084
+PlayerID: C827B60ECAD0B3CE
+Platform: Standalone
+AccountCreationDate: 2025-01-06 03:20:04 UTC
+Color: R=0.00 G=0.00 B=0.00
+Cosmetics: None

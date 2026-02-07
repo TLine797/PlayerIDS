@@ -1,0 +1,7 @@
+Name: WILLIAM
+ActorNumber: 406
+PlayerID: B8B2DE7995922377
+Platform: Standalone
+AccountCreationDate: 2024-12-25 18:18:12 UTC
+Color: R=0.00 G=0.00 B=0.89
+Cosmetics: None

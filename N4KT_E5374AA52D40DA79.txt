@@ -1,0 +1,7 @@
+Name: AAQAVMAN
+ActorNumber: 750
+PlayerID: E5374AA52D40DA79
+Platform: Standalone
+AccountCreationDate: 2024-12-25 21:39:15 UTC
+Color: R=1.00 G=0.00 B=0.00
+Cosmetics: None

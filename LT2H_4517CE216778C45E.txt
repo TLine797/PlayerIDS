@@ -1,0 +1,7 @@
+Name: ILOVEBLONDES
+ActorNumber: 34
+PlayerID: 4517CE216778C45E
+Platform: Standalone
+AccountCreationDate: 2024-08-29 01:35:29 UTC
+Color: R=0.22 G=0.00 B=0.33
+Cosmetics: None

@@ -1,0 +1,7 @@
+Name: IMACROPINE
+ActorNumber: 37
+PlayerID: 2EF9E63CB96F4E65
+Platform: Standalone
+AccountCreationDate: 2025-09-21 00:10:28 UTC
+Color: R=0.33 G=0.11 B=0.78
+Cosmetics: None

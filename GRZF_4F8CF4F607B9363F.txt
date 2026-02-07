@@ -1,0 +1,7 @@
+Name: OK
+ActorNumber: 39
+PlayerID: 4F8CF4F607B9363F
+Platform: Standalone
+AccountCreationDate: 2025-08-20 12:54:45 UTC
+Color: R=0.44 G=0.44 B=0.44
+Cosmetics: None

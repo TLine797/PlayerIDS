@@ -1,0 +1,7 @@
+Name: M2C7ONDC
+ActorNumber: 730
+PlayerID: 88993C0480207FE5
+Platform: Standalone
+AccountCreationDate: 2024-10-04 00:02:09 UTC
+Color: R=1.00 G=1.00 B=1.00
+Cosmetics: None

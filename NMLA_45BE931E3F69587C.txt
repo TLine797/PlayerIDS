@@ -1,0 +1,7 @@
+Name: F4ITH
+ActorNumber: 607
+PlayerID: 45BE931E3F69587C
+Platform: PC
+AccountCreationDate: 2025-03-21 00:13:46 UTC
+Color: R=0.00 G=0.00 B=0.00
+Cosmetics: None

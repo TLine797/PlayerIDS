@@ -1,0 +1,7 @@
+Name: LAPIZVR
+ActorNumber: 799
+PlayerID: 4FE03C7FD7E86EC7
+Platform: Unknown
+AccountCreationDate: 2022-12-25 18:59:09 UTC
+Color: R=0.11 G=0.33 B=1.00
+Cosmetics: None

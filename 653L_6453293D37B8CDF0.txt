@@ -1,0 +1,7 @@
+Name: JUSTAYELLOWG
+ActorNumber: 300
+PlayerID: 6453293D37B8CDF0
+Platform: Standalone
+AccountCreationDate: 2024-01-10 21:21:15 UTC
+Color: R=1.00 G=1.00 B=0.22
+Cosmetics: None

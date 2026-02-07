@@ -1,0 +1,7 @@
+Name: PAT1776
+ActorNumber: 19
+PlayerID: 407A6C072CADEDEF
+Platform: Standalone
+AccountCreationDate: 2024-12-23 23:48:15 UTC
+Color: R=0.11 G=0.44 B=0.33
+Cosmetics: None

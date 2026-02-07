@@ -1,0 +1,7 @@
+Name: 67BRAINROT
+ActorNumber: 1061
+PlayerID: 531D23725F5911F2
+Platform: Standalone
+AccountCreationDate: 2024-12-26 03:34:05 UTC
+Color: R=1.00 G=0.44 B=1.00
+Cosmetics: None

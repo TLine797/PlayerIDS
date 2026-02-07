@@ -1,0 +1,7 @@
+Name: BOT
+ActorNumber: 136
+PlayerID: 9435535470E1C88A
+Platform: Unknown
+AccountCreationDate: 2025-10-27 16:14:20 UTC
+Color: R=0.00 G=0.00 B=0.00
+Cosmetics: None

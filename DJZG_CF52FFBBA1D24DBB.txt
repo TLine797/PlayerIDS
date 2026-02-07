@@ -1,0 +1,7 @@
+Name: WINT3R
+ActorNumber: 90
+PlayerID: CF52FFBBA1D24DBB
+Platform: Standalone
+AccountCreationDate: 2025-11-04 23:13:30 UTC
+Color: R=0.67 G=0.67 B=1.00
+Cosmetics: None

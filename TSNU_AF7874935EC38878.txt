@@ -1,0 +1,7 @@
+Name: LXRFANTASYY
+ActorNumber: 60
+PlayerID: AF7874935EC38878
+Platform: Standalone
+AccountCreationDate: 2025-04-05 00:55:56 UTC
+Color: R=0.56 G=0.44 B=1.00
+Cosmetics: None

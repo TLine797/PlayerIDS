@@ -1,0 +1,7 @@
+Name: TBDLINY
+ActorNumber: 23
+PlayerID: 390FB0122B015CCA
+Platform: Standalone
+AccountCreationDate: 2023-12-26 17:26:23 UTC
+Color: R=0.78 G=0.00 B=0.00
+Cosmetics: None

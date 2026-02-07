@@ -1,0 +1,7 @@
+Name: HI
+ActorNumber: 101
+PlayerID: 2B561475FC094D72
+Platform: Unknown
+AccountCreationDate: 2022-12-25 16:29:15 UTC
+Color: R=0.22 G=0.00 B=0.00
+Cosmetics: None

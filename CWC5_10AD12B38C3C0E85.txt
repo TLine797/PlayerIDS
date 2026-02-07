@@ -1,0 +1,7 @@
+Name: DREDMONKKEY
+ActorNumber: 852
+PlayerID: 10AD12B38C3C0E85
+Platform: Standalone
+AccountCreationDate: 2025-12-25 16:55:56 UTC
+Color: R=0.56 G=0.00 B=0.00
+Cosmetics: None

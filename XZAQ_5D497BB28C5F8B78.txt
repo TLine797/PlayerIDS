@@ -1,0 +1,7 @@
+Name: STITCH
+ActorNumber: 484
+PlayerID: 5D497BB28C5F8B78
+Platform: Standalone
+AccountCreationDate: 2023-12-25 23:21:54 UTC
+Color: R=0.00 G=0.00 B=1.00
+Cosmetics: None

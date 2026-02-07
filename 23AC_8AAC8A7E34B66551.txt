@@ -1,0 +1,7 @@
+Name: WARNINGBOT
+ActorNumber: 25
+PlayerID: 8AAC8A7E34B66551
+Platform: Standalone
+AccountCreationDate: 2024-01-11 00:48:45 UTC
+Color: R=0.00 G=0.00 B=0.00
+Cosmetics: None

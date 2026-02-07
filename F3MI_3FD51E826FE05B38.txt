@@ -1,0 +1,7 @@
+Name: LAYTONB
+ActorNumber: 64
+PlayerID: 3FD51E826FE05B38
+Platform: Unknown
+AccountCreationDate: 2024-12-25 10:28:42 UTC
+Color: R=1.00 G=0.67 B=0.44
+Cosmetics: None

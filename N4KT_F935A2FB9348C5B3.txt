@@ -1,0 +1,7 @@
+Name: DUPSTERCAT
+ActorNumber: 706
+PlayerID: F935A2FB9348C5B3
+Platform: Standalone
+AccountCreationDate: 2025-04-20 15:32:46 UTC
+Color: R=1.00 G=0.44 B=1.00
+Cosmetics: None

@@ -1,0 +1,7 @@
+Name: PHILIPIAN413
+ActorNumber: 761
+PlayerID: 1D35CB3E9FA21179
+Platform: Standalone
+AccountCreationDate: 2025-03-01 00:04:00 UTC
+Color: R=0.44 G=0.11 B=1.00
+Cosmetics: None

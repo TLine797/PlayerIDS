@@ -1,0 +1,7 @@
+Name: NOTSOHAPPY
+ActorNumber: 838
+PlayerID: 243813ADD10D38B9
+Platform: Standalone
+AccountCreationDate: 2023-11-17 20:24:32 UTC
+Color: R=0.33 G=0.33 B=0.44
+Cosmetics: None

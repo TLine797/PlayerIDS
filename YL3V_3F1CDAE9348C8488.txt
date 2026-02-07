@@ -1,0 +1,7 @@
+Name: WASJUKES
+ActorNumber: 312
+PlayerID: 3F1CDAE9348C8488
+Platform: Standalone
+AccountCreationDate: 2023-06-01 16:11:11 UTC
+Color: R=0.22 G=0.00 B=0.44
+Cosmetics: None

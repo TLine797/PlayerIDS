@@ -1,0 +1,7 @@
+Name: WITCHGT
+ActorNumber: 831
+PlayerID: A0B381598B3A8108
+Platform: Standalone
+AccountCreationDate: 2023-12-25 19:26:37 UTC
+Color: R=0.56 G=0.78 B=1.00
+Cosmetics: None

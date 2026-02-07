@@ -1,0 +1,7 @@
+Name: AMSLIPZ
+ActorNumber: 1084
+PlayerID: ABA7C662FEC07A04
+Platform: Standalone
+AccountCreationDate: 2023-12-26 15:55:58 UTC
+Color: R=1.00 G=1.00 B=0.22
+Cosmetics: None

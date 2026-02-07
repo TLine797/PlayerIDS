@@ -1,0 +1,7 @@
+Name: F
+ActorNumber: 1046
+PlayerID: DC92F2CF2E9EF0FF
+Platform: Standalone
+AccountCreationDate: 2023-12-26 21:51:13 UTC
+Color: R=0.00 G=0.00 B=1.00
+Cosmetics: None

@@ -1,0 +1,7 @@
+Name: ARIANA
+ActorNumber: 368
+PlayerID: DE6640774238F94F
+Platform: Unknown
+AccountCreationDate: 2022-12-27 16:55:19 UTC
+Color: R=0.89 G=0.78 B=0.67
+Cosmetics: None

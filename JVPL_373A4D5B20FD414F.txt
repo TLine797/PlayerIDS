@@ -1,0 +1,7 @@
+Name: VOIDYT
+ActorNumber: 508
+PlayerID: 373A4D5B20FD414F
+Platform: Standalone
+AccountCreationDate: 2024-12-25 14:45:01 UTC
+Color: R=0.78 G=0.11 B=0.22
+Cosmetics: None

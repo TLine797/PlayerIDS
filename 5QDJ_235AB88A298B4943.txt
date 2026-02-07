@@ -1,0 +1,7 @@
+Name: TOES
+ActorNumber: 850
+PlayerID: 235AB88A298B4943
+Platform: PC
+AccountCreationDate: 2026-01-05 19:10:01 UTC
+Color: R=1.00 G=0.78 B=0.67
+Cosmetics: None

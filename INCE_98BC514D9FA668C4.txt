@@ -1,0 +1,7 @@
+Name: GORILLA13096
+ActorNumber: 738
+PlayerID: 98BC514D9FA668C4
+Platform: Standalone
+AccountCreationDate: 2025-12-25 23:12:32 UTC
+Color: R=0.00 G=0.78 B=1.00
+Cosmetics: None

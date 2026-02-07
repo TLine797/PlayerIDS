@@ -1,0 +1,7 @@
+Name: WRECKTKO
+ActorNumber: 87
+PlayerID: C64AAB511E0D6F62
+Platform: Standalone
+AccountCreationDate: 2026-01-09 23:15:04 UTC
+Color: R=0.44 G=0.00 B=0.78
+Cosmetics: None

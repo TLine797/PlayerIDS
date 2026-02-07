@@ -1,0 +1,7 @@
+Name: gorilla9072
+ActorNumber: 90
+PlayerID: 4D450930E3D3B282
+Platform: Standalone
+AccountCreationDate: 2025-01-05 18:06:14 UTC
+Color: R=1.00 G=0.56 B=1.00
+Cosmetics: None

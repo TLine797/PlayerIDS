@@ -1,0 +1,7 @@
+Name: VIEWGT
+ActorNumber: 119
+PlayerID: 71292C99C34B0028
+Platform: Standalone
+AccountCreationDate: 2025-04-24 21:33:37 UTC
+Color: R=0.78 G=0.00 B=0.00
+Cosmetics: None

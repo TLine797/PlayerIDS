@@ -1,0 +1,7 @@
+Name: MONKEY
+ActorNumber: 133
+PlayerID: EC0C3E3685E658E9
+Platform: Standalone
+AccountCreationDate: 2025-12-25 17:50:10 UTC
+Color: R=0.00 G=0.00 B=0.00
+Cosmetics: None

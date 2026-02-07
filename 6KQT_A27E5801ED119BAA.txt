@@ -1,0 +1,7 @@
+Name: PINKWOMEN
+ActorNumber: 261
+PlayerID: A27E5801ED119BAA
+Platform: Standalone
+AccountCreationDate: 2024-12-25 14:41:27 UTC
+Color: R=0.78 G=0.44 B=0.67
+Cosmetics: None

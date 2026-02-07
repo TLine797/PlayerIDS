@@ -1,0 +1,7 @@
+Name: NEBULA
+ActorNumber: 273
+PlayerID: 2D8235B6B40FCF3E
+Platform: Unknown
+AccountCreationDate: 2023-01-29 17:12:32 UTC
+Color: R=0.89 G=0.00 B=1.00
+Cosmetics: None

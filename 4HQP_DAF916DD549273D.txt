@@ -1,0 +1,7 @@
+Name: GUMMY
+ActorNumber: 117
+PlayerID: DAF916DD549273D
+Platform: Unknown
+AccountCreationDate: 2021-12-18 01:11:35 UTC
+Color: R=1.00 G=0.33 B=0.67
+Cosmetics: None

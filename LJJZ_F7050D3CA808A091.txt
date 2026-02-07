@@ -1,0 +1,7 @@
+Name: AZZUL
+ActorNumber: 1334
+PlayerID: F7050D3CA808A091
+Platform: Standalone
+AccountCreationDate: 2025-02-01 12:24:59 UTC
+Color: R=1.00 G=0.89 B=0.56
+Cosmetics: None

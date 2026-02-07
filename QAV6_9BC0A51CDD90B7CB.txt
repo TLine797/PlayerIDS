@@ -1,0 +1,7 @@
+Name: ALXNDER1
+ActorNumber: 114
+PlayerID: 9BC0A51CDD90B7CB
+Platform: Standalone
+AccountCreationDate: 2023-12-25 16:34:21 UTC
+Color: R=0.00 G=0.44 B=1.00
+Cosmetics: None

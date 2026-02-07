@@ -1,0 +1,7 @@
+Name: BOBB
+ActorNumber: 213
+PlayerID: C5BC0EBFCF59EC6D
+Platform: Standalone
+AccountCreationDate: 2025-03-25 02:48:32 UTC
+Color: R=0.00 G=0.00 B=0.56
+Cosmetics: None

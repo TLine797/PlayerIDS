@@ -1,0 +1,7 @@
+Name: MRCOOK
+ActorNumber: 1
+PlayerID: B1675849E56234D7
+Platform: Standalone
+AccountCreationDate: 2024-08-04 18:05:41 UTC
+Color: R=0.56 G=0.22 B=0.67
+Cosmetics: None

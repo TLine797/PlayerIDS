@@ -1,0 +1,7 @@
+Name: TRAINBOY
+ActorNumber: 85
+PlayerID: C22C62DEF884D735
+Platform: Standalone
+AccountCreationDate: 2026-01-19 22:57:56 UTC
+Color: R=0.00 G=1.00 B=0.00
+Cosmetics: None

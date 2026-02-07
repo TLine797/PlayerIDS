@@ -1,0 +1,7 @@
+Name: ORB67
+ActorNumber: 307
+PlayerID: E17537945E290C84
+Platform: Standalone
+AccountCreationDate: 2024-07-05 21:58:03 UTC
+Color: R=1.00 G=0.00 B=0.00
+Cosmetics: None

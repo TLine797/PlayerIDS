@@ -1,0 +1,7 @@
+Name: BEANIE
+ActorNumber: 350
+PlayerID: 56F6AD1D67B7473E
+Platform: Standalone
+AccountCreationDate: 2024-01-29 21:18:12 UTC
+Color: R=0.11 G=0.56 B=1.00
+Cosmetics: None

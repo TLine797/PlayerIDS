@@ -1,0 +1,7 @@
+Name: TRU
+ActorNumber: 219
+PlayerID: 3D8EE4924517B3E3
+Platform: Standalone
+AccountCreationDate: 2025-12-29 01:04:56 UTC
+Color: R=1.00 G=0.33 B=0.33
+Cosmetics: None

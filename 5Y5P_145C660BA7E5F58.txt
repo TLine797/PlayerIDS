@@ -1,0 +1,7 @@
+Name: HELLO
+ActorNumber: 220
+PlayerID: 145C660BA7E5F58
+Platform: Standalone
+AccountCreationDate: 2024-12-28 20:28:52 UTC
+Color: R=0.56 G=0.00 B=1.00
+Cosmetics: None

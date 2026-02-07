@@ -1,0 +1,7 @@
+Name: LITTLEJIMBOB
+ActorNumber: 899
+PlayerID: FDA9DFD06DC1BF8A
+Platform: Standalone
+AccountCreationDate: 2025-04-18 16:24:00 UTC
+Color: R=0.00 G=0.00 B=0.00
+Cosmetics: None

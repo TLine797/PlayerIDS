@@ -1,0 +1,7 @@
+Name: SMBANANAGT
+ActorNumber: 484
+PlayerID: 4B40D349FC7972D2
+Platform: Standalone
+AccountCreationDate: 2023-10-04 19:53:17 UTC
+Color: R=0.67 G=0.78 B=1.00
+Cosmetics: None

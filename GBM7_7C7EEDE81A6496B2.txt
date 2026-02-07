@@ -1,0 +1,7 @@
+Name: gorilla3262
+ActorNumber: 1017
+PlayerID: 7C7EEDE81A6496B2
+Platform: Standalone
+AccountCreationDate: 2021-07-16 00:40:42 UTC
+Color: R=0.11 G=1.00 B=0.56
+Cosmetics: None

@@ -1,0 +1,7 @@
+Name: ULTRA
+ActorNumber: 38
+PlayerID: 54A45F4C634879DA
+Platform: Standalone
+AccountCreationDate: 2025-12-25 11:49:11 UTC
+Color: R=0.22 G=0.11 B=1.00
+Cosmetics: None

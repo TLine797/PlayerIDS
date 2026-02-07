@@ -1,0 +1,7 @@
+Name: LITTLETIMY
+ActorNumber: 1241
+PlayerID: C3326605D685A6D0
+Platform: Standalone
+AccountCreationDate: 2025-01-11 04:15:59 UTC
+Color: R=0.11 G=0.00 B=0.00
+Cosmetics: None

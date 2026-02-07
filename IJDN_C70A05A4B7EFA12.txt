@@ -1,0 +1,7 @@
+Name: TSKSOUL
+ActorNumber: 720
+PlayerID: C70A05A4B7EFA12
+Platform: Standalone
+AccountCreationDate: 2024-06-18 22:12:08 UTC
+Color: R=0.44 G=0.00 B=1.00
+Cosmetics: None

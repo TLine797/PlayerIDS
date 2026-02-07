@@ -1,0 +1,7 @@
+Name: BUM
+ActorNumber: 1278
+PlayerID: 10AF6F1BD16F4F69
+Platform: Standalone
+AccountCreationDate: 2023-11-03 00:10:57 UTC
+Color: R=0.00 G=0.00 B=0.33
+Cosmetics: None

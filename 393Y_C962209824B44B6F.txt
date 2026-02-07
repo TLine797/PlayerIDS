@@ -1,0 +1,7 @@
+Name: SREN177GJOSH
+ActorNumber: 1002
+PlayerID: C962209824B44B6F
+Platform: Standalone
+AccountCreationDate: 2024-06-26 07:58:45 UTC
+Color: R=0.33 G=0.67 B=0.33
+Cosmetics: None

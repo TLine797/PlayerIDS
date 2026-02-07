@@ -1,0 +1,7 @@
+Name: APEXGT
+ActorNumber: 18
+PlayerID: 688936E64F7C2747
+Platform: Standalone
+AccountCreationDate: 2024-12-25 15:31:04 UTC
+Color: R=0.56 G=0.22 B=1.00
+Cosmetics: None

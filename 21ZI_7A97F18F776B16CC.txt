@@ -1,0 +1,7 @@
+Name: ASTRONOMY
+ActorNumber: 228
+PlayerID: 7A97F18F776B16CC
+Platform: Unknown
+AccountCreationDate: 2022-08-04 23:24:15 UTC
+Color: R=1.00 G=0.33 B=0.67
+Cosmetics: None

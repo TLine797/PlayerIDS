@@ -1,0 +1,7 @@
+Name: gorilla8648
+ActorNumber: 346
+PlayerID: 3DA5F89AC88FFE8D
+Platform: Standalone
+AccountCreationDate: 2025-12-21 20:13:56 UTC
+Color: R=0.00 G=0.89 B=1.00
+Cosmetics: None

@@ -1,0 +1,7 @@
+Name: ME
+ActorNumber: 664
+PlayerID: 84F676EE633D008D
+Platform: Standalone
+AccountCreationDate: 2024-06-19 20:02:30 UTC
+Color: R=0.00 G=1.00 B=1.00
+Cosmetics: None

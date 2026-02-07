@@ -1,0 +1,7 @@
+Name: ICE
+ActorNumber: 923
+PlayerID: A750A518C107B0B3
+Platform: PC
+AccountCreationDate: 2025-01-05 21:09:26 UTC
+Color: R=0.00 G=0.00 B=0.56
+Cosmetics: None

@@ -1,0 +1,7 @@
+Name: HONK
+ActorNumber: 91
+PlayerID: ACC833E535219163
+Platform: Standalone
+AccountCreationDate: 2023-03-02 17:27:15 UTC
+Color: R=0.00 G=0.89 B=0.78
+Cosmetics: None

@@ -1,0 +1,7 @@
+Name: DEERTOE
+ActorNumber: 808
+PlayerID: 59F096C3AE0F76DD
+Platform: Standalone
+AccountCreationDate: 2025-01-12 15:16:24 UTC
+Color: R=0.11 G=0.33 B=0.00
+Cosmetics: None

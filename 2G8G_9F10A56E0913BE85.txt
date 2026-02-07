@@ -1,0 +1,7 @@
+Name: SHADO
+ActorNumber: 5
+PlayerID: 9F10A56E0913BE85
+Platform: Standalone
+AccountCreationDate: 2026-01-26 20:31:07 UTC
+Color: R=0.00 G=0.00 B=0.00
+Cosmetics: None

@@ -1,0 +1,7 @@
+Name: MONKEY
+ActorNumber: 6
+PlayerID: A2053002B6F64F42
+Platform: Standalone
+AccountCreationDate: 2023-12-25 18:43:28 UTC
+Color: R=1.00 G=0.00 B=0.00
+Cosmetics: None

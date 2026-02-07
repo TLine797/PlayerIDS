@@ -1,0 +1,7 @@
+Name: WHOPPER
+ActorNumber: 162
+PlayerID: 8C226965A7C8482C
+Platform: Standalone
+AccountCreationDate: 2023-05-22 16:42:15 UTC
+Color: R=0.78 G=0.00 B=0.11
+Cosmetics: None

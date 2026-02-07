@@ -1,0 +1,7 @@
+Name: STTMION
+ActorNumber: 438
+PlayerID: 654406F71B1879D0
+Platform: Standalone
+AccountCreationDate: 2024-12-27 23:31:59 UTC
+Color: R=0.44 G=0.00 B=1.00
+Cosmetics: None

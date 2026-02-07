@@ -1,0 +1,7 @@
+Name: RPOP
+ActorNumber: 297
+PlayerID: 797D63DFA86456EB
+Platform: Standalone
+AccountCreationDate: 2024-02-18 19:40:38 UTC
+Color: R=0.00 G=0.00 B=1.00
+Cosmetics: None

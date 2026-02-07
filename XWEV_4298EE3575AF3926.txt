@@ -1,0 +1,7 @@
+Name: CLOWN
+ActorNumber: 648
+PlayerID: 4298EE3575AF3926
+Platform: Standalone
+AccountCreationDate: 2023-10-31 02:24:00 UTC
+Color: R=0.33 G=0.44 B=1.00
+Cosmetics: None

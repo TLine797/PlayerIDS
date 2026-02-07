@@ -1,0 +1,7 @@
+Name: TGG123
+ActorNumber: 856
+PlayerID: 177272CC32F91360
+Platform: Standalone
+AccountCreationDate: 2024-12-25 14:55:15 UTC
+Color: R=0.44 G=0.00 B=0.89
+Cosmetics: None

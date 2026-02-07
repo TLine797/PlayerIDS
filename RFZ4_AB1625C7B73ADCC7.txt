@@ -1,0 +1,7 @@
+Name: ZEM
+ActorNumber: 1120
+PlayerID: AB1625C7B73ADCC7
+Platform: Standalone
+AccountCreationDate: 2025-06-11 22:34:28 UTC
+Color: R=0.22 G=0.33 B=0.89
+Cosmetics: None

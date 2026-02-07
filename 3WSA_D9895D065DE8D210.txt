@@ -1,0 +1,7 @@
+Name: gorilla8272
+ActorNumber: 199
+PlayerID: D9895D065DE8D210
+Platform: Standalone
+AccountCreationDate: 2022-09-18 21:21:25 UTC
+Color: R=0.44 G=1.00 B=0.00
+Cosmetics: None

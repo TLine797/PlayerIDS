@@ -1,0 +1,7 @@
+Name: NOPREDS
+ActorNumber: 4039
+PlayerID: BC69953AB5AD23A8
+Platform: Standalone
+AccountCreationDate: 2022-12-24 16:31:26 UTC
+Color: R=0.33 G=0.00 B=0.56
+Cosmetics: None

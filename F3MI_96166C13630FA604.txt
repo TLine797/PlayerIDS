@@ -1,0 +1,7 @@
+Name: GSCONY
+ActorNumber: 55
+PlayerID: 96166C13630FA604
+Platform: Standalone
+AccountCreationDate: 2024-04-28 18:49:39 UTC
+Color: R=0.89 G=0.56 B=0.56
+Cosmetics: None

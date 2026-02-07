@@ -1,0 +1,7 @@
+Name: TWINKLETOES
+ActorNumber: 513
+PlayerID: C41668352C6D9C15
+Platform: Standalone
+AccountCreationDate: 2025-07-27 21:45:20 UTC
+Color: R=0.89 G=0.67 B=0.89
+Cosmetics: None

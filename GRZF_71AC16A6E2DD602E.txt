@@ -1,0 +1,7 @@
+Name: FREDDYFAZBER
+ActorNumber: 42
+PlayerID: 71AC16A6E2DD602E
+Platform: Standalone
+AccountCreationDate: 2025-07-28 16:42:39 UTC
+Color: R=0.33 G=0.00 B=0.89
+Cosmetics: None

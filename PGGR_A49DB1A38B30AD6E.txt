@@ -1,0 +1,7 @@
+Name: ARX
+ActorNumber: 1935
+PlayerID: A49DB1A38B30AD6E
+Platform: Unknown
+AccountCreationDate: 2022-01-12 16:56:33 UTC
+Color: R=1.00 G=1.00 B=1.00
+Cosmetics: None

@@ -1,0 +1,7 @@
+Name: ZEMIE
+ActorNumber: 73
+PlayerID: A0898C8C0550AC65
+Platform: Standalone
+AccountCreationDate: 2024-01-01 10:09:28 UTC
+Color: R=0.56 G=0.56 B=0.56
+Cosmetics: None

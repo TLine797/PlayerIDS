@@ -1,0 +1,7 @@
+Name: DINOSANDANDP
+ActorNumber: 372
+PlayerID: 8637A264062B975A
+Platform: Unknown
+AccountCreationDate: 2022-09-14 00:28:04 UTC
+Color: R=0.44 G=0.33 B=0.33
+Cosmetics: None

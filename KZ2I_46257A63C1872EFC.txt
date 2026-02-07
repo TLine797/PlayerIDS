@@ -1,0 +1,7 @@
+Name: GAROU
+ActorNumber: 497
+PlayerID: 46257A63C1872EFC
+Platform: Unknown
+AccountCreationDate: 2022-10-13 21:00:38 UTC
+Color: R=0.22 G=0.22 B=0.22
+Cosmetics: None

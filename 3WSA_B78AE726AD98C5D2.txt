@@ -1,0 +1,7 @@
+Name: FEMBOYDEKU
+ActorNumber: 180
+PlayerID: B78AE726AD98C5D2
+Platform: Standalone
+AccountCreationDate: 2024-07-18 01:20:40 UTC
+Color: R=1.00 G=1.00 B=1.00
+Cosmetics: None

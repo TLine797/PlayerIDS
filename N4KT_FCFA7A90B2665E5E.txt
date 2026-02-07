@@ -1,0 +1,7 @@
+Name: ODYN
+ActorNumber: 677
+PlayerID: FCFA7A90B2665E5E
+Platform: Unknown
+AccountCreationDate: 2022-08-02 08:19:18 UTC
+Color: R=0.00 G=0.00 B=0.00
+Cosmetics: None

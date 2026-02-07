@@ -1,0 +1,7 @@
+Name: TVMMOONLITGT
+ActorNumber: 6
+PlayerID: 2421E3895C3E98F1
+Platform: Standalone
+AccountCreationDate: 2023-07-13 19:25:09 UTC
+Color: R=0.11 G=0.11 B=0.33
+Cosmetics: None

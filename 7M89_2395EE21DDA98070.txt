@@ -1,0 +1,7 @@
+Name: UZI
+ActorNumber: 22
+PlayerID: 2395EE21DDA98070
+Platform: Standalone
+AccountCreationDate: 2023-07-13 03:00:42 UTC
+Color: R=0.67 G=0.67 B=1.00
+Cosmetics: None

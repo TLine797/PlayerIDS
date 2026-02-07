@@ -1,0 +1,7 @@
+Name: TSMMINTY
+ActorNumber: 5820
+PlayerID: 280838A766D1EBAE
+Platform: Standalone
+AccountCreationDate: 2025-03-14 00:37:02 UTC
+Color: R=0.22 G=0.11 B=0.00
+Cosmetics: None

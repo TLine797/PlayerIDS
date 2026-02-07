@@ -1,0 +1,7 @@
+Name: ZOMBIE
+ActorNumber: 414
+PlayerID: DB7E2214D8001C46
+Platform: Standalone
+AccountCreationDate: 2024-03-02 00:50:33 UTC
+Color: R=0.00 G=0.00 B=0.00
+Cosmetics: None

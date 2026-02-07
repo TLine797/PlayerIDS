@@ -1,0 +1,7 @@
+Name: LGANGLE
+ActorNumber: 33
+PlayerID: 9D3CAC11C6E9959C
+Platform: Standalone
+AccountCreationDate: 2025-07-12 02:35:32 UTC
+Color: R=0.22 G=0.33 B=0.33
+Cosmetics: None

@@ -1,0 +1,7 @@
+Name: JMANCURLY
+ActorNumber: 5825
+PlayerID: 1E08DCD25D36553F
+Platform: Standalone
+AccountCreationDate: 2024-12-25 15:00:23 UTC
+Color: R=0.00 G=0.78 B=1.00
+Cosmetics: None

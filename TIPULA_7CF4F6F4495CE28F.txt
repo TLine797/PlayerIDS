@@ -1,0 +1,7 @@
+Name: NGASINMYASS
+ActorNumber: 2
+PlayerID: 7CF4F6F4495CE28F
+Platform: Standalone
+AccountCreationDate: 2026-01-20 00:08:15 UTC
+Color: R=1.00 G=0.67 B=0.89
+Cosmetics: None

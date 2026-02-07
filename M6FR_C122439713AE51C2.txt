@@ -1,0 +1,7 @@
+Name: TFT
+ActorNumber: 396
+PlayerID: C122439713AE51C2
+Platform: Standalone
+AccountCreationDate: 2024-01-20 15:29:55 UTC
+Color: R=0.44 G=0.33 B=0.78
+Cosmetics: None

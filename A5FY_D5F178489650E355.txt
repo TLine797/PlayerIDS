@@ -1,0 +1,7 @@
+Name: JAXYVR4AA
+ActorNumber: 1685
+PlayerID: D5F178489650E355
+Platform: Standalone
+AccountCreationDate: 2024-12-25 15:31:06 UTC
+Color: R=0.44 G=0.33 B=0.78
+Cosmetics: None

@@ -1,0 +1,7 @@
+Name: 877665
+ActorNumber: 111
+PlayerID: 57B1566A5875B824
+Platform: Standalone
+AccountCreationDate: 2026-02-01 20:53:56 UTC
+Color: R=0.56 G=0.00 B=1.00
+Cosmetics: None

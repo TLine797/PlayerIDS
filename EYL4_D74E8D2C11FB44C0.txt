@@ -1,0 +1,7 @@
+Name: LGKHARI
+ActorNumber: 641
+PlayerID: D74E8D2C11FB44C0
+Platform: Standalone
+AccountCreationDate: 2026-01-30 16:26:27 UTC
+Color: R=0.44 G=0.11 B=0.44
+Cosmetics: None

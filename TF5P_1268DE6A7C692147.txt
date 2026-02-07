@@ -1,0 +1,7 @@
+Name: TBAMID
+ActorNumber: 30
+PlayerID: 1268DE6A7C692147
+Platform: Standalone
+AccountCreationDate: 2024-08-22 02:10:08 UTC
+Color: R=0.00 G=0.78 B=1.00
+Cosmetics: None

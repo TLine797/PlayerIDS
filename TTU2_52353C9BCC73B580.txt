@@ -1,0 +1,7 @@
+Name: ICHLEPOZZ
+ActorNumber: 81
+PlayerID: 52353C9BCC73B580
+Platform: Standalone
+AccountCreationDate: 2024-05-02 18:50:53 UTC
+Color: R=0.44 G=0.56 B=0.44
+Cosmetics: None

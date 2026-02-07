@@ -1,0 +1,7 @@
+Name: TSMSCARLET
+ActorNumber: 160
+PlayerID: AA6FA0BF06F12458
+Platform: Standalone
+AccountCreationDate: 2025-05-14 18:23:26 UTC
+Color: R=1.00 G=0.67 B=1.00
+Cosmetics: None

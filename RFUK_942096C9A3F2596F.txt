@@ -1,0 +1,7 @@
+Name: TX75
+ActorNumber: 166
+PlayerID: 942096C9A3F2596F
+Platform: PC
+AccountCreationDate: 2025-04-19 06:36:11 UTC
+Color: R=0.78 G=0.44 B=0.22
+Cosmetics: None

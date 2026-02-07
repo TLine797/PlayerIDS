@@ -1,0 +1,7 @@
+Name: LCMMICHAEL
+ActorNumber: 275
+PlayerID: 551C9497297E6F30
+Platform: Standalone
+AccountCreationDate: 2024-08-04 16:33:29 UTC
+Color: R=1.00 G=0.32 B=0.91
+Cosmetics: None

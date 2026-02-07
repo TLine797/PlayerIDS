@@ -1,0 +1,7 @@
+Name: STATUE
+ActorNumber: 861
+PlayerID: 28EF8E77A2A882B4
+Platform: Standalone
+AccountCreationDate: 2025-12-28 01:23:11 UTC
+Color: R=0.86 G=0.31 B=0.14
+Cosmetics: None

@@ -1,0 +1,7 @@
+Name: EFN
+ActorNumber: 987
+PlayerID: 95B9BC0566944389
+Platform: Standalone
+AccountCreationDate: 2024-09-14 00:31:33 UTC
+Color: R=1.00 G=0.00 B=0.56
+Cosmetics: None

@@ -1,0 +1,7 @@
+Name: NATHALIA
+ActorNumber: 365
+PlayerID: A8C97A0126DAB933
+Platform: Standalone
+AccountCreationDate: 2024-05-19 22:44:35 UTC
+Color: R=0.78 G=0.00 B=0.22
+Cosmetics: None

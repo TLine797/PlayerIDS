@@ -1,0 +1,7 @@
+Name: COCONUT
+ActorNumber: 879
+PlayerID: B9E77B384E0CA8A8
+Platform: Standalone
+AccountCreationDate: 2024-07-05 23:36:33 UTC
+Color: R=1.00 G=0.00 B=0.00
+Cosmetics: None

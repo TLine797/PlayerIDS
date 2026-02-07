@@ -1,0 +1,7 @@
+Name: gorilla
+ActorNumber: 598
+PlayerID: 18A063149C62D7A9
+Platform: Standalone
+AccountCreationDate: 2024-12-26 21:02:44 UTC
+Color: R=0.44 G=0.00 B=1.00
+Cosmetics: None

@@ -1,0 +1,7 @@
+Name: TPOIDK
+ActorNumber: 89
+PlayerID: 8994059E6E65E989
+Platform: Standalone
+AccountCreationDate: 2023-03-22 21:53:16 UTC
+Color: R=0.33 G=0.00 B=0.56
+Cosmetics: None

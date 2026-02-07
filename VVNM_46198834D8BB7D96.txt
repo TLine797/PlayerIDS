@@ -1,0 +1,7 @@
+Name: GOOBA
+ActorNumber: 1167
+PlayerID: 46198834D8BB7D96
+Platform: Standalone
+AccountCreationDate: 2025-03-15 17:50:23 UTC
+Color: R=0.00 G=0.00 B=1.00
+Cosmetics: None

@@ -1,0 +1,7 @@
+Name: JESUSISOMEGA
+ActorNumber: 3428
+PlayerID: F37F0EDD16914AFA
+Platform: Standalone
+AccountCreationDate: 2024-05-19 14:29:59 UTC
+Color: R=1.00 G=1.00 B=1.00
+Cosmetics: None

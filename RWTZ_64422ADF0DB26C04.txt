@@ -1,0 +1,7 @@
+Name: ASYYYDOGG
+ActorNumber: 526
+PlayerID: 64422ADF0DB26C04
+Platform: Standalone
+AccountCreationDate: 2023-12-26 17:00:25 UTC
+Color: R=0.00 G=0.00 B=0.00
+Cosmetics: None

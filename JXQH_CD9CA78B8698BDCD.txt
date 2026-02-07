@@ -1,0 +1,7 @@
+Name: TTTGTSWEAT
+ActorNumber: 1248
+PlayerID: CD9CA78B8698BDCD
+Platform: Standalone
+AccountCreationDate: 2025-12-25 14:30:20 UTC
+Color: R=0.56 G=0.00 B=1.00
+Cosmetics: None

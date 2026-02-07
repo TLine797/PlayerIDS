@@ -1,0 +1,7 @@
+Name: SHAYREN85
+ActorNumber: 43
+PlayerID: 848CA8278C0FE633
+Platform: Unknown
+AccountCreationDate: 2022-01-07 21:38:23 UTC
+Color: R=0.44 G=0.56 B=0.89
+Cosmetics: None

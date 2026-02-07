@@ -1,0 +1,7 @@
+Name: LUCHO
+ActorNumber: 344
+PlayerID: 9DFFE39876D791CA
+Platform: Standalone
+AccountCreationDate: 2025-03-02 11:57:55 UTC
+Color: R=0.67 G=0.67 B=0.67
+Cosmetics: None

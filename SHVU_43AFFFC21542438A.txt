@@ -1,0 +1,7 @@
+Name: TAY
+ActorNumber: 35
+PlayerID: 43AFFFC21542438A
+Platform: Unknown
+AccountCreationDate: 2024-03-02 04:41:10 UTC
+Color: R=0.33 G=0.22 B=0.22
+Cosmetics: None

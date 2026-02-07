@@ -1,0 +1,7 @@
+Name: JJK
+ActorNumber: 1094
+PlayerID: 1D50F8395F5F05A8
+Platform: Standalone
+AccountCreationDate: 2025-03-30 21:30:09 UTC
+Color: R=1.00 G=1.00 B=1.00
+Cosmetics: None

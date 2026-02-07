@@ -1,0 +1,7 @@
+Name: TSVKAI
+ActorNumber: 250
+PlayerID: E5B44B52BFAF517D
+Platform: Standalone
+AccountCreationDate: 2024-12-25 13:57:17 UTC
+Color: R=1.00 G=0.00 B=0.78
+Cosmetics: None

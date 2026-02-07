@@ -1,0 +1,7 @@
+Name: GORILLA0838
+ActorNumber: 1064
+PlayerID: A12124EDABA4FCB7
+Platform: Standalone
+AccountCreationDate: 2023-08-18 23:18:58 UTC
+Color: R=0.56 G=0.67 B=0.89
+Cosmetics: None

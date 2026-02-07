@@ -1,0 +1,7 @@
+Name: FIESTA
+ActorNumber: 652
+PlayerID: 59185B0F0E1C4E3B
+Platform: Standalone
+AccountCreationDate: 2025-02-03 14:10:33 UTC
+Color: R=0.11 G=0.22 B=0.67
+Cosmetics: None

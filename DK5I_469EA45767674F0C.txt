@@ -1,0 +1,7 @@
+Name: TURID
+ActorNumber: 474
+PlayerID: 469EA45767674F0C
+Platform: Standalone
+AccountCreationDate: 2024-03-12 19:56:37 UTC
+Color: R=0.56 G=0.00 B=0.89
+Cosmetics: None

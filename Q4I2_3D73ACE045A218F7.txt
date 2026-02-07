@@ -1,0 +1,7 @@
+Name: TTTDAWNFAN
+ActorNumber: 3426
+PlayerID: 3D73ACE045A218F7
+Platform: Standalone
+AccountCreationDate: 2025-12-25 21:24:29 UTC
+Color: R=0.11 G=0.00 B=0.56
+Cosmetics: None

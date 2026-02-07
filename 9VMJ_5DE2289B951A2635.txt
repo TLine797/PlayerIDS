@@ -1,0 +1,7 @@
+Name: BANANAVR
+ActorNumber: 859
+PlayerID: 5DE2289B951A2635
+Platform: Unknown
+AccountCreationDate: 2022-12-28 21:20:42 UTC
+Color: R=1.00 G=0.78 B=0.22
+Cosmetics: None

@@ -1,0 +1,7 @@
+Name: H4KPY
+ActorNumber: 221
+PlayerID: E612F4F1C701D818
+Platform: Standalone
+AccountCreationDate: 2025-12-25 20:19:37 UTC
+Color: R=0.78 G=0.00 B=0.11
+Cosmetics: None

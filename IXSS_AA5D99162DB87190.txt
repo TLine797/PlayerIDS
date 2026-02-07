@@ -1,0 +1,7 @@
+Name: FLYY
+ActorNumber: 404
+PlayerID: AA5D99162DB87190
+Platform: Unknown
+AccountCreationDate: 2022-03-06 02:33:40 UTC
+Color: R=0.33 G=0.44 B=0.56
+Cosmetics: None

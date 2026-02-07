@@ -1,0 +1,7 @@
+Name: KALVIN
+ActorNumber: 507
+PlayerID: E8398FF02F936D11
+Platform: Standalone
+AccountCreationDate: 2026-01-11 01:25:01 UTC
+Color: R=0.89 G=0.00 B=0.00
+Cosmetics: None

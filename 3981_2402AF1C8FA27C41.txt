@@ -1,0 +1,7 @@
+Name: GORILLA5372
+ActorNumber: 4
+PlayerID: 2402AF1C8FA27C41
+Platform: Standalone
+AccountCreationDate: 2023-11-19 22:51:53 UTC
+Color: R=0.57 G=0.82 B=0.24
+Cosmetics: None

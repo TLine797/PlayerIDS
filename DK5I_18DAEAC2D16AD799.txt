@@ -1,0 +1,7 @@
+Name: EL1JAHVRLOL
+ActorNumber: 475
+PlayerID: 18DAEAC2D16AD799
+Platform: Standalone
+AccountCreationDate: 2025-02-05 07:51:28 UTC
+Color: R=0.22 G=1.00 B=1.00
+Cosmetics: None

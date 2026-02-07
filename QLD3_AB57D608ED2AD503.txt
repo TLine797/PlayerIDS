@@ -1,0 +1,7 @@
+Name: DOLK
+ActorNumber: 840
+PlayerID: AB57D608ED2AD503
+Platform: Standalone
+AccountCreationDate: 2024-01-15 04:23:18 UTC
+Color: R=0.67 G=0.22 B=0.33
+Cosmetics: None

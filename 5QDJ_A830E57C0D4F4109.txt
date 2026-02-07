@@ -1,0 +1,7 @@
+Name: MUNCHIE
+ActorNumber: 863
+PlayerID: A830E57C0D4F4109
+Platform: Standalone
+AccountCreationDate: 2025-05-17 01:54:47 UTC
+Color: R=0.33 G=0.44 B=0.56
+Cosmetics: None

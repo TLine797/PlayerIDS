@@ -1,0 +1,7 @@
+Name: SUNSET
+ActorNumber: 12
+PlayerID: A3B9750EB2C9DA20
+Platform: Unknown
+AccountCreationDate: 2022-12-25 18:21:18 UTC
+Color: R=1.00 G=0.44 B=0.00
+Cosmetics: None

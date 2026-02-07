@@ -1,0 +1,7 @@
+Name: NORTH
+ActorNumber: 59
+PlayerID: 907761E7DE07EE1B
+Platform: Standalone
+AccountCreationDate: 2023-12-23 03:36:33 UTC
+Color: R=0.22 G=0.33 B=0.44
+Cosmetics: None

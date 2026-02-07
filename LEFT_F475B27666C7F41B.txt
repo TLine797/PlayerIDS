@@ -1,0 +1,7 @@
+Name: DEEBO
+ActorNumber: 3
+PlayerID: F475B27666C7F41B
+Platform: Standalone
+AccountCreationDate: 2024-12-25 14:53:12 UTC
+Color: R=0.22 G=0.22 B=0.33
+Cosmetics: None

@@ -1,0 +1,7 @@
+Name: 0P
+ActorNumber: 463
+PlayerID: F4FE85D077A26809
+Platform: Standalone
+AccountCreationDate: 2025-10-27 02:38:04 UTC
+Color: R=0.11 G=0.11 B=0.67
+Cosmetics: None

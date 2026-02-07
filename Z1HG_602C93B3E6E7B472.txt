@@ -1,0 +1,7 @@
+Name: POPCORNVR
+ActorNumber: 1318
+PlayerID: 602C93B3E6E7B472
+Platform: Standalone
+AccountCreationDate: 2024-12-25 17:27:17 UTC
+Color: R=0.67 G=0.00 B=0.00
+Cosmetics: None

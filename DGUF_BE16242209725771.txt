@@ -1,0 +1,7 @@
+Name: CHRIS
+ActorNumber: 206
+PlayerID: BE16242209725771
+Platform: Standalone
+AccountCreationDate: 2021-12-19 08:00:39 UTC
+Color: R=0.44 G=0.22 B=0.67
+Cosmetics: None

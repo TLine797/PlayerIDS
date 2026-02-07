@@ -1,0 +1,7 @@
+Name: FUZZO
+ActorNumber: 19
+PlayerID: D1E0C68A0CA49663
+Platform: Standalone
+AccountCreationDate: 2025-12-25 17:39:29 UTC
+Color: R=0.67 G=0.00 B=0.00
+Cosmetics: None

@@ -1,0 +1,7 @@
+Name: NPC
+ActorNumber: 479
+PlayerID: 6DEE0D7D822421EF
+Platform: Standalone
+AccountCreationDate: 2023-06-10 03:03:45 UTC
+Color: R=0.00 G=0.44 B=1.00
+Cosmetics: None

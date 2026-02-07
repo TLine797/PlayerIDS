@@ -1,0 +1,7 @@
+Name: LIGHTYGT
+ActorNumber: 56
+PlayerID: 546C3D87AD8C90FC
+Platform: Standalone
+AccountCreationDate: 2023-10-28 15:04:25 UTC
+Color: R=0.00 G=0.00 B=0.00
+Cosmetics: None

@@ -1,0 +1,7 @@
+Name: DEO
+ActorNumber: 341
+PlayerID: 2A0741406570CEE1
+Platform: Standalone
+AccountCreationDate: 2023-02-28 03:40:14 UTC
+Color: R=0.56 G=0.33 B=0.11
+Cosmetics: None

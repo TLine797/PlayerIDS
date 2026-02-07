@@ -1,0 +1,7 @@
+Name: DAISY09
+ActorNumber: 327
+PlayerID: 66F2655A9510EEB6
+Platform: Standalone
+AccountCreationDate: 2026-01-01 23:44:24 UTC
+Color: R=1.00 G=0.32 B=0.91
+Cosmetics: None

@@ -1,0 +1,7 @@
+Name: XMANCAM
+ActorNumber: 293
+PlayerID: C4C417C382F7C806
+Platform: Standalone
+AccountCreationDate: 2026-01-12 21:39:35 UTC
+Color: R=0.44 G=0.11 B=1.00
+Cosmetics: None

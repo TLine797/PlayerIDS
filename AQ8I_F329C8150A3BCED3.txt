@@ -1,0 +1,7 @@
+Name: DONALDTRUMP
+ActorNumber: 357
+PlayerID: F329C8150A3BCED3
+Platform: Unknown
+AccountCreationDate: 2021-05-17 17:58:51 UTC
+Color: R=1.00 G=0.44 B=0.11
+Cosmetics: None

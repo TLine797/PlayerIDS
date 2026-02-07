@@ -1,0 +1,7 @@
+Name: TIMMY
+ActorNumber: 411
+PlayerID: 9926DDC975C3C9F8
+Platform: Unknown
+AccountCreationDate: 2024-04-28 20:38:32 UTC
+Color: R=0.00 G=0.56 B=0.89
+Cosmetics: None

@@ -1,0 +1,7 @@
+Name: ASTRANULL
+ActorNumber: 335
+PlayerID: FD5AE3B27CDC3E56
+Platform: Unknown
+AccountCreationDate: 2023-01-13 00:40:11 UTC
+Color: R=0.11 G=0.00 B=0.00
+Cosmetics: None

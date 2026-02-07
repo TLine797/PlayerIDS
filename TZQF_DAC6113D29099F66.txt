@@ -1,0 +1,7 @@
+Name: POKRUK
+ActorNumber: 721
+PlayerID: DAC6113D29099F66
+Platform: Standalone
+AccountCreationDate: 2025-10-12 17:39:37 UTC
+Color: R=0.67 G=0.00 B=0.00
+Cosmetics: None

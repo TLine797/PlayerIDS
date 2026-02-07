@@ -1,0 +1,7 @@
+Name: RIFT
+ActorNumber: 209
+PlayerID: B7140B08C46D0B07
+Platform: Unknown
+AccountCreationDate: 2024-12-25 13:56:45 UTC
+Color: R=0.00 G=0.44 B=0.78
+Cosmetics: None

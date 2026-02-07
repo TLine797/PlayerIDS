@@ -1,0 +1,7 @@
+Name: JAYYVR
+ActorNumber: 347
+PlayerID: C9404ABBFBFBE12
+Platform: Standalone
+AccountCreationDate: 2023-11-22 22:38:13 UTC
+Color: R=0.33 G=0.00 B=0.00
+Cosmetics: None

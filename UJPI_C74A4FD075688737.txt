@@ -1,0 +1,7 @@
+Name: HELIE
+ActorNumber: 122
+PlayerID: C74A4FD075688737
+Platform: Standalone
+AccountCreationDate: 2026-01-23 21:20:06 UTC
+Color: R=0.33 G=0.22 B=0.56
+Cosmetics: None

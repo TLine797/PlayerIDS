@@ -1,0 +1,7 @@
+Name: IDK
+ActorNumber: 4139
+PlayerID: 1E8C776DDF70FBCF
+Platform: Standalone
+AccountCreationDate: 2023-12-25 15:56:29 UTC
+Color: R=0.00 G=0.00 B=0.00
+Cosmetics: None

@@ -1,0 +1,7 @@
+Name: BUTTER
+ActorNumber: 24
+PlayerID: 825D27AD2B576957
+Platform: Standalone
+AccountCreationDate: 2025-12-20 16:18:04 UTC
+Color: R=0.00 G=0.11 B=0.00
+Cosmetics: None

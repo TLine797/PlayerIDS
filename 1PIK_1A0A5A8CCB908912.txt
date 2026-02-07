@@ -1,0 +1,7 @@
+Name: RVASTRIKER
+ActorNumber: 97
+PlayerID: 1A0A5A8CCB908912
+Platform: Standalone
+AccountCreationDate: 2025-12-16 02:38:20 UTC
+Color: R=0.00 G=0.22 B=0.00
+Cosmetics: None

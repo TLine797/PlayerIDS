@@ -1,0 +1,7 @@
+Name: NYXLORAX
+ActorNumber: 2
+PlayerID: B85119143713E065
+Platform: Standalone
+AccountCreationDate: 2023-11-25 04:39:59 UTC
+Color: R=1.00 G=0.56 B=0.11
+Cosmetics: None

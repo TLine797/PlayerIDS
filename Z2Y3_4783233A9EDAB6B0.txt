@@ -1,0 +1,7 @@
+Name: HOMIETC
+ActorNumber: 222
+PlayerID: 4783233A9EDAB6B0
+Platform: Standalone
+AccountCreationDate: 2023-03-05 18:54:23 UTC
+Color: R=0.33 G=0.67 B=1.00
+Cosmetics: None

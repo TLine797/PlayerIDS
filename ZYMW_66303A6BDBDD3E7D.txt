@@ -1,0 +1,7 @@
+Name: JUNO
+ActorNumber: 22
+PlayerID: 66303A6BDBDD3E7D
+Platform: Standalone
+AccountCreationDate: 2025-04-16 18:39:15 UTC
+Color: R=1.00 G=0.78 B=1.00
+Cosmetics: None

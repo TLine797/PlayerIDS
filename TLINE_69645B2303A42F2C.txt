@@ -1,0 +1,7 @@
+Name: VIBXX
+ActorNumber: 5
+PlayerID: 69645B2303A42F2C
+Platform: PC
+AccountCreationDate: 2026-01-04 05:59:17 UTC
+Color: R=0.11 G=0.44 B=0.44
+Cosmetics: None

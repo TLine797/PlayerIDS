@@ -1,0 +1,7 @@
+Name: THERIAN
+ActorNumber: 1517
+PlayerID: 4E2DDB7B5DF97B93
+Platform: Standalone
+AccountCreationDate: 2023-12-11 20:13:41 UTC
+Color: R=0.56 G=0.33 B=0.33
+Cosmetics: None

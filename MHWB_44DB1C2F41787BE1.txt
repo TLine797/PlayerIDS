@@ -1,0 +1,7 @@
+Name: 1PETER57
+ActorNumber: 802
+PlayerID: 44DB1C2F41787BE1
+Platform: Unknown
+AccountCreationDate: 2022-08-18 19:23:11 UTC
+Color: R=1.00 G=0.89 B=0.00
+Cosmetics: None

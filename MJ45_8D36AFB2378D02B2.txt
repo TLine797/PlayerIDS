@@ -1,0 +1,7 @@
+Name: JOSEPH
+ActorNumber: 111
+PlayerID: 8D36AFB2378D02B2
+Platform: Standalone
+AccountCreationDate: 2023-03-25 00:59:42 UTC
+Color: R=1.00 G=0.89 B=0.78
+Cosmetics: None

@@ -1,0 +1,7 @@
+Name: STONE
+ActorNumber: 46
+PlayerID: 4C9BF9D80ACAAA0
+Platform: Standalone
+AccountCreationDate: 2025-12-31 04:08:50 UTC
+Color: R=0.00 G=1.00 B=1.00
+Cosmetics: None

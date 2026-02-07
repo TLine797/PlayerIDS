@@ -1,0 +1,7 @@
+Name: WENEEDJESUS
+ActorNumber: 736
+PlayerID: 57E2F294D74D6800
+Platform: PC
+AccountCreationDate: 2022-08-11 14:01:27 UTC
+Color: R=0.56 G=0.78 B=1.00
+Cosmetics: None

@@ -1,0 +1,7 @@
+Name: FROSTYYY
+ActorNumber: 133
+PlayerID: 3E82E77258A6CD87
+Platform: Unknown
+AccountCreationDate: 2021-12-26 01:01:45 UTC
+Color: R=0.22 G=0.00 B=0.00
+Cosmetics: None

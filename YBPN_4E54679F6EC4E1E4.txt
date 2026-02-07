@@ -1,0 +1,7 @@
+Name: JESUSLOVEYOU
+ActorNumber: 476
+PlayerID: 4E54679F6EC4E1E4
+Platform: Standalone
+AccountCreationDate: 2023-08-08 02:10:48 UTC
+Color: R=0.00 G=0.33 B=0.22
+Cosmetics: None

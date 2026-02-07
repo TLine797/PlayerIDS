@@ -1,0 +1,7 @@
+Name: SR
+ActorNumber: 994
+PlayerID: 47B31D3C2B867D59
+Platform: Standalone
+AccountCreationDate: 2025-08-01 17:47:27 UTC
+Color: R=0.22 G=0.89 B=1.00
+Cosmetics: None

@@ -1,0 +1,7 @@
+Name: TLMFROZEN
+ActorNumber: 4035
+PlayerID: FAC54CC1AD6D10BB
+Platform: Standalone
+AccountCreationDate: 2025-11-20 15:41:50 UTC
+Color: R=0.00 G=1.00 B=1.00
+Cosmetics: None

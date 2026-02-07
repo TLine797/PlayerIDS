@@ -1,0 +1,7 @@
+Name: CHUD
+ActorNumber: 195
+PlayerID: D8166E230BCA8C64
+Platform: Unknown
+AccountCreationDate: 2023-01-01 02:45:47 UTC
+Color: R=0.00 G=0.00 B=0.00
+Cosmetics: None

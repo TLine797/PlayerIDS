@@ -1,0 +1,7 @@
+Name: PLUHHH
+ActorNumber: 911
+PlayerID: 89D898D4D7866051
+Platform: Standalone
+AccountCreationDate: 2025-06-24 19:14:40 UTC
+Color: R=0.67 G=1.00 B=0.78
+Cosmetics: None

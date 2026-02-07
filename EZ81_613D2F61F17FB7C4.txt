@@ -1,0 +1,7 @@
+Name: SLIPVR
+ActorNumber: 1184
+PlayerID: 613D2F61F17FB7C4
+Platform: Standalone
+AccountCreationDate: 2025-12-14 19:23:30 UTC
+Color: R=1.00 G=0.44 B=0.00
+Cosmetics: None

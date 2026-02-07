@@ -1,0 +1,7 @@
+Name: YLWBRANCH
+ActorNumber: 350
+PlayerID: 85677C3241C2C4C6
+Platform: PC
+AccountCreationDate: 2026-01-18 03:57:05 UTC
+Color: R=1.00 G=0.89 B=0.33
+Cosmetics: None

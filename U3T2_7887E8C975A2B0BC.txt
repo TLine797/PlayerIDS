@@ -1,0 +1,7 @@
+Name: ECLIPSE2
+ActorNumber: 1029
+PlayerID: 7887E8C975A2B0BC
+Platform: Standalone
+AccountCreationDate: 2024-12-18 00:46:56 UTC
+Color: R=0.22 G=0.78 B=1.00
+Cosmetics: None

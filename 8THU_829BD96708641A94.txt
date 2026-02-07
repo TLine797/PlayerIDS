@@ -1,0 +1,7 @@
+Name: KK
+ActorNumber: 228
+PlayerID: 829BD96708641A94
+Platform: Standalone
+AccountCreationDate: 2025-08-17 02:41:28 UTC
+Color: R=1.00 G=0.00 B=0.00
+Cosmetics: None

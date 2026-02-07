@@ -1,0 +1,7 @@
+Name: SLINKY
+ActorNumber: 5665
+PlayerID: F7C88D59A687470
+Platform: Unknown
+AccountCreationDate: 2022-12-26 21:51:55 UTC
+Color: R=0.67 G=0.67 B=0.78
+Cosmetics: None

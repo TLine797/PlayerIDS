@@ -1,0 +1,7 @@
+Name: SILVEX
+ActorNumber: 1864
+PlayerID: EE61FA38551D621C
+Platform: Standalone
+AccountCreationDate: 2026-01-10 11:48:58 UTC
+Color: R=0.22 G=0.56 B=0.67
+Cosmetics: None

@@ -1,0 +1,7 @@
+Name: JOLLYNIKO
+ActorNumber: 305
+PlayerID: F8295C167D90C3A0
+Platform: Standalone
+AccountCreationDate: 2023-12-26 21:06:11 UTC
+Color: R=0.44 G=0.00 B=0.78
+Cosmetics: None

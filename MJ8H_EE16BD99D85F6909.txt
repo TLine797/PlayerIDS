@@ -1,0 +1,7 @@
+Name: STINGDAOWL
+ActorNumber: 25
+PlayerID: EE16BD99D85F6909
+Platform: Standalone
+AccountCreationDate: 2024-08-11 22:03:04 UTC
+Color: R=0.33 G=0.22 B=0.22
+Cosmetics: None

@@ -1,0 +1,7 @@
+Name: IRONMONKE64
+ActorNumber: 319
+PlayerID: 29D3A79D392FC5A2
+Platform: Standalone
+AccountCreationDate: 2023-02-13 11:25:46 UTC
+Color: R=0.44 G=0.44 B=0.33
+Cosmetics: None

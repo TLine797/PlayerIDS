@@ -1,0 +1,7 @@
+Name: SPEEDY
+ActorNumber: 547
+PlayerID: 1CDCEAE8CCBBC115
+Platform: Standalone
+AccountCreationDate: 2024-03-24 14:36:20 UTC
+Color: R=1.00 G=1.00 B=0.67
+Cosmetics: None

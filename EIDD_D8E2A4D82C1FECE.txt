@@ -1,0 +1,7 @@
+Name: NYXDOGWATER
+ActorNumber: 4
+PlayerID: D8E2A4D82C1FECE
+Platform: Standalone
+AccountCreationDate: 2024-11-28 04:08:06 UTC
+Color: R=0.67 G=0.44 B=0.89
+Cosmetics: None

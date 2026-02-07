@@ -1,0 +1,7 @@
+Name: IMBAD12
+ActorNumber: 297
+PlayerID: 26E7DE02902726DB
+Platform: Standalone
+AccountCreationDate: 2024-02-06 01:14:13 UTC
+Color: R=0.00 G=1.00 B=1.00
+Cosmetics: None

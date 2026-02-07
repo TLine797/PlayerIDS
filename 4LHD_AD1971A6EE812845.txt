@@ -1,0 +1,7 @@
+Name: AVA
+ActorNumber: 181
+PlayerID: AD1971A6EE812845
+Platform: Standalone
+AccountCreationDate: 2024-12-25 11:25:36 UTC
+Color: R=0.67 G=0.11 B=0.78
+Cosmetics: None

@@ -1,0 +1,7 @@
+Name: SYNC6031
+ActorNumber: 449
+PlayerID: F11084B7C12D7AF3
+Platform: Standalone
+AccountCreationDate: 2025-11-07 16:05:11 UTC
+Color: R=0.44 G=0.00 B=0.78
+Cosmetics: None

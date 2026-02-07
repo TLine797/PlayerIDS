@@ -1,0 +1,7 @@
+Name: SNOWGT
+ActorNumber: 26
+PlayerID: D7656657D3709FA3
+Platform: Standalone
+AccountCreationDate: 2024-10-26 13:19:29 UTC
+Color: R=0.00 G=0.78 B=1.00
+Cosmetics: None

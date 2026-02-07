@@ -1,0 +1,7 @@
+Name: LOSTICE
+ActorNumber: 520
+PlayerID: B5EF9BDC66D340F3
+Platform: Standalone
+AccountCreationDate: 2026-01-30 22:08:23 UTC
+Color: R=0.44 G=0.00 B=0.56
+Cosmetics: None

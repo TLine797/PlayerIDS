@@ -1,0 +1,7 @@
+Name: LFRIFT
+ActorNumber: 124
+PlayerID: F86B465E7AE2C57E
+Platform: PC
+AccountCreationDate: 2025-09-24 00:40:18 UTC
+Color: R=0.22 G=0.22 B=1.00
+Cosmetics: None

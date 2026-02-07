@@ -1,0 +1,7 @@
+Name: KOOTER123
+ActorNumber: 255
+PlayerID: 4A40B6819DB034B5
+Platform: Standalone
+AccountCreationDate: 2025-12-25 00:16:45 UTC
+Color: R=0.44 G=0.33 B=0.22
+Cosmetics: None

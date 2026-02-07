@@ -1,0 +1,7 @@
+Name: STONER
+ActorNumber: 5800
+PlayerID: 55AF44E16D333972
+Platform: Unknown
+AccountCreationDate: 2022-04-13 22:34:49 UTC
+Color: R=0.11 G=0.00 B=0.00
+Cosmetics: None

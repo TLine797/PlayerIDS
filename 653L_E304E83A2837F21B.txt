@@ -1,0 +1,7 @@
+Name: gorilla6383
+ActorNumber: 271
+PlayerID: E304E83A2837F21B
+Platform: Standalone
+AccountCreationDate: 2025-12-25 15:23:55 UTC
+Color: R=0.00 G=0.89 B=1.00
+Cosmetics: None

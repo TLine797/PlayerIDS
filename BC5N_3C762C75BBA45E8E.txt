@@ -1,0 +1,7 @@
+Name: RANDOM
+ActorNumber: 456
+PlayerID: 3C762C75BBA45E8E
+Platform: Standalone
+AccountCreationDate: 2023-03-16 18:06:01 UTC
+Color: R=0.89 G=0.78 B=0.78
+Cosmetics: None

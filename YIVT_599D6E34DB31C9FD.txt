@@ -1,0 +1,7 @@
+Name: VOYMO
+ActorNumber: 450
+PlayerID: 599D6E34DB31C9FD
+Platform: Standalone
+AccountCreationDate: 2023-05-18 01:45:21 UTC
+Color: R=1.00 G=0.78 B=0.44
+Cosmetics: None

@@ -1,0 +1,7 @@
+Name: BP
+ActorNumber: 10
+PlayerID: 99BC375C13F4B40C
+Platform: PC
+AccountCreationDate: 2023-01-01 02:35:52 UTC
+Color: R=0.00 G=1.00 B=0.44
+Cosmetics: None

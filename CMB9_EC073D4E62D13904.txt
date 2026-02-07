@@ -1,0 +1,7 @@
+Name: VOIDZ
+ActorNumber: 5833
+PlayerID: EC073D4E62D13904
+Platform: Standalone
+AccountCreationDate: 2025-01-07 15:11:39 UTC
+Color: R=0.44 G=0.00 B=0.89
+Cosmetics: None

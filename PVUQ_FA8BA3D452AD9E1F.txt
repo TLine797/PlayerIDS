@@ -1,0 +1,7 @@
+Name: 51D81A141D3DDD2
+ActorNumber: 182
+PlayerID: FA8BA3D452AD9E1F
+Platform: Standalone
+AccountCreationDate: 2023-07-23 14:31:43 UTC
+Color: R=0.00 G=0.44 B=1.00
+Cosmetics: None

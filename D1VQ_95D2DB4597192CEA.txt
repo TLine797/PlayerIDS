@@ -1,0 +1,7 @@
+Name: EMONEY1TTT
+ActorNumber: 23
+PlayerID: 95D2DB4597192CEA
+Platform: Unknown
+AccountCreationDate: 2022-12-17 23:01:04 UTC
+Color: R=0.00 G=1.00 B=0.56
+Cosmetics: None

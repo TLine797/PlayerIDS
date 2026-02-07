@@ -1,0 +1,7 @@
+Name: TBGDJ
+ActorNumber: 373
+PlayerID: DD571D13E331E414
+Platform: Standalone
+AccountCreationDate: 2025-12-25 14:00:27 UTC
+Color: R=1.00 G=0.00 B=0.00
+Cosmetics: None

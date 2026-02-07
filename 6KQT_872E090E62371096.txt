@@ -1,0 +1,7 @@
+Name: GORILLA
+ActorNumber: 270
+PlayerID: 872E090E62371096
+Platform: Unknown
+AccountCreationDate: 2022-06-01 19:16:55 UTC
+Color: R=0.33 G=0.00 B=0.78
+Cosmetics: None

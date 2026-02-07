@@ -1,0 +1,7 @@
+Name: PLAT1GTC
+ActorNumber: 728
+PlayerID: B7BC4EBB947223D2
+Platform: Standalone
+AccountCreationDate: 2023-12-25 15:55:31 UTC
+Color: R=0.56 G=1.00 B=0.56
+Cosmetics: None

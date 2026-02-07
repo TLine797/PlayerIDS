@@ -1,0 +1,7 @@
+Name: SNIPERKING
+ActorNumber: 2000
+PlayerID: FB77F252E1348856
+Platform: Standalone
+AccountCreationDate: 2026-01-06 20:37:35 UTC
+Color: R=0.00 G=0.00 B=0.00
+Cosmetics: None

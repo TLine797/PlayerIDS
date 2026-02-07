@@ -1,0 +1,7 @@
+Name: DAD
+ActorNumber: 364
+PlayerID: DD3BBDE43089D663
+Platform: Standalone
+AccountCreationDate: 2024-12-02 01:08:08 UTC
+Color: R=1.00 G=0.00 B=0.00
+Cosmetics: None

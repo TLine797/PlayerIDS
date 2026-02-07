@@ -1,0 +1,7 @@
+Name: TWRTPGSPONGE
+ActorNumber: 461
+PlayerID: A5219FDFEBF2326
+Platform: Standalone
+AccountCreationDate: 2024-01-20 15:36:48 UTC
+Color: R=0.44 G=0.00 B=0.89
+Cosmetics: None

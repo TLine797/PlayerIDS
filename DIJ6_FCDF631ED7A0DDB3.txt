@@ -1,0 +1,7 @@
+Name: TSMAJ
+ActorNumber: 123
+PlayerID: FCDF631ED7A0DDB3
+Platform: Standalone
+AccountCreationDate: 2023-12-29 21:43:59 UTC
+Color: R=0.44 G=0.00 B=0.89
+Cosmetics: None

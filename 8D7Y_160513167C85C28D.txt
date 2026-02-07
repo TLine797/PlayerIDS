@@ -1,0 +1,7 @@
+Name: ELFGOD
+ActorNumber: 815
+PlayerID: 160513167C85C28D
+Platform: Standalone
+AccountCreationDate: 2023-12-25 16:56:05 UTC
+Color: R=0.56 G=0.00 B=0.00
+Cosmetics: None

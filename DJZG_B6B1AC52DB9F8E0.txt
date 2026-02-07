@@ -1,0 +1,7 @@
+Name: PEPPAPIG
+ActorNumber: 118
+PlayerID: B6B1AC52DB9F8E0
+Platform: Standalone
+AccountCreationDate: 2024-07-07 18:42:14 UTC
+Color: R=0.33 G=0.33 B=0.56
+Cosmetics: None

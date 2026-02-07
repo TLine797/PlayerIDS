@@ -1,0 +1,7 @@
+Name: CAVEMONKE
+ActorNumber: 711
+PlayerID: 38AD17C25DA5C7F0
+Platform: Unknown
+AccountCreationDate: 2022-02-16 03:14:32 UTC
+Color: R=0.00 G=0.00 B=0.00
+Cosmetics: None

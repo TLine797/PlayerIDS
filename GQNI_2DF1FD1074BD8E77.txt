@@ -1,0 +1,7 @@
+Name: DUCK
+ActorNumber: 272
+PlayerID: 2DF1FD1074BD8E77
+Platform: Standalone
+AccountCreationDate: 2025-08-03 22:39:44 UTC
+Color: R=0.00 G=0.33 B=1.00
+Cosmetics: None

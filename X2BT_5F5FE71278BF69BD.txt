@@ -1,0 +1,7 @@
+Name: JJKV1J
+ActorNumber: 74
+PlayerID: 5F5FE71278BF69BD
+Platform: Standalone
+AccountCreationDate: 2024-12-14 04:23:14 UTC
+Color: R=0.00 G=0.00 B=0.00
+Cosmetics: None

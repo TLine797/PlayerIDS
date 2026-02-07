@@ -1,0 +1,7 @@
+Name: FLOMOE
+ActorNumber: 655
+PlayerID: E319866C2591EC45
+Platform: Standalone
+AccountCreationDate: 2025-03-20 00:12:04 UTC
+Color: R=0.33 G=0.00 B=1.00
+Cosmetics: None

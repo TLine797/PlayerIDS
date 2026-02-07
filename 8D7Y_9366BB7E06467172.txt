@@ -1,0 +1,7 @@
+Name: J3VU
+ActorNumber: 337
+PlayerID: 9366BB7E06467172
+Platform: Standalone
+AccountCreationDate: 2025-06-29 21:30:11 UTC
+Color: R=0.84 G=0.90 B=0.41
+Cosmetics: None

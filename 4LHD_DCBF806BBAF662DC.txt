@@ -1,0 +1,7 @@
+Name: RIP
+ActorNumber: 283
+PlayerID: DCBF806BBAF662DC
+Platform: Standalone
+AccountCreationDate: 2024-12-23 14:53:35 UTC
+Color: R=0.00 G=0.00 B=0.00
+Cosmetics: None

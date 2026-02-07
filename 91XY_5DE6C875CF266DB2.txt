@@ -1,0 +1,7 @@
+Name: O2
+ActorNumber: 19
+PlayerID: 5DE6C875CF266DB2
+Platform: Standalone
+AccountCreationDate: 2023-09-29 17:26:39 UTC
+Color: R=0.56 G=0.44 B=0.22
+Cosmetics: None

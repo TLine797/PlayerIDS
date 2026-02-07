@@ -1,0 +1,7 @@
+Name: IC3
+ActorNumber: 353
+PlayerID: DC4B24AB98FFA721
+Platform: Standalone
+AccountCreationDate: 2024-02-17 20:28:11 UTC
+Color: R=0.11 G=0.67 B=1.00
+Cosmetics: None

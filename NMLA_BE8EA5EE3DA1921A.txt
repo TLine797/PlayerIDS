@@ -1,0 +1,7 @@
+Name: WOF
+ActorNumber: 595
+PlayerID: BE8EA5EE3DA1921A
+Platform: Standalone
+AccountCreationDate: 2025-08-11 00:24:11 UTC
+Color: R=0.00 G=0.00 B=0.78
+Cosmetics: None

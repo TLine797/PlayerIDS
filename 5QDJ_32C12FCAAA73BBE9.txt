@@ -1,0 +1,7 @@
+Name: ENROSE
+ActorNumber: 714
+PlayerID: 32C12FCAAA73BBE9
+Platform: Standalone
+AccountCreationDate: 2025-07-20 23:48:32 UTC
+Color: R=1.00 G=0.00 B=0.33
+Cosmetics: None

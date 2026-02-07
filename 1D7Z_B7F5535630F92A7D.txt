@@ -1,0 +1,7 @@
+Name: BOOM
+ActorNumber: 572
+PlayerID: B7F5535630F92A7D
+Platform: Standalone
+AccountCreationDate: 2022-12-29 23:53:17 UTC
+Color: R=0.00 G=0.00 B=0.00
+Cosmetics: None

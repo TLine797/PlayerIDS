@@ -1,0 +1,7 @@
+Name: BATMAN
+ActorNumber: 1075
+PlayerID: 9BAA87D1C3543D3B
+Platform: Standalone
+AccountCreationDate: 2022-01-09 04:30:57 UTC
+Color: R=0.00 G=0.00 B=0.00
+Cosmetics: None

@@ -1,0 +1,7 @@
+Name: SPYROLE
+ActorNumber: 349
+PlayerID: 366CB5F9996358E9
+Platform: Standalone
+AccountCreationDate: 2023-12-01 22:22:54 UTC
+Color: R=1.00 G=0.00 B=0.00
+Cosmetics: None

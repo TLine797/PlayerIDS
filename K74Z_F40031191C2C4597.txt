@@ -1,0 +1,7 @@
+Name: POWDER
+ActorNumber: 219
+PlayerID: F40031191C2C4597
+Platform: Unknown
+AccountCreationDate: 2021-09-16 20:03:54 UTC
+Color: R=0.44 G=0.44 B=0.44
+Cosmetics: None

@@ -1,0 +1,7 @@
+Name: TSMBROKEN
+ActorNumber: 704
+PlayerID: 99DF1B1D9FFDAD2
+Platform: Standalone
+AccountCreationDate: 2024-11-27 22:43:49 UTC
+Color: R=0.44 G=0.00 B=0.89
+Cosmetics: None

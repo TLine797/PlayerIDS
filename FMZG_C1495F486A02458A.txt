@@ -1,0 +1,7 @@
+Name: gorilla
+ActorNumber: 1085
+PlayerID: C1495F486A02458A
+Platform: Standalone
+AccountCreationDate: 2023-12-19 23:45:20 UTC
+Color: R=1.00 G=0.00 B=1.00
+Cosmetics: None

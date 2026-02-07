@@ -1,0 +1,7 @@
+Name: GHOSTYVR
+ActorNumber: 922
+PlayerID: ABAC8D78AD19E527
+Platform: Standalone
+AccountCreationDate: 2026-01-25 20:49:10 UTC
+Color: R=1.00 G=1.00 B=1.00
+Cosmetics: None

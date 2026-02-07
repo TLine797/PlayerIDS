@@ -1,0 +1,7 @@
+Name: SHIANNGTAG
+ActorNumber: 476
+PlayerID: 667C557F182177A3
+Platform: Standalone
+AccountCreationDate: 2022-12-15 22:26:03 UTC
+Color: R=0.00 G=0.00 B=0.00
+Cosmetics: None

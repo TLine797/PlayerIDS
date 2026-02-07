@@ -1,0 +1,7 @@
+Name: COZZYTOTUF
+ActorNumber: 1284
+PlayerID: 87786EBF3E440A4
+Platform: Unknown
+AccountCreationDate: 2022-09-12 19:27:53 UTC
+Color: R=0.00 G=0.00 B=0.33
+Cosmetics: None

@@ -1,0 +1,7 @@
+Name: CCVR413
+ActorNumber: 750
+PlayerID: ABECF84C93064DE7
+Platform: Unknown
+AccountCreationDate: 2022-12-16 19:50:09 UTC
+Color: R=0.44 G=0.00 B=0.89
+Cosmetics: None

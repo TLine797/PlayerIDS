@@ -1,0 +1,7 @@
+Name: JJ
+ActorNumber: 328
+PlayerID: E38319164BB1D153
+Platform: Standalone
+AccountCreationDate: 2025-07-28 12:26:27 UTC
+Color: R=0.44 G=0.00 B=0.89
+Cosmetics: None

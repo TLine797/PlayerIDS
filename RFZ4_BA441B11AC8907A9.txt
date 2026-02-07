@@ -1,0 +1,7 @@
+Name: ZONESVR
+ActorNumber: 1114
+PlayerID: BA441B11AC8907A9
+Platform: Standalone
+AccountCreationDate: 2025-03-01 01:19:36 UTC
+Color: R=0.00 G=0.00 B=0.78
+Cosmetics: None

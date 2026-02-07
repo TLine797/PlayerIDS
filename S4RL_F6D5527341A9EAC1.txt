@@ -1,0 +1,7 @@
+Name: ECLIPSE537
+ActorNumber: 830
+PlayerID: F6D5527341A9EAC1
+Platform: Standalone
+AccountCreationDate: 2024-10-07 23:00:12 UTC
+Color: R=0.56 G=0.00 B=0.56
+Cosmetics: None

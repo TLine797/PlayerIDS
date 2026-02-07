@@ -1,0 +1,7 @@
+Name: ANT
+ActorNumber: 1068
+PlayerID: BE00579EAB1A1BB0
+Platform: Standalone
+AccountCreationDate: 2021-12-16 00:22:58 UTC
+Color: R=0.00 G=0.00 B=0.00
+Cosmetics: None

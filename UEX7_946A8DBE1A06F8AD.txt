@@ -1,0 +1,7 @@
+Name: JOSHUA417
+ActorNumber: 28
+PlayerID: 946A8DBE1A06F8AD
+Platform: Standalone
+AccountCreationDate: 2024-07-12 02:10:33 UTC
+Color: R=0.56 G=0.00 B=1.00
+Cosmetics: None

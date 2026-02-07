@@ -1,0 +1,7 @@
+Name: EVERYONE
+ActorNumber: 1512
+PlayerID: 2F65250CDFA14A4F
+Platform: Standalone
+AccountCreationDate: 2025-03-05 16:39:57 UTC
+Color: R=0.00 G=1.00 B=0.00
+Cosmetics: None

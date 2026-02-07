@@ -1,0 +1,7 @@
+Name: gorilla
+ActorNumber: 1347
+PlayerID: CE9F21925DD7CE17
+Platform: Standalone
+AccountCreationDate: 2026-01-08 03:09:58 UTC
+Color: R=0.63 G=0.08 B=0.96
+Cosmetics: None

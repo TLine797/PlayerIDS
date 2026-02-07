@@ -1,0 +1,7 @@
+Name: ZAZAWANNABE
+ActorNumber: 602
+PlayerID: BACC09D015B1643A
+Platform: Standalone
+AccountCreationDate: 2025-03-13 02:09:33 UTC
+Color: R=1.00 G=1.00 B=1.00
+Cosmetics: None

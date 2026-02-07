@@ -1,0 +1,7 @@
+Name: MX4
+ActorNumber: 1097
+PlayerID: 1CAA6517E0A17D1F
+Platform: Standalone
+AccountCreationDate: 2026-01-23 05:40:05 UTC
+Color: R=0.00 G=0.00 B=0.00
+Cosmetics: None

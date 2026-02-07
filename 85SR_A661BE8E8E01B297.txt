@@ -1,0 +1,7 @@
+Name: PENGUINGT
+ActorNumber: 125
+PlayerID: A661BE8E8E01B297
+Platform: Standalone
+AccountCreationDate: 2023-06-12 02:27:00 UTC
+Color: R=0.44 G=0.00 B=0.78
+Cosmetics: None

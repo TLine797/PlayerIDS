@@ -1,0 +1,7 @@
+Name: GUMMY
+ActorNumber: 567
+PlayerID: 306FE5DD1F8C1357
+Platform: Standalone
+AccountCreationDate: 2025-12-25 20:11:58 UTC
+Color: R=0.56 G=1.00 B=0.44
+Cosmetics: None

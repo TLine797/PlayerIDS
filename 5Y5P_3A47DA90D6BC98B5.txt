@@ -1,0 +1,7 @@
+Name: JEFF
+ActorNumber: 227
+PlayerID: 3A47DA90D6BC98B5
+Platform: Standalone
+AccountCreationDate: 2025-04-28 08:17:41 UTC
+Color: R=0.89 G=0.89 B=1.00
+Cosmetics: None

@@ -1,0 +1,7 @@
+Name: LOODPOOD
+ActorNumber: 8
+PlayerID: A762C1F05A8B9FF1
+Platform: Standalone
+AccountCreationDate: 2024-06-13 21:10:59 UTC
+Color: R=0.78 G=0.89 B=1.00
+Cosmetics: None

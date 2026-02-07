@@ -1,0 +1,7 @@
+Name: MOOSE
+ActorNumber: 1355
+PlayerID: B931F1836DC3B994
+Platform: Standalone
+AccountCreationDate: 2023-12-25 11:49:11 UTC
+Color: R=0.44 G=0.00 B=0.78
+Cosmetics: None

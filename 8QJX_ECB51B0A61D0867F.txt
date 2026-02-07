@@ -1,0 +1,7 @@
+Name: JAQUAIVIOUS
+ActorNumber: 543
+PlayerID: ECB51B0A61D0867F
+Platform: Standalone
+AccountCreationDate: 2023-12-25 13:17:55 UTC
+Color: R=0.22 G=0.11 B=0.78
+Cosmetics: None

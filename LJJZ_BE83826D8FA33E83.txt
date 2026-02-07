@@ -1,0 +1,7 @@
+Name: gorilla
+ActorNumber: 1343
+PlayerID: BE83826D8FA33E83
+Platform: Standalone
+AccountCreationDate: 2025-11-08 17:38:24 UTC
+Color: R=1.00 G=0.11 B=0.56
+Cosmetics: None

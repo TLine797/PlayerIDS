@@ -1,0 +1,7 @@
+Name: BOB
+ActorNumber: 759
+PlayerID: 1430FEAA6D27DE44
+Platform: Unknown
+AccountCreationDate: 2023-01-28 23:54:30 UTC
+Color: R=0.00 G=1.00 B=0.00
+Cosmetics: None

@@ -1,0 +1,7 @@
+Name: MINIPEKKA
+ActorNumber: 37
+PlayerID: D3CD47B87CF85B6E
+Platform: Standalone
+AccountCreationDate: 2023-10-14 23:03:40 UTC
+Color: R=0.22 G=0.44 B=0.56
+Cosmetics: None

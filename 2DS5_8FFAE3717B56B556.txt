@@ -1,0 +1,7 @@
+Name: BOB
+ActorNumber: 747
+PlayerID: 8FFAE3717B56B556
+Platform: Unknown
+AccountCreationDate: 2022-12-25 20:19:54 UTC
+Color: R=0.00 G=0.00 B=0.00
+Cosmetics: None

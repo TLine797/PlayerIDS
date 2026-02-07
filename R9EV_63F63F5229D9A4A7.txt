@@ -1,0 +1,7 @@
+Name: MODCHECKER
+ActorNumber: 595
+PlayerID: 63F63F5229D9A4A7
+Platform: PC
+AccountCreationDate: 2025-12-27 16:20:50 UTC
+Color: R=0.56 G=0.44 B=0.67
+Cosmetics: None

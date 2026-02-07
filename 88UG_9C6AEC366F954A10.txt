@@ -1,0 +1,7 @@
+Name: HI
+ActorNumber: 845
+PlayerID: 9C6AEC366F954A10
+Platform: Standalone
+AccountCreationDate: 2025-03-22 00:57:32 UTC
+Color: R=0.89 G=0.44 B=0.00
+Cosmetics: None

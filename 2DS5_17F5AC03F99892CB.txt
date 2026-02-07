@@ -1,0 +1,7 @@
+Name: SIRMONKE
+ActorNumber: 751
+PlayerID: 17F5AC03F99892CB
+Platform: Standalone
+AccountCreationDate: 2025-02-24 04:48:11 UTC
+Color: R=0.00 G=0.00 B=0.00
+Cosmetics: None

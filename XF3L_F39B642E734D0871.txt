@@ -1,0 +1,7 @@
+Name: COKEFIZZLE
+ActorNumber: 10
+PlayerID: F39B642E734D0871
+Platform: Unknown
+AccountCreationDate: 2022-01-02 23:19:48 UTC
+Color: R=0.44 G=0.00 B=0.00
+Cosmetics: None

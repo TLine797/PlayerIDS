@@ -1,0 +1,7 @@
+Name: VALVE
+ActorNumber: 319
+PlayerID: ABD0E89B7BDF299A
+Platform: Standalone
+AccountCreationDate: 2026-01-23 19:34:58 UTC
+Color: R=0.22 G=0.22 B=0.22
+Cosmetics: None

@@ -1,0 +1,7 @@
+Name: BLUE
+ActorNumber: 1514
+PlayerID: F280BFE2027D7569
+Platform: Standalone
+AccountCreationDate: 2024-12-08 03:33:56 UTC
+Color: R=1.00 G=0.78 B=0.89
+Cosmetics: None

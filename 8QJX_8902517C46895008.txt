@@ -1,0 +1,7 @@
+Name: GBWVEX
+ActorNumber: 546
+PlayerID: 8902517C46895008
+Platform: Standalone
+AccountCreationDate: 2025-03-05 00:42:00 UTC
+Color: R=0.44 G=0.00 B=0.78
+Cosmetics: None

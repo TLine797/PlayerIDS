@@ -1,0 +1,7 @@
+Name: DOUGY0816
+ActorNumber: 797
+PlayerID: 3118577EB328F7E1
+Platform: Standalone
+AccountCreationDate: 2025-12-25 23:04:14 UTC
+Color: R=0.00 G=0.00 B=0.00
+Cosmetics: None

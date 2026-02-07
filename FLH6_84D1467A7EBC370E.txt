@@ -1,0 +1,7 @@
+Name: HOW
+ActorNumber: 303
+PlayerID: 84D1467A7EBC370E
+Platform: Standalone
+AccountCreationDate: 2025-03-15 16:27:12 UTC
+Color: R=1.00 G=0.22 B=0.22
+Cosmetics: None

@@ -1,0 +1,7 @@
+Name: SLICKZ5K
+ActorNumber: 124
+PlayerID: C3C1F493DA81DFCC
+Platform: Standalone
+AccountCreationDate: 2025-07-10 20:58:34 UTC
+Color: R=0.33 G=0.11 B=0.56
+Cosmetics: None

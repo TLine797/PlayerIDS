@@ -1,0 +1,7 @@
+Name: FNCSK7
+ActorNumber: 117
+PlayerID: 7F2AF46D88D4B13
+Platform: Standalone
+AccountCreationDate: 2026-01-24 00:28:44 UTC
+Color: R=0.78 G=0.89 B=0.89
+Cosmetics: None

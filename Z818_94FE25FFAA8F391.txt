@@ -1,0 +1,7 @@
+Name: K
+ActorNumber: 1402
+PlayerID: 94FE25FFAA8F391
+Platform: Standalone
+AccountCreationDate: 2023-06-22 19:51:39 UTC
+Color: R=0.00 G=0.00 B=0.00
+Cosmetics: None

@@ -1,0 +1,7 @@
+Name: TTWEAKING
+ActorNumber: 739
+PlayerID: A42A0C54F411CBEC
+Platform: Standalone
+AccountCreationDate: 2025-12-25 08:15:54 UTC
+Color: R=0.33 G=0.22 B=0.00
+Cosmetics: None

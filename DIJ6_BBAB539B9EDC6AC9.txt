@@ -1,0 +1,7 @@
+Name: HANDTRACKING
+ActorNumber: 119
+PlayerID: BBAB539B9EDC6AC9
+Platform: Standalone
+AccountCreationDate: 2025-05-02 22:03:32 UTC
+Color: R=0.33 G=0.67 B=1.00
+Cosmetics: None

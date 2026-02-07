@@ -1,0 +1,7 @@
+Name: TCCNACHO
+ActorNumber: 1150
+PlayerID: 41FFA60347A206F8
+Platform: Standalone
+AccountCreationDate: 2024-12-29 18:29:06 UTC
+Color: R=1.00 G=0.44 B=0.00
+Cosmetics: None

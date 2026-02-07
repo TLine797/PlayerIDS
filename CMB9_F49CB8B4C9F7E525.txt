@@ -1,0 +1,7 @@
+Name: 67
+ActorNumber: 5893
+PlayerID: F49CB8B4C9F7E525
+Platform: Standalone
+AccountCreationDate: 2025-01-31 11:55:47 UTC
+Color: R=1.00 G=0.44 B=0.00
+Cosmetics: None

@@ -1,0 +1,7 @@
+Name: DOPEVR
+ActorNumber: 84
+PlayerID: BD393C2077E1F10
+Platform: PC
+AccountCreationDate: 2024-12-27 12:10:54 UTC
+Color: R=0.00 G=0.33 B=0.89
+Cosmetics: None

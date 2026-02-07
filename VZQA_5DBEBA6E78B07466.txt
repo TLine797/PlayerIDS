@@ -1,0 +1,7 @@
+Name: FOOTBALLBOY
+ActorNumber: 1032
+PlayerID: 5DBEBA6E78B07466
+Platform: Standalone
+AccountCreationDate: 2024-01-28 04:23:39 UTC
+Color: R=0.00 G=0.00 B=0.00
+Cosmetics: None

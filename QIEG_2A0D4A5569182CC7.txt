@@ -1,0 +1,7 @@
+Name: HAPPYCAPY
+ActorNumber: 399
+PlayerID: 2A0D4A5569182CC7
+Platform: Standalone
+AccountCreationDate: 2025-12-25 17:00:45 UTC
+Color: R=0.44 G=0.11 B=1.00
+Cosmetics: None

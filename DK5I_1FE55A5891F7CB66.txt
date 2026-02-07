@@ -1,0 +1,7 @@
+Name: HZ
+ActorNumber: 469
+PlayerID: 1FE55A5891F7CB66
+Platform: Standalone
+AccountCreationDate: 2026-01-18 13:32:39 UTC
+Color: R=0.33 G=0.56 B=1.00
+Cosmetics: None

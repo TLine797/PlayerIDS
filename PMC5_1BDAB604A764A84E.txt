@@ -1,0 +1,7 @@
+Name: TSPMIZZY
+ActorNumber: 556
+PlayerID: 1BDAB604A764A84E
+Platform: Standalone
+AccountCreationDate: 2024-05-23 22:11:36 UTC
+Color: R=0.33 G=0.00 B=0.00
+Cosmetics: None

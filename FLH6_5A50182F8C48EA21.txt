@@ -1,0 +1,7 @@
+Name: ARCHYPER
+ActorNumber: 291
+PlayerID: 5A50182F8C48EA21
+Platform: Standalone
+AccountCreationDate: 2023-10-15 18:20:03 UTC
+Color: R=1.00 G=1.00 B=1.00
+Cosmetics: None

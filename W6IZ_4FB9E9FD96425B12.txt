@@ -1,0 +1,7 @@
+Name: RANDOM
+ActorNumber: 974
+PlayerID: 4FB9E9FD96425B12
+Platform: Standalone
+AccountCreationDate: 2025-12-12 00:50:49 UTC
+Color: R=1.00 G=0.00 B=0.00
+Cosmetics: None

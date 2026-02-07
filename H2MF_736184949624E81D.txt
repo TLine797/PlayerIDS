@@ -1,0 +1,7 @@
+Name: MODCHECKER
+ActorNumber: 1288
+PlayerID: 736184949624E81D
+Platform: Standalone
+AccountCreationDate: 2025-03-20 23:02:17 UTC
+Color: R=0.56 G=0.00 B=0.78
+Cosmetics: None

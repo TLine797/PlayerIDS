@@ -1,0 +1,7 @@
+Name: KOSHIE
+ActorNumber: 36
+PlayerID: B5EFAC5EA6045BA
+Platform: Standalone
+AccountCreationDate: 2023-10-29 22:54:24 UTC
+Color: R=0.56 G=0.00 B=0.00
+Cosmetics: None

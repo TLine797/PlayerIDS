@@ -1,0 +1,7 @@
+Name: VOLT
+ActorNumber: 3
+PlayerID: 7820F729A2B0F3B6
+Platform: Standalone
+AccountCreationDate: 2024-12-26 14:28:38 UTC
+Color: R=0.44 G=0.33 B=1.00
+Cosmetics: None

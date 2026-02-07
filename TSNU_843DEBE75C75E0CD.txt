@@ -1,0 +1,7 @@
+Name: ANGELVR
+ActorNumber: 41
+PlayerID: 843DEBE75C75E0CD
+Platform: Unknown
+AccountCreationDate: 2023-01-23 01:30:27 UTC
+Color: R=0.44 G=0.00 B=0.89
+Cosmetics: None

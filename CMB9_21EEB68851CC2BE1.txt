@@ -1,0 +1,7 @@
+Name: PEBBLE
+ActorNumber: 5896
+PlayerID: 21EEB68851CC2BE1
+Platform: Standalone
+AccountCreationDate: 2023-12-12 03:57:41 UTC
+Color: R=1.00 G=0.00 B=0.00
+Cosmetics: None

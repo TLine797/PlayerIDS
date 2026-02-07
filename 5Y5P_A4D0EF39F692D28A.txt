@@ -1,0 +1,7 @@
+Name: TAFLASH
+ActorNumber: 589
+PlayerID: A4D0EF39F692D28A
+Platform: Standalone
+AccountCreationDate: 2026-01-19 23:22:13 UTC
+Color: R=0.00 G=0.00 B=0.00
+Cosmetics: None

@@ -1,0 +1,7 @@
+Name: MACIE
+ActorNumber: 853
+PlayerID: 61082EBEB6A80F08
+Platform: Standalone
+AccountCreationDate: 2025-12-25 15:16:23 UTC
+Color: R=0.56 G=0.00 B=0.56
+Cosmetics: None

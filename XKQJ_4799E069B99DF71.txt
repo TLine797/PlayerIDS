@@ -1,0 +1,7 @@
+Name: VIPER
+ActorNumber: 435
+PlayerID: 4799E069B99DF71
+Platform: Standalone
+AccountCreationDate: 2025-10-08 21:11:56 UTC
+Color: R=0.56 G=0.44 B=1.00
+Cosmetics: None

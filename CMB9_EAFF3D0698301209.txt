@@ -1,0 +1,7 @@
+Name: NOVAEDITZ
+ActorNumber: 5830
+PlayerID: EAFF3D0698301209
+Platform: Standalone
+AccountCreationDate: 2024-08-19 16:27:23 UTC
+Color: R=0.22 G=0.22 B=0.22
+Cosmetics: None

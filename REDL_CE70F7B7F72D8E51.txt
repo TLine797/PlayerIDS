@@ -1,0 +1,7 @@
+Name: AMANE11
+ActorNumber: 910
+PlayerID: CE70F7B7F72D8E51
+Platform: Standalone
+AccountCreationDate: 2024-12-25 16:17:30 UTC
+Color: R=0.00 G=0.00 B=0.00
+Cosmetics: None

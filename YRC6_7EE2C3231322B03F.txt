@@ -1,0 +1,7 @@
+Name: DOINK
+ActorNumber: 125
+PlayerID: 7EE2C3231322B03F
+Platform: Standalone
+AccountCreationDate: 2024-04-06 00:08:27 UTC
+Color: R=0.22 G=0.22 B=0.22
+Cosmetics: None

@@ -1,0 +1,7 @@
+Name: GRAPE
+ActorNumber: 52
+PlayerID: 310893A03A144BD8
+Platform: Unknown
+AccountCreationDate: 2022-08-12 20:29:17 UTC
+Color: R=0.33 G=0.22 B=0.44
+Cosmetics: None

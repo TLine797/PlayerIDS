@@ -1,0 +1,7 @@
+Name: ZAZA
+ActorNumber: 2371
+PlayerID: F5B45B2BC1CFB584
+Platform: Standalone
+AccountCreationDate: 2025-12-25 17:43:02 UTC
+Color: R=0.33 G=0.00 B=0.00
+Cosmetics: None

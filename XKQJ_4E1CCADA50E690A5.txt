@@ -1,0 +1,7 @@
+Name: GTAG
+ActorNumber: 444
+PlayerID: 4E1CCADA50E690A5
+Platform: Unknown
+AccountCreationDate: 2023-04-21 10:58:29 UTC
+Color: R=0.56 G=0.00 B=1.00
+Cosmetics: None

@@ -1,0 +1,7 @@
+Name: LILPICKLE
+ActorNumber: 22
+PlayerID: 1ECB3297BE3F3E0
+Platform: Standalone
+AccountCreationDate: 2024-12-25 12:37:29 UTC
+Color: R=0.00 G=0.78 B=0.00
+Cosmetics: None

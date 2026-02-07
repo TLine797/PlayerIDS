@@ -1,0 +1,7 @@
+Name: Z7REX
+ActorNumber: 5802
+PlayerID: F94B2996903B676D
+Platform: Standalone
+AccountCreationDate: 2025-07-27 01:41:57 UTC
+Color: R=1.00 G=0.00 B=0.00
+Cosmetics: None

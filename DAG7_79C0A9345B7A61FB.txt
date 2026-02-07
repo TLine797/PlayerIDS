@@ -1,0 +1,7 @@
+Name: SLEEPY
+ActorNumber: 882
+PlayerID: 79C0A9345B7A61FB
+Platform: Standalone
+AccountCreationDate: 2025-01-11 01:24:53 UTC
+Color: R=0.56 G=0.56 B=0.78
+Cosmetics: None

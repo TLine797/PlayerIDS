@@ -1,0 +1,7 @@
+Name: ETHANVR98
+ActorNumber: 166
+PlayerID: 4709400E12E1A0A7
+Platform: Unknown
+AccountCreationDate: 2022-12-26 10:40:00 UTC
+Color: R=0.67 G=1.00 B=1.00
+Cosmetics: None

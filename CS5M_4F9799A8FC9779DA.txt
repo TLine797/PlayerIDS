@@ -1,0 +1,7 @@
+Name: LILAH
+ActorNumber: 32
+PlayerID: 4F9799A8FC9779DA
+Platform: Unknown
+AccountCreationDate: 2022-12-31 01:44:17 UTC
+Color: R=0.67 G=0.56 B=0.44
+Cosmetics: None

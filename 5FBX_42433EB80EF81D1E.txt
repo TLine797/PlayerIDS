@@ -1,0 +1,7 @@
+Name: T
+ActorNumber: 145
+PlayerID: 42433EB80EF81D1E
+Platform: Standalone
+AccountCreationDate: 2023-11-12 13:54:19 UTC
+Color: R=1.00 G=0.67 B=1.00
+Cosmetics: None

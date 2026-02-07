@@ -1,0 +1,7 @@
+Name: SMAZZTJM
+ActorNumber: 22
+PlayerID: 4F53FED921D2C40A
+Platform: Standalone
+AccountCreationDate: 2023-12-25 17:01:37 UTC
+Color: R=0.44 G=0.00 B=1.00
+Cosmetics: None

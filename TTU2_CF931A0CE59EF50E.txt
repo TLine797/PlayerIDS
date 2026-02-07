@@ -1,0 +1,7 @@
+Name: AQUAVR1K
+ActorNumber: 43
+PlayerID: CF931A0CE59EF50E
+Platform: Standalone
+AccountCreationDate: 2024-12-25 16:56:25 UTC
+Color: R=1.00 G=0.11 B=0.22
+Cosmetics: None

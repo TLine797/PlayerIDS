@@ -1,0 +1,7 @@
+Name: VOID
+ActorNumber: 882
+PlayerID: 3CC1DD7E6F4600A7
+Platform: Unknown
+AccountCreationDate: 2022-02-12 13:22:21 UTC
+Color: R=0.22 G=0.22 B=0.22
+Cosmetics: None

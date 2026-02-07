@@ -1,0 +1,7 @@
+Name: TWFTCG
+ActorNumber: 192
+PlayerID: ABF99445D300559C
+Platform: Standalone
+AccountCreationDate: 2024-07-09 14:51:42 UTC
+Color: R=0.00 G=1.00 B=1.00
+Cosmetics: None

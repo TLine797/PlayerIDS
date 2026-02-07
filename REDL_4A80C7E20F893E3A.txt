@@ -1,0 +1,7 @@
+Name: TIMMY
+ActorNumber: 928
+PlayerID: 4A80C7E20F893E3A
+Platform: Standalone
+AccountCreationDate: 2025-07-19 04:09:26 UTC
+Color: R=0.00 G=0.00 B=1.00
+Cosmetics: None

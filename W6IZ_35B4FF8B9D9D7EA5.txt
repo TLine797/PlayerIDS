@@ -1,0 +1,7 @@
+Name: BOOMITZ
+ActorNumber: 950
+PlayerID: 35B4FF8B9D9D7EA5
+Platform: Standalone
+AccountCreationDate: 2024-12-25 14:45:57 UTC
+Color: R=1.00 G=0.78 B=0.00
+Cosmetics: None

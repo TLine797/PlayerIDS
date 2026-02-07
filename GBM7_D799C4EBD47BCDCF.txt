@@ -1,0 +1,7 @@
+Name: CERATOPS
+ActorNumber: 1019
+PlayerID: D799C4EBD47BCDCF
+Platform: Unknown
+AccountCreationDate: 2023-05-08 21:10:11 UTC
+Color: R=0.22 G=0.22 B=0.22
+Cosmetics: None

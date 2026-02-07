@@ -1,0 +1,7 @@
+Name: TYLERCREATOR
+ActorNumber: 498
+PlayerID: 29CDC73D5059FF65
+Platform: Standalone
+AccountCreationDate: 2026-01-02 02:06:29 UTC
+Color: R=0.00 G=0.22 B=0.11
+Cosmetics: None

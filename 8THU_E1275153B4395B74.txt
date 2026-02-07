@@ -1,0 +1,7 @@
+Name: SPEEDYVR
+ActorNumber: 234
+PlayerID: E1275153B4395B74
+Platform: Standalone
+AccountCreationDate: 2025-04-23 18:40:25 UTC
+Color: R=0.00 G=0.00 B=0.67
+Cosmetics: None

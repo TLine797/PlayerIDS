@@ -1,0 +1,7 @@
+Name: ST4RCLASH
+ActorNumber: 13
+PlayerID: D70575F56A2918CA
+Platform: Unknown
+AccountCreationDate: 2023-01-27 02:29:31 UTC
+Color: R=1.00 G=0.78 B=0.33
+Cosmetics: None

@@ -1,0 +1,7 @@
+Name: BANANAS
+ActorNumber: 973
+PlayerID: 46EFD1741ABFF7AA
+Platform: Unknown
+AccountCreationDate: 2022-08-03 03:21:54 UTC
+Color: R=0.67 G=0.00 B=1.00
+Cosmetics: None

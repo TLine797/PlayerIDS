@@ -1,0 +1,7 @@
+Name: PEPTIDES
+ActorNumber: 5817
+PlayerID: B585FAEAE20F64D4
+Platform: Standalone
+AccountCreationDate: 2023-12-30 19:39:04 UTC
+Color: R=0.44 G=0.44 B=1.00
+Cosmetics: None

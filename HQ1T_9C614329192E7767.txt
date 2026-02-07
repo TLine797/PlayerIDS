@@ -1,0 +1,7 @@
+Name: gorilla4928
+ActorNumber: 515
+PlayerID: 9C614329192E7767
+Platform: Standalone
+AccountCreationDate: 2026-01-08 22:23:28 UTC
+Color: R=1.00 G=0.89 B=0.78
+Cosmetics: None

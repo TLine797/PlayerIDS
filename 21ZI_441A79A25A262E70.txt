@@ -1,0 +1,7 @@
+Name: JACKATTACK45
+ActorNumber: 226
+PlayerID: 441A79A25A262E70
+Platform: Standalone
+AccountCreationDate: 2025-04-21 01:07:01 UTC
+Color: R=1.00 G=0.00 B=0.00
+Cosmetics: None

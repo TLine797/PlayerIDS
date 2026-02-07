@@ -1,0 +1,7 @@
+Name: LEXI
+ActorNumber: 911
+PlayerID: DF76300D742C43C7
+Platform: Standalone
+AccountCreationDate: 2024-09-02 03:39:02 UTC
+Color: R=0.00 G=0.22 B=0.22
+Cosmetics: None

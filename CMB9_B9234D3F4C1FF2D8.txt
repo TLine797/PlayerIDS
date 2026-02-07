@@ -1,0 +1,7 @@
+Name: BRODYGTAG
+ActorNumber: 4034
+PlayerID: B9234D3F4C1FF2D8
+Platform: Standalone
+AccountCreationDate: 2026-01-07 00:56:33 UTC
+Color: R=0.00 G=0.00 B=1.00
+Cosmetics: None

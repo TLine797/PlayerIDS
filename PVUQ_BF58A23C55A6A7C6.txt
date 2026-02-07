@@ -1,0 +1,7 @@
+Name: KT
+ActorNumber: 103
+PlayerID: BF58A23C55A6A7C6
+Platform: Standalone
+AccountCreationDate: 2025-06-04 01:41:33 UTC
+Color: R=0.11 G=0.44 B=0.67
+Cosmetics: None

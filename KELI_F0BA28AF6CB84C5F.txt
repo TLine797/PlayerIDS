@@ -1,0 +1,7 @@
+Name: JUSTLINKZ
+ActorNumber: 562
+PlayerID: F0BA28AF6CB84C5F
+Platform: Standalone
+AccountCreationDate: 2026-02-04 18:31:18 UTC
+Color: R=0.00 G=1.00 B=1.00
+Cosmetics: None

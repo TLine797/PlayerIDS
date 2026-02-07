@@ -1,0 +1,7 @@
+Name: SPUD
+ActorNumber: 944
+PlayerID: F9D84A9CF9459730
+Platform: Unknown
+AccountCreationDate: 2021-05-02 23:59:43 UTC
+Color: R=0.22 G=0.22 B=0.00
+Cosmetics: None

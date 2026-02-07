@@ -1,0 +1,7 @@
+Name: PEANUT
+ActorNumber: 808
+PlayerID: 1639532621FD9706
+Platform: Standalone
+AccountCreationDate: 2023-11-06 23:58:00 UTC
+Color: R=0.44 G=0.00 B=1.00
+Cosmetics: None

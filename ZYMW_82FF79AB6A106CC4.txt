@@ -1,0 +1,7 @@
+Name: 75TY
+ActorNumber: 10
+PlayerID: 82FF79AB6A106CC4
+Platform: Standalone
+AccountCreationDate: 2023-07-31 11:34:04 UTC
+Color: R=0.22 G=0.11 B=0.00
+Cosmetics: None

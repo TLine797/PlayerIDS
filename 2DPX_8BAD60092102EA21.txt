@@ -1,0 +1,7 @@
+Name: VIC33
+ActorNumber: 177
+PlayerID: 8BAD60092102EA21
+Platform: Standalone
+AccountCreationDate: 2025-03-10 11:54:06 UTC
+Color: R=0.22 G=0.22 B=0.89
+Cosmetics: None

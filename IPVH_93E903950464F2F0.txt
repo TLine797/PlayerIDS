@@ -1,0 +1,7 @@
+Name: HUDSONPC5
+ActorNumber: 896
+PlayerID: 93E903950464F2F0
+Platform: Standalone
+AccountCreationDate: 2026-01-02 01:37:01 UTC
+Color: R=0.56 G=0.11 B=1.00
+Cosmetics: None

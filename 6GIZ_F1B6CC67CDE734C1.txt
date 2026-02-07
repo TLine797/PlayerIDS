@@ -1,0 +1,7 @@
+Name: TTBKINGOATED
+ActorNumber: 13
+PlayerID: F1B6CC67CDE734C1
+Platform: Standalone
+AccountCreationDate: 2024-12-15 03:08:58 UTC
+Color: R=0.44 G=0.22 B=0.00
+Cosmetics: None

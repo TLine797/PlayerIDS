@@ -1,0 +1,7 @@
+Name: NOOB
+ActorNumber: 1125
+PlayerID: 8A0C26A72DD68983
+Platform: Standalone
+AccountCreationDate: 2024-12-25 16:06:05 UTC
+Color: R=0.56 G=1.00 B=0.67
+Cosmetics: None

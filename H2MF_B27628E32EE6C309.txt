@@ -1,0 +1,7 @@
+Name: LEAFOXVR
+ActorNumber: 191
+PlayerID: B27628E32EE6C309
+Platform: Standalone
+AccountCreationDate: 2023-12-25 20:05:22 UTC
+Color: R=0.44 G=0.44 B=1.00
+Cosmetics: None

@@ -1,0 +1,7 @@
+Name: STEAMPLAYERX
+ActorNumber: 584
+PlayerID: 8D0C1926DEFA2961
+Platform: Standalone
+AccountCreationDate: 2026-01-23 14:49:59 UTC
+Color: R=0.78 G=0.11 B=0.78
+Cosmetics: None

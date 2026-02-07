@@ -1,0 +1,7 @@
+Name: JK
+ActorNumber: 57
+PlayerID: A8E44231B658F6E2
+Platform: Standalone
+AccountCreationDate: 2024-12-17 21:37:55 UTC
+Color: R=0.33 G=0.00 B=0.00
+Cosmetics: None

@@ -1,0 +1,7 @@
+Name: SNOWYVRR
+ActorNumber: 107
+PlayerID: 7A08A9522511DAC7
+Platform: Standalone
+AccountCreationDate: 2024-12-24 19:40:13 UTC
+Color: R=1.00 G=0.00 B=0.00
+Cosmetics: None

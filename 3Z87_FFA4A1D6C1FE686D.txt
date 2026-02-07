@@ -1,0 +1,7 @@
+Name: KINGLIAM
+ActorNumber: 1128
+PlayerID: FFA4A1D6C1FE686D
+Platform: Standalone
+AccountCreationDate: 2024-09-09 21:06:32 UTC
+Color: R=0.22 G=0.00 B=1.00
+Cosmetics: None

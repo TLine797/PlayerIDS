@@ -1,0 +1,7 @@
+Name: LIZARD
+ActorNumber: 1157
+PlayerID: 877361893D52CBE5
+Platform: Standalone
+AccountCreationDate: 2024-09-28 02:15:20 UTC
+Color: R=0.11 G=0.33 B=0.33
+Cosmetics: None

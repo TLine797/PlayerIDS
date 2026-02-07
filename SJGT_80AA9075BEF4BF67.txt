@@ -1,0 +1,7 @@
+Name: PINU
+ActorNumber: 1308
+PlayerID: 80AA9075BEF4BF67
+Platform: Unknown
+AccountCreationDate: 2022-12-09 13:06:19 UTC
+Color: R=0.78 G=0.56 B=1.00
+Cosmetics: None

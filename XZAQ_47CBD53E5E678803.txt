@@ -1,0 +1,7 @@
+Name: COSMOO9YT
+ActorNumber: 544
+PlayerID: 47CBD53E5E678803
+Platform: Unknown
+AccountCreationDate: 2022-03-29 01:38:51 UTC
+Color: R=0.00 G=0.44 B=1.00
+Cosmetics: None

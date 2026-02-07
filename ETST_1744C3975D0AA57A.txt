@@ -1,0 +1,7 @@
+Name: DBSMANGO
+ActorNumber: 1215
+PlayerID: 1744C3975D0AA57A
+Platform: Standalone
+AccountCreationDate: 2024-03-08 01:03:38 UTC
+Color: R=0.67 G=0.78 B=0.89
+Cosmetics: None

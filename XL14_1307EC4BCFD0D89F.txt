@@ -1,0 +1,7 @@
+Name: SANDSTORM
+ActorNumber: 217
+PlayerID: 1307EC4BCFD0D89F
+Platform: Standalone
+AccountCreationDate: 2024-12-01 04:23:03 UTC
+Color: R=0.33 G=0.00 B=0.00
+Cosmetics: None

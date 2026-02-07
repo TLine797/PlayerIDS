@@ -1,0 +1,7 @@
+Name: ZACH
+ActorNumber: 347
+PlayerID: AC72557FE32E36F5
+Platform: Standalone
+AccountCreationDate: 2024-09-02 18:31:01 UTC
+Color: R=0.44 G=0.00 B=0.89
+Cosmetics: None

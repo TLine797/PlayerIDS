@@ -1,0 +1,7 @@
+Name: gorilla3858
+ActorNumber: 10
+PlayerID: DED4F3BFAB0F3C50
+Platform: Unknown
+AccountCreationDate: 2022-04-08 22:57:04 UTC
+Color: R=0.44 G=0.00 B=0.78
+Cosmetics: None

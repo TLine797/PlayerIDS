@@ -1,0 +1,7 @@
+Name: STEVE
+ActorNumber: 1616
+PlayerID: 889BD4B7520C6585
+Platform: Standalone
+AccountCreationDate: 2025-08-14 04:03:54 UTC
+Color: R=0.00 G=0.89 B=0.67
+Cosmetics: None

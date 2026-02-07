@@ -1,0 +1,7 @@
+Name: BRYCEN
+ActorNumber: 553
+PlayerID: DAB8C91AEB4E7F17
+Platform: Unknown
+AccountCreationDate: 2022-01-15 05:20:07 UTC
+Color: R=0.56 G=0.00 B=1.00
+Cosmetics: None

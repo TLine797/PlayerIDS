@@ -1,0 +1,7 @@
+Name: TRBMUGA
+ActorNumber: 101
+PlayerID: A80289028180D69C
+Platform: Unknown
+AccountCreationDate: 2021-12-25 14:12:03 UTC
+Color: R=0.56 G=0.00 B=1.00
+Cosmetics: None

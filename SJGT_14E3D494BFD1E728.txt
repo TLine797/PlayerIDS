@@ -1,0 +1,7 @@
+Name: gorilla3325
+ActorNumber: 1314
+PlayerID: 14E3D494BFD1E728
+Platform: Standalone
+AccountCreationDate: 2026-01-01 20:28:58 UTC
+Color: R=0.22 G=1.00 B=0.56
+Cosmetics: None

@@ -1,0 +1,7 @@
+Name: FOXVR
+ActorNumber: 1235
+PlayerID: 2B5217CAD94E5444
+Platform: Standalone
+AccountCreationDate: 2024-06-22 19:32:07 UTC
+Color: R=0.00 G=0.00 B=0.00
+Cosmetics: None

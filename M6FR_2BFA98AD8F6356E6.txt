@@ -1,0 +1,7 @@
+Name: MAQANDCHEESE
+ActorNumber: 407
+PlayerID: 2BFA98AD8F6356E6
+Platform: PC
+AccountCreationDate: 2025-08-02 19:47:10 UTC
+Color: R=0.56 G=0.67 B=0.89
+Cosmetics: None

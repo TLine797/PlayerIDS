@@ -1,0 +1,7 @@
+Name: SLIME
+ActorNumber: 53
+PlayerID: 9F88CEAD4F2B25C1
+Platform: Standalone
+AccountCreationDate: 2025-04-12 18:11:08 UTC
+Color: R=1.00 G=0.00 B=0.00
+Cosmetics: None

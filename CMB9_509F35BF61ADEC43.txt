@@ -1,0 +1,7 @@
+Name: PA1
+ActorNumber: 5824
+PlayerID: 509F35BF61ADEC43
+Platform: Standalone
+AccountCreationDate: 2024-03-07 17:24:42 UTC
+Color: R=0.89 G=0.67 B=1.00
+Cosmetics: None

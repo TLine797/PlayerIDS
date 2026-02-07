@@ -1,0 +1,7 @@
+Name: INSANE
+ActorNumber: 497
+PlayerID: 74EC2F27D08BE23F
+Platform: Standalone
+AccountCreationDate: 2025-12-25 19:49:44 UTC
+Color: R=0.00 G=1.00 B=0.00
+Cosmetics: None

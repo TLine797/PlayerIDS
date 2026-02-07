@@ -1,0 +1,7 @@
+Name: MSFREIND
+ActorNumber: 354
+PlayerID: 771B712943B6AAA5
+Platform: Standalone
+AccountCreationDate: 2023-05-16 23:32:22 UTC
+Color: R=0.44 G=0.00 B=0.67
+Cosmetics: None

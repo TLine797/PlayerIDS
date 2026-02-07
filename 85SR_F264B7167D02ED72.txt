@@ -1,0 +1,7 @@
+Name: J5
+ActorNumber: 117
+PlayerID: F264B7167D02ED72
+Platform: Standalone
+AccountCreationDate: 2025-11-22 21:27:12 UTC
+Color: R=0.00 G=0.56 B=0.11
+Cosmetics: None

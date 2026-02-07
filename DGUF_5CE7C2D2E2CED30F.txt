@@ -1,0 +1,7 @@
+Name: TAAMAJ3ST1C
+ActorNumber: 208
+PlayerID: 5CE7C2D2E2CED30F
+Platform: Unknown
+AccountCreationDate: 2025-10-13 14:02:57 UTC
+Color: R=0.56 G=0.56 B=0.56
+Cosmetics: None

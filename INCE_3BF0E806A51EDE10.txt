@@ -1,0 +1,7 @@
+Name: DAISYBELL123
+ActorNumber: 746
+PlayerID: 3BF0E806A51EDE10
+Platform: Standalone
+AccountCreationDate: 2025-12-28 19:18:35 UTC
+Color: R=0.89 G=0.33 B=0.67
+Cosmetics: None

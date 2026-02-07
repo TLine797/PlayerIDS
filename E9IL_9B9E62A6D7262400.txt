@@ -1,0 +1,7 @@
+Name: LUSID
+ActorNumber: 284
+PlayerID: 9B9E62A6D7262400
+Platform: Standalone
+AccountCreationDate: 2026-01-19 21:19:06 UTC
+Color: R=1.00 G=0.00 B=0.00
+Cosmetics: None

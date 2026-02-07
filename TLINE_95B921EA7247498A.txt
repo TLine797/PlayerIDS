@@ -1,0 +1,7 @@
+Name: GOLDEN
+ActorNumber: 2
+PlayerID: 95B921EA7247498A
+Platform: PC
+AccountCreationDate: 2022-02-28 22:51:14 UTC
+Color: R=1.00 G=1.00 B=1.00
+Cosmetics: None

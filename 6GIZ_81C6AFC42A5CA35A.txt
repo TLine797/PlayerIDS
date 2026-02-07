@@ -1,0 +1,7 @@
+Name: 00981
+ActorNumber: 3
+PlayerID: 81C6AFC42A5CA35A
+Platform: Standalone
+AccountCreationDate: 2025-04-06 20:57:34 UTC
+Color: R=1.00 G=0.78 B=1.00
+Cosmetics: None

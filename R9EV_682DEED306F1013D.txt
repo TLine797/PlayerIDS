@@ -1,0 +1,7 @@
+Name: TUFFBOYYTTYY
+ActorNumber: 597
+PlayerID: 682DEED306F1013D
+Platform: Unknown
+AccountCreationDate: 2023-08-06 12:47:21 UTC
+Color: R=0.44 G=0.44 B=0.89
+Cosmetics: None

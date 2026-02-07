@@ -1,0 +1,7 @@
+Name: FUFU
+ActorNumber: 292
+PlayerID: CCDF8A97F0136871
+Platform: Unknown
+AccountCreationDate: 2022-03-07 23:15:21 UTC
+Color: R=0.22 G=0.33 B=1.00
+Cosmetics: None

@@ -1,0 +1,7 @@
+Name: MSLIGHT
+ActorNumber: 1618
+PlayerID: F7BAA708B75C4929
+Platform: Standalone
+AccountCreationDate: 2024-12-28 19:40:40 UTC
+Color: R=0.56 G=0.00 B=0.00
+Cosmetics: None

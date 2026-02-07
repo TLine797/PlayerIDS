@@ -1,0 +1,7 @@
+Name: DENTIST
+ActorNumber: 625
+PlayerID: B5E5D7EDC296251F
+Platform: Standalone
+AccountCreationDate: 2023-05-02 21:52:10 UTC
+Color: R=0.00 G=0.00 B=1.00
+Cosmetics: None

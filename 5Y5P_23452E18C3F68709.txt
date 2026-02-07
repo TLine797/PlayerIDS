@@ -1,0 +1,7 @@
+Name: FISH
+ActorNumber: 565
+PlayerID: 23452E18C3F68709
+Platform: Unknown
+AccountCreationDate: 2021-09-17 23:24:31 UTC
+Color: R=0.22 G=0.78 B=1.00
+Cosmetics: None

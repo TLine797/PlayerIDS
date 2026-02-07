@@ -1,0 +1,7 @@
+Name: RIFTS
+ActorNumber: 1
+PlayerID: ED737ACC09962739
+Platform: Standalone
+AccountCreationDate: 2025-03-04 02:06:17 UTC
+Color: R=0.67 G=0.44 B=1.00
+Cosmetics: None

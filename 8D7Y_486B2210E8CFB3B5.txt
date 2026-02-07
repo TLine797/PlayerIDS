@@ -1,0 +1,7 @@
+Name: QUESTGUY
+ActorNumber: 936
+PlayerID: 486B2210E8CFB3B5
+Platform: Standalone
+AccountCreationDate: 2023-11-19 12:36:55 UTC
+Color: R=0.00 G=0.22 B=0.00
+Cosmetics: None

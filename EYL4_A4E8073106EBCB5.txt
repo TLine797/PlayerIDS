@@ -1,0 +1,7 @@
+Name: ROSEMAN
+ActorNumber: 648
+PlayerID: A4E8073106EBCB5
+Platform: Standalone
+AccountCreationDate: 2024-12-25 22:08:58 UTC
+Color: R=0.89 G=0.44 B=1.00
+Cosmetics: None

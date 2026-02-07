@@ -1,0 +1,7 @@
+Name: LOL
+ActorNumber: 1242
+PlayerID: CBE65CAE90AC624
+Platform: Standalone
+AccountCreationDate: 2023-06-02 22:28:41 UTC
+Color: R=1.00 G=0.00 B=0.33
+Cosmetics: None

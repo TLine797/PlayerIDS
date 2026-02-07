@@ -1,0 +1,7 @@
+Name: RABBIH
+ActorNumber: 194
+PlayerID: 44436CF0F98FFE81
+Platform: Unknown
+AccountCreationDate: 2022-12-31 04:08:55 UTC
+Color: R=0.56 G=0.33 B=0.22
+Cosmetics: None

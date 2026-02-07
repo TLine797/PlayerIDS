@@ -1,0 +1,7 @@
+Name: JOYSTICK
+ActorNumber: 53
+PlayerID: 5D6B133D1E4CCC8F
+Platform: PC
+AccountCreationDate: 2022-10-25 21:07:19 UTC
+Color: R=0.44 G=0.00 B=0.78
+Cosmetics: None

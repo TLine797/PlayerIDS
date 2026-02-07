@@ -1,0 +1,7 @@
+Name: OP
+ActorNumber: 1059
+PlayerID: ED99FEE98A86F737
+Platform: Standalone
+AccountCreationDate: 2025-12-25 13:37:51 UTC
+Color: R=0.22 G=0.44 B=1.00
+Cosmetics: None

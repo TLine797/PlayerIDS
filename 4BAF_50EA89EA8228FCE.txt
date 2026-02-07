@@ -1,0 +1,7 @@
+Name: FISHY
+ActorNumber: 912
+PlayerID: 50EA89EA8228FCE
+Platform: Standalone
+AccountCreationDate: 2023-04-16 02:29:10 UTC
+Color: R=0.00 G=0.33 B=0.89
+Cosmetics: None

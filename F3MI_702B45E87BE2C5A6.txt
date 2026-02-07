@@ -1,0 +1,7 @@
+Name: DRAGON
+ActorNumber: 71
+PlayerID: 702B45E87BE2C5A6
+Platform: Unknown
+AccountCreationDate: 2024-12-25 02:17:32 UTC
+Color: R=0.00 G=0.89 B=1.00
+Cosmetics: None

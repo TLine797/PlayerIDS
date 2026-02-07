@@ -1,0 +1,7 @@
+Name: GROOT
+ActorNumber: 766
+PlayerID: F8A04D3CB7ED3FC2
+Platform: Standalone
+AccountCreationDate: 2025-05-05 21:26:09 UTC
+Color: R=0.56 G=1.00 B=0.56
+Cosmetics: None

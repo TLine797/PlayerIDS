@@ -1,0 +1,7 @@
+Name: gorilla
+ActorNumber: 874
+PlayerID: 52A60A4AE3278C7
+Platform: Unknown
+AccountCreationDate: 2025-12-25 22:39:11 UTC
+Color: R=1.00 G=0.00 B=0.00
+Cosmetics: None

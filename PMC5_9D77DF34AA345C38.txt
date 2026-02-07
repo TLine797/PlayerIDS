@@ -1,0 +1,7 @@
+Name: SOUR
+ActorNumber: 548
+PlayerID: 9D77DF34AA345C38
+Platform: Standalone
+AccountCreationDate: 2025-12-15 23:12:05 UTC
+Color: R=0.67 G=1.00 B=0.78
+Cosmetics: None

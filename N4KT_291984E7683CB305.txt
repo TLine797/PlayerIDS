@@ -1,0 +1,7 @@
+Name: CODECBT
+ActorNumber: 694
+PlayerID: 291984E7683CB305
+Platform: Standalone
+AccountCreationDate: 2025-12-26 04:04:01 UTC
+Color: R=1.00 G=1.00 B=1.00
+Cosmetics: None

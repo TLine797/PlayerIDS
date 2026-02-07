@@ -1,0 +1,7 @@
+Name: ILOVEJMAN
+ActorNumber: 1042
+PlayerID: 117C87AAF3AAEBCA
+Platform: Standalone
+AccountCreationDate: 2025-12-25 14:13:24 UTC
+Color: R=0.78 G=0.78 B=0.78
+Cosmetics: None

@@ -1,0 +1,7 @@
+Name: LINK
+ActorNumber: 1353
+PlayerID: CEBE9CE5E83C2874
+Platform: Standalone
+AccountCreationDate: 2024-12-25 17:05:44 UTC
+Color: R=1.00 G=0.00 B=0.00
+Cosmetics: None

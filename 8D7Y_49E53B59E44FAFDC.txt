@@ -1,0 +1,7 @@
+Name: LUMEN
+ActorNumber: 933
+PlayerID: 49E53B59E44FAFDC
+Platform: Standalone
+AccountCreationDate: 2024-06-02 20:32:56 UTC
+Color: R=0.00 G=1.00 B=0.00
+Cosmetics: None

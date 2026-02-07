@@ -1,0 +1,7 @@
+Name: TURD
+ActorNumber: 1520
+PlayerID: AA11B1FC537B38D6
+Platform: Standalone
+AccountCreationDate: 2023-02-04 03:56:31 UTC
+Color: R=0.22 G=0.22 B=0.22
+Cosmetics: None

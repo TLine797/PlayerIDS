@@ -1,0 +1,7 @@
+Name: FIZO
+ActorNumber: 445
+PlayerID: 417DDBCB6783E71D
+Platform: Standalone
+AccountCreationDate: 2024-06-27 22:46:05 UTC
+Color: R=1.00 G=0.00 B=0.00
+Cosmetics: None

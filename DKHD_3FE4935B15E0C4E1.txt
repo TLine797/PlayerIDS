@@ -1,0 +1,7 @@
+Name: gorilla9893
+ActorNumber: 1403
+PlayerID: 3FE4935B15E0C4E1
+Platform: Standalone
+AccountCreationDate: 2025-12-31 19:12:33 UTC
+Color: R=0.00 G=0.00 B=0.00
+Cosmetics: None

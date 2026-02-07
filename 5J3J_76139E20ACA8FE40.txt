@@ -1,0 +1,7 @@
+Name: H4ZEN
+ActorNumber: 304
+PlayerID: 76139E20ACA8FE40
+Platform: Standalone
+AccountCreationDate: 2024-08-02 04:47:33 UTC
+Color: R=0.11 G=1.00 B=0.67
+Cosmetics: None

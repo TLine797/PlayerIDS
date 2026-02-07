@@ -1,0 +1,7 @@
+Name: gorilla4282
+ActorNumber: 894
+PlayerID: 4A7CA24F34719311
+Platform: Standalone
+AccountCreationDate: 2026-01-09 20:36:42 UTC
+Color: R=0.00 G=0.67 B=1.00
+Cosmetics: None

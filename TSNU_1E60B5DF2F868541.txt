@@ -1,0 +1,7 @@
+Name: GUSHERX
+ActorNumber: 49
+PlayerID: 1E60B5DF2F868541
+Platform: Standalone
+AccountCreationDate: 2024-11-06 22:36:41 UTC
+Color: R=0.00 G=0.56 B=1.00
+Cosmetics: None

@@ -1,0 +1,7 @@
+Name: BUBBLE66
+ActorNumber: 67
+PlayerID: 97E9A53E95EEE4C4
+Platform: Unknown
+AccountCreationDate: 2023-03-04 16:44:04 UTC
+Color: R=0.44 G=0.22 B=0.00
+Cosmetics: None

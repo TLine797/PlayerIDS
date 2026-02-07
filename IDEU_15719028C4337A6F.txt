@@ -1,0 +1,7 @@
+Name: KING
+ActorNumber: 11
+PlayerID: 15719028C4337A6F
+Platform: Standalone
+AccountCreationDate: 2025-03-15 23:12:30 UTC
+Color: R=1.00 G=0.00 B=0.00
+Cosmetics: None

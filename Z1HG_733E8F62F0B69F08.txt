@@ -1,0 +1,7 @@
+Name: WALKEMDOWN
+ActorNumber: 1352
+PlayerID: 733E8F62F0B69F08
+Platform: Standalone
+AccountCreationDate: 2023-04-05 21:47:04 UTC
+Color: R=0.44 G=0.78 B=1.00
+Cosmetics: None

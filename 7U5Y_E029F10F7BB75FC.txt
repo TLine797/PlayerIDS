@@ -1,0 +1,7 @@
+Name: STEVE
+ActorNumber: 251
+PlayerID: E029F10F7BB75FC
+Platform: Unknown
+AccountCreationDate: 2022-06-11 23:08:59 UTC
+Color: R=0.00 G=0.00 B=1.00
+Cosmetics: None

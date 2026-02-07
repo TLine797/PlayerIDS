@@ -1,0 +1,7 @@
+Name: HESHE
+ActorNumber: 4
+PlayerID: 345B9A4DFDC384D
+Platform: Standalone
+AccountCreationDate: 2023-12-27 01:11:05 UTC
+Color: R=1.00 G=1.00 B=1.00
+Cosmetics: None

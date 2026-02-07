@@ -1,0 +1,7 @@
+Name: DUCKYKTP
+ActorNumber: 240
+PlayerID: 2398193B83606424
+Platform: Standalone
+AccountCreationDate: 2024-12-27 04:30:37 UTC
+Color: R=0.67 G=0.33 B=1.00
+Cosmetics: None

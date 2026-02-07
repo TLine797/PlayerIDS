@@ -1,0 +1,7 @@
+Name: SLIPWALLSPRO
+ActorNumber: 177
+PlayerID: F4FC7A94EAC9ED9E
+Platform: Standalone
+AccountCreationDate: 2023-12-25 16:01:01 UTC
+Color: R=0.22 G=0.00 B=0.78
+Cosmetics: None

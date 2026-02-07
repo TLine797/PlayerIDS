@@ -1,0 +1,7 @@
+Name: IMREAL
+ActorNumber: 36
+PlayerID: 943E27CD9546FC21
+Platform: Standalone
+AccountCreationDate: 2024-09-13 02:47:39 UTC
+Color: R=0.22 G=0.00 B=0.00
+Cosmetics: None

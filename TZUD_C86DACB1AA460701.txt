@@ -1,0 +1,7 @@
+Name: CBG
+ActorNumber: 793
+PlayerID: C86DACB1AA460701
+Platform: Standalone
+AccountCreationDate: 2025-02-09 14:55:25 UTC
+Color: R=0.44 G=0.00 B=1.00
+Cosmetics: None

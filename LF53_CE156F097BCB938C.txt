@@ -1,0 +1,7 @@
+Name: SONIC
+ActorNumber: 824
+PlayerID: CE156F097BCB938C
+Platform: Standalone
+AccountCreationDate: 2024-03-08 22:36:29 UTC
+Color: R=0.22 G=0.44 B=0.78
+Cosmetics: None

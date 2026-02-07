@@ -1,0 +1,7 @@
+Name: SCARYLOL
+ActorNumber: 28
+PlayerID: F7133A7ECDB29359
+Platform: Standalone
+AccountCreationDate: 2024-12-25 20:45:02 UTC
+Color: R=0.89 G=0.67 B=0.33
+Cosmetics: None

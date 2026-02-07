@@ -1,0 +1,7 @@
+Name: STATUE
+ActorNumber: 188
+PlayerID: 9BC87A0F14D08CEE
+Platform: Unknown
+AccountCreationDate: 2025-10-30 23:56:40 UTC
+Color: R=0.00 G=0.89 B=1.00
+Cosmetics: None

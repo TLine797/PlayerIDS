@@ -1,0 +1,7 @@
+Name: gorilla6257
+ActorNumber: 34
+PlayerID: EF572CBC6228F666
+Platform: Standalone
+AccountCreationDate: 2025-03-03 04:30:57 UTC
+Color: R=0.44 G=0.00 B=0.78
+Cosmetics: None

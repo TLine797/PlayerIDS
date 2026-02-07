@@ -1,0 +1,7 @@
+Name: ZYBERV2
+ActorNumber: 184
+PlayerID: BA3D8973AE9563E8
+Platform: Standalone
+AccountCreationDate: 2025-07-30 16:17:54 UTC
+Color: R=0.44 G=0.44 B=1.00
+Cosmetics: None

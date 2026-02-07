@@ -1,0 +1,7 @@
+Name: TTTJAY
+ActorNumber: 318
+PlayerID: 595344435B0ACA4E
+Platform: Standalone
+AccountCreationDate: 2025-12-02 11:57:23 UTC
+Color: R=0.56 G=0.00 B=0.89
+Cosmetics: None

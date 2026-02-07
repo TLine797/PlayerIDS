@@ -1,0 +1,7 @@
+Name: P
+ActorNumber: 341
+PlayerID: D186C8AB4DBC345E
+Platform: PC
+AccountCreationDate: 2022-05-30 18:05:26 UTC
+Color: R=0.89 G=0.89 B=1.00
+Cosmetics: None

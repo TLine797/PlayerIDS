@@ -1,0 +1,7 @@
+Name: TRON
+ActorNumber: 337
+PlayerID: EA429E147823BAE
+Platform: Standalone
+AccountCreationDate: 2021-10-10 01:07:11 UTC
+Color: R=1.00 G=0.00 B=0.22
+Cosmetics: None

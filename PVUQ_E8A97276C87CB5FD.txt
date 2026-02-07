@@ -1,0 +1,7 @@
+Name: HONEYBUN
+ActorNumber: 169
+PlayerID: E8A97276C87CB5FD
+Platform: Standalone
+AccountCreationDate: 2025-12-22 20:59:20 UTC
+Color: R=1.00 G=0.00 B=1.00
+Cosmetics: None

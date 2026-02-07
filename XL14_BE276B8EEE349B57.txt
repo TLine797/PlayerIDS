@@ -1,0 +1,7 @@
+Name: JACKPOT
+ActorNumber: 219
+PlayerID: BE276B8EEE349B57
+Platform: Unknown
+AccountCreationDate: 2022-08-27 22:28:53 UTC
+Color: R=0.00 G=0.89 B=0.44
+Cosmetics: None

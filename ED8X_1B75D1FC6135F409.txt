@@ -1,0 +1,7 @@
+Name: ZARI
+ActorNumber: 683
+PlayerID: 1B75D1FC6135F409
+Platform: Unknown
+AccountCreationDate: 2023-01-02 05:34:16 UTC
+Color: R=0.33 G=0.00 B=0.00
+Cosmetics: None

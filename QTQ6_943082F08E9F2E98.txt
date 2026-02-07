@@ -1,0 +1,7 @@
+Name: DIE
+ActorNumber: 666
+PlayerID: 943082F08E9F2E98
+Platform: Standalone
+AccountCreationDate: 2023-06-27 23:49:05 UTC
+Color: R=0.22 G=0.00 B=0.00
+Cosmetics: None

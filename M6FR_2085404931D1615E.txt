@@ -1,0 +1,7 @@
+Name: ODNA
+ActorNumber: 401
+PlayerID: 2085404931D1615E
+Platform: PC
+AccountCreationDate: 2022-12-20 19:25:17 UTC
+Color: R=0.44 G=0.00 B=0.78
+Cosmetics: None

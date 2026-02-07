@@ -1,0 +1,7 @@
+Name: THEO
+ActorNumber: 62
+PlayerID: DBA65E59A87A134A
+Platform: Standalone
+AccountCreationDate: 2024-12-25 19:41:28 UTC
+Color: R=0.11 G=0.89 B=1.00
+Cosmetics: None

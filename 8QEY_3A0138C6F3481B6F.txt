@@ -1,0 +1,7 @@
+Name: GROUND
+ActorNumber: 77
+PlayerID: 3A0138C6F3481B6F
+Platform: Standalone
+AccountCreationDate: 2026-01-15 19:08:57 UTC
+Color: R=0.78 G=0.78 B=0.78
+Cosmetics: None

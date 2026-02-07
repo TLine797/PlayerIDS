@@ -1,0 +1,7 @@
+Name: CHRISTISKING
+ActorNumber: 33
+PlayerID: AA423AC490A13FD6
+Platform: Unknown
+AccountCreationDate: 2022-07-26 16:11:41 UTC
+Color: R=0.56 G=0.11 B=1.00
+Cosmetics: None

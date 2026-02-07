@@ -1,0 +1,7 @@
+Name: ST4R
+ActorNumber: 250
+PlayerID: 810EF57E54A402A8
+Platform: Standalone
+AccountCreationDate: 2023-12-26 15:53:52 UTC
+Color: R=0.67 G=0.89 B=1.00
+Cosmetics: None

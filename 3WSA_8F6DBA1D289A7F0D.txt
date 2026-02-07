@@ -1,0 +1,7 @@
+Name: PEANUTVR
+ActorNumber: 190
+PlayerID: 8F6DBA1D289A7F0D
+Platform: Standalone
+AccountCreationDate: 2026-01-12 02:21:07 UTC
+Color: R=1.00 G=1.00 B=1.00
+Cosmetics: None

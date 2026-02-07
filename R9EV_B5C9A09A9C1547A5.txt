@@ -1,0 +1,7 @@
+Name: DRAKEBNA
+ActorNumber: 560
+PlayerID: B5C9A09A9C1547A5
+Platform: Standalone
+AccountCreationDate: 2025-12-25 16:53:54 UTC
+Color: R=0.00 G=0.00 B=0.00
+Cosmetics: None

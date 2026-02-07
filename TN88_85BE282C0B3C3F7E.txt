@@ -1,0 +1,7 @@
+Name: CROSSTAG
+ActorNumber: 412
+PlayerID: 85BE282C0B3C3F7E
+Platform: Standalone
+AccountCreationDate: 2024-03-31 05:42:21 UTC
+Color: R=0.11 G=0.56 B=0.33
+Cosmetics: None

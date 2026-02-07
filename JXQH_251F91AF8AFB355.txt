@@ -1,0 +1,7 @@
+Name: TUNGSAHUR
+ActorNumber: 1267
+PlayerID: 251F91AF8AFB355
+Platform: Standalone
+AccountCreationDate: 2025-12-27 21:51:27 UTC
+Color: R=1.00 G=0.00 B=0.00
+Cosmetics: None

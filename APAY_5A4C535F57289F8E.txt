@@ -1,0 +1,7 @@
+Name: PENUTBUTTER
+ActorNumber: 50
+PlayerID: 5A4C535F57289F8E
+Platform: Standalone
+AccountCreationDate: 2024-03-09 04:07:29 UTC
+Color: R=0.44 G=0.33 B=0.22
+Cosmetics: None

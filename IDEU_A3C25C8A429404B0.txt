@@ -1,0 +1,7 @@
+Name: IGISBLISS
+ActorNumber: 8
+PlayerID: A3C25C8A429404B0
+Platform: Standalone
+AccountCreationDate: 2025-12-12 20:56:03 UTC
+Color: R=0.00 G=0.00 B=0.33
+Cosmetics: None

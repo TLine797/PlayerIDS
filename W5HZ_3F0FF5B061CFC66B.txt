@@ -1,0 +1,7 @@
+Name: GPLAYZ
+ActorNumber: 90
+PlayerID: 3F0FF5B061CFC66B
+Platform: Standalone
+AccountCreationDate: 2023-06-25 14:14:18 UTC
+Color: R=1.00 G=0.11 B=0.11
+Cosmetics: None

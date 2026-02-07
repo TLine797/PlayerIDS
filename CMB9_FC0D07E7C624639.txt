@@ -1,0 +1,7 @@
+Name: TTSBOLT
+ActorNumber: 5809
+PlayerID: FC0D07E7C624639
+Platform: PC
+AccountCreationDate: 2025-09-25 01:04:53 UTC
+Color: R=0.22 G=0.67 B=0.89
+Cosmetics: None

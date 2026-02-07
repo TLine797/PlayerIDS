@@ -1,0 +1,7 @@
+Name: gorilla
+ActorNumber: 444
+PlayerID: 72F7A275D5DB6E04
+Platform: Standalone
+AccountCreationDate: 2023-09-21 00:59:20 UTC
+Color: R=0.00 G=0.00 B=0.00
+Cosmetics: None

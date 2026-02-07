@@ -1,0 +1,7 @@
+Name: FIGHT
+ActorNumber: 21
+PlayerID: DBFAE8998CF7350E
+Platform: Standalone
+AccountCreationDate: 2023-12-25 19:53:38 UTC
+Color: R=0.00 G=0.00 B=0.00
+Cosmetics: None

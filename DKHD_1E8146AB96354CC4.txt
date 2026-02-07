@@ -1,0 +1,7 @@
+Name: gorilla6526F
+ActorNumber: 1407
+PlayerID: 1E8146AB96354CC4
+Platform: Standalone
+AccountCreationDate: 2024-01-04 00:56:40 UTC
+Color: R=0.33 G=0.00 B=0.67
+Cosmetics: None

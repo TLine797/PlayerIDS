@@ -1,0 +1,7 @@
+Name: ROWDYROW
+ActorNumber: 495
+PlayerID: FBBC95DF5DCA1433
+Platform: Standalone
+AccountCreationDate: 2024-01-05 01:08:14 UTC
+Color: R=0.44 G=0.00 B=1.00
+Cosmetics: None

@@ -1,0 +1,7 @@
+Name: CARTER
+ActorNumber: 273
+PlayerID: 8F6D51ED45EC78CF
+Platform: Standalone
+AccountCreationDate: 2024-01-27 21:48:59 UTC
+Color: R=0.44 G=0.00 B=1.00
+Cosmetics: None

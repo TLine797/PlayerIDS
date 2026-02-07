@@ -1,0 +1,7 @@
+Name: BLESSEDON72
+ActorNumber: 32
+PlayerID: 3050ECEC46CDF094
+Platform: Standalone
+AccountCreationDate: 2025-06-21 20:28:49 UTC
+Color: R=0.44 G=0.44 B=0.44
+Cosmetics: None

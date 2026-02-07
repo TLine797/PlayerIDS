@@ -1,0 +1,7 @@
+Name: T1X
+ActorNumber: 665
+PlayerID: 7B09B56C915AE43B
+Platform: PC
+AccountCreationDate: 2025-01-16 14:49:50 UTC
+Color: R=0.00 G=0.00 B=0.00
+Cosmetics: None

@@ -1,0 +1,7 @@
+Name: SUPERPOTATO
+ActorNumber: 3747
+PlayerID: 7D510BF8DE875E66
+Platform: Standalone
+AccountCreationDate: 2025-02-15 17:38:09 UTC
+Color: R=0.44 G=0.00 B=0.89
+Cosmetics: None

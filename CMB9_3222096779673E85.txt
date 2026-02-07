@@ -1,0 +1,7 @@
+Name: ABYSSVR
+ActorNumber: 5840
+PlayerID: 3222096779673E85
+Platform: Standalone
+AccountCreationDate: 2024-07-07 15:55:28 UTC
+Color: R=0.22 G=0.11 B=0.22
+Cosmetics: None

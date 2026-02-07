@@ -1,0 +1,7 @@
+Name: GRAYY
+ActorNumber: 823
+PlayerID: 29AE7364AE4BD561
+Platform: Standalone
+AccountCreationDate: 2026-01-05 21:23:38 UTC
+Color: R=0.56 G=0.56 B=0.56
+Cosmetics: None

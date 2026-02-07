@@ -1,0 +1,7 @@
+Name: gorilla2242
+ActorNumber: 499
+PlayerID: 29003DFFB9756D39
+Platform: Standalone
+AccountCreationDate: 2025-12-26 16:43:47 UTC
+Color: R=0.67 G=0.67 B=1.00
+Cosmetics: None

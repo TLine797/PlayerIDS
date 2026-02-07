@@ -1,0 +1,7 @@
+Name: ITZTAPU
+ActorNumber: 20
+PlayerID: CE0C318E51AC1645
+Platform: Unknown
+AccountCreationDate: 2022-12-24 22:04:29 UTC
+Color: R=0.78 G=0.00 B=1.00
+Cosmetics: None

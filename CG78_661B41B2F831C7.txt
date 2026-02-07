@@ -1,0 +1,7 @@
+Name: LEORAIF88
+ActorNumber: 239
+PlayerID: 661B41B2F831C7
+Platform: Standalone
+AccountCreationDate: 2026-01-13 16:40:40 UTC
+Color: R=1.00 G=1.00 B=0.00
+Cosmetics: None

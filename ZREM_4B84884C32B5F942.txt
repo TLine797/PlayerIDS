@@ -1,0 +1,7 @@
+Name: gorilla
+ActorNumber: 1062
+PlayerID: 4B84884C32B5F942
+Platform: Standalone
+AccountCreationDate: 2023-09-18 03:03:35 UTC
+Color: R=0.11 G=0.78 B=1.00
+Cosmetics: None

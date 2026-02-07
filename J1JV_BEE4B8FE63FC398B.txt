@@ -1,0 +1,7 @@
+Name: KIRA
+ActorNumber: 28
+PlayerID: BEE4B8FE63FC398B
+Platform: Standalone
+AccountCreationDate: 2025-04-26 15:23:22 UTC
+Color: R=1.00 G=1.00 B=1.00
+Cosmetics: None

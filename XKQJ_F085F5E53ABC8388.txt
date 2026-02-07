@@ -1,0 +1,7 @@
+Name: CHAMPAGNEPAP
+ActorNumber: 433
+PlayerID: F085F5E53ABC8388
+Platform: Standalone
+AccountCreationDate: 2024-01-08 22:24:33 UTC
+Color: R=0.67 G=0.89 B=1.00
+Cosmetics: None

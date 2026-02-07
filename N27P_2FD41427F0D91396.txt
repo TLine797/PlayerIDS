@@ -1,0 +1,7 @@
+Name: JSNJIP
+ActorNumber: 836
+PlayerID: 2FD41427F0D91396
+Platform: Standalone
+AccountCreationDate: 2025-12-24 23:27:32 UTC
+Color: R=0.67 G=0.33 B=0.67
+Cosmetics: None

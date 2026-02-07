@@ -1,0 +1,7 @@
+Name: DJ
+ActorNumber: 247
+PlayerID: ADC5AFBF34E0B38A
+Platform: Standalone
+AccountCreationDate: 2023-12-07 19:07:44 UTC
+Color: R=1.00 G=1.00 B=1.00
+Cosmetics: None

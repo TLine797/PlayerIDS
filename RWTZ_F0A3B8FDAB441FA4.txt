@@ -1,0 +1,7 @@
+Name: FEMBOYGOONER
+ActorNumber: 549
+PlayerID: F0A3B8FDAB441FA4
+Platform: Standalone
+AccountCreationDate: 2025-12-17 16:31:30 UTC
+Color: R=0.44 G=0.00 B=0.56
+Cosmetics: None

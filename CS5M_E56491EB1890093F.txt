@@ -1,0 +1,7 @@
+Name: CYAN
+ActorNumber: 33
+PlayerID: E56491EB1890093F
+Platform: Standalone
+AccountCreationDate: 2025-12-28 19:05:29 UTC
+Color: R=0.67 G=0.56 B=0.44
+Cosmetics: None

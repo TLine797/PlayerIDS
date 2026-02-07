@@ -1,0 +1,7 @@
+Name: gorilla6002
+ActorNumber: 1401
+PlayerID: 29996D42B628D4BC
+Platform: Standalone
+AccountCreationDate: 2025-12-25 15:40:17 UTC
+Color: R=0.00 G=0.00 B=0.78
+Cosmetics: None

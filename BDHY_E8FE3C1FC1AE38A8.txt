@@ -1,0 +1,7 @@
+Name: CHICKENTENDY
+ActorNumber: 286
+PlayerID: E8FE3C1FC1AE38A8
+Platform: Standalone
+AccountCreationDate: 2023-12-26 00:52:30 UTC
+Color: R=0.44 G=0.00 B=0.00
+Cosmetics: None

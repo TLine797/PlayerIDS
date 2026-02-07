@@ -1,0 +1,7 @@
+Name: JJG3SLASHER
+ActorNumber: 294
+PlayerID: 729D4272F43ECC9C
+Platform: Standalone
+AccountCreationDate: 2025-07-30 21:06:59 UTC
+Color: R=0.00 G=1.00 B=1.00
+Cosmetics: None

@@ -1,0 +1,7 @@
+Name: SLPYRAX
+ActorNumber: 992
+PlayerID: 9AAC41EFDAA99B51
+Platform: Unknown
+AccountCreationDate: 2022-10-14 18:04:59 UTC
+Color: R=1.00 G=0.44 B=0.00
+Cosmetics: None

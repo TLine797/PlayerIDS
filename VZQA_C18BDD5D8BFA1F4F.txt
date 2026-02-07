@@ -1,0 +1,7 @@
+Name: LINUXVR
+ActorNumber: 1056
+PlayerID: C18BDD5D8BFA1F4F
+Platform: Standalone
+AccountCreationDate: 2024-02-18 16:38:04 UTC
+Color: R=1.00 G=0.67 B=1.00
+Cosmetics: None

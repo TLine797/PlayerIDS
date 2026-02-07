@@ -1,0 +1,7 @@
+Name: LOLLIPOP67
+ActorNumber: 578
+PlayerID: 33ADBB5183F12784
+Platform: Standalone
+AccountCreationDate: 2024-01-21 07:17:48 UTC
+Color: R=1.00 G=0.89 B=1.00
+Cosmetics: None

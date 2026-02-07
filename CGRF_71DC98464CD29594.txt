@@ -1,0 +1,7 @@
+Name: TAY
+ActorNumber: 4150
+PlayerID: 71DC98464CD29594
+Platform: Standalone
+AccountCreationDate: 2025-12-26 22:48:36 UTC
+Color: R=0.89 G=0.33 B=0.33
+Cosmetics: None

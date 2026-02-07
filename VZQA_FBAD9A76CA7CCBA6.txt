@@ -1,0 +1,7 @@
+Name: LEVI
+ActorNumber: 1049
+PlayerID: FBAD9A76CA7CCBA6
+Platform: Standalone
+AccountCreationDate: 2023-12-16 01:57:07 UTC
+Color: R=0.00 G=0.00 B=0.89
+Cosmetics: None

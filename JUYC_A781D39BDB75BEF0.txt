@@ -1,0 +1,7 @@
+Name: MONKEY
+ActorNumber: 721
+PlayerID: A781D39BDB75BEF0
+Platform: Standalone
+AccountCreationDate: 2024-12-25 09:00:25 UTC
+Color: R=0.44 G=0.00 B=0.78
+Cosmetics: None

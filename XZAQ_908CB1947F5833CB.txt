@@ -1,0 +1,7 @@
+Name: SSGFLOPPY
+ActorNumber: 822
+PlayerID: 908CB1947F5833CB
+Platform: Unknown
+AccountCreationDate: 2023-04-23 01:56:41 UTC
+Color: R=0.78 G=0.78 B=0.78
+Cosmetics: None

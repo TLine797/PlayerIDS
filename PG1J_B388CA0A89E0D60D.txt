@@ -1,0 +1,7 @@
+Name: TGMJIMBOB
+ActorNumber: 517
+PlayerID: B388CA0A89E0D60D
+Platform: Standalone
+AccountCreationDate: 2024-05-25 00:22:14 UTC
+Color: R=1.00 G=0.44 B=0.00
+Cosmetics: None

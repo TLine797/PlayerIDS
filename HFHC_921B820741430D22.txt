@@ -1,0 +1,7 @@
+Name: RTBURBER
+ActorNumber: 877
+PlayerID: 921B820741430D22
+Platform: Standalone
+AccountCreationDate: 2025-01-01 05:27:09 UTC
+Color: R=0.22 G=0.00 B=0.33
+Cosmetics: None

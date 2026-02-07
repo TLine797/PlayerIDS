@@ -1,0 +1,7 @@
+Name: TOGOOD
+ActorNumber: 588
+PlayerID: 7A8B4C6ED06C74D1
+Platform: Standalone
+AccountCreationDate: 2025-02-15 13:23:42 UTC
+Color: R=0.22 G=0.78 B=0.89
+Cosmetics: None

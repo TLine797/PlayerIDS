@@ -1,0 +1,7 @@
+Name: BOBBY
+ActorNumber: 242
+PlayerID: DD1991804C2B0EAD
+Platform: Unknown
+AccountCreationDate: 2021-08-26 16:23:48 UTC
+Color: R=0.44 G=0.44 B=1.00
+Cosmetics: None

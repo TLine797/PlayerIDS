@@ -1,0 +1,7 @@
+Name: MONKEYBOY
+ActorNumber: 1303
+PlayerID: D1B935A735FA398F
+Platform: Standalone
+AccountCreationDate: 2025-12-25 16:07:37 UTC
+Color: R=0.00 G=0.89 B=1.00
+Cosmetics: None

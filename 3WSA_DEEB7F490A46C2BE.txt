@@ -1,0 +1,7 @@
+Name: ILIKEFOOD
+ActorNumber: 196
+PlayerID: DEEB7F490A46C2BE
+Platform: Standalone
+AccountCreationDate: 2023-08-20 02:19:24 UTC
+Color: R=1.00 G=0.00 B=0.44
+Cosmetics: None

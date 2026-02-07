@@ -1,0 +1,7 @@
+Name: CRAIG
+ActorNumber: 853
+PlayerID: C4DED2E46F468289
+Platform: Standalone
+AccountCreationDate: 2025-03-08 01:28:22 UTC
+Color: R=0.44 G=0.67 B=0.89
+Cosmetics: None

@@ -1,0 +1,7 @@
+Name: JKVR89
+ActorNumber: 861
+PlayerID: C977B89F2620A752
+Platform: Standalone
+AccountCreationDate: 2026-01-02 01:55:51 UTC
+Color: R=0.00 G=0.00 B=0.56
+Cosmetics: None

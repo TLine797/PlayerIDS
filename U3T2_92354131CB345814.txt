@@ -1,0 +1,7 @@
+Name: EDWARD
+ActorNumber: 1052
+PlayerID: 92354131CB345814
+Platform: Standalone
+AccountCreationDate: 2025-02-22 20:36:08 UTC
+Color: R=1.00 G=1.00 B=0.89
+Cosmetics: None

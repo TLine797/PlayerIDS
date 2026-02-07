@@ -1,0 +1,7 @@
+Name: NOTAYT
+ActorNumber: 549
+PlayerID: CA5006F23683C96F
+Platform: Standalone
+AccountCreationDate: 2024-02-23 02:16:30 UTC
+Color: R=1.00 G=0.44 B=0.00
+Cosmetics: None

@@ -1,0 +1,7 @@
+Name: SNOOPPY
+ActorNumber: 54
+PlayerID: 6C04A006DAE3BC8E
+Platform: Standalone
+AccountCreationDate: 2024-06-23 22:09:17 UTC
+Color: R=0.33 G=0.33 B=0.89
+Cosmetics: None

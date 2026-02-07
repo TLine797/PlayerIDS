@@ -1,0 +1,7 @@
+Name: ALEXVR
+ActorNumber: 695
+PlayerID: 6E6D1D86559AC062
+Platform: Unknown
+AccountCreationDate: 2022-05-27 23:16:14 UTC
+Color: R=0.00 G=1.00 B=1.00
+Cosmetics: None

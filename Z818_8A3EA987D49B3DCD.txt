@@ -1,0 +1,7 @@
+Name: JETT
+ActorNumber: 1417
+PlayerID: 8A3EA987D49B3DCD
+Platform: Standalone
+AccountCreationDate: 2025-11-30 05:20:17 UTC
+Color: R=0.11 G=0.00 B=0.33
+Cosmetics: None

@@ -1,0 +1,7 @@
+Name: BUBBA
+ActorNumber: 552
+PlayerID: 429BA86DC13BABA0
+Platform: Standalone
+AccountCreationDate: 2025-12-25 16:46:15 UTC
+Color: R=1.00 G=0.67 B=0.89
+Cosmetics: None

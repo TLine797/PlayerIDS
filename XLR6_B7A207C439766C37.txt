@@ -1,0 +1,7 @@
+Name: ACOLYTE
+ActorNumber: 476
+PlayerID: B7A207C439766C37
+Platform: Unknown
+AccountCreationDate: 2023-01-26 03:15:06 UTC
+Color: R=0.33 G=0.67 B=1.00
+Cosmetics: None

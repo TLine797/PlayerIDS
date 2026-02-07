@@ -1,0 +1,7 @@
+Name: gorilla2272
+ActorNumber: 736
+PlayerID: A3CB05266DE03B64
+Platform: Standalone
+AccountCreationDate: 2026-01-27 01:46:34 UTC
+Color: R=0.78 G=0.67 B=0.11
+Cosmetics: None

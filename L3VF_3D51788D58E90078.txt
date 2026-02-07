@@ -1,0 +1,7 @@
+Name: JJ1115META31
+ActorNumber: 198
+PlayerID: 3D51788D58E90078
+Platform: PC
+AccountCreationDate: 2025-07-21 14:25:00 UTC
+Color: R=0.22 G=0.22 B=0.44
+Cosmetics: None

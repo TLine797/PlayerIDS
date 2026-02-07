@@ -1,0 +1,7 @@
+Name: PAAIDERZX
+ActorNumber: 647
+PlayerID: 3EF040A5ED81E058
+Platform: Standalone
+AccountCreationDate: 2023-12-22 15:24:16 UTC
+Color: R=0.22 G=0.33 B=0.78
+Cosmetics: None

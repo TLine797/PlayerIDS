@@ -1,0 +1,7 @@
+Name: SHMOOLIK
+ActorNumber: 44
+PlayerID: EDAAEFF3171CFBA1
+Platform: Standalone
+AccountCreationDate: 2025-09-01 16:25:32 UTC
+Color: R=0.00 G=0.22 B=0.78
+Cosmetics: None

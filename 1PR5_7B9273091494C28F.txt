@@ -1,0 +1,7 @@
+Name: TOADWAT
+ActorNumber: 1499
+PlayerID: 7B9273091494C28F
+Platform: Standalone
+AccountCreationDate: 2025-12-13 14:36:35 UTC
+Color: R=0.11 G=0.33 B=0.33
+Cosmetics: None

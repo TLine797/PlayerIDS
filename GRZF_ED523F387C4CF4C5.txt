@@ -1,0 +1,7 @@
+Name: SNOMAN
+ActorNumber: 51
+PlayerID: ED523F387C4CF4C5
+Platform: Standalone
+AccountCreationDate: 2024-12-24 19:23:52 UTC
+Color: R=1.00 G=1.00 B=1.00
+Cosmetics: None

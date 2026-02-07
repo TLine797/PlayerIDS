@@ -1,0 +1,7 @@
+Name: FROGGY
+ActorNumber: 874
+PlayerID: B8AC2A9026AE9CA6
+Platform: Unknown
+AccountCreationDate: 2024-12-25 15:39:37 UTC
+Color: R=1.00 G=0.00 B=0.00
+Cosmetics: None

@@ -1,0 +1,7 @@
+Name: 7B7B
+ActorNumber: 1020
+PlayerID: 6754059D5052820D
+Platform: Standalone
+AccountCreationDate: 2025-01-09 12:40:41 UTC
+Color: R=0.33 G=0.00 B=0.00
+Cosmetics: None

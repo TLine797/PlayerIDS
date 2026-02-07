@@ -1,0 +1,7 @@
+Name: IGOTMUTE
+ActorNumber: 137
+PlayerID: 93DB79F52A6E3F38
+Platform: Standalone
+AccountCreationDate: 2024-02-04 21:16:26 UTC
+Color: R=1.00 G=0.00 B=0.00
+Cosmetics: None

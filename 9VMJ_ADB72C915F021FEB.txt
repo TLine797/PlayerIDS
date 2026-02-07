@@ -1,0 +1,7 @@
+Name: BONNIEBLLUE
+ActorNumber: 872
+PlayerID: ADB72C915F021FEB
+Platform: Unknown
+AccountCreationDate: 2025-12-25 22:09:52 UTC
+Color: R=0.00 G=0.22 B=0.00
+Cosmetics: None

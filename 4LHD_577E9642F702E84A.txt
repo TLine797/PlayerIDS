@@ -1,0 +1,7 @@
+Name: FGHJKL
+ActorNumber: 187
+PlayerID: 577E9642F702E84A
+Platform: Standalone
+AccountCreationDate: 2024-03-24 20:07:14 UTC
+Color: R=0.56 G=0.44 B=0.78
+Cosmetics: None

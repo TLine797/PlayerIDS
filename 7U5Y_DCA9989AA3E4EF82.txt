@@ -1,0 +1,7 @@
+Name: BOBN
+ActorNumber: 296
+PlayerID: DCA9989AA3E4EF82
+Platform: Standalone
+AccountCreationDate: 2025-01-18 23:29:50 UTC
+Color: R=0.00 G=0.00 B=0.00
+Cosmetics: None

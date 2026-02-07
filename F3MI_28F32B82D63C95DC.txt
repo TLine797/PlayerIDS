@@ -1,0 +1,7 @@
+Name: gorilla1553
+ActorNumber: 65
+PlayerID: 28F32B82D63C95DC
+Platform: Standalone
+AccountCreationDate: 2025-07-18 04:33:05 UTC
+Color: R=1.00 G=0.00 B=0.00
+Cosmetics: None

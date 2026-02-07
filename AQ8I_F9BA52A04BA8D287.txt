@@ -1,0 +1,7 @@
+Name: SEQUENCE
+ActorNumber: 359
+PlayerID: F9BA52A04BA8D287
+Platform: Unknown
+AccountCreationDate: 2022-12-27 02:03:18 UTC
+Color: R=0.89 G=0.11 B=0.22
+Cosmetics: None

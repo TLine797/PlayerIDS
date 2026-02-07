@@ -1,0 +1,7 @@
+Name: SPECTATER
+ActorNumber: 461
+PlayerID: 92B417EC4F53162A
+Platform: Standalone
+AccountCreationDate: 2025-01-04 19:09:45 UTC
+Color: R=0.22 G=0.78 B=0.67
+Cosmetics: None

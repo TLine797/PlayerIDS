@@ -1,0 +1,7 @@
+Name: MYTRACKIING
+ActorNumber: 1030
+PlayerID: 9A701F502406E4DC
+Platform: Standalone
+AccountCreationDate: 2026-01-01 20:23:48 UTC
+Color: R=0.33 G=1.00 B=0.56
+Cosmetics: None

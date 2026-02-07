@@ -1,0 +1,7 @@
+Name: DALLASCOWBOY
+ActorNumber: 333
+PlayerID: CCF7D2A1EA288EC7
+Platform: Standalone
+AccountCreationDate: 2025-12-30 21:06:34 UTC
+Color: R=0.00 G=0.22 B=0.56
+Cosmetics: None

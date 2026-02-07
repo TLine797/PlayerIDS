@@ -1,0 +1,7 @@
+Name: LINCOLN
+ActorNumber: 846
+PlayerID: 263BDAE42F59C4E7
+Platform: Unknown
+AccountCreationDate: 2022-07-12 02:13:55 UTC
+Color: R=0.44 G=0.00 B=1.00
+Cosmetics: None

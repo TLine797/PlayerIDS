@@ -1,0 +1,7 @@
+Name: hi
+ActorNumber: 472
+PlayerID: E6A4F48BE2B69FB8
+Platform: Standalone
+AccountCreationDate: 2023-04-01 11:43:40 UTC
+Color: R=0.00 G=0.00 B=1.00
+Cosmetics: None

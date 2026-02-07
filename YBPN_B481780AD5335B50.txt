@@ -1,0 +1,7 @@
+Name: MOMNVRKID
+ActorNumber: 487
+PlayerID: B481780AD5335B50
+Platform: Standalone
+AccountCreationDate: 2025-05-18 23:45:58 UTC
+Color: R=0.11 G=0.22 B=0.78
+Cosmetics: None

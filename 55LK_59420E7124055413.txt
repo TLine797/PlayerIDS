@@ -1,0 +1,7 @@
+Name: KJVR
+ActorNumber: 706
+PlayerID: 59420E7124055413
+Platform: Standalone
+AccountCreationDate: 2023-04-10 19:37:21 UTC
+Color: R=0.00 G=0.00 B=1.00
+Cosmetics: None

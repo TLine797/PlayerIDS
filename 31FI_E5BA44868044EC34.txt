@@ -1,0 +1,7 @@
+Name: JAM
+ActorNumber: 638
+PlayerID: E5BA44868044EC34
+Platform: Standalone
+AccountCreationDate: 2025-12-25 13:01:02 UTC
+Color: R=0.00 G=0.00 B=0.00
+Cosmetics: None

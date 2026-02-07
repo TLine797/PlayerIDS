@@ -1,0 +1,7 @@
+Name: ROLLEYYYY
+ActorNumber: 595
+PlayerID: 5A4D1FA6FAD59532
+Platform: Standalone
+AccountCreationDate: 2024-06-07 17:40:29 UTC
+Color: R=0.44 G=0.33 B=0.78
+Cosmetics: None

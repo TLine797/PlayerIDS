@@ -1,0 +1,7 @@
+Name: RA1N
+ActorNumber: 553
+PlayerID: E9CE75E7049DD258
+Platform: Standalone
+AccountCreationDate: 2025-02-20 15:04:54 UTC
+Color: R=0.44 G=0.33 B=0.44
+Cosmetics: None

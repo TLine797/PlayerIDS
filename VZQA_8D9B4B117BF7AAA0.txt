@@ -1,0 +1,7 @@
+Name: LEMON
+ActorNumber: 1038
+PlayerID: 8D9B4B117BF7AAA0
+Platform: Standalone
+AccountCreationDate: 2025-02-02 15:40:45 UTC
+Color: R=1.00 G=1.00 B=0.22
+Cosmetics: None

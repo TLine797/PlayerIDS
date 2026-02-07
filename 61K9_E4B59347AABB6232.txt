@@ -1,0 +1,7 @@
+Name: HAMSTERTAXI
+ActorNumber: 1231
+PlayerID: E4B59347AABB6232
+Platform: Standalone
+AccountCreationDate: 2024-02-17 03:57:26 UTC
+Color: R=0.00 G=0.00 B=0.00
+Cosmetics: None

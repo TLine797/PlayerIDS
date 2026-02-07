@@ -1,0 +1,7 @@
+Name: KANYE
+ActorNumber: 392
+PlayerID: 86BFE65072DA767F
+Platform: Unknown
+AccountCreationDate: 2023-01-07 16:39:49 UTC
+Color: R=0.00 G=0.00 B=0.00
+Cosmetics: None

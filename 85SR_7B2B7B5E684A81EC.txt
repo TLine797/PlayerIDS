@@ -1,0 +1,7 @@
+Name: TOM
+ActorNumber: 124
+PlayerID: 7B2B7B5E684A81EC
+Platform: PC
+AccountCreationDate: 2021-05-11 21:39:58 UTC
+Color: R=0.22 G=0.11 B=0.67
+Cosmetics: None

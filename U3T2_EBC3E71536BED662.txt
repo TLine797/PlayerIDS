@@ -1,0 +1,7 @@
+Name: BIGHANK
+ActorNumber: 1018
+PlayerID: EBC3E71536BED662
+Platform: Unknown
+AccountCreationDate: 2023-01-06 18:35:32 UTC
+Color: R=1.00 G=0.44 B=0.00
+Cosmetics: None

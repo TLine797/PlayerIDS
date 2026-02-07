@@ -1,0 +1,7 @@
+Name: gorilla
+ActorNumber: 724
+PlayerID: B6B4C8AC41EECDD1
+Platform: Standalone
+AccountCreationDate: 2025-12-26 19:05:57 UTC
+Color: R=0.22 G=0.67 B=0.00
+Cosmetics: None

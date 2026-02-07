@@ -1,0 +1,7 @@
+Name: CLUCHDADDY
+ActorNumber: 535
+PlayerID: 20BD2DB89479ECE2
+Platform: Standalone
+AccountCreationDate: 2025-02-05 00:49:32 UTC
+Color: R=1.00 G=0.67 B=1.00
+Cosmetics: None

@@ -1,0 +1,7 @@
+Name: URUMA
+ActorNumber: 544
+PlayerID: 509421436C44187A
+Platform: Unknown
+AccountCreationDate: 2022-07-11 22:10:32 UTC
+Color: R=0.44 G=0.44 B=0.44
+Cosmetics: None

@@ -1,0 +1,7 @@
+Name: TPMJVKE
+ActorNumber: 298
+PlayerID: 1D04AC8399735A74
+Platform: Standalone
+AccountCreationDate: 2024-01-14 03:42:07 UTC
+Color: R=0.44 G=0.00 B=1.00
+Cosmetics: None

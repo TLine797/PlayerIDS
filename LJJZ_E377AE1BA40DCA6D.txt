@@ -1,0 +1,7 @@
+Name: DN
+ActorNumber: 1337
+PlayerID: E377AE1BA40DCA6D
+Platform: Standalone
+AccountCreationDate: 2025-12-25 09:28:31 UTC
+Color: R=0.33 G=0.00 B=0.67
+Cosmetics: None

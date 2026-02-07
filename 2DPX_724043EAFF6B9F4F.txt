@@ -1,0 +1,7 @@
+Name: LOUIE
+ActorNumber: 189
+PlayerID: 724043EAFF6B9F4F
+Platform: Standalone
+AccountCreationDate: 2023-06-08 05:45:25 UTC
+Color: R=0.11 G=0.00 B=0.00
+Cosmetics: None

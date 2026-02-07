@@ -1,0 +1,7 @@
+Name: gorilla0703
+ActorNumber: 139
+PlayerID: 1C73AB9DA216EE47
+Platform: Standalone
+AccountCreationDate: 2024-12-25 22:50:54 UTC
+Color: R=0.00 G=0.00 B=1.00
+Cosmetics: None

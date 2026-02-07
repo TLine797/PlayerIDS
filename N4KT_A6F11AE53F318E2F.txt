@@ -1,0 +1,7 @@
+Name: VIVI
+ActorNumber: 757
+PlayerID: A6F11AE53F318E2F
+Platform: Standalone
+AccountCreationDate: 2025-06-23 15:45:18 UTC
+Color: R=1.00 G=0.22 B=0.78
+Cosmetics: None

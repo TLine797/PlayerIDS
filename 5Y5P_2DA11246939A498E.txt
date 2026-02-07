@@ -1,0 +1,7 @@
+Name: VILLAGER
+ActorNumber: 211
+PlayerID: 2DA11246939A498E
+Platform: Standalone
+AccountCreationDate: 2025-07-13 03:35:50 UTC
+Color: R=1.00 G=0.78 B=0.56
+Cosmetics: None

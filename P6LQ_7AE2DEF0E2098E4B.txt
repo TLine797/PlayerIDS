@@ -1,0 +1,7 @@
+Name: DINGLEBERRY
+ActorNumber: 1296
+PlayerID: 7AE2DEF0E2098E4B
+Platform: Unknown
+AccountCreationDate: 2023-01-01 21:00:13 UTC
+Color: R=1.00 G=0.00 B=1.00
+Cosmetics: None

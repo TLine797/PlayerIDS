@@ -1,0 +1,7 @@
+Name: 88
+ActorNumber: 46
+PlayerID: BCAEE6D40511BB16
+Platform: PC
+AccountCreationDate: 2025-01-21 17:58:45 UTC
+Color: R=0.56 G=0.56 B=0.56
+Cosmetics: None

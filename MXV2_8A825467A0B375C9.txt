@@ -1,0 +1,7 @@
+Name: JOHNNY
+ActorNumber: 313
+PlayerID: 8A825467A0B375C9
+Platform: Standalone
+AccountCreationDate: 2024-12-25 12:51:08 UTC
+Color: R=0.89 G=0.00 B=0.00
+Cosmetics: None

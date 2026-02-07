@@ -1,0 +1,7 @@
+Name: MBVELX
+ActorNumber: 658
+PlayerID: 762383C6A9C3E880
+Platform: Standalone
+AccountCreationDate: 2025-07-16 14:15:03 UTC
+Color: R=0.44 G=0.00 B=0.89
+Cosmetics: None

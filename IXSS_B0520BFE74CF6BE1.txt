@@ -1,0 +1,7 @@
+Name: BA4
+ActorNumber: 408
+PlayerID: B0520BFE74CF6BE1
+Platform: Unknown
+AccountCreationDate: 2022-03-19 03:49:17 UTC
+Color: R=0.00 G=1.00 B=0.00
+Cosmetics: None

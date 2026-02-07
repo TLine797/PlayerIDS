@@ -1,0 +1,7 @@
+Name: MUSICMAN
+ActorNumber: 262
+PlayerID: E63CBEE977574864
+Platform: Standalone
+AccountCreationDate: 2025-01-01 01:29:43 UTC
+Color: R=0.00 G=0.78 B=1.00
+Cosmetics: None

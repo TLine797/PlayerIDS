@@ -1,0 +1,7 @@
+Name: SEEKER
+ActorNumber: 318
+PlayerID: 77681954F0C1274F
+Platform: Standalone
+AccountCreationDate: 2025-11-22 16:15:14 UTC
+Color: R=1.00 G=1.00 B=1.00
+Cosmetics: None

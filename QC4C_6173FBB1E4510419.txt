@@ -1,0 +1,7 @@
+Name: APBSLUMP
+ActorNumber: 176
+PlayerID: 6173FBB1E4510419
+Platform: Standalone
+AccountCreationDate: 2022-01-07 14:51:18 UTC
+Color: R=0.00 G=0.44 B=1.00
+Cosmetics: None

@@ -1,0 +1,7 @@
+Name: TPLITO
+ActorNumber: 4
+PlayerID: 1A8654DCDE0D1E1C
+Platform: Standalone
+AccountCreationDate: 2024-01-14 21:42:04 UTC
+Color: R=0.44 G=0.56 B=0.67
+Cosmetics: None

@@ -1,0 +1,7 @@
+Name: HILLBILLY
+ActorNumber: 331
+PlayerID: A011139E2558511
+Platform: Standalone
+AccountCreationDate: 2025-04-12 20:45:07 UTC
+Color: R=0.33 G=1.00 B=0.22
+Cosmetics: None

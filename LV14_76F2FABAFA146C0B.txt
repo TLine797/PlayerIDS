@@ -1,0 +1,7 @@
+Name: UZI
+ActorNumber: 346
+PlayerID: 76F2FABAFA146C0B
+Platform: Standalone
+AccountCreationDate: 2025-09-20 01:00:32 UTC
+Color: R=0.11 G=0.33 B=0.44
+Cosmetics: None

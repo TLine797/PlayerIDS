@@ -1,0 +1,7 @@
+Name: MIKE
+ActorNumber: 789
+PlayerID: 8FC5F58A454527C4
+Platform: Standalone
+AccountCreationDate: 2024-12-24 21:37:15 UTC
+Color: R=1.00 G=0.00 B=0.00
+Cosmetics: None

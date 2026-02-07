@@ -1,0 +1,7 @@
+Name: HEY
+ActorNumber: 1000
+PlayerID: 511B15064D5BAA9A
+Platform: Standalone
+AccountCreationDate: 2025-11-25 06:37:42 UTC
+Color: R=1.00 G=1.00 B=1.00
+Cosmetics: None

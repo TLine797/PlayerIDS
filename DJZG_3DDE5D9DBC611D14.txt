@@ -1,0 +1,7 @@
+Name: YYDEMON67
+ActorNumber: 116
+PlayerID: 3DDE5D9DBC611D14
+Platform: Standalone
+AccountCreationDate: 2025-12-25 16:43:31 UTC
+Color: R=1.00 G=1.00 B=1.00
+Cosmetics: None

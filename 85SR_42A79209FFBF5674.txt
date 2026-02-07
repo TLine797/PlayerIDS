@@ -1,0 +1,7 @@
+Name: IMGOINGTOLIC
+ActorNumber: 109
+PlayerID: 42A79209FFBF5674
+Platform: Standalone
+AccountCreationDate: 2025-12-30 15:12:45 UTC
+Color: R=0.56 G=0.78 B=0.67
+Cosmetics: None

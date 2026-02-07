@@ -1,0 +1,7 @@
+Name: B
+ActorNumber: 366
+PlayerID: F27C385CA0E936E
+Platform: Standalone
+AccountCreationDate: 2023-12-06 01:30:29 UTC
+Color: R=0.44 G=0.00 B=0.89
+Cosmetics: None

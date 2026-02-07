@@ -1,0 +1,7 @@
+Name: GOOB
+ActorNumber: 1122
+PlayerID: 2BB8D0AB5E167F67
+Platform: Standalone
+AccountCreationDate: 2024-11-26 22:12:41 UTC
+Color: R=0.67 G=0.78 B=0.67
+Cosmetics: None

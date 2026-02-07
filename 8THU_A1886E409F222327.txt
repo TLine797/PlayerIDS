@@ -1,0 +1,7 @@
+Name: THEGOOCH
+ActorNumber: 161
+PlayerID: A1886E409F222327
+Platform: Standalone
+AccountCreationDate: 2025-08-25 16:53:14 UTC
+Color: R=0.00 G=1.00 B=0.00
+Cosmetics: None

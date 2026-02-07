@@ -1,0 +1,7 @@
+Name: THUNDER
+ActorNumber: 180
+PlayerID: C903F75721F796E
+Platform: Standalone
+AccountCreationDate: 2025-06-12 05:48:35 UTC
+Color: R=0.89 G=0.22 B=0.22
+Cosmetics: None

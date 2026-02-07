@@ -1,0 +1,7 @@
+Name: KA
+ActorNumber: 55
+PlayerID: A5EE03DE4F7FC34B
+Platform: Standalone
+AccountCreationDate: 2025-08-17 03:17:50 UTC
+Color: R=1.00 G=0.00 B=0.11
+Cosmetics: None

@@ -1,0 +1,7 @@
+Name: MASTERCHEF
+ActorNumber: 1638
+PlayerID: 483F1EBCD23A3A80
+Platform: Standalone
+AccountCreationDate: 2024-01-20 18:55:11 UTC
+Color: R=0.67 G=0.00 B=0.00
+Cosmetics: None

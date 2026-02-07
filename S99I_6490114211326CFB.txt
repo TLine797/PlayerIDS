@@ -1,0 +1,7 @@
+Name: C
+ActorNumber: 950
+PlayerID: 6490114211326CFB
+Platform: Standalone
+AccountCreationDate: 2025-02-08 23:17:15 UTC
+Color: R=0.78 G=0.56 B=0.67
+Cosmetics: None

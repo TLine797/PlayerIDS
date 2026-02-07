@@ -1,0 +1,7 @@
+Name: VCMUTED
+ActorNumber: 75
+PlayerID: 4B4634DE0393513F
+Platform: Standalone
+AccountCreationDate: 2026-01-12 02:07:16 UTC
+Color: R=1.00 G=0.00 B=0.00
+Cosmetics: None

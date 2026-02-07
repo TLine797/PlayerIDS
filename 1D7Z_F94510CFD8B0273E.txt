@@ -1,0 +1,7 @@
+Name: BANOFIGAMING
+ActorNumber: 571
+PlayerID: F94510CFD8B0273E
+Platform: Standalone
+AccountCreationDate: 2022-02-20 19:36:25 UTC
+Color: R=0.67 G=0.33 B=1.00
+Cosmetics: None

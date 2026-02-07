@@ -1,0 +1,7 @@
+Name: PRADA6
+ActorNumber: 31
+PlayerID: AC9D8BC22CC13B92
+Platform: Unknown
+AccountCreationDate: 2022-12-27 08:09:56 UTC
+Color: R=0.00 G=1.00 B=0.33
+Cosmetics: None

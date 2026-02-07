@@ -1,0 +1,7 @@
+Name: BOBMCRENARD
+ActorNumber: 272
+PlayerID: 74FCE5A62FF28FBE
+Platform: Standalone
+AccountCreationDate: 2025-03-09 01:22:07 UTC
+Color: R=0.56 G=0.22 B=0.78
+Cosmetics: None

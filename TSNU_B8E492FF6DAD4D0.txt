@@ -1,0 +1,7 @@
+Name: GOOGOOGAAGAA
+ActorNumber: 52
+PlayerID: B8E492FF6DAD4D0
+Platform: Standalone
+AccountCreationDate: 2023-06-22 19:34:57 UTC
+Color: R=1.00 G=0.00 B=1.00
+Cosmetics: None

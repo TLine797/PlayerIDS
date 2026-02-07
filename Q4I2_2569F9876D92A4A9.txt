@@ -1,0 +1,7 @@
+Name: BAD1515
+ActorNumber: 3433
+PlayerID: 2569F9876D92A4A9
+Platform: Standalone
+AccountCreationDate: 2024-04-06 19:10:40 UTC
+Color: R=0.00 G=0.33 B=0.00
+Cosmetics: None

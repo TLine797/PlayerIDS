@@ -1,0 +1,7 @@
+Name: VELVET
+ActorNumber: 724
+PlayerID: 41641A33834F5B49
+Platform: Unknown
+AccountCreationDate: 2022-03-03 03:25:59 UTC
+Color: R=0.56 G=0.00 B=0.00
+Cosmetics: None

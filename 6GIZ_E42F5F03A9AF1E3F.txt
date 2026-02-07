@@ -1,0 +1,7 @@
+Name: SPRINGTRAPVR
+ActorNumber: 18
+PlayerID: E42F5F03A9AF1E3F
+Platform: Standalone
+AccountCreationDate: 2024-03-09 00:16:35 UTC
+Color: R=0.56 G=0.44 B=0.33
+Cosmetics: None

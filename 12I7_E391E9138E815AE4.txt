@@ -1,0 +1,7 @@
+Name: GG
+ActorNumber: 35
+PlayerID: E391E9138E815AE4
+Platform: Standalone
+AccountCreationDate: 2025-02-23 23:32:19 UTC
+Color: R=0.44 G=0.11 B=0.78
+Cosmetics: None

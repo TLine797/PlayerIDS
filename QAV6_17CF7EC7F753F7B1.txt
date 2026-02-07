@@ -1,0 +1,7 @@
+Name: IMMODCHECKER
+ActorNumber: 127
+PlayerID: 17CF7EC7F753F7B1
+Platform: Standalone
+AccountCreationDate: 2025-03-16 15:59:52 UTC
+Color: R=0.44 G=0.33 B=0.67
+Cosmetics: None

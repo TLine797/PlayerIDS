@@ -1,0 +1,7 @@
+Name: HORIZONJR
+ActorNumber: 2340
+PlayerID: 6621EB80580C5FF8
+Platform: Standalone
+AccountCreationDate: 2023-03-24 17:03:30 UTC
+Color: R=1.00 G=0.44 B=0.00
+Cosmetics: None

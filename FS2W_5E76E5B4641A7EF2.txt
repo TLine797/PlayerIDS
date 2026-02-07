@@ -1,0 +1,7 @@
+Name: SNOWYY
+ActorNumber: 2359
+PlayerID: 5E76E5B4641A7EF2
+Platform: Standalone
+AccountCreationDate: 2025-06-09 18:47:49 UTC
+Color: R=0.11 G=0.11 B=0.11
+Cosmetics: None

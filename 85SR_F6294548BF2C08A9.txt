@@ -1,0 +1,7 @@
+Name: BOTFRIEND
+ActorNumber: 99
+PlayerID: F6294548BF2C08A9
+Platform: Standalone
+AccountCreationDate: 2025-12-25 21:31:47 UTC
+Color: R=1.00 G=0.00 B=1.00
+Cosmetics: None

@@ -1,0 +1,7 @@
+Name: SILKCITYJOJO
+ActorNumber: 1046
+PlayerID: E783067049DE12A8
+Platform: Standalone
+AccountCreationDate: 2025-12-30 03:14:32 UTC
+Color: R=0.00 G=0.00 B=0.00
+Cosmetics: None

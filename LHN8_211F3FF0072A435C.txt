@@ -1,0 +1,7 @@
+Name: OPERATOR
+ActorNumber: 808
+PlayerID: 211F3FF0072A435C
+Platform: PC
+AccountCreationDate: 2025-03-30 00:24:04 UTC
+Color: R=0.00 G=0.00 B=0.00
+Cosmetics: None

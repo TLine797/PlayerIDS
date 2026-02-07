@@ -1,0 +1,7 @@
+Name: RYFTY
+ActorNumber: 9
+PlayerID: 5E6964EBBD89CB58
+Platform: Standalone
+AccountCreationDate: 2023-12-25 22:03:44 UTC
+Color: R=0.44 G=0.44 B=0.89
+Cosmetics: None

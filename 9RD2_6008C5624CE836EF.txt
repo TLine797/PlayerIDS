@@ -1,0 +1,7 @@
+Name: gorilla
+ActorNumber: 92
+PlayerID: 6008C5624CE836EF
+Platform: Standalone
+AccountCreationDate: 2025-12-25 09:40:03 UTC
+Color: R=0.00 G=0.00 B=0.00
+Cosmetics: None

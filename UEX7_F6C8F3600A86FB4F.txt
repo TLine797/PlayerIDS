@@ -1,0 +1,7 @@
+Name: POOKS
+ActorNumber: 27
+PlayerID: F6C8F3600A86FB4F
+Platform: Standalone
+AccountCreationDate: 2024-06-09 01:27:38 UTC
+Color: R=0.00 G=0.78 B=0.67
+Cosmetics: None

@@ -1,0 +1,7 @@
+Name: THANG4
+ActorNumber: 33
+PlayerID: E197295ADC68658E
+Platform: Standalone
+AccountCreationDate: 2023-10-01 02:34:29 UTC
+Color: R=0.00 G=0.00 B=0.00
+Cosmetics: None

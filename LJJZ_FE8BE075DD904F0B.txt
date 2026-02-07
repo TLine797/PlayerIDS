@@ -1,0 +1,7 @@
+Name: STARVR123
+ActorNumber: 1351
+PlayerID: FE8BE075DD904F0B
+Platform: Standalone
+AccountCreationDate: 2025-07-28 14:34:41 UTC
+Color: R=0.00 G=0.00 B=0.00
+Cosmetics: None

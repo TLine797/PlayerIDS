@@ -1,0 +1,7 @@
+Name: 3AMLAROI
+ActorNumber: 1515
+PlayerID: 88289BDC5AEF06B1
+Platform: Standalone
+AccountCreationDate: 2022-12-31 04:33:00 UTC
+Color: R=0.00 G=0.89 B=1.00
+Cosmetics: None

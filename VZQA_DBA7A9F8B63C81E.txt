@@ -1,0 +1,7 @@
+Name: GERALD
+ActorNumber: 1036
+PlayerID: DBA7A9F8B63C81E
+Platform: Standalone
+AccountCreationDate: 2022-01-16 16:24:52 UTC
+Color: R=0.67 G=0.00 B=1.00
+Cosmetics: None

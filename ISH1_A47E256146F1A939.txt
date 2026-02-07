@@ -1,0 +1,7 @@
+Name: ORDINARYGTAG
+ActorNumber: 162
+PlayerID: A47E256146F1A939
+Platform: Standalone
+AccountCreationDate: 2025-12-29 03:47:24 UTC
+Color: R=0.00 G=0.67 B=1.00
+Cosmetics: None

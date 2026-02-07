@@ -1,0 +1,7 @@
+Name: SPOOKY
+ActorNumber: 1193
+PlayerID: FFF862B9DD112025
+Platform: Standalone
+AccountCreationDate: 2024-12-25 16:47:11 UTC
+Color: R=0.67 G=0.67 B=0.89
+Cosmetics: None

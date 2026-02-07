@@ -1,0 +1,7 @@
+Name: UUGCOSMIC
+ActorNumber: 504
+PlayerID: E184810EED0C9094
+Platform: Standalone
+AccountCreationDate: 2025-03-26 01:33:30 UTC
+Color: R=0.11 G=0.22 B=0.33
+Cosmetics: None

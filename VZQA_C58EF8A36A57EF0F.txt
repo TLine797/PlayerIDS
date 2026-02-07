@@ -1,0 +1,7 @@
+Name: FEAR
+ActorNumber: 1071
+PlayerID: C58EF8A36A57EF0F
+Platform: Standalone
+AccountCreationDate: 2025-12-26 15:32:48 UTC
+Color: R=1.00 G=1.00 B=1.00
+Cosmetics: None

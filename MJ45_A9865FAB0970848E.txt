@@ -1,0 +1,7 @@
+Name: PILOT
+ActorNumber: 100
+PlayerID: A9865FAB0970848E
+Platform: Standalone
+AccountCreationDate: 2023-12-23 05:20:34 UTC
+Color: R=0.00 G=0.11 B=0.00
+Cosmetics: None

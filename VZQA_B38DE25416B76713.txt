@@ -1,0 +1,7 @@
+Name: LOL
+ActorNumber: 1035
+PlayerID: B38DE25416B76713
+Platform: Standalone
+AccountCreationDate: 2022-12-21 01:55:15 UTC
+Color: R=0.44 G=0.67 B=1.00
+Cosmetics: None

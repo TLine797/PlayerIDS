@@ -1,0 +1,7 @@
+Name: YUYO
+ActorNumber: 14
+PlayerID: BC55B9D1710C80D4
+Platform: PC
+AccountCreationDate: 2025-11-19 14:05:54 UTC
+Color: R=0.00 G=0.00 B=0.00
+Cosmetics: None

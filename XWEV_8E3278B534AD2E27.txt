@@ -1,0 +1,7 @@
+Name: MOGXZY
+ActorNumber: 646
+PlayerID: 8E3278B534AD2E27
+Platform: Unknown
+AccountCreationDate: 2022-01-03 23:02:28 UTC
+Color: R=0.44 G=0.00 B=0.78
+Cosmetics: None

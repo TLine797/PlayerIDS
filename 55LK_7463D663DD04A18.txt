@@ -1,0 +1,7 @@
+Name: FINN
+ActorNumber: 705
+PlayerID: 7463D663DD04A18
+Platform: Standalone
+AccountCreationDate: 2025-12-26 01:38:16 UTC
+Color: R=0.00 G=1.00 B=1.00
+Cosmetics: None

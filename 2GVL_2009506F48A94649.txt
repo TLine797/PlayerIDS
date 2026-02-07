@@ -1,0 +1,7 @@
+Name: BOB
+ActorNumber: 213
+PlayerID: 2009506F48A94649
+Platform: Standalone
+AccountCreationDate: 2024-12-24 18:20:07 UTC
+Color: R=0.00 G=0.78 B=0.00
+Cosmetics: None

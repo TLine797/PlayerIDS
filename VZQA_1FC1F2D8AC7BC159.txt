@@ -1,0 +1,7 @@
+Name: 666
+ActorNumber: 1059
+PlayerID: 1FC1F2D8AC7BC159
+Platform: Standalone
+AccountCreationDate: 2025-12-25 14:41:14 UTC
+Color: R=0.00 G=0.00 B=0.00
+Cosmetics: None

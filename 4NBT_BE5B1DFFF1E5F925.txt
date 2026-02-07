@@ -1,0 +1,7 @@
+Name: gorilla
+ActorNumber: 1445
+PlayerID: BE5B1DFFF1E5F925
+Platform: Unknown
+AccountCreationDate: 2022-12-27 02:52:07 UTC
+Color: R=1.00 G=1.00 B=0.22
+Cosmetics: None

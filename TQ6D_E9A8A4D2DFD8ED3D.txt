@@ -1,0 +1,7 @@
+Name: COOL
+ActorNumber: 160
+PlayerID: E9A8A4D2DFD8ED3D
+Platform: Unknown
+AccountCreationDate: 2021-12-25 17:11:17 UTC
+Color: R=0.00 G=0.89 B=1.00
+Cosmetics: None

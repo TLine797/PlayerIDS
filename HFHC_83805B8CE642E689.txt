@@ -1,0 +1,7 @@
+Name: GALACTICAL
+ActorNumber: 897
+PlayerID: 83805B8CE642E689
+Platform: Standalone
+AccountCreationDate: 2025-12-26 05:24:46 UTC
+Color: R=0.00 G=1.00 B=1.00
+Cosmetics: None

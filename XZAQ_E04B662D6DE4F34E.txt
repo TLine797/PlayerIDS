@@ -1,0 +1,7 @@
+Name: MILKBEAN
+ActorNumber: 784
+PlayerID: E04B662D6DE4F34E
+Platform: Unknown
+AccountCreationDate: 2021-12-30 21:57:04 UTC
+Color: R=1.00 G=0.22 B=0.44
+Cosmetics: None

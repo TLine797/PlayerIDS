@@ -1,0 +1,7 @@
+Name: TSMJAVEA
+ActorNumber: 184
+PlayerID: 3A831A87ED4F9D42
+Platform: Standalone
+AccountCreationDate: 2024-02-25 18:15:01 UTC
+Color: R=0.44 G=0.00 B=1.00
+Cosmetics: None

@@ -1,0 +1,7 @@
+Name: GRU
+ActorNumber: 1105
+PlayerID: C99A170270726743
+Platform: Unknown
+AccountCreationDate: 2022-03-07 19:13:32 UTC
+Color: R=0.67 G=0.67 B=0.78
+Cosmetics: None

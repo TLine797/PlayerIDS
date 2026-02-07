@@ -1,0 +1,7 @@
+Name: RANGOGT
+ActorNumber: 1687
+PlayerID: 89B45FE72391B5B1
+Platform: Standalone
+AccountCreationDate: 2024-06-13 00:07:31 UTC
+Color: R=0.44 G=1.00 B=0.56
+Cosmetics: None

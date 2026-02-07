@@ -1,0 +1,7 @@
+Name: DRAC0
+ActorNumber: 498
+PlayerID: 71C1A4273D6B58E8
+Platform: Standalone
+AccountCreationDate: 2026-01-09 01:18:11 UTC
+Color: R=0.56 G=0.00 B=1.00
+Cosmetics: None

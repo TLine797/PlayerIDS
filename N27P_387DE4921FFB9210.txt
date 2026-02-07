@@ -1,0 +1,7 @@
+Name: FLUXXY
+ActorNumber: 826
+PlayerID: 387DE4921FFB9210
+Platform: Standalone
+AccountCreationDate: 2023-02-20 00:13:11 UTC
+Color: R=0.44 G=0.44 B=0.44
+Cosmetics: None

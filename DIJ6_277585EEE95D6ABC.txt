@@ -1,0 +1,7 @@
+Name: LEGENDBLAZE
+ActorNumber: 126
+PlayerID: 277585EEE95D6ABC
+Platform: Standalone
+AccountCreationDate: 2025-04-18 18:59:47 UTC
+Color: R=1.00 G=0.00 B=0.44
+Cosmetics: None

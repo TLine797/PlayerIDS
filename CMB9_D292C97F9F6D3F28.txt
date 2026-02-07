@@ -1,0 +1,7 @@
+Name: GIGGLEGUY
+ActorNumber: 4004
+PlayerID: D292C97F9F6D3F28
+Platform: Unknown
+AccountCreationDate: 2022-12-31 20:45:09 UTC
+Color: R=0.67 G=0.00 B=1.00
+Cosmetics: None

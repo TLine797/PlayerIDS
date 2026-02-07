@@ -1,0 +1,7 @@
+Name: AUBREE
+ActorNumber: 823
+PlayerID: 31F2F1402C17260D
+Platform: Unknown
+AccountCreationDate: 2022-12-31 02:12:38 UTC
+Color: R=1.00 G=0.89 B=1.00
+Cosmetics: None

@@ -1,0 +1,7 @@
+Name: I9
+ActorNumber: 23
+PlayerID: 5D3AA49478FE1FD4
+Platform: Standalone
+AccountCreationDate: 2025-01-11 13:43:24 UTC
+Color: R=0.33 G=0.22 B=1.00
+Cosmetics: None

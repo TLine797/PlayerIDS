@@ -1,0 +1,7 @@
+Name: LUCIDSGF
+ActorNumber: 585
+PlayerID: 935D437C00FC0F59
+Platform: Unknown
+AccountCreationDate: 2023-01-19 01:30:23 UTC
+Color: R=0.33 G=0.00 B=1.00
+Cosmetics: None

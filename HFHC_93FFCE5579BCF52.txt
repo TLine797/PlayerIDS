@@ -1,0 +1,7 @@
+Name: GHOSTHUNTER
+ActorNumber: 905
+PlayerID: 93FFCE5579BCF52
+Platform: Standalone
+AccountCreationDate: 2025-12-25 15:16:22 UTC
+Color: R=0.56 G=0.00 B=1.00
+Cosmetics: None

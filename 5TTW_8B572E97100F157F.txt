@@ -1,0 +1,7 @@
+Name: PEPAPIG
+ActorNumber: 91
+PlayerID: 8B572E97100F157F
+Platform: Standalone
+AccountCreationDate: 2023-12-25 11:02:37 UTC
+Color: R=0.00 G=0.00 B=0.00
+Cosmetics: None

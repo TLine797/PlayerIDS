@@ -1,0 +1,7 @@
+Name: HI
+ActorNumber: 110
+PlayerID: 9EA9CCDD5DB10676
+Platform: Standalone
+AccountCreationDate: 2026-01-25 15:27:21 UTC
+Color: R=0.11 G=0.67 B=1.00
+Cosmetics: None

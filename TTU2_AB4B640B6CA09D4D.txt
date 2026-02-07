@@ -1,0 +1,7 @@
+Name: PVVB
+ActorNumber: 83
+PlayerID: AB4B640B6CA09D4D
+Platform: Standalone
+AccountCreationDate: 2025-12-25 21:12:27 UTC
+Color: R=0.00 G=0.00 B=0.00
+Cosmetics: None

@@ -1,0 +1,7 @@
+Name: NOTSCALZ
+ActorNumber: 225
+PlayerID: 352CD344E2A82883
+Platform: Unknown
+AccountCreationDate: 2022-12-25 17:29:51 UTC
+Color: R=0.22 G=0.78 B=0.89
+Cosmetics: None

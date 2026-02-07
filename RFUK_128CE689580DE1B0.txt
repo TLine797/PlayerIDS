@@ -1,0 +1,7 @@
+Name: MAYMAY
+ActorNumber: 175
+PlayerID: 128CE689580DE1B0
+Platform: Standalone
+AccountCreationDate: 2024-12-25 01:08:13 UTC
+Color: R=1.00 G=0.00 B=0.00
+Cosmetics: None

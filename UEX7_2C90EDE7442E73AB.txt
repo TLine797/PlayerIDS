@@ -1,0 +1,7 @@
+Name: TRRINDO
+ActorNumber: 35
+PlayerID: 2C90EDE7442E73AB
+Platform: Unknown
+AccountCreationDate: 2022-04-18 00:11:17 UTC
+Color: R=0.44 G=0.00 B=1.00
+Cosmetics: None

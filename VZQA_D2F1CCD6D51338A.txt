@@ -1,0 +1,7 @@
+Name: TSDELI
+ActorNumber: 1079
+PlayerID: D2F1CCD6D51338A
+Platform: Unknown
+AccountCreationDate: 2024-03-20 23:59:54 UTC
+Color: R=0.56 G=0.00 B=1.00
+Cosmetics: None

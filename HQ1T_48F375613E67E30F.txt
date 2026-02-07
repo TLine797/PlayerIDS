@@ -1,0 +1,7 @@
+Name: BROOKLYNVR33
+ActorNumber: 528
+PlayerID: 48F375613E67E30F
+Platform: Standalone
+AccountCreationDate: 2025-05-20 01:59:00 UTC
+Color: R=0.67 G=0.44 B=1.00
+Cosmetics: None

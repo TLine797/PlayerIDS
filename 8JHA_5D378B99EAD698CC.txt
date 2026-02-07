@@ -1,0 +1,7 @@
+Name: TSMD1RX
+ActorNumber: 657
+PlayerID: 5D378B99EAD698CC
+Platform: Standalone
+AccountCreationDate: 2025-12-26 16:58:02 UTC
+Color: R=1.00 G=1.00 B=1.00
+Cosmetics: None

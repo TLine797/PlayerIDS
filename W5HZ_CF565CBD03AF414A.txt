@@ -1,0 +1,7 @@
+Name: GUEST666
+ActorNumber: 108
+PlayerID: CF565CBD03AF414A
+Platform: Standalone
+AccountCreationDate: 2025-09-21 12:59:55 UTC
+Color: R=0.00 G=0.22 B=0.00
+Cosmetics: None

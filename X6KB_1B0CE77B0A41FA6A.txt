@@ -1,0 +1,7 @@
+Name: SHADE
+ActorNumber: 133
+PlayerID: 1B0CE77B0A41FA6A
+Platform: Standalone
+AccountCreationDate: 2025-11-26 14:38:57 UTC
+Color: R=0.00 G=0.00 B=0.44
+Cosmetics: None

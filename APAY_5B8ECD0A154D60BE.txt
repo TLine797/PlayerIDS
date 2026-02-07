@@ -1,0 +1,7 @@
+Name: BREAD
+ActorNumber: 52
+PlayerID: 5B8ECD0A154D60BE
+Platform: Standalone
+AccountCreationDate: 2023-03-06 11:25:10 UTC
+Color: R=0.22 G=0.00 B=0.00
+Cosmetics: None

@@ -1,0 +1,7 @@
+Name: TICK1ES
+ActorNumber: 2
+PlayerID: 52A15C1E774A3E44
+Platform: Unknown
+AccountCreationDate: 2023-01-25 23:54:14 UTC
+Color: R=0.67 G=0.22 B=1.00
+Cosmetics: None

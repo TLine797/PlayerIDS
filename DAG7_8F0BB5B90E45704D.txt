@@ -1,0 +1,7 @@
+Name: AJHP
+ActorNumber: 872
+PlayerID: 8F0BB5B90E45704D
+Platform: Standalone
+AccountCreationDate: 2023-12-08 23:18:03 UTC
+Color: R=0.00 G=0.00 B=0.00
+Cosmetics: None

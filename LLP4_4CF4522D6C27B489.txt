@@ -1,0 +1,7 @@
+Name: SEEDSHOP
+ActorNumber: 542
+PlayerID: 4CF4522D6C27B489
+Platform: Unknown
+AccountCreationDate: 2026-02-05 02:40:19 UTC
+Color: R=1.00 G=1.00 B=0.00
+Cosmetics: None

@@ -1,0 +1,7 @@
+Name: TAXI
+ActorNumber: 10
+PlayerID: 30F4ECA80EB64D14
+Platform: Unknown
+AccountCreationDate: 2022-12-24 21:19:11 UTC
+Color: R=0.67 G=0.00 B=0.22
+Cosmetics: None

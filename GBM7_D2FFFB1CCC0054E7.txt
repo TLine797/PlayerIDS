@@ -1,0 +1,7 @@
+Name: SPEEDYKIN
+ActorNumber: 1023
+PlayerID: D2FFFB1CCC0054E7
+Platform: Unknown
+AccountCreationDate: 2023-12-03 00:54:55 UTC
+Color: R=0.44 G=0.00 B=0.00
+Cosmetics: None

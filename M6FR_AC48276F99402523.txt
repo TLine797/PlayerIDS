@@ -1,0 +1,7 @@
+Name: CHILL
+ActorNumber: 388
+PlayerID: AC48276F99402523
+Platform: Standalone
+AccountCreationDate: 2026-01-25 12:06:43 UTC
+Color: R=1.00 G=1.00 B=1.00
+Cosmetics: None

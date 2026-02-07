@@ -1,0 +1,7 @@
+Name: WRANGLER
+ActorNumber: 946
+PlayerID: 1E55188C642159B9
+Platform: Unknown
+AccountCreationDate: 2022-05-16 02:01:41 UTC
+Color: R=0.00 G=0.00 B=0.00
+Cosmetics: None

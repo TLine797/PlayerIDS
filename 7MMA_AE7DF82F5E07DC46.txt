@@ -1,0 +1,7 @@
+Name: FROSTAL
+ActorNumber: 544
+PlayerID: AE7DF82F5E07DC46
+Platform: Standalone
+AccountCreationDate: 2025-12-26 01:01:13 UTC
+Color: R=0.00 G=0.56 B=0.44
+Cosmetics: None

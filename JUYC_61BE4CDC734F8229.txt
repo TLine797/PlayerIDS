@@ -1,0 +1,7 @@
+Name: ASDISHI
+ActorNumber: 743
+PlayerID: 61BE4CDC734F8229
+Platform: Standalone
+AccountCreationDate: 2025-06-19 16:19:38 UTC
+Color: R=1.00 G=1.00 B=0.78
+Cosmetics: None

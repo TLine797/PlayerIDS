@@ -1,0 +1,7 @@
+Name: gorilla9356
+ActorNumber: 123
+PlayerID: FC5B78FBAD0CF540
+Platform: Standalone
+AccountCreationDate: 2025-12-25 17:07:50 UTC
+Color: R=0.56 G=0.78 B=1.00
+Cosmetics: None

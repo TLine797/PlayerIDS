@@ -1,0 +1,7 @@
+Name: TPDVR
+ActorNumber: 54
+PlayerID: 9F2F8B68DB406D44
+Platform: Standalone
+AccountCreationDate: 2024-08-24 14:52:19 UTC
+Color: R=0.44 G=0.00 B=1.00
+Cosmetics: None

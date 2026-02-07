@@ -1,0 +1,7 @@
+Name: CGIMANAGER
+ActorNumber: 1187
+PlayerID: 95D3904B67B82088
+Platform: Unknown
+AccountCreationDate: 2022-02-20 00:08:03 UTC
+Color: R=0.00 G=0.00 B=0.00
+Cosmetics: None

@@ -1,0 +1,7 @@
+Name: IHAVVERINGS
+ActorNumber: 479
+PlayerID: 13EF26487AA99676
+Platform: Standalone
+AccountCreationDate: 2025-12-29 02:46:48 UTC
+Color: R=1.00 G=0.00 B=0.00
+Cosmetics: None

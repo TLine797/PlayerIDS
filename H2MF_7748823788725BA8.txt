@@ -1,0 +1,7 @@
+Name: SAPPHIREZ
+ActorNumber: 1169
+PlayerID: 7748823788725BA8
+Platform: Standalone
+AccountCreationDate: 2023-01-21 17:25:59 UTC
+Color: R=1.00 G=1.00 B=1.00
+Cosmetics: None

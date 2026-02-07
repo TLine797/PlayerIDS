@@ -1,0 +1,7 @@
+Name: gorilla0362
+ActorNumber: 842
+PlayerID: 95101F7ED712369B
+Platform: Standalone
+AccountCreationDate: 2025-02-01 03:43:41 UTC
+Color: R=0.67 G=0.78 B=1.00
+Cosmetics: None

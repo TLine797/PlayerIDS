@@ -1,0 +1,7 @@
+Name: FRESH
+ActorNumber: 1346
+PlayerID: A1322868ACCD197E
+Platform: Standalone
+AccountCreationDate: 2025-12-25 20:24:45 UTC
+Color: R=0.00 G=0.33 B=0.33
+Cosmetics: None

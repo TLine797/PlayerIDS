@@ -1,0 +1,7 @@
+Name: gorilla3484
+ActorNumber: 994
+PlayerID: 3162582BC006C3CB
+Platform: Standalone
+AccountCreationDate: 2025-07-23 21:33:33 UTC
+Color: R=0.56 G=0.00 B=1.00
+Cosmetics: None

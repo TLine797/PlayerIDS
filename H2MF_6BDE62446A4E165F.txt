@@ -1,0 +1,7 @@
+Name: ILOVEJESUS
+ActorNumber: 637
+PlayerID: 6BDE62446A4E165F
+Platform: Standalone
+AccountCreationDate: 2025-06-16 19:54:14 UTC
+Color: R=0.00 G=0.00 B=0.00
+Cosmetics: None

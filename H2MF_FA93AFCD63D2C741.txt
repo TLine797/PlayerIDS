@@ -1,0 +1,7 @@
+Name: JUSTBETTER
+ActorNumber: 1131
+PlayerID: FA93AFCD63D2C741
+Platform: Standalone
+AccountCreationDate: 2024-02-05 02:53:38 UTC
+Color: R=0.00 G=0.22 B=0.56
+Cosmetics: None

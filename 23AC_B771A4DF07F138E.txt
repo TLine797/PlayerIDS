@@ -1,0 +1,7 @@
+Name: TTTBEATS
+ActorNumber: 17
+PlayerID: B771A4DF07F138E
+Platform: Standalone
+AccountCreationDate: 2026-02-05 00:25:01 UTC
+Color: R=0.44 G=0.22 B=0.78
+Cosmetics: None

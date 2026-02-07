@@ -1,0 +1,7 @@
+Name: CSSLEMOND
+ActorNumber: 29
+PlayerID: 8E4B67A7AB79A99E
+Platform: Unknown
+AccountCreationDate: 2022-12-18 15:26:08 UTC
+Color: R=0.00 G=0.67 B=0.00
+Cosmetics: None

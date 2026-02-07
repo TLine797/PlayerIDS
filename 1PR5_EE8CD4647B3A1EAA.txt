@@ -1,0 +1,7 @@
+Name: DEFINESCRIM
+ActorNumber: 1509
+PlayerID: EE8CD4647B3A1EAA
+Platform: Standalone
+AccountCreationDate: 2024-10-20 20:36:06 UTC
+Color: R=0.67 G=0.00 B=1.00
+Cosmetics: None

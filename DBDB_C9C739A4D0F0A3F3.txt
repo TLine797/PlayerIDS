@@ -1,0 +1,7 @@
+Name: SPRITE
+ActorNumber: 505
+PlayerID: C9C739A4D0F0A3F3
+Platform: Standalone
+AccountCreationDate: 2023-12-25 14:12:45 UTC
+Color: R=1.00 G=1.00 B=1.00
+Cosmetics: None

@@ -1,0 +1,7 @@
+Name: CHIPS
+ActorNumber: 112
+PlayerID: 7090AEEF6D793321
+Platform: Unknown
+AccountCreationDate: 2025-08-03 22:23:00 UTC
+Color: R=0.00 G=0.11 B=0.56
+Cosmetics: None

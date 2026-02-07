@@ -1,0 +1,7 @@
+Name: ORB67
+ActorNumber: 27
+PlayerID: E17537945E290C84
+Platform: Standalone
+AccountCreationDate: 2024-07-05 21:58:03 UTC
+Color: R=1.00 G=1.00 B=1.00
+Cosmetics: None

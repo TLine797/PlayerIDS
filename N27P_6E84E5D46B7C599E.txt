@@ -1,0 +1,7 @@
+Name: FABLOXVR
+ActorNumber: 834
+PlayerID: 6E84E5D46B7C599E
+Platform: Standalone
+AccountCreationDate: 2024-12-25 00:46:07 UTC
+Color: R=0.00 G=0.33 B=0.44
+Cosmetics: None

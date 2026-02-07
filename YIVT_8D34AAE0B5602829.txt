@@ -1,0 +1,7 @@
+Name: HIMFN
+ActorNumber: 452
+PlayerID: 8D34AAE0B5602829
+Platform: Standalone
+AccountCreationDate: 2023-12-29 02:56:13 UTC
+Color: R=1.00 G=0.56 B=1.00
+Cosmetics: None

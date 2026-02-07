@@ -1,0 +1,7 @@
+Name: TIMBO
+ActorNumber: 1171
+PlayerID: 257377A78B3140E6
+Platform: Standalone
+AccountCreationDate: 2023-12-25 15:58:01 UTC
+Color: R=0.44 G=0.44 B=0.44
+Cosmetics: None

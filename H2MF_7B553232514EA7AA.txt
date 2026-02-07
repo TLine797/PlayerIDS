@@ -1,0 +1,7 @@
+Name: FBIJORDYN
+ActorNumber: 1274
+PlayerID: 7B553232514EA7AA
+Platform: Standalone
+AccountCreationDate: 2023-12-26 20:00:10 UTC
+Color: R=0.00 G=0.00 B=0.00
+Cosmetics: None

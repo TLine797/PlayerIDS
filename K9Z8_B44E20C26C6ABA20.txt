@@ -1,0 +1,7 @@
+Name: BLUE
+ActorNumber: 735
+PlayerID: B44E20C26C6ABA20
+Platform: Standalone
+AccountCreationDate: 2023-10-06 03:11:45 UTC
+Color: R=0.11 G=0.11 B=0.22
+Cosmetics: None

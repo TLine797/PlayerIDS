@@ -1,0 +1,7 @@
+Name: SKELLY
+ActorNumber: 1257
+PlayerID: 7053A36FF07E3F60
+Platform: Unknown
+AccountCreationDate: 2022-01-07 19:32:23 UTC
+Color: R=1.00 G=0.00 B=0.00
+Cosmetics: None

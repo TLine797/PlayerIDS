@@ -1,0 +1,7 @@
+Name: DADDYSK
+ActorNumber: 536
+PlayerID: 35AD25516AA05124
+Platform: Standalone
+AccountCreationDate: 2023-10-23 18:26:34 UTC
+Color: R=0.00 G=0.00 B=0.00
+Cosmetics: None

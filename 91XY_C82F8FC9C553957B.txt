@@ -1,0 +1,7 @@
+Name: BOB
+ActorNumber: 21
+PlayerID: C82F8FC9C553957B
+Platform: Standalone
+AccountCreationDate: 2025-07-21 08:03:29 UTC
+Color: R=1.00 G=0.44 B=0.00
+Cosmetics: None

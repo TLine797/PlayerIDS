@@ -1,0 +1,7 @@
+Name: COOLKID
+ActorNumber: 586
+PlayerID: EB1790F9D730D278
+Platform: Standalone
+AccountCreationDate: 2025-01-05 15:47:31 UTC
+Color: R=0.44 G=0.11 B=1.00
+Cosmetics: None

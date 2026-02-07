@@ -1,0 +1,7 @@
+Name: AVERAGE
+ActorNumber: 522
+PlayerID: 1A4269A6C7EE71A2
+Platform: Unknown
+AccountCreationDate: 2021-07-10 21:53:28 UTC
+Color: R=0.56 G=1.00 B=0.44
+Cosmetics: None

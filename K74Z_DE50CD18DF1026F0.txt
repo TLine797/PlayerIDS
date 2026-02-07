@@ -1,0 +1,7 @@
+Name: BOB
+ActorNumber: 188
+PlayerID: DE50CD18DF1026F0
+Platform: Standalone
+AccountCreationDate: 2024-08-23 22:18:48 UTC
+Color: R=0.00 G=0.00 B=0.22
+Cosmetics: None

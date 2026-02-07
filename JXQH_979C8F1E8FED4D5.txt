@@ -1,0 +1,7 @@
+Name: SPACE
+ActorNumber: 1271
+PlayerID: 979C8F1E8FED4D5
+Platform: Standalone
+AccountCreationDate: 2025-11-04 00:22:05 UTC
+Color: R=0.00 G=0.00 B=0.44
+Cosmetics: None

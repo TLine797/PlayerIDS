@@ -1,0 +1,7 @@
+Name: TFBSCARYGUY
+ActorNumber: 75
+PlayerID: 4DD6DA3764C9D805
+Platform: Standalone
+AccountCreationDate: 2025-09-13 23:06:15 UTC
+Color: R=0.44 G=0.00 B=0.00
+Cosmetics: None

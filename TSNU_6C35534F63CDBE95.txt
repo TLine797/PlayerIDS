@@ -1,0 +1,7 @@
+Name: F248D
+ActorNumber: 58
+PlayerID: 6C35534F63CDBE95
+Platform: Standalone
+AccountCreationDate: 2021-09-30 01:23:13 UTC
+Color: R=0.67 G=0.44 B=1.00
+Cosmetics: None

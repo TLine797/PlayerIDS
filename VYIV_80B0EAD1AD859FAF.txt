@@ -1,0 +1,7 @@
+Name: SUNRISE
+ActorNumber: 8
+PlayerID: 80B0EAD1AD859FAF
+Platform: Standalone
+AccountCreationDate: 2024-01-23 01:56:18 UTC
+Color: R=1.00 G=0.44 B=0.00
+Cosmetics: None

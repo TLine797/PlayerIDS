@@ -1,0 +1,7 @@
+Name: MERT
+ActorNumber: 1229
+PlayerID: A1A3ED861DEA5202
+Platform: Unknown
+AccountCreationDate: 2025-12-21 22:50:09 UTC
+Color: R=0.44 G=0.22 B=1.00
+Cosmetics: None

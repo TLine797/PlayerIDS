@@ -1,0 +1,7 @@
+Name: LILIAN
+ActorNumber: 66
+PlayerID: 99057346AFC41144
+Platform: Unknown
+AccountCreationDate: 2022-04-15 20:12:02 UTC
+Color: R=1.00 G=0.67 B=1.00
+Cosmetics: None

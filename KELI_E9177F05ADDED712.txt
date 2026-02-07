@@ -1,0 +1,7 @@
+Name: SPIDERMAN
+ActorNumber: 557
+PlayerID: E9177F05ADDED712
+Platform: Standalone
+AccountCreationDate: 2024-03-30 16:13:16 UTC
+Color: R=0.00 G=0.00 B=0.00
+Cosmetics: None

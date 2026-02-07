@@ -1,0 +1,7 @@
+Name: TTRSTRYKE
+ActorNumber: 604
+PlayerID: 6F91719334B99BF5
+Platform: Standalone
+AccountCreationDate: 2024-10-27 17:32:27 UTC
+Color: R=0.22 G=0.33 B=1.00
+Cosmetics: None

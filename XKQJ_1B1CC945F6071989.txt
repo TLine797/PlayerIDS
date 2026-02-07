@@ -1,0 +1,7 @@
+Name: ELLA
+ActorNumber: 441
+PlayerID: 1B1CC945F6071989
+Platform: Standalone
+AccountCreationDate: 2022-12-23 21:39:05 UTC
+Color: R=1.00 G=0.44 B=1.00
+Cosmetics: None

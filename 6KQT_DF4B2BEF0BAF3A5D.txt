@@ -1,0 +1,7 @@
+Name: NMY
+ActorNumber: 276
+PlayerID: DF4B2BEF0BAF3A5D
+Platform: Standalone
+AccountCreationDate: 2022-01-01 04:47:27 UTC
+Color: R=0.56 G=0.11 B=1.00
+Cosmetics: None

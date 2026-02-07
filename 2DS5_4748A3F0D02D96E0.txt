@@ -1,0 +1,7 @@
+Name: POWERPUFF74
+ActorNumber: 748
+PlayerID: 4748A3F0D02D96E0
+Platform: Unknown
+AccountCreationDate: 2021-05-31 11:21:46 UTC
+Color: R=1.00 G=1.00 B=1.00
+Cosmetics: None

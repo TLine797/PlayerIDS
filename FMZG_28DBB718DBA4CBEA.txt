@@ -1,0 +1,7 @@
+Name: GTMDOPE
+ActorNumber: 1030
+PlayerID: 28DBB718DBA4CBEA
+Platform: Standalone
+AccountCreationDate: 2024-05-18 01:13:26 UTC
+Color: R=1.00 G=0.00 B=0.00
+Cosmetics: None

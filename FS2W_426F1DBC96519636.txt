@@ -1,0 +1,7 @@
+Name: TAADARKSEA
+ActorNumber: 2364
+PlayerID: 426F1DBC96519636
+Platform: Standalone
+AccountCreationDate: 2023-12-27 16:46:07 UTC
+Color: R=0.22 G=0.22 B=0.22
+Cosmetics: None

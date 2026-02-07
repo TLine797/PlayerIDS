@@ -1,0 +1,7 @@
+Name: OXI
+ActorNumber: 391
+PlayerID: 91768F7C54B871E0
+Platform: Standalone
+AccountCreationDate: 2024-07-03 17:56:37 UTC
+Color: R=1.00 G=0.00 B=0.22
+Cosmetics: None

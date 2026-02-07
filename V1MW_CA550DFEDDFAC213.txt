@@ -1,0 +1,7 @@
+Name: EERDOGWATER
+ActorNumber: 38
+PlayerID: CA550DFEDDFAC213
+Platform: Standalone
+AccountCreationDate: 2025-12-11 21:08:27 UTC
+Color: R=0.11 G=0.11 B=0.89
+Cosmetics: None

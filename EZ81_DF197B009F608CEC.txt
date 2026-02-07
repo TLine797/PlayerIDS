@@ -1,0 +1,7 @@
+Name: HAYES
+ActorNumber: 1096
+PlayerID: DF197B009F608CEC
+Platform: Standalone
+AccountCreationDate: 2024-12-25 13:38:45 UTC
+Color: R=1.00 G=0.00 B=0.00
+Cosmetics: None

@@ -1,0 +1,7 @@
+Name: H4PKYFANN
+ActorNumber: 16
+PlayerID: 2C6D15FDB3378CF5
+Platform: Standalone
+AccountCreationDate: 2025-11-23 02:50:18 UTC
+Color: R=0.22 G=0.00 B=0.00
+Cosmetics: None

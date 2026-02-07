@@ -1,0 +1,7 @@
+Name: ICESPICE
+ActorNumber: 733
+PlayerID: 91F4EA4451309BCE
+Platform: PC
+AccountCreationDate: 2023-10-05 21:22:07 UTC
+Color: R=0.78 G=0.56 B=0.33
+Cosmetics: None

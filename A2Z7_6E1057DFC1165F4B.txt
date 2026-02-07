@@ -1,0 +1,7 @@
+Name: TINO
+ActorNumber: 591
+PlayerID: 6E1057DFC1165F4B
+Platform: Unknown
+AccountCreationDate: 2022-02-21 22:35:55 UTC
+Color: R=1.00 G=0.00 B=0.00
+Cosmetics: None

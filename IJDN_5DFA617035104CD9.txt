@@ -1,0 +1,7 @@
+Name: 627DVR
+ActorNumber: 693
+PlayerID: 5DFA617035104CD9
+Platform: Standalone
+AccountCreationDate: 2024-01-14 05:53:46 UTC
+Color: R=0.67 G=0.00 B=0.33
+Cosmetics: None

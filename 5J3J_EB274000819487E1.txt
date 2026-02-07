@@ -1,0 +1,7 @@
+Name: MONKER
+ActorNumber: 306
+PlayerID: EB274000819487E1
+Platform: Standalone
+AccountCreationDate: 2024-06-19 22:19:23 UTC
+Color: R=1.00 G=0.00 B=0.44
+Cosmetics: None

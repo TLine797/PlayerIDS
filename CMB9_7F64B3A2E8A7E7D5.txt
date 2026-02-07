@@ -1,0 +1,7 @@
+Name: VBV
+ActorNumber: 5664
+PlayerID: 7F64B3A2E8A7E7D5
+Platform: Unknown
+AccountCreationDate: 2024-12-25 19:49:10 UTC
+Color: R=0.56 G=0.56 B=0.56
+Cosmetics: None

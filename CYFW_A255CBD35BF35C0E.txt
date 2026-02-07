@@ -1,0 +1,7 @@
+Name: MELTOMELAN1
+ActorNumber: 119
+PlayerID: A255CBD35BF35C0E
+Platform: Standalone
+AccountCreationDate: 2026-01-02 18:19:57 UTC
+Color: R=0.22 G=1.00 B=1.00
+Cosmetics: None

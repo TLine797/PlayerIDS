@@ -1,0 +1,7 @@
+Name: SNIPER
+ActorNumber: 297
+PlayerID: CD13097B4A6743EA
+Platform: Standalone
+AccountCreationDate: 2023-12-25 16:09:11 UTC
+Color: R=0.44 G=0.00 B=0.78
+Cosmetics: None

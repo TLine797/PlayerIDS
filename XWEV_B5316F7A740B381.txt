@@ -1,0 +1,7 @@
+Name: BOOOO
+ActorNumber: 656
+PlayerID: B5316F7A740B381
+Platform: Standalone
+AccountCreationDate: 2026-01-23 21:24:00 UTC
+Color: R=0.00 G=0.11 B=0.89
+Cosmetics: None

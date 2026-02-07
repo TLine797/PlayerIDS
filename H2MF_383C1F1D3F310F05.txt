@@ -1,0 +1,7 @@
+Name: SYNC6968
+ActorNumber: 1168
+PlayerID: 383C1F1D3F310F05
+Platform: Unknown
+AccountCreationDate: 2022-11-02 02:32:06 UTC
+Color: R=1.00 G=0.00 B=0.00
+Cosmetics: None

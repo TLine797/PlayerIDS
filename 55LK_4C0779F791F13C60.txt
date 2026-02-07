@@ -1,0 +1,7 @@
+Name: ANPMONKEY
+ActorNumber: 696
+PlayerID: 4C0779F791F13C60
+Platform: Standalone
+AccountCreationDate: 2025-12-29 23:55:47 UTC
+Color: R=1.00 G=1.00 B=0.00
+Cosmetics: None

@@ -1,0 +1,7 @@
+Name: JATT
+ActorNumber: 918
+PlayerID: 59A76D54F5478687
+Platform: PC
+AccountCreationDate: 2025-07-14 20:12:13 UTC
+Color: R=0.67 G=0.78 B=0.78
+Cosmetics: None

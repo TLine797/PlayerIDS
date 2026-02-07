@@ -1,0 +1,7 @@
+Name: ANIMETHIGHS
+ActorNumber: 1357
+PlayerID: 923978B26E62FDC6
+Platform: Unknown
+AccountCreationDate: 2023-01-14 21:00:42 UTC
+Color: R=0.46 G=0.95 B=0.19
+Cosmetics: None

@@ -1,0 +1,7 @@
+Name: NUMNUTZ
+ActorNumber: 5822
+PlayerID: 23CCA0A5B61A1CF4
+Platform: Standalone
+AccountCreationDate: 2024-12-25 09:03:14 UTC
+Color: R=0.56 G=0.56 B=0.33
+Cosmetics: None

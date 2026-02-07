@@ -1,0 +1,7 @@
+Name: COOKIE
+ActorNumber: 221
+PlayerID: 30F46DDCD47AA5C5
+Platform: Standalone
+AccountCreationDate: 2025-12-25 14:35:42 UTC
+Color: R=0.67 G=0.44 B=0.00
+Cosmetics: None

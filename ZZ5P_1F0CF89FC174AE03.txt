@@ -1,0 +1,7 @@
+Name: GIRL
+ActorNumber: 990
+PlayerID: 1F0CF89FC174AE03
+Platform: Standalone
+AccountCreationDate: 2025-01-08 22:41:25 UTC
+Color: R=0.00 G=0.00 B=0.00
+Cosmetics: None

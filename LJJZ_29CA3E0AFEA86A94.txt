@@ -1,0 +1,7 @@
+Name: NAT
+ActorNumber: 1356
+PlayerID: 29CA3E0AFEA86A94
+Platform: Standalone
+AccountCreationDate: 2025-07-19 17:13:15 UTC
+Color: R=0.00 G=0.00 B=0.00
+Cosmetics: None

@@ -1,0 +1,7 @@
+Name: TTCRUZ
+ActorNumber: 369
+PlayerID: 63FDE415E44EF65F
+Platform: Unknown
+AccountCreationDate: 2023-01-01 00:37:33 UTC
+Color: R=1.00 G=0.11 B=0.11
+Cosmetics: None

@@ -1,0 +1,7 @@
+Name: TWRMONKE
+ActorNumber: 873
+PlayerID: 56D30B42138ED216
+Platform: Unknown
+AccountCreationDate: 2024-06-20 14:56:18 UTC
+Color: R=0.44 G=0.44 B=1.00
+Cosmetics: None

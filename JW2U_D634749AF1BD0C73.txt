@@ -1,0 +1,7 @@
+Name: STARBUCKS
+ActorNumber: 317
+PlayerID: D634749AF1BD0C73
+Platform: Unknown
+AccountCreationDate: 2022-12-17 01:02:13 UTC
+Color: R=1.00 G=0.78 B=0.89
+Cosmetics: None

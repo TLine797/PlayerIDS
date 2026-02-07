@@ -1,0 +1,7 @@
+Name: PRIVATE
+ActorNumber: 305
+PlayerID: 93C0BA0AF1125F10
+Platform: Standalone
+AccountCreationDate: 2025-12-25 20:12:45 UTC
+Color: R=0.67 G=0.89 B=1.00
+Cosmetics: None

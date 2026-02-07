@@ -1,0 +1,7 @@
+Name: KAYYZ
+ActorNumber: 390
+PlayerID: 9E2B1AF48A94EB44
+Platform: Unknown
+AccountCreationDate: 2022-04-04 20:58:40 UTC
+Color: R=0.44 G=0.67 B=0.67
+Cosmetics: None

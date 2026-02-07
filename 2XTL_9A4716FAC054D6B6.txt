@@ -1,0 +1,7 @@
+Name: KIARA
+ActorNumber: 1208
+PlayerID: 9A4716FAC054D6B6
+Platform: Standalone
+AccountCreationDate: 2024-10-06 15:56:32 UTC
+Color: R=0.11 G=0.11 B=0.22
+Cosmetics: None

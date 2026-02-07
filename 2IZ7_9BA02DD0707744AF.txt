@@ -1,0 +1,7 @@
+Name: SP5DER
+ActorNumber: 155
+PlayerID: 9BA02DD0707744AF
+Platform: Standalone
+AccountCreationDate: 2023-12-17 01:55:29 UTC
+Color: R=0.33 G=0.33 B=0.33
+Cosmetics: None

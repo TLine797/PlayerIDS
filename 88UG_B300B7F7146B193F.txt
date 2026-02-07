@@ -1,0 +1,7 @@
+Name: SQUILLIAM
+ActorNumber: 828
+PlayerID: B300B7F7146B193F
+Platform: Unknown
+AccountCreationDate: 2021-12-28 18:56:16 UTC
+Color: R=0.67 G=0.67 B=0.67
+Cosmetics: None

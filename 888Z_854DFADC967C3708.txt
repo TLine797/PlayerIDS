@@ -1,0 +1,7 @@
+Name: KEB
+ActorNumber: 45
+PlayerID: 854DFADC967C3708
+Platform: Standalone
+AccountCreationDate: 2023-03-19 20:51:01 UTC
+Color: R=0.11 G=0.44 B=0.33
+Cosmetics: None

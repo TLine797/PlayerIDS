@@ -1,0 +1,7 @@
+Name: EOBIX
+ActorNumber: 4
+PlayerID: 114A0936E7DF8540
+Platform: Standalone
+AccountCreationDate: 2023-12-26 20:21:19 UTC
+Color: R=0.56 G=0.56 B=0.56
+Cosmetics: None

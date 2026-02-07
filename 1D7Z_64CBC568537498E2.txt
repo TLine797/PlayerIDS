@@ -1,0 +1,7 @@
+Name: SPLIT
+ActorNumber: 564
+PlayerID: 64CBC568537498E2
+Platform: Standalone
+AccountCreationDate: 2025-12-27 19:17:37 UTC
+Color: R=0.44 G=0.00 B=0.56
+Cosmetics: None

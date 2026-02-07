@@ -1,0 +1,7 @@
+Name: gorilla0336
+ActorNumber: 868
+PlayerID: 2EF79513E308F4DD
+Platform: Standalone
+AccountCreationDate: 2024-01-08 17:11:45 UTC
+Color: R=0.44 G=0.22 B=0.78
+Cosmetics: None

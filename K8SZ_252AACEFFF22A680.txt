@@ -1,0 +1,7 @@
+Name: BOT
+ActorNumber: 358
+PlayerID: 252AACEFFF22A680
+Platform: Standalone
+AccountCreationDate: 2025-01-13 23:13:25 UTC
+Color: R=0.67 G=0.89 B=0.78
+Cosmetics: None

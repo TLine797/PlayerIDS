@@ -1,0 +1,7 @@
+Name: DUCKL
+ActorNumber: 1227
+PlayerID: 3F3893AFA8D3249
+Platform: Standalone
+AccountCreationDate: 2024-01-09 21:47:04 UTC
+Color: R=0.00 G=0.00 B=0.00
+Cosmetics: None

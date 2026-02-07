@@ -1,0 +1,7 @@
+Name: JOAOSONO
+ActorNumber: 130
+PlayerID: BCB0316A6D5143D1
+Platform: Standalone
+AccountCreationDate: 2026-01-21 20:16:53 UTC
+Color: R=0.33 G=1.00 B=0.00
+Cosmetics: None

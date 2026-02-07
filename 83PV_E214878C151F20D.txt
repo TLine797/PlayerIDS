@@ -1,0 +1,7 @@
+Name: BOSS7
+ActorNumber: 6940
+PlayerID: E214878C151F20D
+Platform: Standalone
+AccountCreationDate: 2026-01-02 04:10:29 UTC
+Color: R=0.00 G=0.67 B=0.89
+Cosmetics: None

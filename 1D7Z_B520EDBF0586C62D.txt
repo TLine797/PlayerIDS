@@ -1,0 +1,7 @@
+Name: ATIN
+ActorNumber: 558
+PlayerID: B520EDBF0586C62D
+Platform: Standalone
+AccountCreationDate: 2024-06-17 08:36:20 UTC
+Color: R=0.00 G=0.00 B=0.00
+Cosmetics: None

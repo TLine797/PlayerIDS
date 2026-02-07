@@ -1,0 +1,7 @@
+Name: ELIASTHEPRO5
+ActorNumber: 1348
+PlayerID: 6097F4E24CE27CA2
+Platform: Standalone
+AccountCreationDate: 2023-12-25 23:50:55 UTC
+Color: R=0.00 G=1.00 B=0.00
+Cosmetics: None

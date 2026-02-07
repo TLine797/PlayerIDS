@@ -1,0 +1,7 @@
+Name: CRAZY
+ActorNumber: 2365
+PlayerID: 3BBC3A77C41E9438
+Platform: Standalone
+AccountCreationDate: 2024-07-15 20:23:23 UTC
+Color: R=0.56 G=0.00 B=0.00
+Cosmetics: None

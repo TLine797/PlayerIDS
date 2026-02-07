@@ -1,0 +1,7 @@
+Name: IDK
+ActorNumber: 839
+PlayerID: 73B6F87BED4DE7BF
+Platform: PC
+AccountCreationDate: 2024-11-27 01:00:58 UTC
+Color: R=0.44 G=0.11 B=1.00
+Cosmetics: None

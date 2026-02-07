@@ -1,0 +1,7 @@
+Name: SWOOPED
+ActorNumber: 499
+PlayerID: FF13F6F235EAD901
+Platform: Standalone
+AccountCreationDate: 2025-05-17 01:04:48 UTC
+Color: R=0.00 G=0.67 B=0.78
+Cosmetics: None

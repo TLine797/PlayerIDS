@@ -1,0 +1,7 @@
+Name: SREHTAEF
+ActorNumber: 2
+PlayerID: DC22273BF259A9A0
+Platform: Standalone
+AccountCreationDate: 2023-03-19 01:17:17 UTC
+Color: R=0.56 G=0.67 B=1.00
+Cosmetics: None

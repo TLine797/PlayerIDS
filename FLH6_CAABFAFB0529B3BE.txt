@@ -1,0 +1,7 @@
+Name: SCAMMER
+ActorNumber: 272
+PlayerID: CAABFAFB0529B3BE
+Platform: Standalone
+AccountCreationDate: 2025-09-27 16:05:34 UTC
+Color: R=0.44 G=0.33 B=1.00
+Cosmetics: None

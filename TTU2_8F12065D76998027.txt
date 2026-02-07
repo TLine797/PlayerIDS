@@ -1,0 +1,7 @@
+Name: JUNGLEJUKERS
+ActorNumber: 82
+PlayerID: 8F12065D76998027
+Platform: Standalone
+AccountCreationDate: 2023-01-25 17:30:19 UTC
+Color: R=0.11 G=0.22 B=0.11
+Cosmetics: None

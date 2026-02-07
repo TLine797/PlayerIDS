@@ -1,0 +1,7 @@
+Name: gorilla
+ActorNumber: 801
+PlayerID: 4D2584D8759910F8
+Platform: Standalone
+AccountCreationDate: 2024-12-25 20:32:05 UTC
+Color: R=0.11 G=0.11 B=0.56
+Cosmetics: None

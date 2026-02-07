@@ -1,0 +1,7 @@
+Name: HELPER
+ActorNumber: 1066
+PlayerID: F4EB951FCF6CFD
+Platform: Standalone
+AccountCreationDate: 2025-12-25 17:03:22 UTC
+Color: R=0.00 G=1.00 B=0.00
+Cosmetics: None

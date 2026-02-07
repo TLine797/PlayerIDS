@@ -1,0 +1,7 @@
+Name: RY1
+ActorNumber: 292
+PlayerID: C79A49204C2B7172
+Platform: Standalone
+AccountCreationDate: 2025-01-07 07:00:40 UTC
+Color: R=1.00 G=0.11 B=0.89
+Cosmetics: None

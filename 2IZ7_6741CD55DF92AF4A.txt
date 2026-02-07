@@ -1,0 +1,7 @@
+Name: KOBE
+ActorNumber: 130
+PlayerID: 6741CD55DF92AF4A
+Platform: Standalone
+AccountCreationDate: 2025-01-17 06:12:05 UTC
+Color: R=0.00 G=0.67 B=0.89
+Cosmetics: None

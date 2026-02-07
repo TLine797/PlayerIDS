@@ -1,0 +1,7 @@
+Name: KAM
+ActorNumber: 510
+PlayerID: 9F6248BF4CF137
+Platform: Unknown
+AccountCreationDate: 2024-03-23 07:53:28 UTC
+Color: R=0.44 G=0.00 B=0.78
+Cosmetics: None

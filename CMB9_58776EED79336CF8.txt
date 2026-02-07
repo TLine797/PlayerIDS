@@ -1,0 +1,7 @@
+Name: AKIRA
+ActorNumber: 5654
+PlayerID: 58776EED79336CF8
+Platform: Unknown
+AccountCreationDate: 2022-12-04 21:35:58 UTC
+Color: R=0.22 G=0.56 B=0.89
+Cosmetics: None

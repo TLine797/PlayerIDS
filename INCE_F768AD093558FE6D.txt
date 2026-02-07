@@ -1,0 +1,7 @@
+Name: DBOMJ100
+ActorNumber: 742
+PlayerID: F768AD093558FE6D
+Platform: Standalone
+AccountCreationDate: 2025-12-25 15:45:43 UTC
+Color: R=0.00 G=1.00 B=0.78
+Cosmetics: None

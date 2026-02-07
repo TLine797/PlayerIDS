@@ -1,0 +1,7 @@
+Name: JOHNPORK
+ActorNumber: 142
+PlayerID: C149BFCA8A1EE40C
+Platform: Unknown
+AccountCreationDate: 2022-03-09 02:28:24 UTC
+Color: R=0.89 G=0.00 B=0.00
+Cosmetics: None

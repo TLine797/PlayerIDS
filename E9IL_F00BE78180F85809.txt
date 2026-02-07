@@ -1,0 +1,7 @@
+Name: PLAYA
+ActorNumber: 287
+PlayerID: F00BE78180F85809
+Platform: Standalone
+AccountCreationDate: 2025-06-16 20:38:34 UTC
+Color: R=0.11 G=0.00 B=0.22
+Cosmetics: None

@@ -1,0 +1,7 @@
+Name: IMHIM
+ActorNumber: 143
+PlayerID: D4F092AC6329DBB7
+Platform: Unknown
+AccountCreationDate: 2025-12-26 04:49:37 UTC
+Color: R=1.00 G=0.67 B=0.78
+Cosmetics: None

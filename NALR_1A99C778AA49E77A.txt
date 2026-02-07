@@ -1,0 +1,7 @@
+Name: SNOWBALLGOD
+ActorNumber: 266
+PlayerID: 1A99C778AA49E77A
+Platform: Standalone
+AccountCreationDate: 2025-07-07 13:07:51 UTC
+Color: R=0.44 G=0.44 B=1.00
+Cosmetics: None

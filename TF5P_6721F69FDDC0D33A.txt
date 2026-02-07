@@ -1,0 +1,7 @@
+Name: MRNICEGUY
+ActorNumber: 32
+PlayerID: 6721F69FDDC0D33A
+Platform: Standalone
+AccountCreationDate: 2023-12-25 15:41:56 UTC
+Color: R=1.00 G=0.67 B=1.00
+Cosmetics: None

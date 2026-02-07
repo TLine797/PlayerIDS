@@ -1,0 +1,7 @@
+Name: COOKIE
+ActorNumber: 413
+PlayerID: 71167F1870FD04B
+Platform: PC
+AccountCreationDate: 2024-12-25 21:18:19 UTC
+Color: R=0.00 G=0.00 B=0.00
+Cosmetics: None

@@ -1,0 +1,7 @@
+Name: gorilla9232
+ActorNumber: 491
+PlayerID: 4FA742025BDCC23D
+Platform: Standalone
+AccountCreationDate: 2026-01-17 23:12:34 UTC
+Color: R=0.00 G=0.00 B=0.00
+Cosmetics: None

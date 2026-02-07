@@ -1,0 +1,7 @@
+Name: REZAA
+ActorNumber: 335
+PlayerID: E1F23B2F01269985
+Platform: Standalone
+AccountCreationDate: 2023-12-26 16:53:58 UTC
+Color: R=1.00 G=0.56 B=0.56
+Cosmetics: None

@@ -1,0 +1,7 @@
+Name: JUSTGORK
+ActorNumber: 907
+PlayerID: 2B43211A1BE1078D
+Platform: Standalone
+AccountCreationDate: 2023-12-26 20:34:49 UTC
+Color: R=0.56 G=0.00 B=1.00
+Cosmetics: None

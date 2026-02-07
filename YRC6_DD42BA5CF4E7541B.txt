@@ -1,0 +1,7 @@
+Name: UNKNOWN
+ActorNumber: 114
+PlayerID: DD42BA5CF4E7541B
+Platform: Standalone
+AccountCreationDate: 2025-04-25 00:19:20 UTC
+Color: R=0.44 G=0.11 B=0.78
+Cosmetics: None

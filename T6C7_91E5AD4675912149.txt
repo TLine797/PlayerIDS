@@ -1,0 +1,7 @@
+Name: REDMONKEHVR
+ActorNumber: 38
+PlayerID: 91E5AD4675912149
+Platform: Standalone
+AccountCreationDate: 2025-07-31 03:35:55 UTC
+Color: R=0.56 G=0.00 B=0.00
+Cosmetics: None

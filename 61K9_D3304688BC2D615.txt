@@ -1,0 +1,7 @@
+Name: PLUSHCAT
+ActorNumber: 1225
+PlayerID: D3304688BC2D615
+Platform: Standalone
+AccountCreationDate: 2023-03-22 18:01:53 UTC
+Color: R=1.00 G=0.00 B=0.78
+Cosmetics: None

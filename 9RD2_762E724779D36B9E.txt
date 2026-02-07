@@ -1,0 +1,7 @@
+Name: LETHAL
+ActorNumber: 93
+PlayerID: 762E724779D36B9E
+Platform: Standalone
+AccountCreationDate: 2025-12-19 03:02:02 UTC
+Color: R=0.56 G=0.33 B=0.22
+Cosmetics: None

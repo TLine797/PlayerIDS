@@ -1,0 +1,7 @@
+Name: gorilla8373
+ActorNumber: 801
+PlayerID: BCFF7CAC44989764
+Platform: Standalone
+AccountCreationDate: 2025-07-12 16:25:18 UTC
+Color: R=0.33 G=0.11 B=0.00
+Cosmetics: None

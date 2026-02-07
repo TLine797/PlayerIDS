@@ -1,0 +1,7 @@
+Name: AVA
+ActorNumber: 1153
+PlayerID: B01A2ED5E1ED1CC
+Platform: Standalone
+AccountCreationDate: 2025-12-25 10:17:19 UTC
+Color: R=1.00 G=0.67 B=1.00
+Cosmetics: None

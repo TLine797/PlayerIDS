@@ -1,0 +1,7 @@
+Name: BOBC
+ActorNumber: 80
+PlayerID: 8C87CB8368C46BE3
+Platform: Unknown
+AccountCreationDate: 2022-12-26 12:38:45 UTC
+Color: R=0.00 G=0.33 B=0.56
+Cosmetics: None

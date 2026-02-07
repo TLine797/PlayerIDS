@@ -1,0 +1,7 @@
+Name: IRISH
+ActorNumber: 1395
+PlayerID: 5213FF1ECDCA0E88
+Platform: Unknown
+AccountCreationDate: 2022-04-03 00:00:02 UTC
+Color: R=1.00 G=0.22 B=0.11
+Cosmetics: None

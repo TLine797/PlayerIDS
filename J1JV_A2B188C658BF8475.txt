@@ -1,0 +1,7 @@
+Name: BOB31
+ActorNumber: 20
+PlayerID: A2B188C658BF8475
+Platform: Standalone
+AccountCreationDate: 2024-12-25 15:00:36 UTC
+Color: R=0.44 G=0.00 B=0.89
+Cosmetics: None

@@ -1,0 +1,7 @@
+Name: 3BM1
+ActorNumber: 5671
+PlayerID: 79378FC5899D353D
+Platform: Standalone
+AccountCreationDate: 2025-12-20 02:44:25 UTC
+Color: R=0.11 G=0.44 B=0.22
+Cosmetics: None

@@ -1,0 +1,7 @@
+Name: AQUAAA
+ActorNumber: 18
+PlayerID: B341936D068F2123
+Platform: Standalone
+AccountCreationDate: 2023-12-26 16:01:27 UTC
+Color: R=0.00 G=0.33 B=1.00
+Cosmetics: None

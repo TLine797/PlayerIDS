@@ -1,0 +1,7 @@
+Name: LILLY
+ActorNumber: 1004
+PlayerID: FAD733B9B24561F4
+Platform: Unknown
+AccountCreationDate: 2022-02-01 22:19:36 UTC
+Color: R=1.00 G=0.44 B=0.44
+Cosmetics: None

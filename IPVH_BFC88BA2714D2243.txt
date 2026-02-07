@@ -1,0 +1,7 @@
+Name: AMIGOOD
+ActorNumber: 876
+PlayerID: BFC88BA2714D2243
+Platform: Standalone
+AccountCreationDate: 2026-01-18 00:50:46 UTC
+Color: R=0.56 G=0.33 B=0.33
+Cosmetics: None

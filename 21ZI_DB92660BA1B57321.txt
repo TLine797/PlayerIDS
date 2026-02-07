@@ -1,0 +1,7 @@
+Name: LOOPP
+ActorNumber: 213
+PlayerID: DB92660BA1B57321
+Platform: Standalone
+AccountCreationDate: 2023-12-24 14:40:51 UTC
+Color: R=0.00 G=1.00 B=0.00
+Cosmetics: None

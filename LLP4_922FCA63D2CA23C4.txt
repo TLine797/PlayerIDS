@@ -1,0 +1,7 @@
+Name: gorilla2318
+ActorNumber: 495
+PlayerID: 922FCA63D2CA23C4
+Platform: Standalone
+AccountCreationDate: 2024-02-25 19:58:24 UTC
+Color: R=0.46 G=0.43 B=0.65
+Cosmetics: None

@@ -1,0 +1,7 @@
+Name: TIMZEN
+ActorNumber: 6933
+PlayerID: 8203D3FDA5AF3EAC
+Platform: Standalone
+AccountCreationDate: 2024-09-07 04:42:34 UTC
+Color: R=0.00 G=0.11 B=0.33
+Cosmetics: None

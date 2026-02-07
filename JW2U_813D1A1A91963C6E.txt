@@ -1,0 +1,7 @@
+Name: TROOBERRY
+ActorNumber: 259
+PlayerID: 813D1A1A91963C6E
+Platform: Unknown
+AccountCreationDate: 2022-03-06 06:40:44 UTC
+Color: R=0.89 G=0.33 B=0.33
+Cosmetics: None

@@ -1,0 +1,7 @@
+Name: CHOSO
+ActorNumber: 822
+PlayerID: 15E6B0721601AE97
+Platform: Unknown
+AccountCreationDate: 2022-03-20 17:42:45 UTC
+Color: R=0.89 G=0.89 B=0.78
+Cosmetics: None

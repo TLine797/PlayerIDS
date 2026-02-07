@@ -1,0 +1,7 @@
+Name: COLD
+ActorNumber: 690
+PlayerID: 668C9080EB553416
+Platform: Standalone
+AccountCreationDate: 2024-01-14 03:29:36 UTC
+Color: R=1.00 G=1.00 B=1.00
+Cosmetics: None

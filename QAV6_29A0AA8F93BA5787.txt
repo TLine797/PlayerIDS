@@ -1,0 +1,7 @@
+Name: LOCHLAN
+ActorNumber: 112
+PlayerID: 29A0AA8F93BA5787
+Platform: Standalone
+AccountCreationDate: 2025-06-20 00:23:26 UTC
+Color: R=0.00 G=0.00 B=0.00
+Cosmetics: None

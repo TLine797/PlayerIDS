@@ -1,0 +1,7 @@
+Name: LANDO3K
+ActorNumber: 4029
+PlayerID: 59C1E2A319804C9A
+Platform: Standalone
+AccountCreationDate: 2023-03-03 01:05:03 UTC
+Color: R=0.11 G=0.22 B=1.00
+Cosmetics: None

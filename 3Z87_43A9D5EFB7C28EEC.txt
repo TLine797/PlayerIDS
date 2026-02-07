@@ -1,0 +1,7 @@
+Name: GORILA1215
+ActorNumber: 1079
+PlayerID: 43A9D5EFB7C28EEC
+Platform: Standalone
+AccountCreationDate: 2025-12-25 15:45:10 UTC
+Color: R=0.44 G=0.00 B=0.00
+Cosmetics: None

@@ -1,0 +1,7 @@
+Name: BOB
+ActorNumber: 480
+PlayerID: CF6EF388B2556649
+Platform: Standalone
+AccountCreationDate: 2024-08-21 16:10:43 UTC
+Color: R=0.00 G=0.00 B=0.00
+Cosmetics: None

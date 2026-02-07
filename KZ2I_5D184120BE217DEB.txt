@@ -1,0 +1,7 @@
+Name: AXE
+ActorNumber: 508
+PlayerID: 5D184120BE217DEB
+Platform: Unknown
+AccountCreationDate: 2022-06-24 23:58:29 UTC
+Color: R=1.00 G=0.00 B=0.00
+Cosmetics: None

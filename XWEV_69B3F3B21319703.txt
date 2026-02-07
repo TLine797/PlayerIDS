@@ -1,0 +1,7 @@
+Name: WRSMOOSE
+ActorNumber: 631
+PlayerID: 69B3F3B21319703
+Platform: Standalone
+AccountCreationDate: 2025-01-24 23:40:37 UTC
+Color: R=1.00 G=1.00 B=1.00
+Cosmetics: None

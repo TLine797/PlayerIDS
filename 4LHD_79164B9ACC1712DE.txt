@@ -1,0 +1,7 @@
+Name: GORILLA1775
+ActorNumber: 284
+PlayerID: 79164B9ACC1712DE
+Platform: Standalone
+AccountCreationDate: 2026-01-20 00:47:35 UTC
+Color: R=1.00 G=0.33 B=0.33
+Cosmetics: None

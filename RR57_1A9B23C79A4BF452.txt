@@ -1,0 +1,7 @@
+Name: KX250
+ActorNumber: 1249
+PlayerID: 1A9B23C79A4BF452
+Platform: Standalone
+AccountCreationDate: 2025-12-25 15:29:13 UTC
+Color: R=0.00 G=0.00 B=0.67
+Cosmetics: None

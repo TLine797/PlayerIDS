@@ -1,0 +1,7 @@
+Name: FROGGY97
+ActorNumber: 178
+PlayerID: 8422C23F0E626BEB
+Platform: Standalone
+AccountCreationDate: 2023-08-24 15:45:20 UTC
+Color: R=0.00 G=0.67 B=0.56
+Cosmetics: None

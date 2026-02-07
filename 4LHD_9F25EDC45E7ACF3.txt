@@ -1,0 +1,7 @@
+Name: SILENT
+ActorNumber: 188
+PlayerID: 9F25EDC45E7ACF3
+Platform: Standalone
+AccountCreationDate: 2024-02-05 08:13:47 UTC
+Color: R=0.00 G=0.44 B=0.00
+Cosmetics: None

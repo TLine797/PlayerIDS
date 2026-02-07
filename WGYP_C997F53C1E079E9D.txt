@@ -1,0 +1,7 @@
+Name: TRWRWRE
+ActorNumber: 3740
+PlayerID: C997F53C1E079E9D
+Platform: Standalone
+AccountCreationDate: 2025-12-25 13:59:42 UTC
+Color: R=0.00 G=0.00 B=0.00
+Cosmetics: None

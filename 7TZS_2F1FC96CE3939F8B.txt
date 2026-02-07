@@ -1,0 +1,7 @@
+Name: FRDEDCDRFV
+ActorNumber: 345
+PlayerID: 2F1FC96CE3939F8B
+Platform: Standalone
+AccountCreationDate: 2025-12-25 14:08:21 UTC
+Color: R=0.00 G=0.89 B=1.00
+Cosmetics: None

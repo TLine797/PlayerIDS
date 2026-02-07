@@ -1,0 +1,7 @@
+Name: VCCIMAK
+ActorNumber: 116
+PlayerID: 4605B028204E1754
+Platform: Standalone
+AccountCreationDate: 2023-12-25 03:47:41 UTC
+Color: R=0.67 G=1.00 B=0.33
+Cosmetics: None

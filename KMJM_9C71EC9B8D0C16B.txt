@@ -1,0 +1,7 @@
+Name: BADAD
+ActorNumber: 259
+PlayerID: 9C71EC9B8D0C16B
+Platform: Standalone
+AccountCreationDate: 2025-02-02 00:33:18 UTC
+Color: R=0.33 G=1.00 B=0.33
+Cosmetics: None

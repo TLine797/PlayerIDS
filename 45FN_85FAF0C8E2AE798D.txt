@@ -1,0 +1,7 @@
+Name: MIKE
+ActorNumber: 804
+PlayerID: 85FAF0C8E2AE798D
+Platform: Standalone
+AccountCreationDate: 2024-12-25 19:46:19 UTC
+Color: R=0.44 G=0.78 B=1.00
+Cosmetics: None

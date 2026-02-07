@@ -1,0 +1,7 @@
+Name: KIWI
+ActorNumber: 1267
+PlayerID: 99AA3BA8FC6FAFB8
+Platform: Unknown
+AccountCreationDate: 2022-06-23 01:17:05 UTC
+Color: R=1.00 G=0.11 B=0.56
+Cosmetics: None

@@ -1,0 +1,7 @@
+Name: CJSAKZS
+ActorNumber: 3744
+PlayerID: FB6F7707338DC7D8
+Platform: Standalone
+AccountCreationDate: 2025-12-25 18:48:37 UTC
+Color: R=0.67 G=0.44 B=0.78
+Cosmetics: None

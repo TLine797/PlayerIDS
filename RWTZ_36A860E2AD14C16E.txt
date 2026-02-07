@@ -1,0 +1,7 @@
+Name: SNOWMAN
+ActorNumber: 1143
+PlayerID: 36A860E2AD14C16E
+Platform: Standalone
+AccountCreationDate: 2025-10-23 02:11:47 UTC
+Color: R=1.00 G=1.00 B=1.00
+Cosmetics: None

@@ -1,0 +1,7 @@
+Name: TJM
+ActorNumber: 1623
+PlayerID: 17BC2A4E10ECF593
+Platform: Standalone
+AccountCreationDate: 2024-02-01 00:20:34 UTC
+Color: R=0.33 G=0.33 B=0.56
+Cosmetics: None

@@ -1,0 +1,7 @@
+Name: TGTROLLY
+ActorNumber: 186
+PlayerID: 6D01D2B7AF26017A
+Platform: Standalone
+AccountCreationDate: 2023-12-14 22:25:23 UTC
+Color: R=0.44 G=0.00 B=1.00
+Cosmetics: None

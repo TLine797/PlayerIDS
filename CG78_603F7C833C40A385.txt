@@ -1,0 +1,7 @@
+Name: BTGBINJY
+ActorNumber: 255
+PlayerID: 603F7C833C40A385
+Platform: Standalone
+AccountCreationDate: 2025-11-12 22:53:51 UTC
+Color: R=1.00 G=0.00 B=0.67
+Cosmetics: None

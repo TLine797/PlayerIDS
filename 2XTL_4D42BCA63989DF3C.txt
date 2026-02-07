@@ -1,0 +1,7 @@
+Name: AIRLINK
+ActorNumber: 1187
+PlayerID: 4D42BCA63989DF3C
+Platform: Standalone
+AccountCreationDate: 2025-01-01 19:20:32 UTC
+Color: R=1.00 G=0.00 B=0.00
+Cosmetics: None

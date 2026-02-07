@@ -1,0 +1,7 @@
+Name: IAN
+ActorNumber: 735
+PlayerID: D5F7D08B929D0FF6
+Platform: PC
+AccountCreationDate: 2025-02-02 04:11:05 UTC
+Color: R=0.78 G=0.33 B=0.44
+Cosmetics: None

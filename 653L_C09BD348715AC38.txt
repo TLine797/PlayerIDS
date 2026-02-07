@@ -1,0 +1,7 @@
+Name: NOMIX
+ActorNumber: 299
+PlayerID: C09BD348715AC38
+Platform: Standalone
+AccountCreationDate: 2024-12-26 01:15:09 UTC
+Color: R=0.56 G=0.00 B=0.00
+Cosmetics: None

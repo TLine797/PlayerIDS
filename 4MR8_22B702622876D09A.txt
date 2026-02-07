@@ -1,0 +1,7 @@
+Name: NOTEEKK
+ActorNumber: 1619
+PlayerID: 22B702622876D09A
+Platform: Unknown
+AccountCreationDate: 2023-01-11 21:50:35 UTC
+Color: R=0.11 G=1.00 B=1.00
+Cosmetics: None

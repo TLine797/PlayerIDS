@@ -1,0 +1,7 @@
+Name: RMSKY
+ActorNumber: 336
+PlayerID: C6F3E36E76EFC2A9
+Platform: Standalone
+AccountCreationDate: 2024-10-28 22:01:03 UTC
+Color: R=0.67 G=0.78 B=1.00
+Cosmetics: None

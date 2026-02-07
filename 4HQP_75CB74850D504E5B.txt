@@ -1,0 +1,7 @@
+Name: GHJKL
+ActorNumber: 125
+PlayerID: 75CB74850D504E5B
+Platform: Standalone
+AccountCreationDate: 2024-12-25 15:55:38 UTC
+Color: R=0.22 G=0.89 B=1.00
+Cosmetics: None

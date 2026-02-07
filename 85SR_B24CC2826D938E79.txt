@@ -1,0 +1,7 @@
+Name: GIO
+ActorNumber: 121
+PlayerID: B24CC2826D938E79
+Platform: Standalone
+AccountCreationDate: 2026-01-11 14:09:01 UTC
+Color: R=0.00 G=0.00 B=1.00
+Cosmetics: None

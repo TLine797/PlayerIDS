@@ -1,0 +1,7 @@
+Name: GOONSAHUR
+ActorNumber: 500
+PlayerID: 51854B2E4329BFF7
+Platform: Standalone
+AccountCreationDate: 2024-02-14 18:16:50 UTC
+Color: R=0.33 G=1.00 B=1.00
+Cosmetics: None

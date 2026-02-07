@@ -1,0 +1,7 @@
+Name: FPI
+ActorNumber: 307
+PlayerID: 2952F856E0855C43
+Platform: Standalone
+AccountCreationDate: 2024-03-23 15:57:14 UTC
+Color: R=1.00 G=0.00 B=0.00
+Cosmetics: None

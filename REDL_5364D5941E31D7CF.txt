@@ -1,0 +1,7 @@
+Name: IRGHOST
+ActorNumber: 1263
+PlayerID: 5364D5941E31D7CF
+Platform: Standalone
+AccountCreationDate: 2023-12-25 16:37:37 UTC
+Color: R=0.44 G=0.00 B=0.78
+Cosmetics: None

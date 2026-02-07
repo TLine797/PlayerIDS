@@ -1,0 +1,7 @@
+Name: FLAMEZ
+ActorNumber: 1182
+PlayerID: 7362AAD451332D12
+Platform: PC
+AccountCreationDate: 2023-06-30 02:07:03 UTC
+Color: R=0.33 G=0.44 B=0.78
+Cosmetics: None

@@ -1,0 +1,7 @@
+Name: PINGWEN
+ActorNumber: 263
+PlayerID: 8732B7814FE52B05
+Platform: Standalone
+AccountCreationDate: 2024-06-28 04:22:24 UTC
+Color: R=0.67 G=0.78 B=1.00
+Cosmetics: None

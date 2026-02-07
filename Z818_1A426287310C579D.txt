@@ -1,0 +1,7 @@
+Name: JTELES
+ActorNumber: 1387
+PlayerID: 1A426287310C579D
+Platform: Unknown
+AccountCreationDate: 2021-06-29 03:06:17 UTC
+Color: R=0.44 G=0.00 B=0.78
+Cosmetics: None

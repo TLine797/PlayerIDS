@@ -1,0 +1,7 @@
+Name: K9
+ActorNumber: 305
+PlayerID: F203A8D2C85E4E2D
+Platform: Standalone
+AccountCreationDate: 2024-03-06 04:00:16 UTC
+Color: R=0.56 G=0.00 B=1.00
+Cosmetics: None

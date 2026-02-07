@@ -1,0 +1,7 @@
+Name: PIKN
+ActorNumber: 420
+PlayerID: 8BE81ED5079B12D9
+Platform: Unknown
+AccountCreationDate: 2022-02-09 00:38:57 UTC
+Color: R=1.00 G=0.67 B=1.00
+Cosmetics: None

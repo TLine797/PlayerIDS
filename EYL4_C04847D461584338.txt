@@ -1,0 +1,7 @@
+Name: TSGCHASEVR
+ActorNumber: 642
+PlayerID: C04847D461584338
+Platform: Unknown
+AccountCreationDate: 2022-01-08 00:18:36 UTC
+Color: R=0.67 G=0.44 B=0.56
+Cosmetics: None

@@ -1,0 +1,7 @@
+Name: NOVA
+ActorNumber: 8
+PlayerID: C08978288916A1F4
+Platform: Standalone
+AccountCreationDate: 2025-08-24 22:54:48 UTC
+Color: R=0.44 G=0.00 B=1.00
+Cosmetics: None

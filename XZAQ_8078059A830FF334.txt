@@ -1,0 +1,7 @@
+Name: FEMTANYLLL
+ActorNumber: 545
+PlayerID: 8078059A830FF334
+Platform: Standalone
+AccountCreationDate: 2024-08-14 18:58:00 UTC
+Color: R=0.33 G=0.44 B=1.00
+Cosmetics: None

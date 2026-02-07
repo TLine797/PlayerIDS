@@ -1,0 +1,7 @@
+Name: KIMK
+ActorNumber: 944
+PlayerID: 60C44462F6DF2D54
+Platform: Standalone
+AccountCreationDate: 2025-12-14 01:50:10 UTC
+Color: R=1.00 G=0.78 B=0.56
+Cosmetics: None

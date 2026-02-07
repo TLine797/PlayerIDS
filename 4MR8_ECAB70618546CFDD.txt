@@ -1,0 +1,7 @@
+Name: BEAN
+ActorNumber: 1624
+PlayerID: ECAB70618546CFDD
+Platform: Unknown
+AccountCreationDate: 2024-09-08 02:17:37 UTC
+Color: R=0.44 G=0.00 B=0.78
+Cosmetics: None

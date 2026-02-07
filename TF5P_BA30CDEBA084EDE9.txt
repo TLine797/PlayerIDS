@@ -1,0 +1,7 @@
+Name: ALVR
+ActorNumber: 8
+PlayerID: BA30CDEBA084EDE9
+Platform: Standalone
+AccountCreationDate: 2026-01-03 00:27:40 UTC
+Color: R=1.00 G=0.78 B=1.00
+Cosmetics: None

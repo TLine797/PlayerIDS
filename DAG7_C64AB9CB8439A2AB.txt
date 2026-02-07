@@ -1,0 +1,7 @@
+Name: TBLSIMBA
+ActorNumber: 871
+PlayerID: C64AB9CB8439A2AB
+Platform: Standalone
+AccountCreationDate: 2025-12-08 16:04:28 UTC
+Color: R=0.56 G=0.67 B=1.00
+Cosmetics: None

@@ -1,0 +1,7 @@
+Name: TTTPICO
+ActorNumber: 1167
+PlayerID: 16D1A82D4A5D9161
+Platform: Standalone
+AccountCreationDate: 2026-01-24 14:26:40 UTC
+Color: R=0.78 G=0.11 B=1.00
+Cosmetics: None

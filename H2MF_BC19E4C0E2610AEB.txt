@@ -1,0 +1,7 @@
+Name: GT56491
+ActorNumber: 1158
+PlayerID: BC19E4C0E2610AEB
+Platform: Standalone
+AccountCreationDate: 2025-12-27 21:40:58 UTC
+Color: R=1.00 G=0.44 B=0.00
+Cosmetics: None

@@ -1,0 +1,7 @@
+Name: THEODORE1188
+ActorNumber: 226
+PlayerID: 24957C72C3E0CFC9
+Platform: Standalone
+AccountCreationDate: 2025-06-23 17:11:37 UTC
+Color: R=0.22 G=0.11 B=0.00
+Cosmetics: None

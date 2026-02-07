@@ -1,0 +1,7 @@
+Name: GHOSTARVR
+ActorNumber: 1034
+PlayerID: 78A8F056D6D4E88B
+Platform: Standalone
+AccountCreationDate: 2025-11-21 00:48:27 UTC
+Color: R=0.00 G=0.00 B=0.00
+Cosmetics: None

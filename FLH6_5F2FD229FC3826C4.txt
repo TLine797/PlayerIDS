@@ -1,0 +1,7 @@
+Name: BRIKKIVRAA
+ActorNumber: 268
+PlayerID: 5F2FD229FC3826C4
+Platform: Unknown
+AccountCreationDate: 2023-01-12 17:36:08 UTC
+Color: R=0.33 G=1.00 B=0.67
+Cosmetics: None

@@ -1,0 +1,7 @@
+Name: DIG
+ActorNumber: 519
+PlayerID: 3BFDC14A359A2E58
+Platform: Unknown
+AccountCreationDate: 2025-12-23 23:05:12 UTC
+Color: R=0.33 G=0.33 B=0.33
+Cosmetics: None

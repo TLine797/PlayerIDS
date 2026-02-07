@@ -1,0 +1,7 @@
+Name: VLT
+ActorNumber: 200
+PlayerID: DE726D6F3098EBB1
+Platform: Standalone
+AccountCreationDate: 2025-08-14 23:24:04 UTC
+Color: R=0.00 G=0.00 B=1.00
+Cosmetics: None

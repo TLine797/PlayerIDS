@@ -1,0 +1,7 @@
+Name: FROSTZ
+ActorNumber: 135
+PlayerID: 2C9C0C8028B4B2EC
+Platform: Standalone
+AccountCreationDate: 2023-03-22 00:14:19 UTC
+Color: R=0.11 G=0.22 B=0.56
+Cosmetics: None

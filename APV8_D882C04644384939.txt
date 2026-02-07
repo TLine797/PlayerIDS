@@ -1,0 +1,7 @@
+Name: BOB
+ActorNumber: 577
+PlayerID: D882C04644384939
+Platform: Standalone
+AccountCreationDate: 2023-08-24 16:20:42 UTC
+Color: R=1.00 G=0.00 B=0.00
+Cosmetics: None

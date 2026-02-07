@@ -1,0 +1,7 @@
+Name: MAN
+ActorNumber: 21
+PlayerID: 4BAAFBE40C659F06
+Platform: Unknown
+AccountCreationDate: 2026-01-04 21:48:18 UTC
+Color: R=0.44 G=0.00 B=0.78
+Cosmetics: None

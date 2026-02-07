@@ -1,0 +1,7 @@
+Name: LUSID
+ActorNumber: 1055
+PlayerID: 54DD89208CBC63B1
+Platform: Standalone
+AccountCreationDate: 2025-04-17 01:36:39 UTC
+Color: R=0.33 G=0.00 B=0.00
+Cosmetics: None

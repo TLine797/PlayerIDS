@@ -1,0 +1,7 @@
+Name: Q3NIXO
+ActorNumber: 1424
+PlayerID: 48AFFF08F49BF5BD
+Platform: Unknown
+AccountCreationDate: 2022-03-30 20:40:54 UTC
+Color: R=0.11 G=0.22 B=0.78
+Cosmetics: None

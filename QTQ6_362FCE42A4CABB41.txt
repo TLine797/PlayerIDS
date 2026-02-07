@@ -1,0 +1,7 @@
+Name: POOPPOT
+ActorNumber: 719
+PlayerID: 362FCE42A4CABB41
+Platform: Unknown
+AccountCreationDate: 2022-12-25 12:19:14 UTC
+Color: R=0.00 G=0.78 B=0.00
+Cosmetics: None

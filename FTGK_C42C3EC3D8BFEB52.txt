@@ -1,0 +1,7 @@
+Name: JMELO14
+ActorNumber: 361
+PlayerID: C42C3EC3D8BFEB52
+Platform: Standalone
+AccountCreationDate: 2025-12-27 00:25:33 UTC
+Color: R=1.00 G=0.56 B=0.11
+Cosmetics: None

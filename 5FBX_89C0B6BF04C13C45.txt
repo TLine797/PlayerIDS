@@ -1,0 +1,7 @@
+Name: TSSSHIRE
+ActorNumber: 137
+PlayerID: 89C0B6BF04C13C45
+Platform: Standalone
+AccountCreationDate: 2023-09-08 20:15:50 UTC
+Color: R=1.00 G=1.00 B=1.00
+Cosmetics: None

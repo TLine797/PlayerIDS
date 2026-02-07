@@ -1,0 +1,7 @@
+Name: QUACKXY
+ActorNumber: 1382
+PlayerID: 96C85D31EFCBEC98
+Platform: Standalone
+AccountCreationDate: 2025-02-25 21:08:08 UTC
+Color: R=0.56 G=0.22 B=1.00
+Cosmetics: None

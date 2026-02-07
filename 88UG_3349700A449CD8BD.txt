@@ -1,0 +1,7 @@
+Name: GRANDTIGEOIL
+ActorNumber: 830
+PlayerID: 3349700A449CD8BD
+Platform: Standalone
+AccountCreationDate: 2024-11-12 00:37:28 UTC
+Color: R=1.00 G=0.00 B=0.00
+Cosmetics: None

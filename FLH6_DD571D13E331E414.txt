@@ -1,0 +1,7 @@
+Name: LILSAVA
+ActorNumber: 302
+PlayerID: DD571D13E331E414
+Platform: Standalone
+AccountCreationDate: 2025-12-25 14:00:27 UTC
+Color: R=0.44 G=0.00 B=0.89
+Cosmetics: None

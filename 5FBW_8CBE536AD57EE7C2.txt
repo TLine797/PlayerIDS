@@ -1,0 +1,7 @@
+Name: DUCKFLOSS
+ActorNumber: 546
+PlayerID: 8CBE536AD57EE7C2
+Platform: Standalone
+AccountCreationDate: 2023-12-24 16:29:24 UTC
+Color: R=0.44 G=0.11 B=0.33
+Cosmetics: None

@@ -1,0 +1,7 @@
+Name: JIMBOBVR
+ActorNumber: 165
+PlayerID: 2864A7C641CB4ED8
+Platform: Standalone
+AccountCreationDate: 2024-12-27 16:12:12 UTC
+Color: R=1.00 G=1.00 B=1.00
+Cosmetics: None

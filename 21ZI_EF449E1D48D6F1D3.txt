@@ -1,0 +1,7 @@
+Name: 1234
+ActorNumber: 227
+PlayerID: EF449E1D48D6F1D3
+Platform: Standalone
+AccountCreationDate: 2025-08-01 10:45:54 UTC
+Color: R=1.00 G=0.00 B=1.00
+Cosmetics: None

@@ -1,0 +1,7 @@
+Name: XOXOYAPPER
+ActorNumber: 1393
+PlayerID: FF4F50D201A0D073
+Platform: Standalone
+AccountCreationDate: 2023-10-15 02:21:45 UTC
+Color: R=0.44 G=0.67 B=1.00
+Cosmetics: None

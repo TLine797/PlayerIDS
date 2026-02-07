@@ -1,0 +1,7 @@
+Name: JOSH
+ActorNumber: 15
+PlayerID: 8B1E4C885082EFB
+Platform: Standalone
+AccountCreationDate: 2023-02-18 16:41:02 UTC
+Color: R=0.33 G=0.44 B=0.56
+Cosmetics: None

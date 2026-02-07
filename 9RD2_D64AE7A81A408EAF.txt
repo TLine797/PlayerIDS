@@ -1,0 +1,7 @@
+Name: LOLZ
+ActorNumber: 96
+PlayerID: D64AE7A81A408EAF
+Platform: Standalone
+AccountCreationDate: 2025-09-06 21:21:31 UTC
+Color: R=0.33 G=0.33 B=0.89
+Cosmetics: None

@@ -1,0 +1,7 @@
+Name: OLIVE
+ActorNumber: 16
+PlayerID: 8DDCF1D1943C9AA
+Platform: Standalone
+AccountCreationDate: 2025-02-22 22:19:06 UTC
+Color: R=0.11 G=0.33 B=0.56
+Cosmetics: None

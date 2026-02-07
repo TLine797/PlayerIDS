@@ -1,0 +1,7 @@
+Name: KANGALVR
+ActorNumber: 54
+PlayerID: 2CF482991ED824A1
+Platform: Standalone
+AccountCreationDate: 2025-01-01 07:31:41 UTC
+Color: R=0.44 G=0.00 B=0.78
+Cosmetics: None

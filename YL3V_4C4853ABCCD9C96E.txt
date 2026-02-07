@@ -1,0 +1,7 @@
+Name: WHITEKADE
+ActorNumber: 324
+PlayerID: 4C4853ABCCD9C96E
+Platform: Standalone
+AccountCreationDate: 2024-12-25 17:00:57 UTC
+Color: R=0.00 G=0.00 B=1.00
+Cosmetics: None

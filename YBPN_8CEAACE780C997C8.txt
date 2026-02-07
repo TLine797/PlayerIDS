@@ -1,0 +1,7 @@
+Name: BRD
+ActorNumber: 484
+PlayerID: 8CEAACE780C997C8
+Platform: Unknown
+AccountCreationDate: 2021-09-11 04:38:24 UTC
+Color: R=1.00 G=1.00 B=1.00
+Cosmetics: None

@@ -1,0 +1,7 @@
+Name: SHYVR
+ActorNumber: 736
+PlayerID: 5D4E9AB11D977E71
+Platform: Unknown
+AccountCreationDate: 2022-06-22 20:08:26 UTC
+Color: R=1.00 G=1.00 B=1.00
+Cosmetics: None

@@ -1,0 +1,7 @@
+Name: JJ
+ActorNumber: 769
+PlayerID: CB8B2633FDD09C41
+Platform: Standalone
+AccountCreationDate: 2025-04-03 22:09:18 UTC
+Color: R=0.44 G=0.00 B=0.67
+Cosmetics: None

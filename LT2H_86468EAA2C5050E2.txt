@@ -1,0 +1,7 @@
+Name: BLOOD1234
+ActorNumber: 25
+PlayerID: 86468EAA2C5050E2
+Platform: Standalone
+AccountCreationDate: 2025-12-25 14:15:51 UTC
+Color: R=0.44 G=1.00 B=0.33
+Cosmetics: None

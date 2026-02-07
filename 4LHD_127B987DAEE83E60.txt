@@ -1,0 +1,7 @@
+Name: BEEVR
+ActorNumber: 184
+PlayerID: 127B987DAEE83E60
+Platform: Standalone
+AccountCreationDate: 2024-11-30 07:05:50 UTC
+Color: R=0.44 G=0.00 B=1.00
+Cosmetics: None

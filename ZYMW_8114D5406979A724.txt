@@ -1,0 +1,7 @@
+Name: THHATSPACEVR
+ActorNumber: 21
+PlayerID: 8114D5406979A724
+Platform: Unknown
+AccountCreationDate: 2022-12-25 01:02:13 UTC
+Color: R=0.67 G=0.22 B=0.89
+Cosmetics: None

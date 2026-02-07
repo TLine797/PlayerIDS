@@ -1,0 +1,7 @@
+Name: TNBCYBER
+ActorNumber: 468
+PlayerID: B38A09D7D7978DDB
+Platform: Unknown
+AccountCreationDate: 2023-01-14 12:44:01 UTC
+Color: R=1.00 G=1.00 B=1.00
+Cosmetics: None

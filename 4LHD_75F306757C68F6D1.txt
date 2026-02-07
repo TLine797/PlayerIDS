@@ -1,0 +1,7 @@
+Name: TUMTUM
+ActorNumber: 291
+PlayerID: 75F306757C68F6D1
+Platform: Standalone
+AccountCreationDate: 2023-06-18 07:32:15 UTC
+Color: R=0.78 G=0.78 B=0.67
+Cosmetics: None

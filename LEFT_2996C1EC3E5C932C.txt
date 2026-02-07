@@ -1,0 +1,7 @@
+Name: LEFTHEGAME09
+ActorNumber: 1
+PlayerID: 2996C1EC3E5C932C
+Platform: Standalone
+AccountCreationDate: 2024-10-29 21:51:32 UTC
+Color: R=0.44 G=0.44 B=0.67
+Cosmetics: None

@@ -1,0 +1,7 @@
+Name: PUUN
+ActorNumber: 1053
+PlayerID: 4B3781D700542B6E
+Platform: Unknown
+AccountCreationDate: 2022-12-23 02:23:52 UTC
+Color: R=0.44 G=0.00 B=0.78
+Cosmetics: None

@@ -1,0 +1,7 @@
+Name: BEE
+ActorNumber: 179
+PlayerID: 8C65A1D6AA9A2D5B
+Platform: PC
+AccountCreationDate: 2024-11-07 18:42:29 UTC
+Color: R=0.11 G=0.00 B=0.22
+Cosmetics: None

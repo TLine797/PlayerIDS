@@ -1,0 +1,7 @@
+Name: MONKEYMAN
+ActorNumber: 215
+PlayerID: 386496C36AE514BC
+Platform: PC
+AccountCreationDate: 2026-01-28 21:47:52 UTC
+Color: R=0.00 G=1.00 B=0.00
+Cosmetics: None

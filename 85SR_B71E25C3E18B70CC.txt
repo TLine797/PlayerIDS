@@ -1,0 +1,7 @@
+Name: MASON67
+ActorNumber: 83
+PlayerID: B71E25C3E18B70CC
+Platform: Unknown
+AccountCreationDate: 2022-04-11 23:54:03 UTC
+Color: R=1.00 G=0.78 B=0.00
+Cosmetics: None

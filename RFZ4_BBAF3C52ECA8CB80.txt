@@ -1,0 +1,7 @@
+Name: RPENT
+ActorNumber: 918
+PlayerID: BBAF3C52ECA8CB80
+Platform: Standalone
+AccountCreationDate: 2022-12-26 02:47:23 UTC
+Color: R=0.22 G=0.22 B=0.22
+Cosmetics: None

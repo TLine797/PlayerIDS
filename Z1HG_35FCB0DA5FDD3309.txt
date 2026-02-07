@@ -1,0 +1,7 @@
+Name: CITYBOIIIIII
+ActorNumber: 1354
+PlayerID: 35FCB0DA5FDD3309
+Platform: Standalone
+AccountCreationDate: 2026-01-03 07:06:56 UTC
+Color: R=0.00 G=0.00 B=0.67
+Cosmetics: None

@@ -1,0 +1,7 @@
+Name: TOILETMASTR
+ActorNumber: 747
+PlayerID: 5BB9D1C24B26A132
+Platform: Standalone
+AccountCreationDate: 2024-12-08 19:35:16 UTC
+Color: R=0.56 G=1.00 B=0.00
+Cosmetics: None

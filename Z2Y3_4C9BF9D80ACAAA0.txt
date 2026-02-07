@@ -1,0 +1,7 @@
+Name: FLOWER
+ActorNumber: 220
+PlayerID: 4C9BF9D80ACAAA0
+Platform: Standalone
+AccountCreationDate: 2025-12-31 04:08:50 UTC
+Color: R=0.22 G=0.00 B=0.00
+Cosmetics: None

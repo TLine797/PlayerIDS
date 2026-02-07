@@ -1,0 +1,7 @@
+Name: gorilla
+ActorNumber: 646
+PlayerID: FC4FF204D22D3892
+Platform: Standalone
+AccountCreationDate: 2023-12-25 12:48:14 UTC
+Color: R=0.67 G=0.67 B=0.67
+Cosmetics: None

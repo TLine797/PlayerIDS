@@ -1,0 +1,7 @@
+Name: MJ
+ActorNumber: 4037
+PlayerID: FB26EB1EDD32D7F5
+Platform: Standalone
+AccountCreationDate: 2022-01-05 22:48:41 UTC
+Color: R=0.00 G=0.00 B=0.00
+Cosmetics: None

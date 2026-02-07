@@ -1,0 +1,7 @@
+Name: BIGTERRY
+ActorNumber: 784
+PlayerID: 8CA64E3F648FFB6D
+Platform: Standalone
+AccountCreationDate: 2024-03-09 23:00:20 UTC
+Color: R=0.00 G=0.00 B=0.00
+Cosmetics: None

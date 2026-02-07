@@ -1,0 +1,7 @@
+Name: CRUMBLEVR
+ActorNumber: 306
+PlayerID: 5CCBE7397904B7EF
+Platform: Standalone
+AccountCreationDate: 2024-12-25 17:36:00 UTC
+Color: R=0.67 G=0.67 B=0.67
+Cosmetics: None

@@ -1,0 +1,7 @@
+Name: DINO
+ActorNumber: 72
+PlayerID: 42E6441C3ED20024
+Platform: Standalone
+AccountCreationDate: 2025-12-25 16:19:37 UTC
+Color: R=0.44 G=0.00 B=0.67
+Cosmetics: None

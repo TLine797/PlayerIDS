@@ -1,0 +1,7 @@
+Name: WOBL
+ActorNumber: 1342
+PlayerID: C504383C5276D00B
+Platform: Standalone
+AccountCreationDate: 2026-01-03 18:31:00 UTC
+Color: R=0.89 G=0.67 B=0.78
+Cosmetics: None

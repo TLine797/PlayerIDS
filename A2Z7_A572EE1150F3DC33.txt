@@ -1,0 +1,7 @@
+Name: PINK
+ActorNumber: 585
+PlayerID: A572EE1150F3DC33
+Platform: Standalone
+AccountCreationDate: 2023-07-22 01:28:49 UTC
+Color: R=1.00 G=0.89 B=1.00
+Cosmetics: None

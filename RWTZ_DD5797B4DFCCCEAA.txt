@@ -1,0 +1,7 @@
+Name: BAT
+ActorNumber: 1153
+PlayerID: DD5797B4DFCCCEAA
+Platform: Standalone
+AccountCreationDate: 2024-12-25 19:20:07 UTC
+Color: R=0.22 G=0.22 B=0.22
+Cosmetics: None

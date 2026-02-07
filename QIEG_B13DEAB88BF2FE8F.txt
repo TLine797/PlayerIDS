@@ -1,0 +1,7 @@
+Name: PEBB
+ActorNumber: 494
+PlayerID: B13DEAB88BF2FE8F
+Platform: PC
+AccountCreationDate: 2025-09-18 15:21:08 UTC
+Color: R=0.11 G=0.33 B=0.78
+Cosmetics: None

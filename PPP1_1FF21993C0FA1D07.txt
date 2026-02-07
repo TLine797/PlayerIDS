@@ -1,0 +1,7 @@
+Name: YOU
+ActorNumber: 14
+PlayerID: 1FF21993C0FA1D07
+Platform: Standalone
+AccountCreationDate: 2025-04-19 00:34:44 UTC
+Color: R=0.33 G=0.11 B=0.78
+Cosmetics: None

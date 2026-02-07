@@ -1,0 +1,7 @@
+Name: COBJBB
+ActorNumber: 1175
+PlayerID: 1820AF3548F005A1
+Platform: Unknown
+AccountCreationDate: 2022-08-10 22:16:18 UTC
+Color: R=0.67 G=0.56 B=0.89
+Cosmetics: None

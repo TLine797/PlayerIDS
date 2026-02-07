@@ -1,0 +1,7 @@
+Name: BRUHH
+ActorNumber: 570
+PlayerID: 32A41093BC95EC9
+Platform: Standalone
+AccountCreationDate: 2023-07-28 15:51:03 UTC
+Color: R=0.44 G=0.00 B=0.78
+Cosmetics: None

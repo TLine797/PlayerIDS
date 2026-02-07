@@ -1,0 +1,7 @@
+Name: UNDEAD
+ActorNumber: 1091
+PlayerID: 3144F7462A0373F9
+Platform: Standalone
+AccountCreationDate: 2025-11-20 23:53:55 UTC
+Color: R=0.11 G=0.22 B=0.33
+Cosmetics: None

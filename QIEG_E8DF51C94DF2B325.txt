@@ -1,0 +1,7 @@
+Name: DREW
+ActorNumber: 505
+PlayerID: E8DF51C94DF2B325
+Platform: Standalone
+AccountCreationDate: 2026-01-31 20:25:27 UTC
+Color: R=0.33 G=0.00 B=0.33
+Cosmetics: None

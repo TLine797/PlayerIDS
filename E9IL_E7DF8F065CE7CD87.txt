@@ -1,0 +1,7 @@
+Name: gorilla1299
+ActorNumber: 290
+PlayerID: E7DF8F065CE7CD87
+Platform: Standalone
+AccountCreationDate: 2026-01-18 18:18:45 UTC
+Color: R=0.44 G=0.00 B=0.67
+Cosmetics: None

@@ -1,0 +1,7 @@
+Name: REDDY
+ActorNumber: 583
+PlayerID: E36AE125447EB739
+Platform: Standalone
+AccountCreationDate: 2023-09-17 23:50:39 UTC
+Color: R=1.00 G=0.00 B=0.00
+Cosmetics: None

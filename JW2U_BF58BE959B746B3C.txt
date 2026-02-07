@@ -1,0 +1,7 @@
+Name: BOOTY
+ActorNumber: 326
+PlayerID: BF58BE959B746B3C
+Platform: Standalone
+AccountCreationDate: 2025-07-18 17:40:28 UTC
+Color: R=1.00 G=1.00 B=0.22
+Cosmetics: None

@@ -1,0 +1,7 @@
+Name: VAMPZ
+ActorNumber: 661
+PlayerID: 6A62E19716A89C70
+Platform: Standalone
+AccountCreationDate: 2023-05-14 16:55:35 UTC
+Color: R=0.67 G=0.67 B=0.67
+Cosmetics: None

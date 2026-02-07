@@ -1,0 +1,7 @@
+Name: PURPLE
+ActorNumber: 19
+PlayerID: 8468F5960A3A5DBC
+Platform: Standalone
+AccountCreationDate: 2025-07-05 17:21:02 UTC
+Color: R=0.00 G=0.00 B=0.00
+Cosmetics: None

@@ -1,0 +1,7 @@
+Name: TLREXPLOSIVE
+ActorNumber: 766
+PlayerID: 840099C1F8542C8F
+Platform: Standalone
+AccountCreationDate: 2025-12-26 02:16:55 UTC
+Color: R=0.56 G=0.67 B=1.00
+Cosmetics: None

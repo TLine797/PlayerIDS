@@ -1,0 +1,7 @@
+Name: GOON
+ActorNumber: 870
+PlayerID: 838F8DF2733D5DCA
+Platform: Unknown
+AccountCreationDate: 2022-07-10 12:19:04 UTC
+Color: R=0.78 G=0.11 B=0.56
+Cosmetics: None

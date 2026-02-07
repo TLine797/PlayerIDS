@@ -1,0 +1,7 @@
+Name: RANGER
+ActorNumber: 6920
+PlayerID: 89BD13F975FB898D
+Platform: Unknown
+AccountCreationDate: 2023-01-02 23:30:24 UTC
+Color: R=0.00 G=0.00 B=0.00
+Cosmetics: None

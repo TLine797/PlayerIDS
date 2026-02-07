@@ -1,0 +1,7 @@
+Name: BOTMAANGO
+ActorNumber: 1030
+PlayerID: 551154CF3B9A9D89
+Platform: Standalone
+AccountCreationDate: 2024-12-24 21:32:07 UTC
+Color: R=0.78 G=0.00 B=0.00
+Cosmetics: None

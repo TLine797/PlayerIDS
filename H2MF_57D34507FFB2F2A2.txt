@@ -1,0 +1,7 @@
+Name: EMMVTT
+ActorNumber: 1161
+PlayerID: 57D34507FFB2F2A2
+Platform: Standalone
+AccountCreationDate: 2024-01-16 01:09:58 UTC
+Color: R=0.44 G=0.00 B=0.78
+Cosmetics: None

@@ -1,0 +1,7 @@
+Name: NOOB
+ActorNumber: 37
+PlayerID: BBB3300DD3DDB8A3
+Platform: Standalone
+AccountCreationDate: 2024-03-22 20:47:23 UTC
+Color: R=0.65 G=0.98 B=0.91
+Cosmetics: None

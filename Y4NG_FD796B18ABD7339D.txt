@@ -1,0 +1,7 @@
+Name: PREADER
+ActorNumber: 888
+PlayerID: FD796B18ABD7339D
+Platform: Standalone
+AccountCreationDate: 2025-02-04 23:58:38 UTC
+Color: R=1.00 G=0.56 B=0.89
+Cosmetics: None

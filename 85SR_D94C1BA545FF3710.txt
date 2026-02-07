@@ -1,0 +1,7 @@
+Name: KAZE
+ActorNumber: 146
+PlayerID: D94C1BA545FF3710
+Platform: PC
+AccountCreationDate: 2024-02-01 22:36:02 UTC
+Color: R=0.11 G=0.89 B=0.56
+Cosmetics: None

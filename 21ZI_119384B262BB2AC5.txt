@@ -1,0 +1,7 @@
+Name: TTTFAN
+ActorNumber: 222
+PlayerID: 119384B262BB2AC5
+Platform: Standalone
+AccountCreationDate: 2026-01-01 15:32:42 UTC
+Color: R=0.00 G=0.11 B=0.11
+Cosmetics: None

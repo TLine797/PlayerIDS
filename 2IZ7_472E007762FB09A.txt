@@ -1,0 +1,7 @@
+Name: ILOVEKIDS
+ActorNumber: 181
+PlayerID: 472E007762FB09A
+Platform: Unknown
+AccountCreationDate: 2024-12-25 16:11:56 UTC
+Color: R=1.00 G=0.78 B=1.00
+Cosmetics: None

@@ -1,0 +1,7 @@
+Name: FOOTSLAYER36
+ActorNumber: 1338
+PlayerID: B427C1EBE284EF4C
+Platform: Unknown
+AccountCreationDate: 2022-01-02 20:12:18 UTC
+Color: R=0.89 G=1.00 B=1.00
+Cosmetics: None
