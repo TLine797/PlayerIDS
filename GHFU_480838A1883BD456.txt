@@ -1,0 +1,7 @@
+Name: KINGBOB
+ActorNumber: 1224
+PlayerID: 480838A1883BD456
+Platform: Standalone
+AccountCreationDate: 2024-04-21 18:36:26 UTC
+Color: R=0.00 G=0.22 B=0.00
+Cosmetics: None

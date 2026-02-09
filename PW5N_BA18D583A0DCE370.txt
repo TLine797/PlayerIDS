@@ -1,0 +1,7 @@
+Name: JJ
+ActorNumber: 25
+PlayerID: BA18D583A0DCE370
+Platform: Standalone
+AccountCreationDate: 2024-12-25 18:04:19 UTC
+Color: R=0.44 G=0.22 B=0.67
+Cosmetics: None

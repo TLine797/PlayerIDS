@@ -1,0 +1,7 @@
+Name: DARTHXDREW
+ActorNumber: 16
+PlayerID: 65862D6516F9BC51
+Platform: Unknown
+AccountCreationDate: 2022-01-29 14:54:51 UTC
+Color: R=0.33 G=0.78 B=1.00
+Cosmetics: None

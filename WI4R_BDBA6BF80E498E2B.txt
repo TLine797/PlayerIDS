@@ -1,0 +1,7 @@
+Name: PVYELDIAN
+ActorNumber: 91
+PlayerID: BDBA6BF80E498E2B
+Platform: Standalone
+AccountCreationDate: 2024-12-08 18:13:07 UTC
+Color: R=0.11 G=0.44 B=1.00
+Cosmetics: None

@@ -1,0 +1,7 @@
+Name: OBXLOVER19
+ActorNumber: 108
+PlayerID: F5FE6BBBC0D71337
+Platform: Standalone
+AccountCreationDate: 2025-03-20 22:41:11 UTC
+Color: R=0.67 G=1.00 B=1.00
+Cosmetics: None

@@ -1,0 +1,7 @@
+Name: UZIDOORMAN
+ActorNumber: 39
+PlayerID: 75C513640EA6A300
+Platform: Standalone
+AccountCreationDate: 2022-06-08 06:30:18 UTC
+Color: R=0.44 G=0.22 B=0.89
+Cosmetics: None

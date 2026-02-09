@@ -1,0 +1,7 @@
+Name: TINYSNAILT
+ActorNumber: 103
+PlayerID: C23245AF9A0F0DC4
+Platform: Unknown
+AccountCreationDate: 2021-05-14 21:17:04 UTC
+Color: R=1.00 G=0.44 B=0.11
+Cosmetics: None

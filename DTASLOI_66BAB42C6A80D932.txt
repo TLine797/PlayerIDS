@@ -1,0 +1,7 @@
+Name: REDBERRY
+ActorNumber: 2
+PlayerID: 66BAB42C6A80D932
+Platform: PC
+AccountCreationDate: 2022-04-18 00:36:30 UTC
+Color: R=0.47 G=0.69 B=0.58
+Cosmetics: None

@@ -1,0 +1,7 @@
+Name: MATTER
+ActorNumber: 6
+PlayerID: 62DEF88E0E097C88
+Platform: Standalone
+AccountCreationDate: 2025-12-25 19:18:49 UTC
+Color: R=0.44 G=0.00 B=0.78
+Cosmetics: None

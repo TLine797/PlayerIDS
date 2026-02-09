@@ -1,0 +1,7 @@
+Name: KITTYCAT
+ActorNumber: 1828
+PlayerID: 44C8A3A530E2439D
+Platform: Standalone
+AccountCreationDate: 2025-11-03 01:44:35 UTC
+Color: R=1.00 G=0.00 B=0.89
+Cosmetics: None

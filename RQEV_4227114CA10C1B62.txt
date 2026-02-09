@@ -1,0 +1,7 @@
+Name: ANEYX
+ActorNumber: 1824
+PlayerID: 4227114CA10C1B62
+Platform: Standalone
+AccountCreationDate: 2024-06-15 22:00:10 UTC
+Color: R=1.00 G=0.00 B=0.22
+Cosmetics: None

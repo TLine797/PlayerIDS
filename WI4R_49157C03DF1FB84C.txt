@@ -1,0 +1,7 @@
+Name: Y
+ActorNumber: 32
+PlayerID: 49157C03DF1FB84C
+Platform: Standalone
+AccountCreationDate: 2024-05-08 22:48:59 UTC
+Color: R=0.44 G=0.33 B=1.00
+Cosmetics: None

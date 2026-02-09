@@ -1,0 +1,7 @@
+Name: IMONINDEX
+ActorNumber: 136
+PlayerID: 3EAC335EF5128C20
+Platform: Standalone
+AccountCreationDate: 2025-12-29 21:44:55 UTC
+Color: R=1.00 G=0.00 B=0.00
+Cosmetics: None

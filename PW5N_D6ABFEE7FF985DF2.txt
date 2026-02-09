@@ -1,0 +1,7 @@
+Name: WEMBOO
+ActorNumber: 67
+PlayerID: D6ABFEE7FF985DF2
+Platform: Standalone
+AccountCreationDate: 2023-03-02 20:50:47 UTC
+Color: R=0.44 G=0.00 B=1.00
+Cosmetics: None

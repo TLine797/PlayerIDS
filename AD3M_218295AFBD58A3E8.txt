@@ -1,0 +1,7 @@
+Name: NUGGETJR
+ActorNumber: 162
+PlayerID: 218295AFBD58A3E8
+Platform: Standalone
+AccountCreationDate: 2024-03-14 21:03:30 UTC
+Color: R=0.89 G=0.44 B=0.00
+Cosmetics: None

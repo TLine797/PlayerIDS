@@ -1,0 +1,7 @@
+Name: GT556
+ActorNumber: 34
+PlayerID: 46F892067C8D17DD
+Platform: Standalone
+AccountCreationDate: 2025-12-10 23:37:06 UTC
+Color: R=1.00 G=1.00 B=1.00
+Cosmetics: None

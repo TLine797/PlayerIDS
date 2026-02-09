@@ -1,0 +1,7 @@
+Name: HYPERSNIPER
+ActorNumber: 1231
+PlayerID: 19183A065B4BCBE5
+Platform: Standalone
+AccountCreationDate: 2023-08-04 20:19:32 UTC
+Color: R=0.00 G=0.78 B=1.00
+Cosmetics: None

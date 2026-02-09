@@ -1,0 +1,7 @@
+Name: EARL
+ActorNumber: 75
+PlayerID: 921D71B1F74E7
+Platform: Standalone
+AccountCreationDate: 2025-12-25 17:05:54 UTC
+Color: R=0.56 G=0.44 B=0.22
+Cosmetics: None

@@ -1,0 +1,7 @@
+Name: MELOMELTFAN
+ActorNumber: 130
+PlayerID: 5375F83D2EFA3AE
+Platform: Standalone
+AccountCreationDate: 2023-12-29 08:00:48 UTC
+Color: R=1.00 G=0.44 B=1.00
+Cosmetics: None

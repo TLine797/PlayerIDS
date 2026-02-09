@@ -1,0 +1,7 @@
+Name: gorilla6313
+ActorNumber: 98
+PlayerID: 282881F698F6D139
+Platform: Standalone
+AccountCreationDate: 2024-12-25 20:56:57 UTC
+Color: R=1.00 G=0.56 B=0.56
+Cosmetics: None

@@ -1,0 +1,7 @@
+Name: DAVIDVR12
+ActorNumber: 122
+PlayerID: 47C1AC51B076EBC4
+Platform: Standalone
+AccountCreationDate: 2023-12-25 18:36:48 UTC
+Color: R=1.00 G=0.56 B=0.00
+Cosmetics: None

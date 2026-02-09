@@ -1,0 +1,7 @@
+Name: BUSTA
+ActorNumber: 156
+PlayerID: 439EAB53C536BE04
+Platform: Standalone
+AccountCreationDate: 2025-08-02 21:35:08 UTC
+Color: R=0.44 G=0.00 B=0.78
+Cosmetics: None

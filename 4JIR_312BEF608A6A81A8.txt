@@ -1,0 +1,7 @@
+Name: PURPLE
+ActorNumber: 944
+PlayerID: 312BEF608A6A81A8
+Platform: Standalone
+AccountCreationDate: 2024-02-27 01:07:01 UTC
+Color: R=0.56 G=0.00 B=1.00
+Cosmetics: None

@@ -1,0 +1,7 @@
+Name: MRNOOB
+ActorNumber: 104
+PlayerID: 603442E14FBC1C75
+Platform: Unknown
+AccountCreationDate: 2025-09-29 14:12:23 UTC
+Color: R=0.22 G=0.00 B=0.67
+Cosmetics: None

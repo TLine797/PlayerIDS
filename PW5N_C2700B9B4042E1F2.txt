@@ -1,0 +1,7 @@
+Name: SHADOW
+ActorNumber: 258
+PlayerID: C2700B9B4042E1F2
+Platform: Unknown
+AccountCreationDate: 2023-01-03 00:06:23 UTC
+Color: R=0.44 G=0.11 B=1.00
+Cosmetics: None

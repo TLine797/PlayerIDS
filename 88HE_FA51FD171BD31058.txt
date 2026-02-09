@@ -1,0 +1,7 @@
+Name: XEN
+ActorNumber: 13
+PlayerID: FA51FD171BD31058
+Platform: Standalone
+AccountCreationDate: 2024-07-13 16:16:05 UTC
+Color: R=0.44 G=0.22 B=0.78
+Cosmetics: None

@@ -1,0 +1,7 @@
+Name: PEEBER
+ActorNumber: 33
+PlayerID: 1B606B8B40FD5AAB
+Platform: Standalone
+AccountCreationDate: 2024-01-28 14:54:49 UTC
+Color: R=1.00 G=0.78 B=0.00
+Cosmetics: None

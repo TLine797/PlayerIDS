@@ -1,0 +1,7 @@
+Name: GRAND
+ActorNumber: 225
+PlayerID: 3ED364D43FAD6A24
+Platform: Unknown
+AccountCreationDate: 2022-03-24 23:04:21 UTC
+Color: R=0.56 G=0.11 B=0.78
+Cosmetics: None

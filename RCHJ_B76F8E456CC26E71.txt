@@ -1,0 +1,7 @@
+Name: ECHO
+ActorNumber: 163
+PlayerID: B76F8E456CC26E71
+Platform: Standalone
+AccountCreationDate: 2023-12-30 01:05:44 UTC
+Color: R=0.00 G=0.89 B=1.00
+Cosmetics: None

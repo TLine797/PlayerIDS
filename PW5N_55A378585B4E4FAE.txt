@@ -1,0 +1,7 @@
+Name: TGSJESUS
+ActorNumber: 85
+PlayerID: 55A378585B4E4FAE
+Platform: Standalone
+AccountCreationDate: 2025-07-09 14:35:59 UTC
+Color: R=1.00 G=0.78 B=0.00
+Cosmetics: None

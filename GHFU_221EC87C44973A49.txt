@@ -1,0 +1,7 @@
+Name: MICHEL070
+ActorNumber: 1250
+PlayerID: 221EC87C44973A49
+Platform: Standalone
+AccountCreationDate: 2025-12-25 11:29:59 UTC
+Color: R=0.56 G=0.00 B=1.00
+Cosmetics: None

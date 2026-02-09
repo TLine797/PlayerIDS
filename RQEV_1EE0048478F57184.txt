@@ -1,0 +1,7 @@
+Name: 1PETER57
+ActorNumber: 1821
+PlayerID: 1EE0048478F57184
+Platform: Standalone
+AccountCreationDate: 2024-10-04 02:32:55 UTC
+Color: R=0.00 G=1.00 B=0.00
+Cosmetics: None

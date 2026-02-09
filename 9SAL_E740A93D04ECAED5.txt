@@ -1,0 +1,7 @@
+Name: HORIZON
+ActorNumber: 405
+PlayerID: E740A93D04ECAED5
+Platform: Standalone
+AccountCreationDate: 2025-08-17 14:47:02 UTC
+Color: R=1.00 G=0.44 B=0.00
+Cosmetics: None

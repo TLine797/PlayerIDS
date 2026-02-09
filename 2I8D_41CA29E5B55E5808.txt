@@ -1,0 +1,7 @@
+Name: WILLIAM
+ActorNumber: 607
+PlayerID: 41CA29E5B55E5808
+Platform: Standalone
+AccountCreationDate: 2024-12-25 23:26:14 UTC
+Color: R=1.00 G=0.78 B=0.78
+Cosmetics: None

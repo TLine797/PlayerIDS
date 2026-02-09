@@ -1,0 +1,7 @@
+Name: HATG
+ActorNumber: 452
+PlayerID: E269A2531AFC80B0
+Platform: Standalone
+AccountCreationDate: 2026-02-07 16:50:02 UTC
+Color: R=0.00 G=0.22 B=0.00
+Cosmetics: None

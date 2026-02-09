@@ -1,0 +1,7 @@
+Name: JOE
+ActorNumber: 440
+PlayerID: 878CDE79AED44418
+Platform: Standalone
+AccountCreationDate: 2023-12-25 15:45:58 UTC
+Color: R=1.00 G=0.00 B=0.33
+Cosmetics: None

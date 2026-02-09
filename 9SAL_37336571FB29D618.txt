@@ -1,0 +1,7 @@
+Name: VBB
+ActorNumber: 447
+PlayerID: 37336571FB29D618
+Platform: Standalone
+AccountCreationDate: 2025-01-03 23:03:30 UTC
+Color: R=0.22 G=0.44 B=0.78
+Cosmetics: None

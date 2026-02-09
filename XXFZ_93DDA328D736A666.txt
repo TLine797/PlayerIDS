@@ -1,0 +1,7 @@
+Name: MRSKITTLES
+ActorNumber: 10
+PlayerID: 93DDA328D736A666
+Platform: Standalone
+AccountCreationDate: 2024-12-15 00:20:17 UTC
+Color: R=1.00 G=0.08 B=0.00
+Cosmetics: None

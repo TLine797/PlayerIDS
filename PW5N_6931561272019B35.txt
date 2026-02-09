@@ -1,0 +1,7 @@
+Name: BLUBBYBLONDE
+ActorNumber: 79
+PlayerID: 6931561272019B35
+Platform: Standalone
+AccountCreationDate: 2023-12-31 22:08:13 UTC
+Color: R=0.00 G=1.00 B=0.89
+Cosmetics: None

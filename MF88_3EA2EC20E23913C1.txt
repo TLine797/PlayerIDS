@@ -1,0 +1,7 @@
+Name: SYPHO
+ActorNumber: 526
+PlayerID: 3EA2EC20E23913C1
+Platform: Standalone
+AccountCreationDate: 2025-10-03 12:13:04 UTC
+Color: R=0.56 G=0.89 B=0.89
+Cosmetics: None

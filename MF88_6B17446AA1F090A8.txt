@@ -1,0 +1,7 @@
+Name: MEL
+ActorNumber: 607
+PlayerID: 6B17446AA1F090A8
+Platform: Standalone
+AccountCreationDate: 2025-10-15 23:17:17 UTC
+Color: R=0.78 G=0.56 B=0.44
+Cosmetics: None

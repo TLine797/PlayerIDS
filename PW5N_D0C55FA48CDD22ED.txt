@@ -1,0 +1,7 @@
+Name: CFSBRIFEY
+ActorNumber: 58
+PlayerID: D0C55FA48CDD22ED
+Platform: Standalone
+AccountCreationDate: 2025-11-23 09:52:07 UTC
+Color: R=0.00 G=0.78 B=0.89
+Cosmetics: None

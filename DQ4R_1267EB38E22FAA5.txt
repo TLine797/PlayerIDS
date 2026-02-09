@@ -1,0 +1,7 @@
+Name: TIKTOKLOL
+ActorNumber: 11
+PlayerID: 1267EB38E22FAA5
+Platform: Standalone
+AccountCreationDate: 2026-01-06 00:19:34 UTC
+Color: R=0.89 G=0.67 B=0.33
+Cosmetics: None

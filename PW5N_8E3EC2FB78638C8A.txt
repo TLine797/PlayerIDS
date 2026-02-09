@@ -1,0 +1,7 @@
+Name: gorilla0319
+ActorNumber: 253
+PlayerID: 8E3EC2FB78638C8A
+Platform: Standalone
+AccountCreationDate: 2024-12-25 14:33:02 UTC
+Color: R=1.00 G=0.67 B=0.00
+Cosmetics: None

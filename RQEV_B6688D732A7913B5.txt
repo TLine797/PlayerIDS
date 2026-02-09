@@ -1,0 +1,7 @@
+Name: FROG
+ActorNumber: 1825
+PlayerID: B6688D732A7913B5
+Platform: Standalone
+AccountCreationDate: 2026-01-02 23:08:18 UTC
+Color: R=1.00 G=0.00 B=0.00
+Cosmetics: None

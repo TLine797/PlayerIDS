@@ -1,0 +1,7 @@
+Name: JTT959
+ActorNumber: 557
+PlayerID: A4D490373599151B
+Platform: Unknown
+AccountCreationDate: 2022-07-29 20:43:07 UTC
+Color: R=0.00 G=1.00 B=0.00
+Cosmetics: None

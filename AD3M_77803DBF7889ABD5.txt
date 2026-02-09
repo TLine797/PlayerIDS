@@ -1,0 +1,7 @@
+Name: STOPSAYING67
+ActorNumber: 175
+PlayerID: 77803DBF7889ABD5
+Platform: Standalone
+AccountCreationDate: 2024-12-25 15:05:51 UTC
+Color: R=0.00 G=1.00 B=1.00
+Cosmetics: None

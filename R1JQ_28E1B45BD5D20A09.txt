@@ -1,0 +1,7 @@
+Name: gorilla0026
+ActorNumber: 1269
+PlayerID: 28E1B45BD5D20A09
+Platform: Unknown
+AccountCreationDate: 2022-02-01 02:18:12 UTC
+Color: R=0.44 G=0.00 B=0.78
+Cosmetics: None

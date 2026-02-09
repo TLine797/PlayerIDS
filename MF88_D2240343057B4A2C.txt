@@ -1,0 +1,7 @@
+Name: W
+ActorNumber: 569
+PlayerID: D2240343057B4A2C
+Platform: Standalone
+AccountCreationDate: 2024-03-11 22:04:15 UTC
+Color: R=0.44 G=0.00 B=1.00
+Cosmetics: None

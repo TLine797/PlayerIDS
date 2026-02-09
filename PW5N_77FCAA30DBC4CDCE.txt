@@ -1,0 +1,7 @@
+Name: OVA
+ActorNumber: 255
+PlayerID: 77FCAA30DBC4CDCE
+Platform: Unknown
+AccountCreationDate: 2023-01-15 15:29:07 UTC
+Color: R=0.67 G=1.00 B=0.56
+Cosmetics: None

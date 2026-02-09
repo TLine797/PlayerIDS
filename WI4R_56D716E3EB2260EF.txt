@@ -1,0 +1,7 @@
+Name: gorilla8846
+ActorNumber: 102
+PlayerID: 56D716E3EB2260EF
+Platform: PC
+AccountCreationDate: 2025-12-26 22:39:48 UTC
+Color: R=0.97 G=0.33 B=0.06
+Cosmetics: None

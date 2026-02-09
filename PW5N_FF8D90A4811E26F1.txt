@@ -1,0 +1,7 @@
+Name: GARRATY
+ActorNumber: 121
+PlayerID: FF8D90A4811E26F1
+Platform: Standalone
+AccountCreationDate: 2024-01-15 23:58:56 UTC
+Color: R=0.56 G=0.00 B=1.00
+Cosmetics: None

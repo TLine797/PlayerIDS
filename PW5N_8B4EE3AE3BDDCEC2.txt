@@ -1,0 +1,7 @@
+Name: SOCIETY
+ActorNumber: 54
+PlayerID: 8B4EE3AE3BDDCEC2
+Platform: Standalone
+AccountCreationDate: 2023-04-06 07:42:52 UTC
+Color: R=0.67 G=0.22 B=0.89
+Cosmetics: None

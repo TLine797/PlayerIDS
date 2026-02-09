@@ -1,0 +1,7 @@
+Name: GASGT
+ActorNumber: 8
+PlayerID: 2CDDD64A5887A3E7
+Platform: Standalone
+AccountCreationDate: 2024-12-25 13:13:21 UTC
+Color: R=0.44 G=0.00 B=1.00
+Cosmetics: None

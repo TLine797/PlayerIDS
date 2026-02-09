@@ -1,0 +1,7 @@
+Name: TMBTIMMY
+ActorNumber: 185
+PlayerID: 44F3B0064A88C649
+Platform: Unknown
+AccountCreationDate: 2023-01-24 23:43:39 UTC
+Color: R=0.00 G=1.00 B=0.33
+Cosmetics: None

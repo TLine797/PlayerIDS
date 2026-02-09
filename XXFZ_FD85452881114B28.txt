@@ -1,0 +1,7 @@
+Name: JUNIOR
+ActorNumber: 20
+PlayerID: FD85452881114B28
+Platform: Unknown
+AccountCreationDate: 2023-01-26 15:16:53 UTC
+Color: R=0.00 G=1.00 B=0.00
+Cosmetics: None

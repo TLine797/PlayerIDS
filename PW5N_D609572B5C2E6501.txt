@@ -1,0 +1,7 @@
+Name: CRUSTYFAN
+ActorNumber: 69
+PlayerID: D609572B5C2E6501
+Platform: Standalone
+AccountCreationDate: 2025-02-24 00:51:38 UTC
+Color: R=0.00 G=0.89 B=1.00
+Cosmetics: None

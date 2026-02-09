@@ -1,0 +1,7 @@
+Name: BAMZ
+ActorNumber: 1303
+PlayerID: 83FAED08FEBC8020
+Platform: Standalone
+AccountCreationDate: 2024-05-16 03:47:49 UTC
+Color: R=0.00 G=0.44 B=0.67
+Cosmetics: None

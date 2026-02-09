@@ -1,0 +1,7 @@
+Name: UNCHANGEABLE
+ActorNumber: 83
+PlayerID: 50E7FE895E2792C0
+Platform: PC
+AccountCreationDate: 2023-12-05 23:59:37 UTC
+Color: R=1.00 G=0.00 B=0.78
+Cosmetics: None

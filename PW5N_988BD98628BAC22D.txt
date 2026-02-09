@@ -1,0 +1,7 @@
+Name: JNORK
+ActorNumber: 113
+PlayerID: 988BD98628BAC22D
+Platform: Unknown
+AccountCreationDate: 2025-12-17 00:01:07 UTC
+Color: R=0.22 G=0.11 B=0.56
+Cosmetics: None

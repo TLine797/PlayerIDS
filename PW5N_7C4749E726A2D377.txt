@@ -1,0 +1,7 @@
+Name: SIGMAVR
+ActorNumber: 38
+PlayerID: 7C4749E726A2D377
+Platform: Standalone
+AccountCreationDate: 2025-10-06 18:25:39 UTC
+Color: R=0.00 G=1.00 B=0.78
+Cosmetics: None

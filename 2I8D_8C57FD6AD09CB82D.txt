@@ -1,0 +1,7 @@
+Name: JADEEEEEE
+ActorNumber: 609
+PlayerID: 8C57FD6AD09CB82D
+Platform: Standalone
+AccountCreationDate: 2025-08-04 22:16:23 UTC
+Color: R=1.00 G=1.00 B=1.00
+Cosmetics: None

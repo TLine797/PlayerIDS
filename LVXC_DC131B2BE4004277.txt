@@ -1,0 +1,7 @@
+Name: SCARCATVR
+ActorNumber: 1308
+PlayerID: DC131B2BE4004277
+Platform: Standalone
+AccountCreationDate: 2024-12-28 03:33:18 UTC
+Color: R=1.00 G=0.00 B=1.00
+Cosmetics: None

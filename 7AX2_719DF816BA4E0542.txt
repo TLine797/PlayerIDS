@@ -1,0 +1,7 @@
+Name: F1
+ActorNumber: 628
+PlayerID: 719DF816BA4E0542
+Platform: Standalone
+AccountCreationDate: 2024-10-06 21:01:42 UTC
+Color: R=0.00 G=0.00 B=0.00
+Cosmetics: None

@@ -1,0 +1,7 @@
+Name: FAITHFUL
+ActorNumber: 88
+PlayerID: 9C162113156B0A7A
+Platform: Standalone
+AccountCreationDate: 2025-12-25 20:03:03 UTC
+Color: R=0.44 G=0.44 B=1.00
+Cosmetics: None

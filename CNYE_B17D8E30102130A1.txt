@@ -1,0 +1,7 @@
+Name: IDK
+ActorNumber: 331
+PlayerID: B17D8E30102130A1
+Platform: Standalone
+AccountCreationDate: 2025-01-03 18:21:27 UTC
+Color: R=0.00 G=0.89 B=1.00
+Cosmetics: None

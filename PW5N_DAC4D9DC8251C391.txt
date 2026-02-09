@@ -1,0 +1,7 @@
+Name: PORTAL
+ActorNumber: 93
+PlayerID: DAC4D9DC8251C391
+Platform: Unknown
+AccountCreationDate: 2022-12-28 19:47:28 UTC
+Color: R=1.00 G=0.00 B=0.55
+Cosmetics: None

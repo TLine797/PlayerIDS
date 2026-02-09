@@ -1,0 +1,7 @@
+Name: CHILLSPARKLE
+ActorNumber: 446
+PlayerID: 73EB6063F52CF8EE
+Platform: Standalone
+AccountCreationDate: 2024-01-27 08:04:25 UTC
+Color: R=0.89 G=0.33 B=1.00
+Cosmetics: None

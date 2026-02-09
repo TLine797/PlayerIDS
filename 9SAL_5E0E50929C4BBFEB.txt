@@ -1,0 +1,7 @@
+Name: ZXA
+ActorNumber: 450
+PlayerID: 5E0E50929C4BBFEB
+Platform: Standalone
+AccountCreationDate: 2025-09-02 12:35:50 UTC
+Color: R=0.56 G=0.44 B=1.00
+Cosmetics: None

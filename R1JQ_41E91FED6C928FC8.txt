@@ -1,0 +1,7 @@
+Name: BLUE
+ActorNumber: 1266
+PlayerID: 41E91FED6C928FC8
+Platform: Standalone
+AccountCreationDate: 2025-11-08 00:19:50 UTC
+Color: R=0.00 G=0.00 B=1.00
+Cosmetics: None

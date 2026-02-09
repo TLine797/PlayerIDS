@@ -1,0 +1,7 @@
+Name: THISCODE
+ActorNumber: 22
+PlayerID: 5FBA6A8FC70E3FA9
+Platform: Standalone
+AccountCreationDate: 2025-03-02 15:24:32 UTC
+Color: R=1.00 G=0.00 B=0.22
+Cosmetics: None

@@ -1,0 +1,7 @@
+Name: HANTA
+ActorNumber: 540
+PlayerID: CB4ACEA6FD5CC1E0
+Platform: Standalone
+AccountCreationDate: 2024-06-03 16:53:28 UTC
+Color: R=1.00 G=0.00 B=0.00
+Cosmetics: None

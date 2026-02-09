@@ -1,0 +1,7 @@
+Name: ICEYVR
+ActorNumber: 61
+PlayerID: 6FC4E32FD4FF39CC
+Platform: Standalone
+AccountCreationDate: 2024-11-16 01:38:01 UTC
+Color: R=0.00 G=1.00 B=0.00
+Cosmetics: None

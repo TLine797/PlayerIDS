@@ -1,0 +1,7 @@
+Name: ARCHER
+ActorNumber: 1315
+PlayerID: B1E146BA1A448AC1
+Platform: Standalone
+AccountCreationDate: 2024-11-08 01:35:20 UTC
+Color: R=0.56 G=0.22 B=0.56
+Cosmetics: None

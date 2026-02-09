@@ -1,0 +1,7 @@
+Name: CHILL
+ActorNumber: 14
+PlayerID: F6F5D2728DC5E9E9
+Platform: Standalone
+AccountCreationDate: 2026-01-20 16:00:33 UTC
+Color: R=0.00 G=0.00 B=1.00
+Cosmetics: None

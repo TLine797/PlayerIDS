@@ -1,0 +1,7 @@
+Name: SKAOS
+ActorNumber: 70
+PlayerID: BF07E47172276882
+Platform: Standalone
+AccountCreationDate: 2023-09-06 18:47:40 UTC
+Color: R=1.00 G=0.33 B=0.00
+Cosmetics: None

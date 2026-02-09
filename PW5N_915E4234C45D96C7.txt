@@ -1,0 +1,7 @@
+Name: TTTCOOKIE
+ActorNumber: 96
+PlayerID: 915E4234C45D96C7
+Platform: Standalone
+AccountCreationDate: 2024-03-17 17:09:51 UTC
+Color: R=0.44 G=0.00 B=0.78
+Cosmetics: None

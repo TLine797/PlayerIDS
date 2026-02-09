@@ -1,0 +1,7 @@
+Name: JAYVR
+ActorNumber: 1145
+PlayerID: FFC9A95433EA60BD
+Platform: Standalone
+AccountCreationDate: 2023-12-26 15:46:07 UTC
+Color: R=0.67 G=0.67 B=1.00
+Cosmetics: None

@@ -1,0 +1,7 @@
+Name: MUTEDFEMBOY
+ActorNumber: 101
+PlayerID: 63CED91F092FA07
+Platform: Standalone
+AccountCreationDate: 2025-04-02 18:30:39 UTC
+Color: R=0.00 G=0.00 B=0.11
+Cosmetics: None

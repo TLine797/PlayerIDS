@@ -1,0 +1,7 @@
+Name: GODZILLA
+ActorNumber: 9
+PlayerID: A2474C85CAAECC1B
+Platform: Standalone
+AccountCreationDate: 2023-10-09 22:00:39 UTC
+Color: R=0.00 G=0.33 B=0.33
+Cosmetics: None

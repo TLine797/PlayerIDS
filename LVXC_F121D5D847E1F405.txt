@@ -1,0 +1,7 @@
+Name: BLIZZ
+ActorNumber: 1312
+PlayerID: F121D5D847E1F405
+Platform: PC
+AccountCreationDate: 2025-08-04 18:46:45 UTC
+Color: R=0.67 G=0.67 B=0.67
+Cosmetics: None

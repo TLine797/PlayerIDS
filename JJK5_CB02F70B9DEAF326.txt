@@ -1,0 +1,7 @@
+Name: DASHER
+ActorNumber: 10
+PlayerID: CB02F70B9DEAF326
+Platform: PC
+AccountCreationDate: 2026-02-04 01:28:14 UTC
+Color: R=0.67 G=0.00 B=0.00
+Cosmetics: None

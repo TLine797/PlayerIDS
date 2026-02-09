@@ -1,0 +1,7 @@
+Name: 0TDHFHD
+ActorNumber: 100
+PlayerID: B0F0CCFB0B074C25
+Platform: Standalone
+AccountCreationDate: 2025-03-28 20:46:26 UTC
+Color: R=1.00 G=0.00 B=1.00
+Cosmetics: None

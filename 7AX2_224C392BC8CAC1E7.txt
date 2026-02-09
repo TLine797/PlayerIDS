@@ -1,0 +1,7 @@
+Name: BUYMEPAWS
+ActorNumber: 639
+PlayerID: 224C392BC8CAC1E7
+Platform: PC
+AccountCreationDate: 2024-08-11 01:19:33 UTC
+Color: R=0.22 G=0.00 B=0.44
+Cosmetics: None

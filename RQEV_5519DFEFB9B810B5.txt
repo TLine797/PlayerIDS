@@ -1,0 +1,7 @@
+Name: MRFLOOBER
+ActorNumber: 1777
+PlayerID: 5519DFEFB9B810B5
+Platform: Standalone
+AccountCreationDate: 2025-05-19 23:08:39 UTC
+Color: R=0.44 G=0.00 B=0.78
+Cosmetics: None

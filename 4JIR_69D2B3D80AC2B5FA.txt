@@ -1,0 +1,7 @@
+Name: TTT
+ActorNumber: 1226
+PlayerID: 69D2B3D80AC2B5FA
+Platform: Standalone
+AccountCreationDate: 2026-02-06 21:29:35 UTC
+Color: R=0.22 G=0.22 B=0.22
+Cosmetics: None

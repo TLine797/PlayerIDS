@@ -1,0 +1,7 @@
+Name: GALAXYCATVR
+ActorNumber: 596
+PlayerID: 96B88B139A37D08D
+Platform: Standalone
+AccountCreationDate: 2024-12-25 21:11:48 UTC
+Color: R=0.44 G=0.00 B=1.00
+Cosmetics: None

@@ -1,0 +1,7 @@
+Name: SKYJUKES
+ActorNumber: 1310
+PlayerID: 714C69299866BA4A
+Platform: Standalone
+AccountCreationDate: 2026-01-26 21:14:13 UTC
+Color: R=0.44 G=0.00 B=0.67
+Cosmetics: None

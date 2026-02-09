@@ -1,0 +1,7 @@
+Name: sub2shibagt
+ActorNumber: 109
+PlayerID: 691394E46BD14100
+Platform: Standalone
+AccountCreationDate: 2025-05-11 21:19:40 UTC
+Color: R=1.00 G=0.44 B=0.00
+Cosmetics: None

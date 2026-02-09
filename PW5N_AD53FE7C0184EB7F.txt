@@ -1,0 +1,7 @@
+Name: PO
+ActorNumber: 17
+PlayerID: AD53FE7C0184EB7F
+Platform: Standalone
+AccountCreationDate: 2026-01-24 21:23:32 UTC
+Color: R=0.89 G=0.22 B=0.00
+Cosmetics: None

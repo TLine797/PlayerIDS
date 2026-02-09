@@ -1,0 +1,7 @@
+Name: PICO4
+ActorNumber: 799
+PlayerID: ABBFE35A58A03BB1
+Platform: Standalone
+AccountCreationDate: 2025-12-25 15:30:20 UTC
+Color: R=1.00 G=0.44 B=0.56
+Cosmetics: None

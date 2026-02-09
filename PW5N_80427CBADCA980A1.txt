@@ -1,0 +1,7 @@
+Name: 0900
+ActorNumber: 120
+PlayerID: 80427CBADCA980A1
+Platform: Standalone
+AccountCreationDate: 2023-08-03 14:40:32 UTC
+Color: R=0.00 G=0.00 B=0.00
+Cosmetics: None

@@ -1,0 +1,7 @@
+Name: PLAYER
+ActorNumber: 1243
+PlayerID: 163F686C67063CBA
+Platform: Unknown
+AccountCreationDate: 2022-12-31 07:46:57 UTC
+Color: R=1.00 G=1.00 B=1.00
+Cosmetics: None

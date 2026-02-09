@@ -1,0 +1,7 @@
+Name: XX2
+ActorNumber: 94
+PlayerID: BBBECECB12F9E5F
+Platform: Unknown
+AccountCreationDate: 2022-02-21 01:39:46 UTC
+Color: R=0.00 G=0.44 B=0.89
+Cosmetics: None

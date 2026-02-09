@@ -1,0 +1,7 @@
+Name: gorilla6868
+ActorNumber: 71
+PlayerID: 3F7F850922D32C76
+Platform: Standalone
+AccountCreationDate: 2025-12-25 17:36:33 UTC
+Color: R=0.33 G=1.00 B=0.00
+Cosmetics: None

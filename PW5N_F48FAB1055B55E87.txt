@@ -1,0 +1,7 @@
+Name: MELLOW
+ActorNumber: 114
+PlayerID: F48FAB1055B55E87
+Platform: Standalone
+AccountCreationDate: 2023-05-16 11:15:46 UTC
+Color: R=0.11 G=1.00 B=0.67
+Cosmetics: None

@@ -1,0 +1,7 @@
+Name: NOTMODIS
+ActorNumber: 11
+PlayerID: 61CEAB76B76A7532
+Platform: Standalone
+AccountCreationDate: 2025-04-15 07:46:15 UTC
+Color: R=0.89 G=0.00 B=0.00
+Cosmetics: None

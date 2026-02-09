@@ -1,0 +1,7 @@
+Name: HEINTZX6
+ActorNumber: 1061
+PlayerID: A68C434CF058E94C
+Platform: Unknown
+AccountCreationDate: 2021-12-25 15:25:28 UTC
+Color: R=1.00 G=1.00 B=1.00
+Cosmetics: None

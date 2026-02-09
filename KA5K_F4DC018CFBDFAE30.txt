@@ -1,0 +1,7 @@
+Name: BLACKWETDICK
+ActorNumber: 484
+PlayerID: F4DC018CFBDFAE30
+Platform: Unknown
+AccountCreationDate: 2021-08-24 02:44:47 UTC
+Color: R=0.00 G=0.44 B=0.56
+Cosmetics: None

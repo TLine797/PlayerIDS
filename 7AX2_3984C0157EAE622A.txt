@@ -1,0 +1,7 @@
+Name: BEANZZZ
+ActorNumber: 636
+PlayerID: 3984C0157EAE622A
+Platform: Standalone
+AccountCreationDate: 2025-07-31 14:36:15 UTC
+Color: R=1.00 G=0.89 B=0.00
+Cosmetics: None

@@ -1,0 +1,7 @@
+Name: gorilla1792
+ActorNumber: 30
+PlayerID: 6D27E23FD72784CA
+Platform: Standalone
+AccountCreationDate: 2024-12-28 14:58:58 UTC
+Color: R=0.56 G=0.78 B=1.00
+Cosmetics: None

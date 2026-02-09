@@ -1,0 +1,7 @@
+Name: GVCCDCD3FR5D
+ActorNumber: 4
+PlayerID: 92E4BB652474A45B
+Platform: PC
+AccountCreationDate: 2025-04-08 22:18:51 UTC
+Color: R=0.11 G=0.56 B=1.00
+Cosmetics: None

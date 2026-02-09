@@ -1,0 +1,7 @@
+Name: SHKN
+ActorNumber: 456
+PlayerID: CD4FD4D3E8E9F803
+Platform: Standalone
+AccountCreationDate: 2024-10-19 04:14:37 UTC
+Color: R=0.56 G=0.78 B=0.56
+Cosmetics: None

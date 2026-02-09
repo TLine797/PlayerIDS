@@ -1,0 +1,7 @@
+Name: SLEET
+ActorNumber: 104
+PlayerID: 93AF2211DD7B9FE4
+Platform: Unknown
+AccountCreationDate: 2022-05-10 01:49:34 UTC
+Color: R=0.44 G=0.67 B=0.11
+Cosmetics: None

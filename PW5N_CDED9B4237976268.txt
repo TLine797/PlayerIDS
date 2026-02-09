@@ -1,0 +1,7 @@
+Name: EMK
+ActorNumber: 132
+PlayerID: CDED9B4237976268
+Platform: Unknown
+AccountCreationDate: 2025-12-25 13:22:35 UTC
+Color: R=0.44 G=0.67 B=0.44
+Cosmetics: None

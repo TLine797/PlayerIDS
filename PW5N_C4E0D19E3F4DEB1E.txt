@@ -1,0 +1,7 @@
+Name: SAMMY
+ActorNumber: 117
+PlayerID: C4E0D19E3F4DEB1E
+Platform: Standalone
+AccountCreationDate: 2025-09-05 02:17:56 UTC
+Color: R=1.00 G=0.11 B=0.89
+Cosmetics: None

@@ -1,0 +1,7 @@
+Name: RGBOB
+ActorNumber: 1151
+PlayerID: 3CF89CB650AE58FE
+Platform: Standalone
+AccountCreationDate: 2024-05-26 16:27:57 UTC
+Color: R=0.44 G=0.33 B=0.78
+Cosmetics: None

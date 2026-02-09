@@ -1,0 +1,7 @@
+Name: MYGAMELAGLOT
+ActorNumber: 1299
+PlayerID: 98F5BBDABAADEEF8
+Platform: Unknown
+AccountCreationDate: 2022-10-17 21:11:09 UTC
+Color: R=0.89 G=0.00 B=0.00
+Cosmetics: None

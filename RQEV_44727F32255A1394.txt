@@ -1,0 +1,7 @@
+Name: TRITONDUNN
+ActorNumber: 1779
+PlayerID: 44727F32255A1394
+Platform: Standalone
+AccountCreationDate: 2024-05-12 21:37:29 UTC
+Color: R=0.00 G=0.00 B=0.67
+Cosmetics: None

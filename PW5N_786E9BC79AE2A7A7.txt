@@ -1,0 +1,7 @@
+Name: TCMGUARD
+ActorNumber: 240
+PlayerID: 786E9BC79AE2A7A7
+Platform: Standalone
+AccountCreationDate: 2024-12-25 16:09:27 UTC
+Color: R=1.00 G=0.00 B=0.00
+Cosmetics: None

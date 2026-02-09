@@ -1,0 +1,7 @@
+Name: BILLLYGT
+ActorNumber: 1258
+PlayerID: BF71F38986804C18
+Platform: Unknown
+AccountCreationDate: 2022-12-24 22:29:04 UTC
+Color: R=1.00 G=0.44 B=1.00
+Cosmetics: None

@@ -1,0 +1,7 @@
+Name: ICEPLAYER
+ActorNumber: 1307
+PlayerID: 339EF5D638B9B790
+Platform: Standalone
+AccountCreationDate: 2024-04-30 03:50:25 UTC
+Color: R=0.00 G=0.00 B=1.00
+Cosmetics: None

@@ -1,0 +1,7 @@
+Name: BRITISHCOLEN
+ActorNumber: 118
+PlayerID: 3453011B36ECE209
+Platform: Unknown
+AccountCreationDate: 2023-01-07 07:29:00 UTC
+Color: R=0.00 G=0.00 B=0.00
+Cosmetics: None

@@ -1,0 +1,7 @@
+Name: HISOMASO
+ActorNumber: 5
+PlayerID: B637E7E114041740
+Platform: Unknown
+AccountCreationDate: 2021-11-27 18:47:02 UTC
+Color: R=0.11 G=0.44 B=1.00
+Cosmetics: None

@@ -1,0 +1,7 @@
+Name: ILOVEGOD
+ActorNumber: 13
+PlayerID: 540B87220DAB8745
+Platform: PC
+AccountCreationDate: 2025-10-21 01:54:36 UTC
+Color: R=0.44 G=0.00 B=1.00
+Cosmetics: None

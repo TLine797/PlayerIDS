@@ -1,0 +1,7 @@
+Name: JMAN
+ActorNumber: 1309
+PlayerID: 4983DDB10A8BDCFD
+Platform: Standalone
+AccountCreationDate: 2025-05-03 16:35:18 UTC
+Color: R=0.00 G=1.00 B=1.00
+Cosmetics: None

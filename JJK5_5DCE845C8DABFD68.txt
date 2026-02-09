@@ -1,0 +1,7 @@
+Name: MP2
+ActorNumber: 18
+PlayerID: 5DCE845C8DABFD68
+Platform: Standalone
+AccountCreationDate: 2024-08-01 18:26:24 UTC
+Color: R=0.78 G=0.67 B=1.00
+Cosmetics: None

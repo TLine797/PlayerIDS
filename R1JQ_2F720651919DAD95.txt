@@ -1,0 +1,7 @@
+Name: REDEAD
+ActorNumber: 1278
+PlayerID: 2F720651919DAD95
+Platform: Standalone
+AccountCreationDate: 2024-03-09 03:09:27 UTC
+Color: R=1.00 G=0.00 B=0.00
+Cosmetics: None

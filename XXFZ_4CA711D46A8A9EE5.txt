@@ -1,0 +1,7 @@
+Name: YYUUIU
+ActorNumber: 17
+PlayerID: 4CA711D46A8A9EE5
+Platform: Standalone
+AccountCreationDate: 2025-01-10 00:35:53 UTC
+Color: R=0.44 G=0.00 B=0.78
+Cosmetics: None

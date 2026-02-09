@@ -1,0 +1,7 @@
+Name: ILUVEMATH123
+ActorNumber: 555
+PlayerID: 4F9E643CB9B7F116
+Platform: Standalone
+AccountCreationDate: 2025-12-23 02:00:24 UTC
+Color: R=0.00 G=0.00 B=0.00
+Cosmetics: None

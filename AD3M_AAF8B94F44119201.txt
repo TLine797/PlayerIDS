@@ -1,0 +1,7 @@
+Name: MAX
+ActorNumber: 179
+PlayerID: AAF8B94F44119201
+Platform: Unknown
+AccountCreationDate: 2022-04-19 08:34:47 UTC
+Color: R=0.11 G=0.22 B=0.22
+Cosmetics: None

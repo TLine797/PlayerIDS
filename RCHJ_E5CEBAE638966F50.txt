@@ -1,0 +1,7 @@
+Name: DEFENSE
+ActorNumber: 135
+PlayerID: E5CEBAE638966F50
+Platform: Standalone
+AccountCreationDate: 2025-11-13 16:12:52 UTC
+Color: R=0.11 G=0.11 B=0.22
+Cosmetics: None

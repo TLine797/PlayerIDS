@@ -1,0 +1,7 @@
+Name: TUCKER
+ActorNumber: 23
+PlayerID: 5E85C8FD45FBA139
+Platform: Standalone
+AccountCreationDate: 2024-12-28 21:04:50 UTC
+Color: R=0.00 G=0.89 B=0.67
+Cosmetics: None

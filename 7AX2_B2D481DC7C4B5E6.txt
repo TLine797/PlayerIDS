@@ -1,0 +1,7 @@
+Name: SKELLYVRGT
+ActorNumber: 627
+PlayerID: B2D481DC7C4B5E6
+Platform: Standalone
+AccountCreationDate: 2023-04-15 20:58:04 UTC
+Color: R=0.56 G=0.00 B=1.00
+Cosmetics: None

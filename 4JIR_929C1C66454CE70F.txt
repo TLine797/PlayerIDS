@@ -1,0 +1,7 @@
+Name: JAGHETER67
+ActorNumber: 1239
+PlayerID: 929C1C66454CE70F
+Platform: Standalone
+AccountCreationDate: 2024-10-26 15:45:32 UTC
+Color: R=0.00 G=1.00 B=1.00
+Cosmetics: None

@@ -1,0 +1,7 @@
+Name: TREE
+ActorNumber: 2
+PlayerID: 1895F12777BC458F
+Platform: Unknown
+AccountCreationDate: 2022-12-24 18:52:07 UTC
+Color: R=0.56 G=0.56 B=0.56
+Cosmetics: None

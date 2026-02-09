@@ -1,0 +1,7 @@
+Name: SOMEGUY
+ActorNumber: 1239
+PlayerID: 1F8905C6618AFEC3
+Platform: Standalone
+AccountCreationDate: 2023-08-16 21:51:01 UTC
+Color: R=0.44 G=1.00 B=0.67
+Cosmetics: None

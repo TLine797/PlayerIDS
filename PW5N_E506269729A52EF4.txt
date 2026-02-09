@@ -1,0 +1,7 @@
+Name: GOOFY
+ActorNumber: 13
+PlayerID: E506269729A52EF4
+Platform: Unknown
+AccountCreationDate: 2022-07-29 14:59:50 UTC
+Color: R=0.56 G=0.00 B=0.00
+Cosmetics: None

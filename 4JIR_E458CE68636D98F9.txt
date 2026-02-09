@@ -1,0 +1,7 @@
+Name: V17VR
+ActorNumber: 936
+PlayerID: E458CE68636D98F9
+Platform: Standalone
+AccountCreationDate: 2025-02-20 14:00:47 UTC
+Color: R=1.00 G=0.56 B=0.00
+Cosmetics: None

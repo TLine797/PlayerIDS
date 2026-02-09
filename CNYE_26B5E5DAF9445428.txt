@@ -1,0 +1,7 @@
+Name: WABKAI
+ActorNumber: 336
+PlayerID: 26B5E5DAF9445428
+Platform: Unknown
+AccountCreationDate: 2022-07-15 20:12:13 UTC
+Color: R=0.22 G=0.22 B=1.00
+Cosmetics: None

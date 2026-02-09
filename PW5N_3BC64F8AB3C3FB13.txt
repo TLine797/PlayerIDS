@@ -1,0 +1,7 @@
+Name: LEMMINGFAN
+ActorNumber: 78
+PlayerID: 3BC64F8AB3C3FB13
+Platform: Standalone
+AccountCreationDate: 2024-12-25 15:21:47 UTC
+Color: R=0.00 G=0.44 B=0.44
+Cosmetics: None

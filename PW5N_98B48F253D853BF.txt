@@ -1,0 +1,7 @@
+Name: bVVYBVYGEUB
+ActorNumber: 9
+PlayerID: 98B48F253D853BF
+Platform: Standalone
+AccountCreationDate: 2025-08-23 20:52:17 UTC
+Color: R=0.00 G=0.00 B=0.00
+Cosmetics: None

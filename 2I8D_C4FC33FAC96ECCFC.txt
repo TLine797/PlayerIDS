@@ -1,0 +1,7 @@
+Name: IAM10
+ActorNumber: 593
+PlayerID: C4FC33FAC96ECCFC
+Platform: Standalone
+AccountCreationDate: 2025-01-12 22:45:04 UTC
+Color: R=0.44 G=0.00 B=0.00
+Cosmetics: None

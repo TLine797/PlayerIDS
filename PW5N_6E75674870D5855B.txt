@@ -1,0 +1,7 @@
+Name: MYBUDDY
+ActorNumber: 73
+PlayerID: 6E75674870D5855B
+Platform: Standalone
+AccountCreationDate: 2024-12-25 13:58:43 UTC
+Color: R=0.00 G=0.00 B=0.56
+Cosmetics: None

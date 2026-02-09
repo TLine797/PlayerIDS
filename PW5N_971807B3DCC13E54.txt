@@ -1,0 +1,7 @@
+Name: GHOSTHUNTER
+ActorNumber: 116
+PlayerID: 971807B3DCC13E54
+Platform: Standalone
+AccountCreationDate: 2024-08-22 12:52:33 UTC
+Color: R=0.00 G=0.00 B=0.00
+Cosmetics: None

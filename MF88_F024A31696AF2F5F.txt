@@ -1,0 +1,7 @@
+Name: LUKI
+ActorNumber: 611
+PlayerID: F024A31696AF2F5F
+Platform: Unknown
+AccountCreationDate: Unknown UTC
+Color: R=0.00 G=0.00 B=0.22
+Cosmetics: None

@@ -1,0 +1,7 @@
+Name: ECHO
+ActorNumber: 22
+PlayerID: D6896B043CC12404
+Platform: Standalone
+AccountCreationDate: 2024-08-10 21:28:25 UTC
+Color: R=0.00 G=0.89 B=1.00
+Cosmetics: None

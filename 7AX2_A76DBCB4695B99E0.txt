@@ -1,0 +1,7 @@
+Name: DISHVR
+ActorNumber: 621
+PlayerID: A76DBCB4695B99E0
+Platform: Standalone
+AccountCreationDate: 2025-12-25 15:13:58 UTC
+Color: R=0.00 G=0.89 B=1.00
+Cosmetics: None

@@ -1,0 +1,7 @@
+Name: TS155
+ActorNumber: 18
+PlayerID: 6CFDF9E840AB78BC
+Platform: Standalone
+AccountCreationDate: 2023-09-09 12:34:07 UTC
+Color: R=0.00 G=0.00 B=0.00
+Cosmetics: None

@@ -1,0 +1,7 @@
+Name: WYATT
+ActorNumber: 7
+PlayerID: 3F2C93E5EBFED84B
+Platform: Standalone
+AccountCreationDate: 2023-03-02 01:09:19 UTC
+Color: R=1.00 G=0.33 B=0.33
+Cosmetics: None

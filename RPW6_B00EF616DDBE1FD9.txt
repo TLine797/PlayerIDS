@@ -1,0 +1,7 @@
+Name: RA1NY
+ActorNumber: 807
+PlayerID: B00EF616DDBE1FD9
+Platform: Standalone
+AccountCreationDate: 2023-07-09 20:39:08 UTC
+Color: R=0.00 G=0.44 B=1.00
+Cosmetics: None

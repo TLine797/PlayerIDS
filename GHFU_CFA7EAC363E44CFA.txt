@@ -1,0 +1,7 @@
+Name: PIGSON
+ActorNumber: 1203
+PlayerID: CFA7EAC363E44CFA
+Platform: PC
+AccountCreationDate: 2025-04-04 20:49:19 UTC
+Color: R=0.44 G=0.00 B=0.78
+Cosmetics: None

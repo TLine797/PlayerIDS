@@ -1,0 +1,7 @@
+Name: UNC
+ActorNumber: 16
+PlayerID: 7019E10367054A22
+Platform: Standalone
+AccountCreationDate: 2025-06-02 22:01:37 UTC
+Color: R=0.67 G=0.67 B=0.67
+Cosmetics: None

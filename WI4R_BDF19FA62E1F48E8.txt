@@ -1,0 +1,7 @@
+Name: IEATDIRT
+ActorNumber: 101
+PlayerID: BDF19FA62E1F48E8
+Platform: Standalone
+AccountCreationDate: 2025-04-16 18:35:57 UTC
+Color: R=0.00 G=0.00 B=0.00
+Cosmetics: None

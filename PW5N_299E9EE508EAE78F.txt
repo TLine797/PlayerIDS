@@ -1,0 +1,7 @@
+Name: PYCCAIN
+ActorNumber: 95
+PlayerID: 299E9EE508EAE78F
+Platform: Standalone
+AccountCreationDate: 2024-12-25 21:37:29 UTC
+Color: R=0.00 G=0.00 B=0.00
+Cosmetics: None

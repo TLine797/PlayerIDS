@@ -1,0 +1,7 @@
+Name: NOTELLIOT
+ActorNumber: 17
+PlayerID: 6D0894E69BD6CDFC
+Platform: Standalone
+AccountCreationDate: 2025-12-27 18:00:10 UTC
+Color: R=0.67 G=0.67 B=0.67
+Cosmetics: None

@@ -1,0 +1,7 @@
+Name: CAMDEN
+ActorNumber: 19
+PlayerID: 2DCB66E6112F168D
+Platform: Standalone
+AccountCreationDate: 2024-12-22 04:52:59 UTC
+Color: R=1.00 G=0.67 B=0.44
+Cosmetics: None

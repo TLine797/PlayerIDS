@@ -1,0 +1,7 @@
+Name: PULSE
+ActorNumber: 182
+PlayerID: 59327D251D077F49
+Platform: Standalone
+AccountCreationDate: 2026-01-02 16:42:54 UTC
+Color: R=1.00 G=0.78 B=0.00
+Cosmetics: None

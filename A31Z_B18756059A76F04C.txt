@@ -1,0 +1,7 @@
+Name: KALEIDOSCOPE
+ActorNumber: 463
+PlayerID: B18756059A76F04C
+Platform: Standalone
+AccountCreationDate: 2025-12-29 04:18:06 UTC
+Color: R=0.67 G=0.56 B=0.33
+Cosmetics: None

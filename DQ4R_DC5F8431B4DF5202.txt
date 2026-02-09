@@ -1,0 +1,7 @@
+Name: MOONSHELLVR
+ActorNumber: 8
+PlayerID: DC5F8431B4DF5202
+Platform: Unknown
+AccountCreationDate: 2022-02-16 19:55:20 UTC
+Color: R=0.00 G=0.00 B=1.00
+Cosmetics: None

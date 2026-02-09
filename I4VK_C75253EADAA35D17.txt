@@ -1,0 +1,7 @@
+Name: IND3XZAA
+ActorNumber: 553
+PlayerID: C75253EADAA35D17
+Platform: Standalone
+AccountCreationDate: 2025-07-17 23:40:44 UTC
+Color: R=0.56 G=0.67 B=1.00
+Cosmetics: None

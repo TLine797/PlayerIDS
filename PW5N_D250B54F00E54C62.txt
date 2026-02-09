@@ -1,0 +1,7 @@
+Name: IZJACQB
+ActorNumber: 115
+PlayerID: D250B54F00E54C62
+Platform: Standalone
+AccountCreationDate: 2025-12-25 10:40:52 UTC
+Color: R=1.00 G=1.00 B=1.00
+Cosmetics: None

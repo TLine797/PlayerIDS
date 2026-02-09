@@ -1,0 +1,7 @@
+Name: GIGGELSHIT
+ActorNumber: 1822
+PlayerID: 3E153C44976E0291
+Platform: Standalone
+AccountCreationDate: 2025-04-14 17:57:58 UTC
+Color: R=0.00 G=0.00 B=0.00
+Cosmetics: None

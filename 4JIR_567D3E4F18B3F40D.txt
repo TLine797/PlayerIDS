@@ -1,0 +1,7 @@
+Name: TNT
+ActorNumber: 1238
+PlayerID: 567D3E4F18B3F40D
+Platform: Standalone
+AccountCreationDate: 2025-01-31 02:20:59 UTC
+Color: R=0.44 G=0.00 B=0.00
+Cosmetics: None

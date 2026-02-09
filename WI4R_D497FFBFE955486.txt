@@ -1,0 +1,7 @@
+Name: FEMBOYYY
+ActorNumber: 97
+PlayerID: D497FFBFE955486
+Platform: Standalone
+AccountCreationDate: 2023-08-07 23:01:48 UTC
+Color: R=0.78 G=0.56 B=0.33
+Cosmetics: None

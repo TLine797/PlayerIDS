@@ -1,0 +1,7 @@
+Name: 8090
+ActorNumber: 1262
+PlayerID: 9A70AF9F31822998
+Platform: Standalone
+AccountCreationDate: 2024-12-25 09:10:07 UTC
+Color: R=0.00 G=0.00 B=0.00
+Cosmetics: None

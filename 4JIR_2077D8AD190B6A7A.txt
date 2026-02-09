@@ -1,0 +1,7 @@
+Name: CATRAGEYT
+ActorNumber: 1227
+PlayerID: 2077D8AD190B6A7A
+Platform: Standalone
+AccountCreationDate: 2023-12-29 20:32:16 UTC
+Color: R=0.00 G=0.67 B=1.00
+Cosmetics: None

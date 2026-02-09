@@ -1,0 +1,7 @@
+Name: MINI
+ActorNumber: 86
+PlayerID: 1455AAD12DBBC57C
+Platform: Standalone
+AccountCreationDate: 2024-12-25 19:23:36 UTC
+Color: R=1.00 G=0.67 B=0.56
+Cosmetics: None

@@ -1,0 +1,7 @@
+Name: KYN
+ActorNumber: 804
+PlayerID: C0EFDA2DF4CFD42C
+Platform: Standalone
+AccountCreationDate: 2023-12-25 14:34:51 UTC
+Color: R=0.33 G=0.67 B=0.89
+Cosmetics: None

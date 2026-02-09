@@ -1,0 +1,7 @@
+Name: ELLOSS
+ActorNumber: 800
+PlayerID: A7DE369AF5150866
+Platform: Unknown
+AccountCreationDate: 2022-01-13 02:17:15 UTC
+Color: R=1.00 G=0.00 B=1.00
+Cosmetics: None

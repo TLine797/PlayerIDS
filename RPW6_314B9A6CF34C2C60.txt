@@ -1,0 +1,7 @@
+Name: THING4
+ActorNumber: 805
+PlayerID: 314B9A6CF34C2C60
+Platform: Standalone
+AccountCreationDate: 2024-11-29 19:15:24 UTC
+Color: R=1.00 G=0.00 B=0.00
+Cosmetics: None

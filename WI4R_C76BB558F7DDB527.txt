@@ -1,0 +1,7 @@
+Name: WHALES
+ActorNumber: 115
+PlayerID: C76BB558F7DDB527
+Platform: Unknown
+AccountCreationDate: 2022-08-14 02:29:15 UTC
+Color: R=0.67 G=0.89 B=1.00
+Cosmetics: None

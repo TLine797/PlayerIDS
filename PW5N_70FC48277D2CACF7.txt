@@ -1,0 +1,7 @@
+Name: JACKAL
+ActorNumber: 28
+PlayerID: 70FC48277D2CACF7
+Platform: Standalone
+AccountCreationDate: 2025-06-30 16:40:12 UTC
+Color: R=1.00 G=0.67 B=0.11
+Cosmetics: None

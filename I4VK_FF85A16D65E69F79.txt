@@ -1,0 +1,7 @@
+Name: DAISY09YT
+ActorNumber: 556
+PlayerID: FF85A16D65E69F79
+Platform: Standalone
+AccountCreationDate: 2024-12-31 15:21:27 UTC
+Color: R=1.00 G=1.00 B=0.22
+Cosmetics: None

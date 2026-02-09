@@ -1,0 +1,7 @@
+Name: gorilla4672
+ActorNumber: 180
+PlayerID: 11FEC7FC30D5C34
+Platform: Standalone
+AccountCreationDate: 2025-01-01 00:52:53 UTC
+Color: R=0.22 G=0.00 B=0.00
+Cosmetics: None

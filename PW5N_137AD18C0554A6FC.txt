@@ -1,0 +1,7 @@
+Name: DREAMVR
+ActorNumber: 123
+PlayerID: 137AD18C0554A6FC
+Platform: Standalone
+AccountCreationDate: 2025-04-25 16:49:04 UTC
+Color: R=0.33 G=0.78 B=1.00
+Cosmetics: None

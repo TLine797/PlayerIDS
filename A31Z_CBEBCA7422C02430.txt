@@ -1,0 +1,7 @@
+Name: GRANDPAPIJOE
+ActorNumber: 472
+PlayerID: CBEBCA7422C02430
+Platform: Standalone
+AccountCreationDate: 2026-01-21 23:51:22 UTC
+Color: R=0.00 G=0.00 B=0.00
+Cosmetics: None

@@ -1,0 +1,7 @@
+Name: GGGOOFY
+ActorNumber: 13
+PlayerID: 9D3D5F21B10FC9F9
+Platform: Standalone
+AccountCreationDate: 2025-10-30 18:47:18 UTC
+Color: R=0.67 G=0.00 B=1.00
+Cosmetics: None

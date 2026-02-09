@@ -1,0 +1,7 @@
+Name: KIDYEEPVR
+ActorNumber: 634
+PlayerID: 5BD4F24CD616FE01
+Platform: Unknown
+AccountCreationDate: 2022-12-25 14:09:01 UTC
+Color: R=0.78 G=0.67 B=1.00
+Cosmetics: None

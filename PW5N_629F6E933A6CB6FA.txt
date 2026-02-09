@@ -1,0 +1,7 @@
+Name: 0OOOO0000OO0
+ActorNumber: 43
+PlayerID: 629F6E933A6CB6FA
+Platform: Standalone
+AccountCreationDate: 2023-12-25 14:39:00 UTC
+Color: R=0.33 G=0.00 B=0.56
+Cosmetics: None

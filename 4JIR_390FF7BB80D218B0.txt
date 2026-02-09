@@ -1,0 +1,7 @@
+Name: AMY
+ActorNumber: 935
+PlayerID: 390FF7BB80D218B0
+Platform: Standalone
+AccountCreationDate: 2025-01-18 19:39:08 UTC
+Color: R=0.00 G=0.00 B=0.00
+Cosmetics: None

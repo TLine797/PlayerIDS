@@ -1,0 +1,7 @@
+Name: JUNE
+ActorNumber: 1300
+PlayerID: 83E7D2850CC48EF3
+Platform: Standalone
+AccountCreationDate: 2023-10-21 18:50:22 UTC
+Color: R=0.44 G=0.00 B=1.00
+Cosmetics: None

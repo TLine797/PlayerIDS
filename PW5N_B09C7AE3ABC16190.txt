@@ -1,0 +1,7 @@
+Name: COLDICE
+ActorNumber: 76
+PlayerID: B09C7AE3ABC16190
+Platform: Standalone
+AccountCreationDate: 2024-05-26 11:52:28 UTC
+Color: R=0.00 G=0.00 B=0.00
+Cosmetics: None

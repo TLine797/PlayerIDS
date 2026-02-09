@@ -1,0 +1,7 @@
+Name: POPSIKL
+ActorNumber: 9
+PlayerID: C2C5024548596087
+Platform: Standalone
+AccountCreationDate: 2025-12-25 16:28:48 UTC
+Color: R=0.44 G=0.00 B=0.78
+Cosmetics: None

@@ -1,0 +1,7 @@
+Name: BLOSSUMJHAXZ
+ActorNumber: 432
+PlayerID: DF63AD5BAD82114F
+Platform: Standalone
+AccountCreationDate: 2023-12-25 16:34:27 UTC
+Color: R=0.00 G=0.89 B=1.00
+Cosmetics: None

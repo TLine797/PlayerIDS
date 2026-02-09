@@ -1,0 +1,7 @@
+Name: TFAM
+ActorNumber: 173
+PlayerID: 3F3FD1FAD6D112E
+Platform: Standalone
+AccountCreationDate: 2023-12-27 22:12:35 UTC
+Color: R=0.00 G=0.56 B=1.00
+Cosmetics: None

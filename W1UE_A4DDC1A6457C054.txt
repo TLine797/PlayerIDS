@@ -1,0 +1,7 @@
+Name: gorilla3302
+ActorNumber: 10
+PlayerID: A4DDC1A6457C054
+Platform: Standalone
+AccountCreationDate: 2025-09-04 20:17:48 UTC
+Color: R=0.00 G=0.89 B=1.00
+Cosmetics: None

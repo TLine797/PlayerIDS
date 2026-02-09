@@ -1,0 +1,7 @@
+Name: RUST
+ActorNumber: 162
+PlayerID: 9792D7BBD157F182
+Platform: PC
+AccountCreationDate: 2022-03-22 00:25:02 UTC
+Color: R=0.33 G=0.22 B=0.22
+Cosmetics: None

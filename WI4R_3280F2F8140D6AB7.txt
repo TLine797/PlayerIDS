@@ -1,0 +1,7 @@
+Name: RMENVIXITY
+ActorNumber: 116
+PlayerID: 3280F2F8140D6AB7
+Platform: Standalone
+AccountCreationDate: 2023-07-29 20:09:32 UTC
+Color: R=1.00 G=0.00 B=0.00
+Cosmetics: None

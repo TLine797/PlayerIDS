@@ -1,0 +1,7 @@
+Name: D9
+ActorNumber: 325
+PlayerID: 7AA77AD41C1D8ACF
+Platform: Standalone
+AccountCreationDate: 2025-12-26 18:15:36 UTC
+Color: R=0.56 G=0.00 B=1.00
+Cosmetics: None

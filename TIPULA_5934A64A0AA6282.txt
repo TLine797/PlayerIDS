@@ -1,0 +1,7 @@
+Name: WREN
+ActorNumber: 7
+PlayerID: 5934A64A0AA6282
+Platform: Unknown
+AccountCreationDate: 2021-09-05 17:13:15 UTC
+Color: R=0.00 G=1.00 B=0.67
+Cosmetics: None

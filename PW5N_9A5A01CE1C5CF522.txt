@@ -1,0 +1,7 @@
+Name: NICK
+ActorNumber: 60
+PlayerID: 9A5A01CE1C5CF522
+Platform: Standalone
+AccountCreationDate: 2023-12-25 16:30:44 UTC
+Color: R=0.89 G=0.67 B=0.00
+Cosmetics: None

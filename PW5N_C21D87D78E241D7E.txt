@@ -1,0 +1,7 @@
+Name: ALFIE44
+ActorNumber: 41
+PlayerID: C21D87D78E241D7E
+Platform: Standalone
+AccountCreationDate: 2023-12-25 23:47:54 UTC
+Color: R=0.22 G=0.78 B=0.56
+Cosmetics: None

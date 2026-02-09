@@ -1,0 +1,7 @@
+Name: FAASVRCM
+ActorNumber: 262
+PlayerID: 7E076C52D533D3D3
+Platform: Unknown
+AccountCreationDate: 2025-12-06 10:18:47 UTC
+Color: R=1.00 G=0.00 B=0.00
+Cosmetics: None

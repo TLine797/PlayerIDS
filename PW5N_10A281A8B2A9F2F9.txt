@@ -1,0 +1,7 @@
+Name: MINIGAMES
+ActorNumber: 11
+PlayerID: 10A281A8B2A9F2F9
+Platform: Standalone
+AccountCreationDate: 2025-06-01 20:00:24 UTC
+Color: R=0.00 G=0.67 B=1.00
+Cosmetics: None

@@ -1,0 +1,7 @@
+Name: TBBELKOO
+ActorNumber: 1276
+PlayerID: AA6784950A7AE71
+Platform: Standalone
+AccountCreationDate: 2025-03-14 20:49:32 UTC
+Color: R=0.44 G=0.00 B=0.78
+Cosmetics: None

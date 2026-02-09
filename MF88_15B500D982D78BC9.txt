@@ -1,0 +1,7 @@
+Name: TTTVXC
+ActorNumber: 609
+PlayerID: 15B500D982D78BC9
+Platform: Standalone
+AccountCreationDate: 2026-02-04 20:01:11 UTC
+Color: R=0.56 G=0.11 B=0.78
+Cosmetics: None

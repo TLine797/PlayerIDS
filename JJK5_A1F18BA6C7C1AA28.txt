@@ -1,0 +1,7 @@
+Name: PYRIXVR
+ActorNumber: 20
+PlayerID: A1F18BA6C7C1AA28
+Platform: Standalone
+AccountCreationDate: 2023-12-25 17:26:51 UTC
+Color: R=1.00 G=0.00 B=0.00
+Cosmetics: None

@@ -1,0 +1,7 @@
+Name: N3CTARJR
+ActorNumber: 10
+PlayerID: 41A8D8DE484C8E59
+Platform: Standalone
+AccountCreationDate: 2025-12-25 13:22:29 UTC
+Color: R=0.56 G=0.22 B=1.00
+Cosmetics: None

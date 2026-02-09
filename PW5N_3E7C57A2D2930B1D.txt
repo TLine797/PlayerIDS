@@ -1,0 +1,7 @@
+Name: PARTYKID
+ActorNumber: 74
+PlayerID: 3E7C57A2D2930B1D
+Platform: Standalone
+AccountCreationDate: 2023-12-25 20:32:38 UTC
+Color: R=0.00 G=0.43 B=1.00
+Cosmetics: None

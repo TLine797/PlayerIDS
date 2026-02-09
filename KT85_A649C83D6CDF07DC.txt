@@ -1,0 +1,7 @@
+Name: JANU
+ActorNumber: 18
+PlayerID: A649C83D6CDF07DC
+Platform: Unknown
+AccountCreationDate: 2021-05-07 03:07:45 UTC
+Color: R=0.44 G=0.00 B=0.78
+Cosmetics: None

@@ -1,0 +1,7 @@
+Name: HAPPY
+ActorNumber: 20
+PlayerID: AF006F51C0AFB8F1
+Platform: Standalone
+AccountCreationDate: 2025-05-30 20:04:26 UTC
+Color: R=0.44 G=0.67 B=0.89
+Cosmetics: None

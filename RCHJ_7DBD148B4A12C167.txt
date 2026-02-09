@@ -1,0 +1,7 @@
+Name: MRMOOSE
+ActorNumber: 151
+PlayerID: 7DBD148B4A12C167
+Platform: Standalone
+AccountCreationDate: 2023-11-20 20:30:19 UTC
+Color: R=1.00 G=1.00 B=0.00
+Cosmetics: None

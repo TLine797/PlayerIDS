@@ -1,0 +1,7 @@
+Name: JEFF
+ActorNumber: 561
+PlayerID: B3A875EF1D4C12C0
+Platform: Standalone
+AccountCreationDate: 2024-03-10 02:30:02 UTC
+Color: R=1.00 G=0.00 B=0.00
+Cosmetics: None

@@ -1,0 +1,7 @@
+Name: STARLINKPRO
+ActorNumber: 934
+PlayerID: BE1B476925864F1
+Platform: Standalone
+AccountCreationDate: 2025-06-03 14:17:44 UTC
+Color: R=0.00 G=0.89 B=0.00
+Cosmetics: None

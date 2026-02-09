@@ -1,0 +1,7 @@
+Name: JACKGOFF
+ActorNumber: 250
+PlayerID: A16ECF2E59E64193
+Platform: Unknown
+AccountCreationDate: 2021-05-15 14:03:55 UTC
+Color: R=1.00 G=0.00 B=0.56
+Cosmetics: None

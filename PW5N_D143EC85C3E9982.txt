@@ -1,0 +1,7 @@
+Name: FROGSARECOOL
+ActorNumber: 50
+PlayerID: D143EC85C3E9982
+Platform: Standalone
+AccountCreationDate: 2025-02-19 19:51:27 UTC
+Color: R=0.44 G=0.00 B=0.78
+Cosmetics: None

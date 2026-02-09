@@ -1,0 +1,7 @@
+Name: DROCK
+ActorNumber: 56
+PlayerID: C1C4F65E80E9B0E3
+Platform: Standalone
+AccountCreationDate: 2024-02-07 22:08:47 UTC
+Color: R=0.00 G=0.89 B=0.89
+Cosmetics: None

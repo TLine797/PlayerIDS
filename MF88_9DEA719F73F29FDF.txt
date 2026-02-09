@@ -1,0 +1,7 @@
+Name: SLOTHKINGVR
+ActorNumber: 595
+PlayerID: 9DEA719F73F29FDF
+Platform: Standalone
+AccountCreationDate: 2025-12-25 15:48:24 UTC
+Color: R=0.00 G=1.00 B=0.00
+Cosmetics: None

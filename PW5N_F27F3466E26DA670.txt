@@ -1,0 +1,7 @@
+Name: IZZY
+ActorNumber: 42
+PlayerID: F27F3466E26DA670
+Platform: Standalone
+AccountCreationDate: 2022-03-26 23:03:57 UTC
+Color: R=0.11 G=0.33 B=0.22
+Cosmetics: None

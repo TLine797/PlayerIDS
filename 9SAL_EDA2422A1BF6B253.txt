@@ -1,0 +1,7 @@
+Name: SAVA
+ActorNumber: 444
+PlayerID: EDA2422A1BF6B253
+Platform: Standalone
+AccountCreationDate: 2024-06-01 10:46:18 UTC
+Color: R=0.44 G=0.00 B=1.00
+Cosmetics: None

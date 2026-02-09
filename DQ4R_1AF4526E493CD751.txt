@@ -1,0 +1,7 @@
+Name: BLUEBERRYCLN
+ActorNumber: 4
+PlayerID: 1AF4526E493CD751
+Platform: Standalone
+AccountCreationDate: 2025-12-26 00:15:31 UTC
+Color: R=0.22 G=0.00 B=0.78
+Cosmetics: None

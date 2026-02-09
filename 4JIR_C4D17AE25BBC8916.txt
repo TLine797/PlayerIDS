@@ -1,0 +1,7 @@
+Name: SOVIET
+ActorNumber: 1219
+PlayerID: C4D17AE25BBC8916
+Platform: Standalone
+AccountCreationDate: 2023-03-17 21:35:29 UTC
+Color: R=0.00 G=0.00 B=1.00
+Cosmetics: None

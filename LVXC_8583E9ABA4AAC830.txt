@@ -1,0 +1,7 @@
+Name: FREESER
+ActorNumber: 1276
+PlayerID: 8583E9ABA4AAC830
+Platform: Standalone
+AccountCreationDate: 2024-07-30 00:25:09 UTC
+Color: R=0.89 G=0.67 B=1.00
+Cosmetics: None

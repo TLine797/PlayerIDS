@@ -1,0 +1,7 @@
+Name: 000
+ActorNumber: 798
+PlayerID: 1C549C32F81B62CB
+Platform: Standalone
+AccountCreationDate: 2025-12-26 04:18:25 UTC
+Color: R=1.00 G=0.67 B=1.00
+Cosmetics: None

@@ -1,0 +1,7 @@
+Name: FLOXX
+ActorNumber: 62
+PlayerID: 937A92FBBE270E86
+Platform: Standalone
+AccountCreationDate: 2025-09-24 16:57:13 UTC
+Color: R=1.00 G=0.00 B=0.00
+Cosmetics: None

@@ -1,0 +1,7 @@
+Name: HOLLOWOFC
+ActorNumber: 3
+PlayerID: DF50722E7CD30FC8
+Platform: Standalone
+AccountCreationDate: 2025-02-26 00:29:19 UTC
+Color: R=0.44 G=0.00 B=1.00
+Cosmetics: None

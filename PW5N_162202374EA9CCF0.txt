@@ -1,0 +1,7 @@
+Name: ITZDAIRY
+ActorNumber: 90
+PlayerID: 162202374EA9CCF0
+Platform: Standalone
+AccountCreationDate: 2025-08-04 15:53:50 UTC
+Color: R=1.00 G=0.33 B=0.33
+Cosmetics: None

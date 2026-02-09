@@ -1,0 +1,7 @@
+Name: gorilla4201
+ActorNumber: 8
+PlayerID: 4B41D7A9609D5689
+Platform: Standalone
+AccountCreationDate: 2025-02-08 03:11:47 UTC
+Color: R=1.00 G=0.00 B=0.56
+Cosmetics: None

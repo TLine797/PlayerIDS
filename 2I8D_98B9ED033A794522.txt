@@ -1,0 +1,7 @@
+Name: gorilla6084
+ActorNumber: 594
+PlayerID: 98B9ED033A794522
+Platform: Standalone
+AccountCreationDate: 2025-01-13 00:36:18 UTC
+Color: R=1.00 G=0.67 B=0.00
+Cosmetics: None

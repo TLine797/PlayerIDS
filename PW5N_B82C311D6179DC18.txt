@@ -1,0 +1,7 @@
+Name: AOSTAZEE
+ActorNumber: 77
+PlayerID: B82C311D6179DC18
+Platform: Standalone
+AccountCreationDate: 2024-04-04 19:59:55 UTC
+Color: R=0.00 G=0.56 B=0.56
+Cosmetics: None

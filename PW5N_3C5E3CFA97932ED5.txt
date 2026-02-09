@@ -1,0 +1,7 @@
+Name: GORILLA
+ActorNumber: 64
+PlayerID: 3C5E3CFA97932ED5
+Platform: Standalone
+AccountCreationDate: 2024-04-06 13:47:56 UTC
+Color: R=0.00 G=0.33 B=0.33
+Cosmetics: None

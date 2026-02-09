@@ -1,0 +1,7 @@
+Name: DEXXY
+ActorNumber: 155
+PlayerID: F60C016A6BE4AE
+Platform: Standalone
+AccountCreationDate: 2025-08-12 13:23:44 UTC
+Color: R=0.33 G=0.00 B=0.67
+Cosmetics: None

@@ -1,0 +1,7 @@
+Name: NOVA
+ActorNumber: 103
+PlayerID: 733D27B13328C612
+Platform: Standalone
+AccountCreationDate: 2025-02-23 21:28:17 UTC
+Color: R=0.89 G=0.22 B=0.22
+Cosmetics: None

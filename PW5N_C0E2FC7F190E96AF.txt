@@ -1,0 +1,7 @@
+Name: SHOOPOOED
+ActorNumber: 16
+PlayerID: C0E2FC7F190E96AF
+Platform: Standalone
+AccountCreationDate: 2023-12-25 13:55:09 UTC
+Color: R=0.89 G=0.44 B=0.00
+Cosmetics: None

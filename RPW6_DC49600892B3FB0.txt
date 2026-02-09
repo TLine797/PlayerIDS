@@ -1,0 +1,7 @@
+Name: TACO
+ActorNumber: 795
+PlayerID: DC49600892B3FB0
+Platform: Unknown
+AccountCreationDate: 2022-12-18 18:00:15 UTC
+Color: R=0.11 G=0.33 B=0.67
+Cosmetics: None

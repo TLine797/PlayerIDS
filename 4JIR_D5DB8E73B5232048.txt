@@ -1,0 +1,7 @@
+Name: HEEISENBERG
+ActorNumber: 941
+PlayerID: D5DB8E73B5232048
+Platform: Unknown
+AccountCreationDate: 2022-12-31 11:35:29 UTC
+Color: R=1.00 G=1.00 B=1.00
+Cosmetics: None

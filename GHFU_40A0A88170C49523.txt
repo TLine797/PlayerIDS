@@ -1,0 +1,7 @@
+Name: GAMBIT
+ActorNumber: 1251
+PlayerID: 40A0A88170C49523
+Platform: Standalone
+AccountCreationDate: 2025-09-11 09:12:04 UTC
+Color: R=1.00 G=0.00 B=0.00
+Cosmetics: None

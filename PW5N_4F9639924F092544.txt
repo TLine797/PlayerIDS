@@ -1,0 +1,7 @@
+Name: HEX
+ActorNumber: 35
+PlayerID: 4F9639924F092544
+Platform: Standalone
+AccountCreationDate: 2025-12-01 16:11:31 UTC
+Color: R=0.33 G=0.67 B=0.89
+Cosmetics: None

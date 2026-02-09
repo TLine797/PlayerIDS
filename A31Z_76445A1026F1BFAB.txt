@@ -1,0 +1,7 @@
+Name: WIZARD
+ActorNumber: 470
+PlayerID: 76445A1026F1BFAB
+Platform: Unknown
+AccountCreationDate: 2022-01-02 07:11:58 UTC
+Color: R=0.44 G=0.22 B=0.78
+Cosmetics: None
