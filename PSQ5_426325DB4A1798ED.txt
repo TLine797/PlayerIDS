@@ -1,0 +1,7 @@
+Name: JUHBUH
+ActorNumber: 37
+PlayerID: 426325DB4A1798ED
+Platform: Unknown
+AccountCreationDate: 2021-10-29 00:51:44 UTC
+Color: R=0.22 G=0.67 B=0.78
+Cosmetics: None

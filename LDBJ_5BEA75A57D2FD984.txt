@@ -1,0 +1,7 @@
+Name: AFRO
+ActorNumber: 612
+PlayerID: 5BEA75A57D2FD984
+Platform: Standalone
+AccountCreationDate: 2024-06-25 21:31:04 UTC
+Color: R=0.00 G=0.44 B=0.22
+Cosmetics: None

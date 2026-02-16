@@ -1,0 +1,7 @@
+Name: BLUESKEE
+ActorNumber: 193
+PlayerID: 6A3188E2A80E9F54
+Platform: Standalone
+AccountCreationDate: 2025-09-12 22:06:53 UTC
+Color: R=0.00 G=0.22 B=0.44
+Cosmetics: None

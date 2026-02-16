@@ -1,0 +1,7 @@
+Name: PANCAKES
+ActorNumber: 7
+PlayerID: D354AA07DB0CE72E
+Platform: Standalone
+AccountCreationDate: 2025-06-06 16:25:55 UTC
+Color: R=0.44 G=0.67 B=1.00
+Cosmetics: None

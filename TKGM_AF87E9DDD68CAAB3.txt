@@ -1,0 +1,7 @@
+Name: SABER2293
+ActorNumber: 182
+PlayerID: AF87E9DDD68CAAB3
+Platform: Unknown
+AccountCreationDate: 2022-02-23 02:43:01 UTC
+Color: R=0.00 G=0.00 B=0.00
+Cosmetics: None

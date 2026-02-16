@@ -1,0 +1,7 @@
+Name: GARRISONCLPZ
+ActorNumber: 236
+PlayerID: 23C168FBF2EC0729
+Platform: Standalone
+AccountCreationDate: 2023-03-06 03:49:56 UTC
+Color: R=0.00 G=0.44 B=0.22
+Cosmetics: None

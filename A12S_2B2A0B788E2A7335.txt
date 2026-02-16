@@ -1,0 +1,7 @@
+Name: FEMBOYGOONER
+ActorNumber: 597
+PlayerID: 2B2A0B788E2A7335
+Platform: Standalone
+AccountCreationDate: 2025-11-12 20:09:18 UTC
+Color: R=0.00 G=0.00 B=0.00
+Cosmetics: None

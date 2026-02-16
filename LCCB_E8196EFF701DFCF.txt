@@ -1,0 +1,7 @@
+Name: PENGU
+ActorNumber: 361
+PlayerID: E8196EFF701DFCF
+Platform: Standalone
+AccountCreationDate: 2023-12-25 15:17:59 UTC
+Color: R=1.00 G=1.00 B=0.44
+Cosmetics: None

@@ -1,0 +1,7 @@
+Name: CLOVER
+ActorNumber: 207
+PlayerID: FD00665D4A889590
+Platform: Standalone
+AccountCreationDate: 2025-08-03 17:43:35 UTC
+Color: R=0.00 G=0.89 B=1.00
+Cosmetics: None

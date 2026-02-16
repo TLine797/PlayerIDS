@@ -1,0 +1,7 @@
+Name: ITNOTME
+ActorNumber: 20
+PlayerID: 2330493A25271502
+Platform: Standalone
+AccountCreationDate: 2025-07-19 02:44:50 UTC
+Color: R=0.78 G=0.33 B=0.56
+Cosmetics: None

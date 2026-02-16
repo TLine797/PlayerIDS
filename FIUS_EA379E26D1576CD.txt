@@ -1,0 +1,7 @@
+Name: BLACKK
+ActorNumber: 22
+PlayerID: EA379E26D1576CD
+Platform: Standalone
+AccountCreationDate: 2025-07-30 12:33:38 UTC
+Color: R=0.00 G=0.00 B=0.00
+Cosmetics: None

@@ -1,0 +1,7 @@
+Name: ACCELERATE
+ActorNumber: 302
+PlayerID: 4994F8A44B372AA7
+Platform: Standalone
+AccountCreationDate: 2025-12-03 22:03:13 UTC
+Color: R=0.11 G=0.33 B=1.00
+Cosmetics: None

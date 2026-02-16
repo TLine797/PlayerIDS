@@ -1,0 +1,7 @@
+Name: AAPROX
+ActorNumber: 775
+PlayerID: C6B1226F0AEE20D
+Platform: Standalone
+AccountCreationDate: 2025-02-14 03:46:26 UTC
+Color: R=0.00 G=0.00 B=0.00
+Cosmetics: None

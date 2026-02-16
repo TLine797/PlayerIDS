@@ -1,0 +1,7 @@
+Name: gorilla2966
+ActorNumber: 42
+PlayerID: D417770A63014BA6
+Platform: Standalone
+AccountCreationDate: 2024-12-27 22:59:20 UTC
+Color: R=0.44 G=0.00 B=0.00
+Cosmetics: None

@@ -1,0 +1,7 @@
+Name: TDWAPEX
+ActorNumber: 111
+PlayerID: CD08F94289919E7B
+Platform: Standalone
+AccountCreationDate: 2023-12-26 21:30:32 UTC
+Color: R=0.44 G=1.00 B=0.22
+Cosmetics: None

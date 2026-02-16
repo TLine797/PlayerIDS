@@ -1,0 +1,7 @@
+Name: TBBJEFFY
+ActorNumber: 156
+PlayerID: 3A1E1A26AFC22BF8
+Platform: Standalone
+AccountCreationDate: 2025-08-29 21:43:33 UTC
+Color: R=0.00 G=0.00 B=0.00
+Cosmetics: None

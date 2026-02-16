@@ -1,0 +1,7 @@
+Name: LITTLEMANFOR
+ActorNumber: 992
+PlayerID: DD362561DEDE6408
+Platform: Standalone
+AccountCreationDate: 2024-11-04 02:32:56 UTC
+Color: R=0.11 G=0.00 B=0.67
+Cosmetics: None

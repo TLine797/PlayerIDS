@@ -1,0 +1,7 @@
+Name: EXLO
+ActorNumber: 71
+PlayerID: 7AB182CF82D0D870
+Platform: Standalone
+AccountCreationDate: 2024-11-05 17:25:53 UTC
+Color: R=0.44 G=0.00 B=0.78
+Cosmetics: None

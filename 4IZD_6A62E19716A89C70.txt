@@ -1,0 +1,7 @@
+Name: VAMPZ
+ActorNumber: 588
+PlayerID: 6A62E19716A89C70
+Platform: Standalone
+AccountCreationDate: 2023-05-14 16:55:35 UTC
+Color: R=1.00 G=0.89 B=0.00
+Cosmetics: None

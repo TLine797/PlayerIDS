@@ -1,0 +1,7 @@
+Name: RAY
+ActorNumber: 1665
+PlayerID: 1E730AFEFF86BED6
+Platform: Standalone
+AccountCreationDate: 2026-01-10 23:46:43 UTC
+Color: R=0.67 G=0.67 B=0.67
+Cosmetics: None

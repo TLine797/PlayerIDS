@@ -1,0 +1,7 @@
+Name: gorilla8772
+ActorNumber: 526
+PlayerID: FC53D67E00891EB4
+Platform: Standalone
+AccountCreationDate: 2025-10-19 18:15:15 UTC
+Color: R=0.00 G=0.00 B=0.00
+Cosmetics: None

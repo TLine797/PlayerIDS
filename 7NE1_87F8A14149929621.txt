@@ -1,0 +1,7 @@
+Name: WGBZ3RO
+ActorNumber: 64
+PlayerID: 87F8A14149929621
+Platform: Standalone
+AccountCreationDate: 2025-12-25 18:58:38 UTC
+Color: R=0.00 G=1.00 B=1.00
+Cosmetics: None

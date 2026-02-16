@@ -1,0 +1,7 @@
+Name: DAQUAVIUS
+ActorNumber: 144
+PlayerID: F294D5B30A9BC7DD
+Platform: Standalone
+AccountCreationDate: 2024-12-25 18:56:16 UTC
+Color: R=0.00 G=0.11 B=1.00
+Cosmetics: None

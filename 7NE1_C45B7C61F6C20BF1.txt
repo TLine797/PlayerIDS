@@ -1,0 +1,7 @@
+Name: TIMMYBOY444
+ActorNumber: 30
+PlayerID: C45B7C61F6C20BF1
+Platform: Standalone
+AccountCreationDate: 2026-01-31 17:03:11 UTC
+Color: R=0.00 G=0.00 B=0.00
+Cosmetics: None

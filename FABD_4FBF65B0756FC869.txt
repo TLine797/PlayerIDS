@@ -1,0 +1,7 @@
+Name: CHILL
+ActorNumber: 538
+PlayerID: 4FBF65B0756FC869
+Platform: Unknown
+AccountCreationDate: 2022-02-20 02:11:41 UTC
+Color: R=1.00 G=0.00 B=0.00
+Cosmetics: None

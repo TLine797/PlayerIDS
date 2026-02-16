@@ -1,0 +1,7 @@
+Name: KINGSLAYER
+ActorNumber: 681
+PlayerID: 7E42D6117274F5E8
+Platform: Unknown
+AccountCreationDate: 2022-09-10 18:15:03 UTC
+Color: R=0.44 G=0.22 B=0.89
+Cosmetics: None

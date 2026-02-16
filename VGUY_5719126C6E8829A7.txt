@@ -1,0 +1,7 @@
+Name: BOBBY
+ActorNumber: 251
+PlayerID: 5719126C6E8829A7
+Platform: Unknown
+AccountCreationDate: 2022-03-28 21:42:35 UTC
+Color: R=1.00 G=0.33 B=0.33
+Cosmetics: None

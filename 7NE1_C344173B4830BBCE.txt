@@ -1,0 +1,7 @@
+Name: HOMIE
+ActorNumber: 61
+PlayerID: C344173B4830BBCE
+Platform: Standalone
+AccountCreationDate: 2024-01-10 00:24:37 UTC
+Color: R=1.00 G=0.22 B=0.22
+Cosmetics: None

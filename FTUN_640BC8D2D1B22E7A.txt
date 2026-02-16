@@ -1,0 +1,7 @@
+Name: PHANTOM
+ActorNumber: 384
+PlayerID: 640BC8D2D1B22E7A
+Platform: Unknown
+AccountCreationDate: 2022-12-19 02:30:38 UTC
+Color: R=0.33 G=0.00 B=0.00
+Cosmetics: None

@@ -1,0 +1,7 @@
+Name: GOO
+ActorNumber: 71
+PlayerID: BDE7EFE638562E3B
+Platform: Standalone
+AccountCreationDate: 2025-03-06 21:15:48 UTC
+Color: R=0.44 G=0.44 B=0.67
+Cosmetics: None

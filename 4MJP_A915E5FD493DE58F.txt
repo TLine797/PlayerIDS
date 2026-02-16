@@ -1,0 +1,7 @@
+Name: VALVEINDEX
+ActorNumber: 543
+PlayerID: A915E5FD493DE58F
+Platform: Standalone
+AccountCreationDate: 2026-01-23 23:50:30 UTC
+Color: R=0.33 G=0.33 B=1.00
+Cosmetics: None

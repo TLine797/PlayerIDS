@@ -1,0 +1,7 @@
+Name: TETO
+ActorNumber: 292
+PlayerID: B92A81D4438056BE
+Platform: Standalone
+AccountCreationDate: 2023-12-26 01:32:42 UTC
+Color: R=1.00 G=0.67 B=1.00
+Cosmetics: None

@@ -1,0 +1,7 @@
+Name: CHILLY
+ActorNumber: 1017
+PlayerID: AA4E2D24E48489A0
+Platform: Unknown
+AccountCreationDate: 2022-07-18 15:08:02 UTC
+Color: R=0.00 G=0.44 B=1.00
+Cosmetics: None

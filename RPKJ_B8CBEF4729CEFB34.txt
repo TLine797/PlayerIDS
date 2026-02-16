@@ -1,0 +1,7 @@
+Name: BLACKWETDICK
+ActorNumber: 31
+PlayerID: B8CBEF4729CEFB34
+Platform: Standalone
+AccountCreationDate: 2023-12-25 21:08:16 UTC
+Color: R=0.44 G=0.00 B=0.78
+Cosmetics: None

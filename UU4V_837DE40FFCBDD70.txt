@@ -1,0 +1,7 @@
+Name: BARTHOLOMEW1
+ActorNumber: 78
+PlayerID: 837DE40FFCBDD70
+Platform: Standalone
+AccountCreationDate: 2023-07-17 22:19:44 UTC
+Color: R=1.00 G=1.00 B=0.00
+Cosmetics: None

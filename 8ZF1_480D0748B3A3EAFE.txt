@@ -1,0 +1,7 @@
+Name: FIREFIGHTER
+ActorNumber: 254
+PlayerID: 480D0748B3A3EAFE
+Platform: Unknown
+AccountCreationDate: 2022-12-31 01:46:25 UTC
+Color: R=0.00 G=0.00 B=0.00
+Cosmetics: None

@@ -1,0 +1,7 @@
+Name: CUPID
+ActorNumber: 38
+PlayerID: 8056C23F4A378AE0
+Platform: Standalone
+AccountCreationDate: 2023-12-25 01:46:51 UTC
+Color: R=0.00 G=0.00 B=0.00
+Cosmetics: None

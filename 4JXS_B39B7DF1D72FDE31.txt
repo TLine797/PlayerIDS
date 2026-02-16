@@ -1,0 +1,7 @@
+Name: TWKECHO
+ActorNumber: 15
+PlayerID: B39B7DF1D72FDE31
+Platform: Standalone
+AccountCreationDate: 2025-12-25 20:43:55 UTC
+Color: R=0.00 G=0.00 B=0.00
+Cosmetics: None

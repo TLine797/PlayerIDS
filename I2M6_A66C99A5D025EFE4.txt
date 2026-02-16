@@ -1,0 +1,7 @@
+Name: TTTWILL
+ActorNumber: 88
+PlayerID: A66C99A5D025EFE4
+Platform: Standalone
+AccountCreationDate: 2025-12-25 16:33:53 UTC
+Color: R=0.22 G=1.00 B=1.00
+Cosmetics: None

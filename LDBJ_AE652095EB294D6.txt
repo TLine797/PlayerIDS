@@ -1,0 +1,7 @@
+Name: 1997
+ActorNumber: 569
+PlayerID: AE652095EB294D6
+Platform: PC
+AccountCreationDate: 2022-07-29 19:36:51 UTC
+Color: R=0.67 G=0.78 B=0.00
+Cosmetics: None

@@ -1,0 +1,7 @@
+Name: ABLUEPERSON
+ActorNumber: 430
+PlayerID: 5377C6E55E145C11
+Platform: Standalone
+AccountCreationDate: 2025-03-18 17:02:58 UTC
+Color: R=0.22 G=0.33 B=1.00
+Cosmetics: None

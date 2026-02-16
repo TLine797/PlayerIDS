@@ -1,0 +1,7 @@
+Name: CHARK
+ActorNumber: 401
+PlayerID: 56D49D81556DE4E0
+Platform: Standalone
+AccountCreationDate: 2023-09-19 21:15:33 UTC
+Color: R=0.44 G=0.00 B=1.00
+Cosmetics: None

@@ -1,0 +1,7 @@
+Name: VORTEX5757
+ActorNumber: 15
+PlayerID: 37381F7814C4A022
+Platform: Unknown
+AccountCreationDate: 2022-09-19 23:57:48 UTC
+Color: R=1.00 G=0.33 B=0.00
+Cosmetics: None

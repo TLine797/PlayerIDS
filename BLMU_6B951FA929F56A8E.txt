@@ -1,0 +1,7 @@
+Name: CHASE
+ActorNumber: 524
+PlayerID: 6B951FA929F56A8E
+Platform: Standalone
+AccountCreationDate: 2025-01-30 22:14:36 UTC
+Color: R=0.00 G=0.00 B=1.00
+Cosmetics: None

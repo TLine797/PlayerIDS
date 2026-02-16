@@ -1,0 +1,7 @@
+Name: SNOWVR
+ActorNumber: 386
+PlayerID: 28AC5341FF0B698B
+Platform: Unknown
+AccountCreationDate: 2021-05-07 03:51:52 UTC
+Color: R=0.00 G=1.00 B=1.00
+Cosmetics: None

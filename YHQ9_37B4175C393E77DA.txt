@@ -1,0 +1,7 @@
+Name: BENITO
+ActorNumber: 579
+PlayerID: 37B4175C393E77DA
+Platform: Standalone
+AccountCreationDate: 2025-05-11 02:27:57 UTC
+Color: R=0.00 G=0.56 B=0.67
+Cosmetics: None

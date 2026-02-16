@@ -1,0 +1,7 @@
+Name: RM1LORD
+ActorNumber: 194
+PlayerID: A7E6907A61CB2E79
+Platform: Standalone
+AccountCreationDate: 2025-10-04 00:09:52 UTC
+Color: R=0.44 G=0.22 B=0.56
+Cosmetics: None

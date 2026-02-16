@@ -1,0 +1,7 @@
+Name: REVIVE
+ActorNumber: 413
+PlayerID: 60FDA25172A8F000
+Platform: PC
+AccountCreationDate: 2026-01-17 00:07:04 UTC
+Color: R=0.22 G=0.22 B=0.22
+Cosmetics: None

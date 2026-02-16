@@ -1,0 +1,7 @@
+Name: TTTSWAGGY
+ActorNumber: 34
+PlayerID: C4A083A8CD4C9457
+Platform: Standalone
+AccountCreationDate: 2026-01-02 19:39:02 UTC
+Color: R=0.67 G=1.00 B=0.67
+Cosmetics: None

@@ -1,0 +1,7 @@
+Name: NOTZAZA
+ActorNumber: 482
+PlayerID: F23037CD33FF9EC5
+Platform: PC
+AccountCreationDate: 2022-06-26 20:51:13 UTC
+Color: R=1.00 G=0.00 B=0.00
+Cosmetics: None

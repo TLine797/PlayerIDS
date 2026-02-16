@@ -1,0 +1,7 @@
+Name: POOF
+ActorNumber: 523
+PlayerID: F97B924F661CEEA9
+Platform: Unknown
+AccountCreationDate: 2022-01-26 02:22:55 UTC
+Color: R=0.44 G=0.33 B=1.00
+Cosmetics: None

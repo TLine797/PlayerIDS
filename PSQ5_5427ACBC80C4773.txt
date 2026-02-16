@@ -1,0 +1,7 @@
+Name: HELLO
+ActorNumber: 34
+PlayerID: 5427ACBC80C4773
+Platform: Standalone
+AccountCreationDate: 2025-04-25 15:15:54 UTC
+Color: R=1.00 G=1.00 B=1.00
+Cosmetics: None

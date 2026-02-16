@@ -1,0 +1,7 @@
+Name: IMSORRY
+ActorNumber: 9
+PlayerID: 57256AE7B51D4707
+Platform: Standalone
+AccountCreationDate: 2025-01-12 00:31:00 UTC
+Color: R=0.22 G=0.44 B=0.44
+Cosmetics: None

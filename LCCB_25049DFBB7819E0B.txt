@@ -1,0 +1,7 @@
+Name: gorilla5655
+ActorNumber: 427
+PlayerID: 25049DFBB7819E0B
+Platform: Standalone
+AccountCreationDate: 2025-12-25 21:20:24 UTC
+Color: R=0.56 G=0.56 B=0.67
+Cosmetics: None

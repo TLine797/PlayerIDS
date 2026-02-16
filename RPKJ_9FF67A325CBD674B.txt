@@ -1,0 +1,7 @@
+Name: LILJUICEBOX
+ActorNumber: 36
+PlayerID: 9FF67A325CBD674B
+Platform: Unknown
+AccountCreationDate: 2022-02-09 03:07:49 UTC
+Color: R=1.00 G=0.67 B=1.00
+Cosmetics: None

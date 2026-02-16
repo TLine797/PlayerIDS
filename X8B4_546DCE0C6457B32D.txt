@@ -1,0 +1,7 @@
+Name: BOIT
+ActorNumber: 445
+PlayerID: 546DCE0C6457B32D
+Platform: Standalone
+AccountCreationDate: 2025-11-29 02:08:20 UTC
+Color: R=0.89 G=0.78 B=0.89
+Cosmetics: None

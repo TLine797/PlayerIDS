@@ -1,0 +1,7 @@
+Name: T
+ActorNumber: 149
+PlayerID: D4F6FA436FD16C8F
+Platform: Standalone
+AccountCreationDate: 2024-11-09 01:30:43 UTC
+Color: R=0.22 G=0.11 B=0.33
+Cosmetics: None

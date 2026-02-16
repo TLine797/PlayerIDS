@@ -1,0 +1,7 @@
+Name: gorilla4624
+ActorNumber: 192
+PlayerID: 944A38D0AD045914
+Platform: Standalone
+AccountCreationDate: 2025-01-22 12:08:48 UTC
+Color: R=0.44 G=0.67 B=1.00
+Cosmetics: None

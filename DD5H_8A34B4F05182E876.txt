@@ -1,0 +1,7 @@
+Name: FVPWINTER
+ActorNumber: 1683
+PlayerID: 8A34B4F05182E876
+Platform: Standalone
+AccountCreationDate: 2025-08-02 21:19:30 UTC
+Color: R=0.33 G=0.00 B=0.44
+Cosmetics: None

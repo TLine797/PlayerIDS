@@ -1,0 +1,7 @@
+Name: PURP
+ActorNumber: 146
+PlayerID: D47638AAA8D80F35
+Platform: Standalone
+AccountCreationDate: 2024-07-31 22:13:08 UTC
+Color: R=0.44 G=0.00 B=1.00
+Cosmetics: None

@@ -1,0 +1,7 @@
+Name: XRTY
+ActorNumber: 1040
+PlayerID: 2E00F3C0C30D16B3
+Platform: Standalone
+AccountCreationDate: 2023-12-25 18:53:00 UTC
+Color: R=0.00 G=0.00 B=1.00
+Cosmetics: None

@@ -1,0 +1,7 @@
+Name: KRYPTONITE
+ActorNumber: 618
+PlayerID: EC66C712688A44E9
+Platform: Standalone
+AccountCreationDate: 2026-01-02 04:17:41 UTC
+Color: R=1.00 G=0.00 B=0.22
+Cosmetics: None

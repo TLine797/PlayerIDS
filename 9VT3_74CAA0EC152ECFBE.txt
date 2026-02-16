@@ -1,0 +1,7 @@
+Name: gorilla2133
+ActorNumber: 39
+PlayerID: 74CAA0EC152ECFBE
+Platform: Standalone
+AccountCreationDate: 2025-02-05 01:27:34 UTC
+Color: R=0.56 G=0.00 B=1.00
+Cosmetics: None

@@ -1,0 +1,7 @@
+Name: COOLKID
+ActorNumber: 613
+PlayerID: E7816957506ABBA7
+Platform: Standalone
+AccountCreationDate: 2025-01-14 23:50:32 UTC
+Color: R=0.00 G=0.00 B=0.00
+Cosmetics: None

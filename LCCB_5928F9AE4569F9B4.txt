@@ -1,0 +1,7 @@
+Name: HATEND
+ActorNumber: 318
+PlayerID: 5928F9AE4569F9B4
+Platform: Standalone
+AccountCreationDate: 2024-12-29 18:43:01 UTC
+Color: R=0.00 G=0.22 B=0.00
+Cosmetics: None

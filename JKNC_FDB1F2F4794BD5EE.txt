@@ -1,0 +1,7 @@
+Name: SOURPATCH
+ActorNumber: 104
+PlayerID: FDB1F2F4794BD5EE
+Platform: Standalone
+AccountCreationDate: 2025-06-15 17:19:50 UTC
+Color: R=0.00 G=0.67 B=1.00
+Cosmetics: None

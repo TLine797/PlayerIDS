@@ -1,0 +1,7 @@
+Name: FRISH
+ActorNumber: 152
+PlayerID: C2B507895CC24E9D
+Platform: Standalone
+AccountCreationDate: 2026-01-07 19:32:56 UTC
+Color: R=0.00 G=0.00 B=1.00
+Cosmetics: None

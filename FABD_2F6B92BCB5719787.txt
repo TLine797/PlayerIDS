@@ -1,0 +1,7 @@
+Name: HORIZON
+ActorNumber: 620
+PlayerID: 2F6B92BCB5719787
+Platform: Standalone
+AccountCreationDate: 2023-12-27 00:32:16 UTC
+Color: R=1.00 G=0.44 B=0.00
+Cosmetics: None

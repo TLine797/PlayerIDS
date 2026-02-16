@@ -1,0 +1,7 @@
+Name: MELON
+ActorNumber: 618
+PlayerID: 5BFEC0725D16D381
+Platform: Unknown
+AccountCreationDate: 2022-06-14 00:11:05 UTC
+Color: R=0.44 G=0.00 B=0.00
+Cosmetics: None

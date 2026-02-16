@@ -1,0 +1,7 @@
+Name: FGERAZOR
+ActorNumber: 242
+PlayerID: 965F7EA82CE81B89
+Platform: Standalone
+AccountCreationDate: 2025-08-21 19:48:05 UTC
+Color: R=0.00 G=0.22 B=0.22
+Cosmetics: None

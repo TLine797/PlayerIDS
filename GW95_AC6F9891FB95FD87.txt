@@ -1,0 +1,7 @@
+Name: SLIPPAA
+ActorNumber: 197
+PlayerID: AC6F9891FB95FD87
+Platform: Standalone
+AccountCreationDate: 2025-03-30 23:08:53 UTC
+Color: R=0.89 G=0.22 B=0.22
+Cosmetics: None

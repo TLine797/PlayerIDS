@@ -1,0 +1,7 @@
+Name: JKVR
+ActorNumber: 305
+PlayerID: 254768E4212B3ABD
+Platform: Standalone
+AccountCreationDate: 2025-02-23 20:14:49 UTC
+Color: R=0.00 G=0.44 B=0.89
+Cosmetics: None

@@ -1,0 +1,7 @@
+Name: TTT1ARM
+ActorNumber: 12
+PlayerID: 43FF52F977B16ADC
+Platform: Standalone
+AccountCreationDate: 2024-03-03 21:24:53 UTC
+Color: R=0.22 G=0.56 B=0.78
+Cosmetics: None

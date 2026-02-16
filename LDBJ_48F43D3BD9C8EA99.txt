@@ -1,0 +1,7 @@
+Name: R4MP4GE
+ActorNumber: 539
+PlayerID: 48F43D3BD9C8EA99
+Platform: Standalone
+AccountCreationDate: 2023-11-04 22:31:21 UTC
+Color: R=0.00 G=0.00 B=0.00
+Cosmetics: None

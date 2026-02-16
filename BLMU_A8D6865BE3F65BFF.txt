@@ -1,0 +1,7 @@
+Name: BDGCBCDBCGGB
+ActorNumber: 488
+PlayerID: A8D6865BE3F65BFF
+Platform: Standalone
+AccountCreationDate: 2026-01-03 23:09:07 UTC
+Color: R=0.22 G=0.11 B=0.00
+Cosmetics: None

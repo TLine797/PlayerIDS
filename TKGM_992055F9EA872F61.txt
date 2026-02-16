@@ -1,0 +1,7 @@
+Name: S
+ActorNumber: 180
+PlayerID: 992055F9EA872F61
+Platform: Standalone
+AccountCreationDate: 2025-10-14 05:28:57 UTC
+Color: R=0.44 G=0.00 B=1.00
+Cosmetics: None

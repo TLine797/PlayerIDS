@@ -1,0 +1,7 @@
+Name: SHOULDVR
+ActorNumber: 239
+PlayerID: 8D2642D7973E0E46
+Platform: Standalone
+AccountCreationDate: 2025-02-18 17:32:21 UTC
+Color: R=0.89 G=0.67 B=0.78
+Cosmetics: None

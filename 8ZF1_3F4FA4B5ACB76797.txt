@@ -1,0 +1,7 @@
+Name: GCDX
+ActorNumber: 216
+PlayerID: 3F4FA4B5ACB76797
+Platform: Standalone
+AccountCreationDate: 2025-04-07 20:51:30 UTC
+Color: R=0.67 G=0.89 B=0.00
+Cosmetics: None

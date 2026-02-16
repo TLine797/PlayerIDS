@@ -1,0 +1,7 @@
+Name: LORENZOMF
+ActorNumber: 99
+PlayerID: FC11EE709DDBCCAC
+Platform: Standalone
+AccountCreationDate: 2025-05-17 22:57:52 UTC
+Color: R=0.78 G=0.78 B=0.00
+Cosmetics: None

@@ -1,0 +1,7 @@
+Name: NUGGETS
+ActorNumber: 68
+PlayerID: 36ED06803FDA36CB
+Platform: Standalone
+AccountCreationDate: 2024-01-20 20:51:46 UTC
+Color: R=0.00 G=0.22 B=0.00
+Cosmetics: None

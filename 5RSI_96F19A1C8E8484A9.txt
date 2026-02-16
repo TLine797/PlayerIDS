@@ -1,0 +1,7 @@
+Name: H4
+ActorNumber: 43
+PlayerID: 96F19A1C8E8484A9
+Platform: Standalone
+AccountCreationDate: 2026-01-22 20:41:41 UTC
+Color: R=0.44 G=0.33 B=1.00
+Cosmetics: None

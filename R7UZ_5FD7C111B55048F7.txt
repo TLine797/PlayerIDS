@@ -1,0 +1,7 @@
+Name: DSTROYERBOY
+ActorNumber: 290
+PlayerID: 5FD7C111B55048F7
+Platform: Standalone
+AccountCreationDate: 2024-12-25 20:07:08 UTC
+Color: R=0.56 G=0.11 B=0.67
+Cosmetics: None

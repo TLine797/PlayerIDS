@@ -1,0 +1,7 @@
+Name: XXXPINEAPPLE
+ActorNumber: 98
+PlayerID: 7C0DCF39560DB2E1
+Platform: Unknown
+AccountCreationDate: 2022-03-10 23:08:18 UTC
+Color: R=0.89 G=0.89 B=0.11
+Cosmetics: None

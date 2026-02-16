@@ -1,0 +1,7 @@
+Name: OLI
+ActorNumber: 398
+PlayerID: 560F6F16728C3EDE
+Platform: Standalone
+AccountCreationDate: 2024-12-27 02:34:21 UTC
+Color: R=0.00 G=0.78 B=1.00
+Cosmetics: None

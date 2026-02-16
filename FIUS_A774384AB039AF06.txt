@@ -1,0 +1,7 @@
+Name: SHWENDYFAN
+ActorNumber: 566
+PlayerID: A774384AB039AF06
+Platform: Unknown
+AccountCreationDate: 2021-07-07 17:01:13 UTC
+Color: R=0.00 G=1.00 B=0.67
+Cosmetics: None

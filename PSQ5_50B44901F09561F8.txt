@@ -1,0 +1,7 @@
+Name: GODLOVESYOU
+ActorNumber: 33
+PlayerID: 50B44901F09561F8
+Platform: Standalone
+AccountCreationDate: 2024-05-22 11:50:56 UTC
+Color: R=0.78 G=0.78 B=1.00
+Cosmetics: None

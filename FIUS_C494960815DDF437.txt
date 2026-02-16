@@ -1,0 +1,7 @@
+Name: MINI123
+ActorNumber: 564
+PlayerID: C494960815DDF437
+Platform: Standalone
+AccountCreationDate: 2025-12-25 19:05:52 UTC
+Color: R=1.00 G=0.67 B=1.00
+Cosmetics: None

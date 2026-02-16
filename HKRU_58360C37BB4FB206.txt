@@ -1,0 +1,7 @@
+Name: mark
+ActorNumber: 1712
+PlayerID: 58360C37BB4FB206
+Platform: Standalone
+AccountCreationDate: 2025-01-24 00:17:11 UTC
+Color: R=0.33 G=0.00 B=1.00
+Cosmetics: None

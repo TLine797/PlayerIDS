@@ -1,0 +1,7 @@
+Name: RY1TOP7
+ActorNumber: 28
+PlayerID: 2D872641F3E09488
+Platform: Standalone
+AccountCreationDate: 2025-12-30 22:31:44 UTC
+Color: R=0.00 G=0.00 B=0.00
+Cosmetics: None

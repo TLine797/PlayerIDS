@@ -1,0 +1,7 @@
+Name: GUAVA
+ActorNumber: 425
+PlayerID: 9B942F7EC8BD5B59
+Platform: Unknown
+AccountCreationDate: 2022-12-29 18:51:47 UTC
+Color: R=1.00 G=0.00 B=0.33
+Cosmetics: None

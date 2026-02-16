@@ -1,0 +1,7 @@
+Name: 0GHHBVVBHHVB
+ActorNumber: 16
+PlayerID: FD6DC5A208E89AF9
+Platform: Standalone
+AccountCreationDate: 2025-01-03 20:04:33 UTC
+Color: R=0.00 G=1.00 B=0.00
+Cosmetics: None

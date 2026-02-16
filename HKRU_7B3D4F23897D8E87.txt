@@ -1,0 +1,7 @@
+Name: A1DAN
+ActorNumber: 1724
+PlayerID: 7B3D4F23897D8E87
+Platform: Standalone
+AccountCreationDate: 2024-12-25 05:20:27 UTC
+Color: R=1.00 G=1.00 B=1.00
+Cosmetics: None

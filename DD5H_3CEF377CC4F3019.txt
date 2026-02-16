@@ -1,0 +1,7 @@
+Name: GTSTUNTS
+ActorNumber: 1653
+PlayerID: 3CEF377CC4F3019
+Platform: Unknown
+AccountCreationDate: 2022-09-14 11:50:24 UTC
+Color: R=0.33 G=0.56 B=0.22
+Cosmetics: None

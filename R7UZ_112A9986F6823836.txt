@@ -1,0 +1,7 @@
+Name: TMOSUNSET
+ActorNumber: 294
+PlayerID: 112A9986F6823836
+Platform: Standalone
+AccountCreationDate: 2023-11-23 16:10:12 UTC
+Color: R=0.78 G=0.44 B=0.67
+Cosmetics: None

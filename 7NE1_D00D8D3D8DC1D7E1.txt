@@ -1,0 +1,7 @@
+Name: BY67
+ActorNumber: 81
+PlayerID: D00D8D3D8DC1D7E1
+Platform: PC
+AccountCreationDate: 2023-03-21 12:21:34 UTC
+Color: R=0.00 G=0.00 B=0.00
+Cosmetics: None

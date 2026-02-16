@@ -1,0 +1,7 @@
+Name: SPOONYTOONY
+ActorNumber: 395
+PlayerID: BACB46C2004DE1A3
+Platform: Standalone
+AccountCreationDate: 2024-04-28 18:04:22 UTC
+Color: R=0.56 G=0.00 B=0.78
+Cosmetics: None

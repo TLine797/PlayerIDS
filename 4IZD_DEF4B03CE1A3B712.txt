@@ -1,0 +1,7 @@
+Name: CHRONIC
+ActorNumber: 586
+PlayerID: DEF4B03CE1A3B712
+Platform: Standalone
+AccountCreationDate: 2025-12-29 22:42:01 UTC
+Color: R=0.44 G=0.00 B=0.78
+Cosmetics: None

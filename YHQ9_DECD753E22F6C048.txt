@@ -1,0 +1,7 @@
+Name: TOP9DUCKY
+ActorNumber: 595
+PlayerID: DECD753E22F6C048
+Platform: Unknown
+AccountCreationDate: 2022-12-11 04:40:04 UTC
+Color: R=1.00 G=0.22 B=0.22
+Cosmetics: None

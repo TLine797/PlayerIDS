@@ -1,0 +1,7 @@
+Name: CHRISTFIRST
+ActorNumber: 4
+PlayerID: 64ACAC1896BAF8F8
+Platform: Standalone
+AccountCreationDate: 2025-05-18 21:45:42 UTC
+Color: R=0.44 G=0.00 B=0.33
+Cosmetics: None

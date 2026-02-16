@@ -1,0 +1,7 @@
+Name: DIZZ
+ActorNumber: 195
+PlayerID: C584575034790CD
+Platform: Standalone
+AccountCreationDate: 2023-12-25 18:21:43 UTC
+Color: R=0.44 G=0.11 B=1.00
+Cosmetics: None

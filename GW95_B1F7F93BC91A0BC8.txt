@@ -1,0 +1,7 @@
+Name: SKETCHY
+ActorNumber: 200
+PlayerID: B1F7F93BC91A0BC8
+Platform: Standalone
+AccountCreationDate: 2026-01-04 01:44:38 UTC
+Color: R=1.00 G=1.00 B=1.00
+Cosmetics: None

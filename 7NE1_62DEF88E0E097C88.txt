@@ -1,0 +1,7 @@
+Name: SHRIMP
+ActorNumber: 63
+PlayerID: 62DEF88E0E097C88
+Platform: Standalone
+AccountCreationDate: 2025-12-25 19:18:49 UTC
+Color: R=1.00 G=0.00 B=1.00
+Cosmetics: None

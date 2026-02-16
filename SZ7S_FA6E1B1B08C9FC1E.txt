@@ -1,0 +1,7 @@
+Name: JESUSLUVSU
+ActorNumber: 1130
+PlayerID: FA6E1B1B08C9FC1E
+Platform: Standalone
+AccountCreationDate: 2025-11-24 19:49:52 UTC
+Color: R=0.56 G=0.00 B=0.11
+Cosmetics: None

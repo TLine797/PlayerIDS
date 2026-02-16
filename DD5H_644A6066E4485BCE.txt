@@ -1,0 +1,7 @@
+Name: PICO4
+ActorNumber: 1682
+PlayerID: 644A6066E4485BCE
+Platform: Unknown
+AccountCreationDate: 2022-10-05 18:30:19 UTC
+Color: R=0.56 G=0.44 B=0.78
+Cosmetics: None

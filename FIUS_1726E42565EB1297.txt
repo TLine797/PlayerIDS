@@ -1,0 +1,7 @@
+Name: ARKON
+ActorNumber: 568
+PlayerID: 1726E42565EB1297
+Platform: Unknown
+AccountCreationDate: 2023-01-26 00:59:05 UTC
+Color: R=0.22 G=0.44 B=0.78
+Cosmetics: None

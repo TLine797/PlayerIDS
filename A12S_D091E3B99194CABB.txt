@@ -1,0 +1,7 @@
+Name: LEMONADE
+ActorNumber: 617
+PlayerID: D091E3B99194CABB
+Platform: Standalone
+AccountCreationDate: 2024-12-25 21:01:21 UTC
+Color: R=1.00 G=1.00 B=0.22
+Cosmetics: None

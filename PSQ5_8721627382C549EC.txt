@@ -1,0 +1,7 @@
+Name: SIKEDGT
+ActorNumber: 153
+PlayerID: 8721627382C549EC
+Platform: Standalone
+AccountCreationDate: 2024-09-09 02:08:37 UTC
+Color: R=0.00 G=0.00 B=0.67
+Cosmetics: None

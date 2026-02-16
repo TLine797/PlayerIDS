@@ -1,0 +1,7 @@
+Name: JEFF
+ActorNumber: 42
+PlayerID: 165F64A62F5BD723
+Platform: Unknown
+AccountCreationDate: 2022-03-06 22:10:26 UTC
+Color: R=0.78 G=0.89 B=1.00
+Cosmetics: None

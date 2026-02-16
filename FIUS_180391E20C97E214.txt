@@ -1,0 +1,7 @@
+Name: REDVR15
+ActorNumber: 38
+PlayerID: 180391E20C97E214
+Platform: Standalone
+AccountCreationDate: 2025-04-17 22:40:25 UTC
+Color: R=0.33 G=0.44 B=0.56
+Cosmetics: None

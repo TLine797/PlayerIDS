@@ -1,0 +1,7 @@
+Name: PBRPIKACHU
+ActorNumber: 89
+PlayerID: 145A519609EC01
+Platform: Standalone
+AccountCreationDate: 2026-01-07 22:04:07 UTC
+Color: R=0.00 G=0.44 B=1.00
+Cosmetics: None

@@ -1,0 +1,7 @@
+Name: KINGTUT
+ActorNumber: 263
+PlayerID: B35270D7CA4C6A0B
+Platform: Standalone
+AccountCreationDate: 2023-08-27 23:32:42 UTC
+Color: R=0.00 G=0.00 B=0.00
+Cosmetics: None

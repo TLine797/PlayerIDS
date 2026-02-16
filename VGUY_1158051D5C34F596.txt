@@ -1,0 +1,7 @@
+Name: GREGDUDE
+ActorNumber: 245
+PlayerID: 1158051D5C34F596
+Platform: Standalone
+AccountCreationDate: 2023-10-20 09:46:27 UTC
+Color: R=0.33 G=0.00 B=0.00
+Cosmetics: None

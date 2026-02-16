@@ -1,0 +1,7 @@
+Name: HLI
+ActorNumber: 1158
+PlayerID: 636841CDEE44C1FC
+Platform: Standalone
+AccountCreationDate: 2023-03-18 19:23:51 UTC
+Color: R=1.00 G=0.00 B=0.00
+Cosmetics: None

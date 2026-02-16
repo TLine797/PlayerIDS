@@ -1,0 +1,7 @@
+Name: BEAN3
+ActorNumber: 10
+PlayerID: 4CB287A5ADAA50CD
+Platform: Unknown
+AccountCreationDate: 2022-07-06 15:17:22 UTC
+Color: R=0.44 G=0.56 B=0.44
+Cosmetics: None

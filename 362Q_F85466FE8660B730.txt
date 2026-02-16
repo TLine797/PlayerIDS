@@ -1,0 +1,7 @@
+Name: TTTSERA
+ActorNumber: 372
+PlayerID: F85466FE8660B730
+Platform: Standalone
+AccountCreationDate: 2026-01-31 01:56:27 UTC
+Color: R=0.00 G=0.00 B=0.00
+Cosmetics: None

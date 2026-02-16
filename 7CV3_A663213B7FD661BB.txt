@@ -1,0 +1,7 @@
+Name: JOEEMNEEQQSA
+ActorNumber: 12
+PlayerID: A663213B7FD661BB
+Platform: PC
+AccountCreationDate: 2025-08-25 21:51:16 UTC
+Color: R=0.22 G=0.33 B=0.67
+Cosmetics: None

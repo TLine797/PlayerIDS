@@ -1,0 +1,7 @@
+Name: JAY
+ActorNumber: 554
+PlayerID: 157AC198068BDE07
+Platform: Standalone
+AccountCreationDate: 2024-05-29 22:58:02 UTC
+Color: R=0.89 G=0.78 B=0.00
+Cosmetics: None

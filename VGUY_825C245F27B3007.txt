@@ -1,0 +1,7 @@
+Name: MINT
+ActorNumber: 170
+PlayerID: 825C245F27B3007
+Platform: Standalone
+AccountCreationDate: 2025-12-25 18:59:47 UTC
+Color: R=0.67 G=1.00 B=0.67
+Cosmetics: None

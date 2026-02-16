@@ -1,0 +1,7 @@
+Name: TFLFISH
+ActorNumber: 528
+PlayerID: 345447D922D1CA9A
+Platform: Standalone
+AccountCreationDate: 2023-12-25 23:54:55 UTC
+Color: R=0.56 G=0.67 B=0.89
+Cosmetics: None

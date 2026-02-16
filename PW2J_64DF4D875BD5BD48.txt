@@ -1,0 +1,7 @@
+Name: HENREY
+ActorNumber: 688
+PlayerID: 64DF4D875BD5BD48
+Platform: Standalone
+AccountCreationDate: 2025-12-25 16:05:41 UTC
+Color: R=0.67 G=0.67 B=0.67
+Cosmetics: None

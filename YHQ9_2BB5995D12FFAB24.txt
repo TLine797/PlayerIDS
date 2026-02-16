@@ -1,0 +1,7 @@
+Name: TOP4
+ActorNumber: 596
+PlayerID: 2BB5995D12FFAB24
+Platform: Standalone
+AccountCreationDate: 2025-11-30 22:53:35 UTC
+Color: R=0.44 G=0.00 B=0.89
+Cosmetics: None

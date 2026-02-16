@@ -1,0 +1,7 @@
+Name: PWRJAX
+ActorNumber: 188
+PlayerID: F4FCE2C180FECFF3
+Platform: Standalone
+AccountCreationDate: 2024-12-29 01:24:06 UTC
+Color: R=1.00 G=1.00 B=0.00
+Cosmetics: None

@@ -1,0 +1,7 @@
+Name: PUPPYBOY
+ActorNumber: 112
+PlayerID: 77BBED1330DE0CE4
+Platform: Standalone
+AccountCreationDate: 2024-05-05 15:02:47 UTC
+Color: R=1.00 G=0.67 B=1.00
+Cosmetics: None

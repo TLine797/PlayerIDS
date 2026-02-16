@@ -1,0 +1,7 @@
+Name: BLUE
+ActorNumber: 29
+PlayerID: 4DA66228BCCE064A
+Platform: Unknown
+AccountCreationDate: 2021-06-04 22:15:26 UTC
+Color: R=0.11 G=0.22 B=0.89
+Cosmetics: None

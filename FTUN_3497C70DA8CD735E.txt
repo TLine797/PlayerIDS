@@ -1,0 +1,7 @@
+Name: VOID
+ActorNumber: 363
+PlayerID: 3497C70DA8CD735E
+Platform: Standalone
+AccountCreationDate: 2026-02-05 20:56:20 UTC
+Color: R=0.22 G=0.00 B=0.67
+Cosmetics: None

@@ -1,0 +1,7 @@
+Name: PURPLE
+ActorNumber: 525
+PlayerID: 36899ADFD7410E03
+Platform: Unknown
+AccountCreationDate: 2022-12-26 20:51:55 UTC
+Color: R=0.44 G=0.44 B=0.78
+Cosmetics: None

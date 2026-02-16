@@ -1,0 +1,7 @@
+Name: BABY
+ActorNumber: 100
+PlayerID: 955C635D55693A95
+Platform: Unknown
+AccountCreationDate: 2023-01-13 23:29:57 UTC
+Color: R=0.33 G=0.33 B=1.00
+Cosmetics: None

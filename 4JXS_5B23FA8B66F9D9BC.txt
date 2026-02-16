@@ -1,0 +1,7 @@
+Name: INMYPRIME
+ActorNumber: 18
+PlayerID: 5B23FA8B66F9D9BC
+Platform: PC
+AccountCreationDate: 2025-09-21 20:19:53 UTC
+Color: R=0.56 G=0.11 B=0.89
+Cosmetics: None

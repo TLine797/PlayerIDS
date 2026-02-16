@@ -1,0 +1,7 @@
+Name: OLIP
+ActorNumber: 136
+PlayerID: 856051A12D778F29
+Platform: Standalone
+AccountCreationDate: 2024-01-02 00:24:02 UTC
+Color: R=0.00 G=0.78 B=0.89
+Cosmetics: None

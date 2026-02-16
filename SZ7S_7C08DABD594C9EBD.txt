@@ -1,0 +1,7 @@
+Name: MOOV
+ActorNumber: 1115
+PlayerID: 7C08DABD594C9EBD
+Platform: Standalone
+AccountCreationDate: 2026-01-08 00:52:18 UTC
+Color: R=0.22 G=0.22 B=0.67
+Cosmetics: None

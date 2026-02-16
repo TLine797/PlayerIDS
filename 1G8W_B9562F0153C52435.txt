@@ -1,0 +1,7 @@
+Name: JENSEN
+ActorNumber: 238
+PlayerID: B9562F0153C52435
+Platform: Unknown
+AccountCreationDate: 2022-06-11 21:30:35 UTC
+Color: R=0.56 G=0.00 B=1.00
+Cosmetics: None

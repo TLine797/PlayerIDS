@@ -1,0 +1,7 @@
+Name: BNM
+ActorNumber: 523
+PlayerID: D9E7C2572D9EB753
+Platform: Unknown
+AccountCreationDate: 2022-12-26 07:04:56 UTC
+Color: R=1.00 G=0.00 B=0.33
+Cosmetics: None

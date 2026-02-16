@@ -1,0 +1,7 @@
+Name: MRSCOCO
+ActorNumber: 21
+PlayerID: 69C9C59BE7BAC9C1
+Platform: Unknown
+AccountCreationDate: 2021-09-25 15:35:47 UTC
+Color: R=0.00 G=0.00 B=0.00
+Cosmetics: None

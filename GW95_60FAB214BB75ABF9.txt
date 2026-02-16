@@ -1,0 +1,7 @@
+Name: TGACHILL
+ActorNumber: 180
+PlayerID: 60FAB214BB75ABF9
+Platform: Standalone
+AccountCreationDate: 2025-10-13 22:06:07 UTC
+Color: R=0.44 G=0.00 B=0.78
+Cosmetics: None

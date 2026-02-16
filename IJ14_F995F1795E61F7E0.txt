@@ -1,0 +1,7 @@
+Name: ISEEKAREEM
+ActorNumber: 275
+PlayerID: F995F1795E61F7E0
+Platform: Unknown
+AccountCreationDate: 2023-01-04 18:35:18 UTC
+Color: R=1.00 G=0.00 B=0.00
+Cosmetics: None

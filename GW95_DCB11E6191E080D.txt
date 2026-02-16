@@ -1,0 +1,7 @@
+Name: IUJHNNHYU7DI
+ActorNumber: 179
+PlayerID: DCB11E6191E080D
+Platform: Standalone
+AccountCreationDate: 2025-12-21 00:21:36 UTC
+Color: R=0.78 G=0.11 B=0.33
+Cosmetics: None

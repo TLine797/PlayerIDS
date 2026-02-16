@@ -1,0 +1,7 @@
+Name: LEAH
+ActorNumber: 522
+PlayerID: 2D5462A58663ECFD
+Platform: Standalone
+AccountCreationDate: 2024-01-22 00:47:57 UTC
+Color: R=1.00 G=0.33 B=1.00
+Cosmetics: None

@@ -1,0 +1,7 @@
+Name: LASERVR
+ActorNumber: 29
+PlayerID: CF823FE196582F48
+Platform: Standalone
+AccountCreationDate: 2025-03-09 20:04:34 UTC
+Color: R=1.00 G=0.00 B=0.00
+Cosmetics: None

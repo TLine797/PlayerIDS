@@ -1,0 +1,7 @@
+Name: BLUEWINGSVR
+ActorNumber: 20
+PlayerID: 42F6BF3B2FBAC7D3
+Platform: Standalone
+AccountCreationDate: 2024-06-18 23:38:28 UTC
+Color: R=0.00 G=1.00 B=1.00
+Cosmetics: None

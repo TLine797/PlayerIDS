@@ -1,0 +1,7 @@
+Name: NOVACOREYT
+ActorNumber: 306
+PlayerID: AD3411D5FEFB2FC3
+Platform: Standalone
+AccountCreationDate: 2023-06-24 02:40:23 UTC
+Color: R=0.33 G=0.22 B=0.00
+Cosmetics: None

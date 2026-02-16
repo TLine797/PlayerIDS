@@ -1,0 +1,7 @@
+Name: NIGHTRIDER
+ActorNumber: 584
+PlayerID: 2BB5995D12FFAB24
+Platform: Standalone
+AccountCreationDate: 2025-11-30 22:53:35 UTC
+Color: R=1.00 G=0.22 B=0.11
+Cosmetics: None

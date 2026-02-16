@@ -1,0 +1,7 @@
+Name: X1M
+ActorNumber: 604
+PlayerID: 6C4437C8AF3BD04F
+Platform: Standalone
+AccountCreationDate: 2025-02-25 04:20:30 UTC
+Color: R=0.11 G=1.00 B=0.67
+Cosmetics: None

@@ -1,0 +1,7 @@
+Name: CHRISTINA
+ActorNumber: 788
+PlayerID: A72BD1209D849F97
+Platform: Standalone
+AccountCreationDate: 2024-11-03 04:41:05 UTC
+Color: R=1.00 G=0.78 B=1.00
+Cosmetics: None

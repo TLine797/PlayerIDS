@@ -1,0 +1,7 @@
+Name: TTRTORPEDVR
+ActorNumber: 1714
+PlayerID: 75008135A62CD894
+Platform: Standalone
+AccountCreationDate: 2025-05-12 13:29:32 UTC
+Color: R=0.00 G=0.89 B=0.78
+Cosmetics: None

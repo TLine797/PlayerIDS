@@ -1,0 +1,7 @@
+Name: HARRY
+ActorNumber: 35
+PlayerID: 2702D7A3315FDE66
+Platform: Standalone
+AccountCreationDate: 2025-08-31 12:53:58 UTC
+Color: R=0.44 G=0.00 B=0.78
+Cosmetics: None

@@ -1,0 +1,7 @@
+Name: SCP096
+ActorNumber: 184
+PlayerID: 23D8C14AAD0AB802
+Platform: Standalone
+AccountCreationDate: 2024-11-23 19:25:40 UTC
+Color: R=1.00 G=1.00 B=1.00
+Cosmetics: None

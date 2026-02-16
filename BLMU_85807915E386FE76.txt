@@ -1,0 +1,7 @@
+Name: COOKIE
+ActorNumber: 520
+PlayerID: 85807915E386FE76
+Platform: Standalone
+AccountCreationDate: 2024-12-30 15:09:20 UTC
+Color: R=0.56 G=0.67 B=1.00
+Cosmetics: None

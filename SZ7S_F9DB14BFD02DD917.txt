@@ -1,0 +1,7 @@
+Name: SHELPY
+ActorNumber: 1126
+PlayerID: F9DB14BFD02DD917
+Platform: Standalone
+AccountCreationDate: 2024-03-11 00:57:22 UTC
+Color: R=0.67 G=1.00 B=1.00
+Cosmetics: None

@@ -1,0 +1,7 @@
+Name: UHH
+ActorNumber: 8
+PlayerID: F95A1384F5685440
+Platform: Unknown
+AccountCreationDate: 2022-08-31 21:37:33 UTC
+Color: R=0.44 G=0.33 B=1.00
+Cosmetics: None

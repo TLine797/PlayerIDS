@@ -1,0 +1,7 @@
+Name: SRMONKE
+ActorNumber: 89
+PlayerID: D6BFF24885501514
+Platform: Standalone
+AccountCreationDate: 2025-06-15 20:35:41 UTC
+Color: R=0.89 G=0.78 B=0.67
+Cosmetics: None

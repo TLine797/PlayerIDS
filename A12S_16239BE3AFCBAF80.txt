@@ -1,0 +1,7 @@
+Name: SNOWBALLVRVC
+ActorNumber: 615
+PlayerID: 16239BE3AFCBAF80
+Platform: Unknown
+AccountCreationDate: 2022-02-22 18:46:01 UTC
+Color: R=1.00 G=0.33 B=1.00
+Cosmetics: None

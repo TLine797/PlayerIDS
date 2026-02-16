@@ -1,0 +1,7 @@
+Name: LFFFAN
+ActorNumber: 5
+PlayerID: B54C15B39FA2DA21
+Platform: Standalone
+AccountCreationDate: 2024-12-24 21:35:08 UTC
+Color: R=1.00 G=0.00 B=0.89
+Cosmetics: None

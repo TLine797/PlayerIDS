@@ -1,0 +1,7 @@
+Name: KAGE
+ActorNumber: 204
+PlayerID: CE9109A0819C183F
+Platform: Standalone
+AccountCreationDate: 2023-12-25 16:55:35 UTC
+Color: R=0.33 G=0.00 B=0.56
+Cosmetics: None

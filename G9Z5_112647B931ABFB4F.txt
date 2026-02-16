@@ -1,0 +1,7 @@
+Name: GROXFAN
+ActorNumber: 290
+PlayerID: 112647B931ABFB4F
+Platform: Standalone
+AccountCreationDate: 2026-01-21 08:59:03 UTC
+Color: R=0.22 G=0.22 B=0.22
+Cosmetics: None

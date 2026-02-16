@@ -1,0 +1,7 @@
+Name: GUY
+ActorNumber: 393
+PlayerID: 7810256FA89D3056
+Platform: Standalone
+AccountCreationDate: 2023-07-30 19:05:29 UTC
+Color: R=0.00 G=0.33 B=0.00
+Cosmetics: None

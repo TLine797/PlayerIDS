@@ -1,0 +1,7 @@
+Name: SUSHI
+ActorNumber: 391
+PlayerID: AD28FE29A9642F5E
+Platform: Standalone
+AccountCreationDate: 2024-12-06 02:07:04 UTC
+Color: R=0.44 G=0.00 B=0.78
+Cosmetics: None

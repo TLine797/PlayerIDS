@@ -1,0 +1,7 @@
+Name: TEMUBOI
+ActorNumber: 284
+PlayerID: C1B92C3269631CA3
+Platform: Standalone
+AccountCreationDate: 2024-12-25 15:47:26 UTC
+Color: R=1.00 G=0.00 B=0.33
+Cosmetics: None

@@ -1,0 +1,7 @@
+Name: HUNTERPRO
+ActorNumber: 105
+PlayerID: 60F56DD72D00D797
+Platform: Standalone
+AccountCreationDate: 2025-12-25 21:44:05 UTC
+Color: R=1.00 G=0.00 B=0.00
+Cosmetics: None

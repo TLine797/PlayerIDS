@@ -1,0 +1,7 @@
+Name: YOUUSE35FPS
+ActorNumber: 55
+PlayerID: 9366D932414476F3
+Platform: Unknown
+AccountCreationDate: 2024-02-19 22:20:41 UTC
+Color: R=0.44 G=0.56 B=0.67
+Cosmetics: None

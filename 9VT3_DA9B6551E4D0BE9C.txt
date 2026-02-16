@@ -1,0 +1,7 @@
+Name: LILLAYLOW
+ActorNumber: 53
+PlayerID: DA9B6551E4D0BE9C
+Platform: Standalone
+AccountCreationDate: 2021-05-10 20:22:03 UTC
+Color: R=0.67 G=0.00 B=1.00
+Cosmetics: None

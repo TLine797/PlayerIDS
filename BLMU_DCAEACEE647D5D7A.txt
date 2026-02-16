@@ -1,0 +1,7 @@
+Name: SULLYVR
+ActorNumber: 522
+PlayerID: DCAEACEE647D5D7A
+Platform: Standalone
+AccountCreationDate: 2025-01-26 14:36:05 UTC
+Color: R=0.00 G=0.22 B=0.00
+Cosmetics: None

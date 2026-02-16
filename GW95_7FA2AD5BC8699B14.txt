@@ -1,0 +1,7 @@
+Name: YUJI
+ActorNumber: 203
+PlayerID: 7FA2AD5BC8699B14
+Platform: Unknown
+AccountCreationDate: 2022-03-16 03:51:39 UTC
+Color: R=0.00 G=0.11 B=0.33
+Cosmetics: None

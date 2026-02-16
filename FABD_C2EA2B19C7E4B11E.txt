@@ -1,0 +1,7 @@
+Name: TIM
+ActorNumber: 598
+PlayerID: C2EA2B19C7E4B11E
+Platform: Standalone
+AccountCreationDate: 2025-03-28 21:46:49 UTC
+Color: R=0.89 G=0.78 B=0.33
+Cosmetics: None

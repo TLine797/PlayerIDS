@@ -1,0 +1,7 @@
+Name: RAZE
+ActorNumber: 141
+PlayerID: E302169FBB413460
+Platform: Standalone
+AccountCreationDate: 2024-12-28 02:08:30 UTC
+Color: R=0.89 G=0.44 B=0.00
+Cosmetics: None

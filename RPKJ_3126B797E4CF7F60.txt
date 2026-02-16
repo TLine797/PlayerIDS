@@ -1,0 +1,7 @@
+Name: TIGER1123
+ActorNumber: 1
+PlayerID: 3126B797E4CF7F60
+Platform: Standalone
+AccountCreationDate: 2025-04-20 15:32:30 UTC
+Color: R=0.00 G=0.00 B=0.00
+Cosmetics: None

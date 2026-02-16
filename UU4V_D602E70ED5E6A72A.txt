@@ -1,0 +1,7 @@
+Name: MAYDKFKDC
+ActorNumber: 90
+PlayerID: D602E70ED5E6A72A
+Platform: Unknown
+AccountCreationDate: 2022-01-09 01:30:56 UTC
+Color: R=0.78 G=0.00 B=0.22
+Cosmetics: None

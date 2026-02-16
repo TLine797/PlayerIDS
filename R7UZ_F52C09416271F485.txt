@@ -1,0 +1,7 @@
+Name: OJ
+ActorNumber: 301
+PlayerID: F52C09416271F485
+Platform: Standalone
+AccountCreationDate: 2023-02-26 22:26:18 UTC
+Color: R=1.00 G=0.00 B=1.00
+Cosmetics: None

@@ -1,0 +1,7 @@
+Name: LUSID
+ActorNumber: 113
+PlayerID: 46198834D8BB7D96
+Platform: Standalone
+AccountCreationDate: 2025-03-15 17:50:23 UTC
+Color: R=0.89 G=0.33 B=0.78
+Cosmetics: None

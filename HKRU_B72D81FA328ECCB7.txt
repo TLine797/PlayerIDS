@@ -1,0 +1,7 @@
+Name: TITANFALL
+ActorNumber: 1723
+PlayerID: B72D81FA328ECCB7
+Platform: Unknown
+AccountCreationDate: 2022-07-03 04:54:33 UTC
+Color: R=0.00 G=0.89 B=1.00
+Cosmetics: None

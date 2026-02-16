@@ -1,0 +1,7 @@
+Name: WOFC
+ActorNumber: 51
+PlayerID: 9196C62FB5E7A11A
+Platform: Unknown
+AccountCreationDate: 2024-11-23 13:09:00 UTC
+Color: R=0.00 G=0.00 B=1.00
+Cosmetics: None

@@ -1,0 +1,7 @@
+Name: KK
+ActorNumber: 537
+PlayerID: 215415CDC0ADF0F1
+Platform: Standalone
+AccountCreationDate: 2025-07-14 02:41:00 UTC
+Color: R=0.11 G=1.00 B=0.33
+Cosmetics: None

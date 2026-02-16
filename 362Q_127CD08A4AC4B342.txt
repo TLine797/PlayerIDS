@@ -1,0 +1,7 @@
+Name: JASION
+ActorNumber: 385
+PlayerID: 127CD08A4AC4B342
+Platform: Standalone
+AccountCreationDate: 2024-12-25 19:16:13 UTC
+Color: R=0.00 G=0.22 B=0.00
+Cosmetics: None

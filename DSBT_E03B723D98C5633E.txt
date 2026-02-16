@@ -1,0 +1,7 @@
+Name: FLUFFY2K
+ActorNumber: 187
+PlayerID: E03B723D98C5633E
+Platform: Standalone
+AccountCreationDate: 2023-11-24 22:18:26 UTC
+Color: R=0.00 G=1.00 B=0.33
+Cosmetics: None

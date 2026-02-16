@@ -1,0 +1,7 @@
+Name: ASTRA
+ActorNumber: 2
+PlayerID: EA04C615E73A85EB
+Platform: Unknown
+AccountCreationDate: 2022-11-13 01:05:29 UTC
+Color: R=0.56 G=0.11 B=1.00
+Cosmetics: None

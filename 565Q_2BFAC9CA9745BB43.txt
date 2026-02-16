@@ -1,0 +1,7 @@
+Name: TTTCRONIX
+ActorNumber: 14
+PlayerID: 2BFAC9CA9745BB43
+Platform: Standalone
+AccountCreationDate: 2025-12-25 14:53:05 UTC
+Color: R=0.56 G=0.22 B=1.00
+Cosmetics: None

@@ -1,0 +1,7 @@
+Name: EMMYY
+ActorNumber: 526
+PlayerID: B9A4463F8EB38DC5
+Platform: Standalone
+AccountCreationDate: 2025-12-15 00:37:05 UTC
+Color: R=0.22 G=0.00 B=0.00
+Cosmetics: None

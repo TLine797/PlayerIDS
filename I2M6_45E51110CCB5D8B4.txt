@@ -1,0 +1,7 @@
+Name: LIGNI3343
+ActorNumber: 121
+PlayerID: 45E51110CCB5D8B4
+Platform: Standalone
+AccountCreationDate: 2026-01-15 00:15:27 UTC
+Color: R=1.00 G=1.00 B=1.00
+Cosmetics: None

@@ -1,0 +1,7 @@
+Name: SPACEGAMERVR
+ActorNumber: 33
+PlayerID: 5D5FBA551EC61318
+Platform: Unknown
+AccountCreationDate: 2023-07-19 20:49:25 UTC
+Color: R=0.44 G=0.00 B=0.89
+Cosmetics: None

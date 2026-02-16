@@ -1,0 +1,7 @@
+Name: HORIZONJR1
+ActorNumber: 110
+PlayerID: C5278BC819EDA7DD
+Platform: Standalone
+AccountCreationDate: 2025-04-24 23:30:33 UTC
+Color: R=1.00 G=0.44 B=0.00
+Cosmetics: None

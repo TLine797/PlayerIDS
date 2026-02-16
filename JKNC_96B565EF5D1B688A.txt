@@ -1,0 +1,7 @@
+Name: PROTURTLE
+ActorNumber: 115
+PlayerID: 96B565EF5D1B688A
+Platform: Standalone
+AccountCreationDate: 2025-02-02 18:36:33 UTC
+Color: R=0.00 G=0.33 B=0.11
+Cosmetics: None

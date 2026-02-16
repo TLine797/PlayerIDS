@@ -1,0 +1,7 @@
+Name: MICBROKN
+ActorNumber: 117
+PlayerID: E82462761ACAB118
+Platform: Standalone
+AccountCreationDate: 2026-01-22 19:41:07 UTC
+Color: R=0.33 G=0.33 B=0.44
+Cosmetics: None

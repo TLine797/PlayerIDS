@@ -1,0 +1,7 @@
+Name: ASCSDSFS
+ActorNumber: 555
+PlayerID: 4D56DB6E8BB825B
+Platform: Standalone
+AccountCreationDate: 2026-01-19 14:59:41 UTC
+Color: R=0.44 G=0.00 B=0.00
+Cosmetics: None

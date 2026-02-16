@@ -1,0 +1,7 @@
+Name: GHJKL
+ActorNumber: 9
+PlayerID: 75CB74850D504E5B
+Platform: Standalone
+AccountCreationDate: 2024-12-25 15:55:38 UTC
+Color: R=0.00 G=0.67 B=0.78
+Cosmetics: None

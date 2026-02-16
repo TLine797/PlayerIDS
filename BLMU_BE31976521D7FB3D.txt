@@ -1,0 +1,7 @@
+Name: BUGHA
+ActorNumber: 481
+PlayerID: BE31976521D7FB3D
+Platform: Standalone
+AccountCreationDate: 2024-05-19 23:50:01 UTC
+Color: R=1.00 G=0.00 B=0.00
+Cosmetics: None

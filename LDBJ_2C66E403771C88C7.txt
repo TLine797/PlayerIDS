@@ -1,0 +1,7 @@
+Name: TGGVERTOW
+ActorNumber: 613
+PlayerID: 2C66E403771C88C7
+Platform: Standalone
+AccountCreationDate: 2024-12-25 13:54:04 UTC
+Color: R=0.00 G=0.44 B=1.00
+Cosmetics: None

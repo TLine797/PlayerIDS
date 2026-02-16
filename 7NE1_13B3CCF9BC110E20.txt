@@ -1,0 +1,7 @@
+Name: AA
+ActorNumber: 53
+PlayerID: 13B3CCF9BC110E20
+Platform: Standalone
+AccountCreationDate: 2023-07-13 00:10:50 UTC
+Color: R=0.00 G=0.56 B=1.00
+Cosmetics: None

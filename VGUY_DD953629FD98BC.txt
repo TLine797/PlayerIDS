@@ -1,0 +1,7 @@
+Name: THCMOSA
+ActorNumber: 250
+PlayerID: DD953629FD98BC
+Platform: Standalone
+AccountCreationDate: 2024-07-29 01:47:11 UTC
+Color: R=1.00 G=0.00 B=0.33
+Cosmetics: None

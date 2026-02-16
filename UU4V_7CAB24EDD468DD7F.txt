@@ -1,0 +1,7 @@
+Name: AHEART
+ActorNumber: 81
+PlayerID: 7CAB24EDD468DD7F
+Platform: Unknown
+AccountCreationDate: 2022-12-10 20:08:13 UTC
+Color: R=0.67 G=0.56 B=0.44
+Cosmetics: None

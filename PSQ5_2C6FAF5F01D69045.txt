@@ -1,0 +1,7 @@
+Name: PETER
+ActorNumber: 158
+PlayerID: 2C6FAF5F01D69045
+Platform: Standalone
+AccountCreationDate: 2023-05-07 01:56:40 UTC
+Color: R=0.44 G=0.11 B=1.00
+Cosmetics: None

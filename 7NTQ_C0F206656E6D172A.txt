@@ -1,0 +1,7 @@
+Name: DOCTERVESSEL
+ActorNumber: 138
+PlayerID: C0F206656E6D172A
+Platform: Standalone
+AccountCreationDate: 2023-12-29 00:21:16 UTC
+Color: R=0.33 G=0.89 B=0.44
+Cosmetics: None

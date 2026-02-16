@@ -1,0 +1,7 @@
+Name: QUEST2
+ActorNumber: 244
+PlayerID: 70DE50C24EE09A84
+Platform: Standalone
+AccountCreationDate: 2025-03-12 00:08:29 UTC
+Color: R=0.11 G=0.00 B=0.22
+Cosmetics: None

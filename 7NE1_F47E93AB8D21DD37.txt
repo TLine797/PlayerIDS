@@ -1,0 +1,7 @@
+Name: POTATO153637
+ActorNumber: 32
+PlayerID: F47E93AB8D21DD37
+Platform: Unknown
+AccountCreationDate: 2023-01-08 21:42:27 UTC
+Color: R=0.22 G=0.44 B=0.78
+Cosmetics: None

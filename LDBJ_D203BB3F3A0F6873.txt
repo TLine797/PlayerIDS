@@ -1,0 +1,7 @@
+Name: PURPLEBERRY
+ActorNumber: 524
+PlayerID: D203BB3F3A0F6873
+Platform: Standalone
+AccountCreationDate: 2024-08-15 16:37:00 UTC
+Color: R=0.44 G=0.11 B=1.00
+Cosmetics: None

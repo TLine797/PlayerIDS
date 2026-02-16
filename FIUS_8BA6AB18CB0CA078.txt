@@ -1,0 +1,7 @@
+Name: TBASTRO
+ActorNumber: 559
+PlayerID: 8BA6AB18CB0CA078
+Platform: Standalone
+AccountCreationDate: 2024-08-30 12:53:16 UTC
+Color: R=1.00 G=1.00 B=0.00
+Cosmetics: None

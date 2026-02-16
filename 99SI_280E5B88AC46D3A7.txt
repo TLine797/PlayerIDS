@@ -1,0 +1,7 @@
+Name: WHOISGREG
+ActorNumber: 15
+PlayerID: 280E5B88AC46D3A7
+Platform: Unknown
+AccountCreationDate: 2022-01-28 18:03:57 UTC
+Color: R=1.00 G=0.00 B=0.00
+Cosmetics: None

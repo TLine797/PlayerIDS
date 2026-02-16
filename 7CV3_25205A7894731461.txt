@@ -1,0 +1,7 @@
+Name: ANDERDINGUS
+ActorNumber: 5
+PlayerID: 25205A7894731461
+Platform: Unknown
+AccountCreationDate: 2022-05-21 15:26:34 UTC
+Color: R=0.67 G=0.33 B=0.89
+Cosmetics: None

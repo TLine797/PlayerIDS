@@ -1,0 +1,7 @@
+Name: BAYLEE
+ActorNumber: 239
+PlayerID: 82E3434DB216B244
+Platform: Standalone
+AccountCreationDate: 2023-12-25 03:41:38 UTC
+Color: R=0.33 G=0.67 B=0.33
+Cosmetics: None

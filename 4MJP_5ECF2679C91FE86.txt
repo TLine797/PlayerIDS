@@ -1,0 +1,7 @@
+Name: ANGEL
+ActorNumber: 525
+PlayerID: 5ECF2679C91FE86
+Platform: Standalone
+AccountCreationDate: 2025-12-25 14:42:55 UTC
+Color: R=0.00 G=0.67 B=1.00
+Cosmetics: None

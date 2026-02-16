@@ -1,0 +1,7 @@
+Name: SALTLAX
+ActorNumber: 674
+PlayerID: F085095E1C19273F
+Platform: Standalone
+AccountCreationDate: 2026-01-19 23:04:47 UTC
+Color: R=0.00 G=0.44 B=1.00
+Cosmetics: None

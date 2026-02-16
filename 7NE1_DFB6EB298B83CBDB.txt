@@ -1,0 +1,7 @@
+Name: CONETIC
+ActorNumber: 86
+PlayerID: DFB6EB298B83CBDB
+Platform: Standalone
+AccountCreationDate: 2025-07-12 11:56:09 UTC
+Color: R=1.00 G=0.00 B=0.00
+Cosmetics: None

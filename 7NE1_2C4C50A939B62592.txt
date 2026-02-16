@@ -1,0 +1,7 @@
+Name: YNSFULLY
+ActorNumber: 90
+PlayerID: 2C4C50A939B62592
+Platform: Unknown
+AccountCreationDate: 2024-09-30 02:10:25 UTC
+Color: R=0.00 G=0.11 B=0.89
+Cosmetics: None

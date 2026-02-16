@@ -1,0 +1,7 @@
+Name: V1PER
+ActorNumber: 535
+PlayerID: E0B4D849353C5107
+Platform: Standalone
+AccountCreationDate: 2024-03-24 23:47:44 UTC
+Color: R=1.00 G=0.33 B=0.67
+Cosmetics: None

@@ -1,0 +1,7 @@
+Name: gorilla1407
+ActorNumber: 98
+PlayerID: E6B5174F73949CF2
+Platform: Standalone
+AccountCreationDate: 2026-02-02 23:20:20 UTC
+Color: R=0.59 G=0.78 B=0.98
+Cosmetics: None

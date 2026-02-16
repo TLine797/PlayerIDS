@@ -1,0 +1,7 @@
+Name: LARAVR
+ActorNumber: 1156
+PlayerID: D5AD6F4984238772
+Platform: Standalone
+AccountCreationDate: 2023-12-25 21:53:33 UTC
+Color: R=0.00 G=0.00 B=0.22
+Cosmetics: None

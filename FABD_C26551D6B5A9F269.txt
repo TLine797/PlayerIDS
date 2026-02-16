@@ -1,0 +1,7 @@
+Name: PLUH
+ActorNumber: 610
+PlayerID: C26551D6B5A9F269
+Platform: PC
+AccountCreationDate: 2024-06-04 02:26:42 UTC
+Color: R=0.56 G=0.44 B=0.89
+Cosmetics: None

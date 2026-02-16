@@ -1,0 +1,7 @@
+Name: OSQUINN
+ActorNumber: 7
+PlayerID: 76160A63A4642852
+Platform: Standalone
+AccountCreationDate: 2024-11-15 16:54:30 UTC
+Color: R=0.00 G=0.00 B=1.00
+Cosmetics: None

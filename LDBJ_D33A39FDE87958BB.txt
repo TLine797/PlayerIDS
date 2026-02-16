@@ -1,0 +1,7 @@
+Name: OG
+ActorNumber: 541
+PlayerID: D33A39FDE87958BB
+Platform: Standalone
+AccountCreationDate: 2025-12-25 15:40:35 UTC
+Color: R=0.56 G=0.33 B=1.00
+Cosmetics: None

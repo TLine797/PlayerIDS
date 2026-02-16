@@ -1,0 +1,7 @@
+Name: PHILVR
+ActorNumber: 6
+PlayerID: 57FC5A9EC34C29E1
+Platform: PC
+AccountCreationDate: 2023-10-24 21:14:41 UTC
+Color: R=0.56 G=0.00 B=1.00
+Cosmetics: None

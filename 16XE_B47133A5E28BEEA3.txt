@@ -1,0 +1,7 @@
+Name: CHAOS
+ActorNumber: 770
+PlayerID: B47133A5E28BEEA3
+Platform: Unknown
+AccountCreationDate: 2022-12-26 20:20:41 UTC
+Color: R=0.67 G=0.11 B=0.00
+Cosmetics: None

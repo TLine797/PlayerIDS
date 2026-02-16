@@ -1,0 +1,7 @@
+Name: gorilla9206
+ActorNumber: 666
+PlayerID: 6D1809A5B8FC7D7D
+Platform: Standalone
+AccountCreationDate: 2026-01-16 19:10:35 UTC
+Color: R=0.44 G=0.00 B=0.78
+Cosmetics: None

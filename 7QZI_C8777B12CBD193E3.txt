@@ -1,0 +1,7 @@
+Name: GOODDAYVR
+ActorNumber: 1019
+PlayerID: C8777B12CBD193E3
+Platform: Standalone
+AccountCreationDate: 2025-12-02 20:32:48 UTC
+Color: R=0.33 G=0.67 B=0.89
+Cosmetics: None

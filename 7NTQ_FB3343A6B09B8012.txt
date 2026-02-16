@@ -1,0 +1,7 @@
+Name: NETSPENDER
+ActorNumber: 102
+PlayerID: FB3343A6B09B8012
+Platform: Unknown
+AccountCreationDate: 2021-12-31 16:42:56 UTC
+Color: R=1.00 G=1.00 B=1.00
+Cosmetics: None

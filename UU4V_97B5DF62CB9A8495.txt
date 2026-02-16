@@ -1,0 +1,7 @@
+Name: 092876543211
+ActorNumber: 86
+PlayerID: 97B5DF62CB9A8495
+Platform: Standalone
+AccountCreationDate: 2025-12-25 20:17:36 UTC
+Color: R=0.56 G=0.11 B=0.89
+Cosmetics: None

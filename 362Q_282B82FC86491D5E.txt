@@ -1,0 +1,7 @@
+Name: MYNUS
+ActorNumber: 389
+PlayerID: 282B82FC86491D5E
+Platform: Unknown
+AccountCreationDate: 2022-02-02 23:16:05 UTC
+Color: R=0.89 G=0.89 B=0.89
+Cosmetics: None

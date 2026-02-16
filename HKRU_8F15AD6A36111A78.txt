@@ -1,0 +1,7 @@
+Name: SWATVUUL
+ActorNumber: 1711
+PlayerID: 8F15AD6A36111A78
+Platform: Unknown
+AccountCreationDate: 2022-05-01 09:43:11 UTC
+Color: R=1.00 G=1.00 B=0.00
+Cosmetics: None

@@ -1,0 +1,7 @@
+Name: HJKFGEW
+ActorNumber: 288
+PlayerID: BD1728E9A16B01C6
+Platform: Standalone
+AccountCreationDate: 2024-05-20 00:57:21 UTC
+Color: R=0.67 G=0.67 B=0.67
+Cosmetics: None

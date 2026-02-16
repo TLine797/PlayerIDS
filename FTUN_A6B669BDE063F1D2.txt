@@ -1,0 +1,7 @@
+Name: SUSY09
+ActorNumber: 398
+PlayerID: A6B669BDE063F1D2
+Platform: Standalone
+AccountCreationDate: 2025-07-03 01:22:01 UTC
+Color: R=1.00 G=0.00 B=0.00
+Cosmetics: None

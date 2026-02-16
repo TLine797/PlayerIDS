@@ -1,0 +1,7 @@
+Name: TIZUM
+ActorNumber: 1709
+PlayerID: 80EE85FFC7C73E80
+Platform: Unknown
+AccountCreationDate: 2021-11-21 21:53:09 UTC
+Color: R=1.00 G=0.78 B=1.00
+Cosmetics: None

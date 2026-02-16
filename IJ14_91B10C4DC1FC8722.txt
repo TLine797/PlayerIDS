@@ -1,0 +1,7 @@
+Name: IMMORTAL
+ActorNumber: 278
+PlayerID: 91B10C4DC1FC8722
+Platform: Standalone
+AccountCreationDate: 2024-06-27 18:18:24 UTC
+Color: R=0.56 G=0.00 B=1.00
+Cosmetics: None

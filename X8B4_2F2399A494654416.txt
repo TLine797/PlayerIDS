@@ -1,0 +1,7 @@
+Name: ULTRA
+ActorNumber: 476
+PlayerID: 2F2399A494654416
+Platform: Unknown
+AccountCreationDate: 2022-11-19 22:01:56 UTC
+Color: R=0.44 G=0.22 B=1.00
+Cosmetics: None

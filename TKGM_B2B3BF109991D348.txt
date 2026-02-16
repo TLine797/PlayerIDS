@@ -1,0 +1,7 @@
+Name: RIPTIDE478
+ActorNumber: 160
+PlayerID: B2B3BF109991D348
+Platform: Standalone
+AccountCreationDate: 2024-12-25 14:45:04 UTC
+Color: R=0.22 G=0.00 B=0.67
+Cosmetics: None

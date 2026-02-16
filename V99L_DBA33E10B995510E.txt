@@ -1,0 +1,7 @@
+Name: TTTFAKE
+ActorNumber: 6
+PlayerID: DBA33E10B995510E
+Platform: Standalone
+AccountCreationDate: 2025-11-10 01:29:04 UTC
+Color: R=0.56 G=0.00 B=1.00
+Cosmetics: None

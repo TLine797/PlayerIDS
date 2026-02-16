@@ -1,0 +1,7 @@
+Name: ORANGATANG
+ActorNumber: 236
+PlayerID: F70B0BE3034AE347
+Platform: Standalone
+AccountCreationDate: 2025-08-06 17:53:14 UTC
+Color: R=0.00 G=0.21 B=0.01
+Cosmetics: None

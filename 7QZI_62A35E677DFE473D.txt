@@ -1,0 +1,7 @@
+Name: MAMA
+ActorNumber: 1045
+PlayerID: 62A35E677DFE473D
+Platform: Unknown
+AccountCreationDate: 2022-07-22 02:18:11 UTC
+Color: R=0.00 G=0.89 B=0.67
+Cosmetics: None

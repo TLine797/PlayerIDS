@@ -1,0 +1,7 @@
+Name: MARZDAIFRQ
+ActorNumber: 555
+PlayerID: E62AAA34565953A4
+Platform: Standalone
+AccountCreationDate: 2024-12-25 21:01:11 UTC
+Color: R=0.56 G=0.00 B=0.78
+Cosmetics: None

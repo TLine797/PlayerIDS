@@ -1,0 +1,7 @@
+Name: JELLY
+ActorNumber: 339
+PlayerID: BA55AE3D8E810BC6
+Platform: Standalone
+AccountCreationDate: 2025-01-18 23:37:47 UTC
+Color: R=0.44 G=0.00 B=0.56
+Cosmetics: None

@@ -1,0 +1,7 @@
+Name: IRIS
+ActorNumber: 611
+PlayerID: 7A8B196610145342
+Platform: Standalone
+AccountCreationDate: 2026-01-11 20:54:41 UTC
+Color: R=0.56 G=0.22 B=1.00
+Cosmetics: None

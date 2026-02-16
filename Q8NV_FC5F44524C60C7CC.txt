@@ -1,0 +1,7 @@
+Name: CHEFPP
+ActorNumber: 102
+PlayerID: FC5F44524C60C7CC
+Platform: Standalone
+AccountCreationDate: 2023-08-02 02:07:47 UTC
+Color: R=0.44 G=0.00 B=1.00
+Cosmetics: None

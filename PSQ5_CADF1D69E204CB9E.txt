@@ -1,0 +1,7 @@
+Name: TCRASSUALT
+ActorNumber: 154
+PlayerID: CADF1D69E204CB9E
+Platform: Standalone
+AccountCreationDate: 2023-03-11 23:03:58 UTC
+Color: R=0.22 G=0.00 B=0.56
+Cosmetics: None

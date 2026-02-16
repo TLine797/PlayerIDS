@@ -1,0 +1,7 @@
+Name: KONZEI
+ActorNumber: 414
+PlayerID: D9146884CF52764D
+Platform: Standalone
+AccountCreationDate: 2025-02-17 03:10:45 UTC
+Color: R=0.44 G=1.00 B=0.33
+Cosmetics: None

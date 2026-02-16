@@ -1,0 +1,7 @@
+Name: FENTDEE
+ActorNumber: 604
+PlayerID: 7F764F36B3FF36C5
+Platform: Standalone
+AccountCreationDate: 2023-12-20 16:05:37 UTC
+Color: R=0.00 G=0.00 B=0.00
+Cosmetics: None

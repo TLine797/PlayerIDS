@@ -1,0 +1,7 @@
+Name: SN1BBLE
+ActorNumber: 27
+PlayerID: AAADA6657312445D
+Platform: Unknown
+AccountCreationDate: 2022-01-11 22:57:08 UTC
+Color: R=0.22 G=1.00 B=0.22
+Cosmetics: None

@@ -1,0 +1,7 @@
+Name: gorilla1668
+ActorNumber: 619
+PlayerID: ECEC2DD58D6B6B90
+Platform: Standalone
+AccountCreationDate: 2025-08-21 02:08:11 UTC
+Color: R=0.44 G=0.00 B=1.00
+Cosmetics: None

@@ -1,0 +1,7 @@
+Name: 56
+ActorNumber: 59
+PlayerID: E09775645A4E4730
+Platform: PC
+AccountCreationDate: 2026-01-11 21:23:56 UTC
+Color: R=0.44 G=0.00 B=0.78
+Cosmetics: None

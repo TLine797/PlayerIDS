@@ -1,0 +1,7 @@
+Name: JULVR
+ActorNumber: 383
+PlayerID: 156F2782788DEEC0
+Platform: Standalone
+AccountCreationDate: 2025-12-25 17:37:15 UTC
+Color: R=0.67 G=0.67 B=0.67
+Cosmetics: None

@@ -1,0 +1,7 @@
+Name: MUSICGUY
+ActorNumber: 1727
+PlayerID: FD08E93DBC161205
+Platform: Standalone
+AccountCreationDate: 2026-01-13 02:53:19 UTC
+Color: R=0.00 G=0.44 B=0.00
+Cosmetics: None

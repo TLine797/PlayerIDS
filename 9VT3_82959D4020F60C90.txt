@@ -1,0 +1,7 @@
+Name: FEXFIN
+ActorNumber: 16
+PlayerID: 82959D4020F60C90
+Platform: Standalone
+AccountCreationDate: 2024-12-28 16:58:03 UTC
+Color: R=0.44 G=0.00 B=0.89
+Cosmetics: None

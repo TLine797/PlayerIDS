@@ -1,0 +1,7 @@
+Name: AXEVR
+ActorNumber: 546
+PlayerID: 41A3053B2C40A6B2
+Platform: Standalone
+AccountCreationDate: 2026-01-12 18:37:57 UTC
+Color: R=0.56 G=0.00 B=1.00
+Cosmetics: None

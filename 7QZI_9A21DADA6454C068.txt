@@ -1,0 +1,7 @@
+Name: DNJCHNNCHNMM
+ActorNumber: 1008
+PlayerID: 9A21DADA6454C068
+Platform: PC
+AccountCreationDate: 2025-04-24 21:58:12 UTC
+Color: R=0.33 G=0.00 B=0.78
+Cosmetics: None

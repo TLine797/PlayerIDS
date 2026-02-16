@@ -1,0 +1,7 @@
+Name: RUN
+ActorNumber: 5
+PlayerID: 926DD915D077A713
+Platform: PC
+AccountCreationDate: 2026-02-08 01:15:20 UTC
+Color: R=0.89 G=0.22 B=0.33
+Cosmetics: None

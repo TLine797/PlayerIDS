@@ -1,0 +1,7 @@
+Name: DURRBURGER
+ActorNumber: 597
+PlayerID: 8378EBB4DEA4F3EC
+Platform: Standalone
+AccountCreationDate: 2024-12-25 20:37:04 UTC
+Color: R=0.67 G=0.44 B=0.78
+Cosmetics: None

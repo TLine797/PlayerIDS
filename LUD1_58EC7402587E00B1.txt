@@ -1,0 +1,7 @@
+Name: LEMON
+ActorNumber: 209
+PlayerID: 58EC7402587E00B1
+Platform: Standalone
+AccountCreationDate: 2025-09-29 15:47:46 UTC
+Color: R=1.00 G=1.00 B=0.00
+Cosmetics: None

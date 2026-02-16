@@ -1,0 +1,7 @@
+Name: TTTPIG
+ActorNumber: 32
+PlayerID: F9432E10D1E05572
+Platform: Unknown
+AccountCreationDate: 2022-12-24 14:02:01 UTC
+Color: R=0.56 G=0.00 B=0.78
+Cosmetics: None

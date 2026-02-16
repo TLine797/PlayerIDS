@@ -1,0 +1,7 @@
+Name: GHOSTFACE
+ActorNumber: 304
+PlayerID: E7EE690A72B03C26
+Platform: Unknown
+AccountCreationDate: 2022-08-04 02:51:01 UTC
+Color: R=0.00 G=0.00 B=0.00
+Cosmetics: None

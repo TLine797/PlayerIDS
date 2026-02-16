@@ -1,0 +1,7 @@
+Name: PIXIEE
+ActorNumber: 482
+PlayerID: D3CF0733B2CA4C87
+Platform: Standalone
+AccountCreationDate: 2024-01-03 00:02:24 UTC
+Color: R=1.00 G=0.00 B=0.89
+Cosmetics: None

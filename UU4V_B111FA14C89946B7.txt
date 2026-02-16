@@ -1,0 +1,7 @@
+Name: REW1
+ActorNumber: 88
+PlayerID: B111FA14C89946B7
+Platform: Unknown
+AccountCreationDate: 2022-03-02 22:42:24 UTC
+Color: R=0.00 G=0.00 B=0.00
+Cosmetics: None

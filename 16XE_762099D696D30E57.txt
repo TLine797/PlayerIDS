@@ -1,0 +1,7 @@
+Name: CYBER
+ActorNumber: 771
+PlayerID: 762099D696D30E57
+Platform: Standalone
+AccountCreationDate: 2025-12-25 15:59:52 UTC
+Color: R=0.00 G=0.00 B=0.00
+Cosmetics: None

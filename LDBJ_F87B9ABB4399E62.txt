@@ -1,0 +1,7 @@
+Name: IMISSK9
+ActorNumber: 532
+PlayerID: F87B9ABB4399E62
+Platform: Standalone
+AccountCreationDate: 2024-12-25 11:37:20 UTC
+Color: R=0.89 G=0.44 B=0.00
+Cosmetics: None

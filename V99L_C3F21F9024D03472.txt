@@ -1,0 +1,7 @@
+Name: TTVBLAKE
+ActorNumber: 1
+PlayerID: C3F21F9024D03472
+Platform: Standalone
+AccountCreationDate: 2025-12-01 05:22:19 UTC
+Color: R=0.44 G=0.00 B=1.00
+Cosmetics: None

@@ -1,0 +1,7 @@
+Name: BLIZZ
+ActorNumber: 26
+PlayerID: F121D5D847E1F405
+Platform: Standalone
+AccountCreationDate: 2025-08-04 18:46:45 UTC
+Color: R=0.56 G=0.56 B=0.56
+Cosmetics: None

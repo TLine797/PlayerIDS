@@ -1,0 +1,7 @@
+Name: TTRSCHUYANE
+ActorNumber: 253
+PlayerID: C32180B6E114D079
+Platform: PC
+AccountCreationDate: 2024-05-19 22:39:39 UTC
+Color: R=0.22 G=0.33 B=1.00
+Cosmetics: None

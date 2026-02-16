@@ -1,0 +1,7 @@
+Name: TTTGIPP
+ActorNumber: 189
+PlayerID: DF71A467A2B9DC4E
+Platform: Standalone
+AccountCreationDate: 2025-12-25 18:35:15 UTC
+Color: R=0.56 G=0.11 B=0.78
+Cosmetics: None

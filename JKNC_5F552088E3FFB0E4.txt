@@ -1,0 +1,7 @@
+Name: GOOBER
+ActorNumber: 108
+PlayerID: 5F552088E3FFB0E4
+Platform: Standalone
+AccountCreationDate: 2025-05-29 19:00:10 UTC
+Color: R=0.00 G=0.44 B=0.78
+Cosmetics: None

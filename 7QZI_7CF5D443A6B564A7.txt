@@ -1,0 +1,7 @@
+Name: GOOD
+ActorNumber: 1050
+PlayerID: 7CF5D443A6B564A7
+Platform: Standalone
+AccountCreationDate: 2025-02-01 00:06:17 UTC
+Color: R=0.00 G=0.89 B=0.56
+Cosmetics: None

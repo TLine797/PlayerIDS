@@ -1,0 +1,7 @@
+Name: STUPIDMONKVR
+ActorNumber: 293
+PlayerID: 576CACDEC6E73C5F
+Platform: Standalone
+AccountCreationDate: 2024-06-29 18:18:45 UTC
+Color: R=0.33 G=0.33 B=0.89
+Cosmetics: None

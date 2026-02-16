@@ -1,0 +1,7 @@
+Name: DIHHHOPPERR
+ActorNumber: 219
+PlayerID: 6201E3FBF58F097C
+Platform: Unknown
+AccountCreationDate: 2022-03-14 23:43:30 UTC
+Color: R=0.56 G=1.00 B=1.00
+Cosmetics: None

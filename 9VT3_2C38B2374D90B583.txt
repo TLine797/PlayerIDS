@@ -1,0 +1,7 @@
+Name: LEMMY
+ActorNumber: 17
+PlayerID: 2C38B2374D90B583
+Platform: Standalone
+AccountCreationDate: 2025-08-12 02:16:46 UTC
+Color: R=0.44 G=0.56 B=0.89
+Cosmetics: None

@@ -1,0 +1,7 @@
+Name: KENZO
+ActorNumber: 424
+PlayerID: 6183EC759A40A4CD
+Platform: Standalone
+AccountCreationDate: 2025-10-15 22:24:13 UTC
+Color: R=0.56 G=0.11 B=1.00
+Cosmetics: None

@@ -1,0 +1,7 @@
+Name: NONCHALANT
+ActorNumber: 531
+PlayerID: C5FB42C9296DC28
+Platform: Standalone
+AccountCreationDate: 2026-02-07 02:49:59 UTC
+Color: R=1.00 G=0.00 B=0.00
+Cosmetics: None

@@ -1,0 +1,7 @@
+Name: LIAM12VR
+ActorNumber: 214
+PlayerID: B290200FE6202A5E
+Platform: Standalone
+AccountCreationDate: 2023-08-27 15:59:00 UTC
+Color: R=0.22 G=0.00 B=1.00
+Cosmetics: None

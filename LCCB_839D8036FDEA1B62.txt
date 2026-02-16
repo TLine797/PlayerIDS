@@ -1,0 +1,7 @@
+Name: 99
+ActorNumber: 399
+PlayerID: 839D8036FDEA1B62
+Platform: Standalone
+AccountCreationDate: 2025-07-30 00:43:40 UTC
+Color: R=0.44 G=0.00 B=0.78
+Cosmetics: None

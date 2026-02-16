@@ -1,0 +1,7 @@
+Name: GORILLA0279
+ActorNumber: 243
+PlayerID: 612BA4D4810A120F
+Platform: Unknown
+AccountCreationDate: 2021-12-23 14:26:28 UTC
+Color: R=1.00 G=0.78 B=0.22
+Cosmetics: None

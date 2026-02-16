@@ -1,0 +1,7 @@
+Name: HORIZON
+ActorNumber: 1022
+PlayerID: EFC0B4514EF05AC7
+Platform: Standalone
+AccountCreationDate: 2023-03-11 16:40:33 UTC
+Color: R=1.00 G=0.44 B=0.00
+Cosmetics: None

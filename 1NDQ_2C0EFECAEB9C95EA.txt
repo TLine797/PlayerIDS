@@ -1,0 +1,7 @@
+Name: CLIPVR
+ActorNumber: 7
+PlayerID: 2C0EFECAEB9C95EA
+Platform: Unknown
+AccountCreationDate: 2023-01-03 15:23:26 UTC
+Color: R=0.78 G=0.78 B=0.78
+Cosmetics: None

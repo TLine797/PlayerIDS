@@ -1,0 +1,7 @@
+Name: ISUCK
+ActorNumber: 6
+PlayerID: EAB9BC148414EAAB
+Platform: Standalone
+AccountCreationDate: 2023-12-28 01:46:08 UTC
+Color: R=0.22 G=0.11 B=0.00
+Cosmetics: None

@@ -1,0 +1,7 @@
+Name: PATRIOTVR
+ActorNumber: 396
+PlayerID: 9CB8FA886239B81D
+Platform: Standalone
+AccountCreationDate: 2026-01-23 21:47:41 UTC
+Color: R=0.22 G=0.22 B=0.22
+Cosmetics: None

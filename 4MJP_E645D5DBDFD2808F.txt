@@ -1,0 +1,7 @@
+Name: gorilla5474
+ActorNumber: 537
+PlayerID: E645D5DBDFD2808F
+Platform: Standalone
+AccountCreationDate: 2025-12-25 13:44:20 UTC
+Color: R=1.00 G=1.00 B=1.00
+Cosmetics: None

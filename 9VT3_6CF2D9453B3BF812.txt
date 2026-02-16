@@ -1,0 +1,7 @@
+Name: WINSTON1
+ActorNumber: 52
+PlayerID: 6CF2D9453B3BF812
+Platform: Standalone
+AccountCreationDate: 2025-12-25 13:55:58 UTC
+Color: R=0.00 G=0.89 B=1.00
+Cosmetics: None

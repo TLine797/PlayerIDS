@@ -1,0 +1,7 @@
+Name: ELI
+ActorNumber: 2
+PlayerID: 29DED7FB314ED556
+Platform: Standalone
+AccountCreationDate: 2024-12-27 01:11:09 UTC
+Color: R=0.67 G=0.67 B=0.67
+Cosmetics: None

@@ -1,0 +1,7 @@
+Name: TCHGOAT
+ActorNumber: 77
+PlayerID: BF08A9D3A4544CBA
+Platform: Standalone
+AccountCreationDate: 2025-03-30 20:48:10 UTC
+Color: R=0.11 G=0.33 B=0.89
+Cosmetics: None

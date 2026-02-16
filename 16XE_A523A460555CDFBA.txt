@@ -1,0 +1,7 @@
+Name: ICYELITE
+ActorNumber: 778
+PlayerID: A523A460555CDFBA
+Platform: Unknown
+AccountCreationDate: 2022-11-18 21:27:22 UTC
+Color: R=0.67 G=0.78 B=0.56
+Cosmetics: None

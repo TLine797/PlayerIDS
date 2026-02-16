@@ -1,0 +1,7 @@
+Name: NIGHT
+ActorNumber: 616
+PlayerID: 47E0032BDE79D6E5
+Platform: Standalone
+AccountCreationDate: 2025-12-25 14:22:47 UTC
+Color: R=0.56 G=0.22 B=0.56
+Cosmetics: None

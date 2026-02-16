@@ -1,0 +1,7 @@
+Name: TDDFORD
+ActorNumber: 201
+PlayerID: C53145DD9CF9E4CB
+Platform: Standalone
+AccountCreationDate: 2025-11-09 03:46:26 UTC
+Color: R=0.44 G=0.00 B=1.00
+Cosmetics: None

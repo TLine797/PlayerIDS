@@ -1,0 +1,7 @@
+Name: STADE
+ActorNumber: 783
+PlayerID: 49805D928F4E6C9D
+Platform: Standalone
+AccountCreationDate: 2025-04-26 04:35:50 UTC
+Color: R=0.44 G=0.00 B=1.00
+Cosmetics: None

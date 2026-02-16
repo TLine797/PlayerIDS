@@ -1,0 +1,7 @@
+Name: JSVR
+ActorNumber: 67
+PlayerID: E3F23F1BF6331AE9
+Platform: Unknown
+AccountCreationDate: 2022-11-20 01:35:02 UTC
+Color: R=0.89 G=0.67 B=0.33
+Cosmetics: None

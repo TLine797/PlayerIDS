@@ -1,0 +1,7 @@
+Name: PICO4
+ActorNumber: 178
+PlayerID: 10097B1210D77F70
+Platform: Unknown
+AccountCreationDate: 2021-06-20 01:37:37 UTC
+Color: R=1.00 G=1.00 B=1.00
+Cosmetics: None

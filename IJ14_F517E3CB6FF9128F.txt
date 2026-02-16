@@ -1,0 +1,7 @@
+Name: DW
+ActorNumber: 285
+PlayerID: F517E3CB6FF9128F
+Platform: Standalone
+AccountCreationDate: 2024-10-19 00:00:38 UTC
+Color: R=0.22 G=0.11 B=1.00
+Cosmetics: None

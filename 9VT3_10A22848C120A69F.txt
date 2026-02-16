@@ -1,0 +1,7 @@
+Name: RJM
+ActorNumber: 13
+PlayerID: 10A22848C120A69F
+Platform: Standalone
+AccountCreationDate: 2024-03-18 19:50:33 UTC
+Color: R=0.67 G=0.11 B=0.44
+Cosmetics: None

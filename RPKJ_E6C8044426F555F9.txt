@@ -1,0 +1,7 @@
+Name: GUS
+ActorNumber: 29
+PlayerID: E6C8044426F555F9
+Platform: Standalone
+AccountCreationDate: 2024-12-27 05:51:48 UTC
+Color: R=0.56 G=0.22 B=1.00
+Cosmetics: None

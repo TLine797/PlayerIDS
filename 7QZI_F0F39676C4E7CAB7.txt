@@ -1,0 +1,7 @@
+Name: gorilla6812
+ActorNumber: 1048
+PlayerID: F0F39676C4E7CAB7
+Platform: PC
+AccountCreationDate: 2026-02-12 02:51:09 UTC
+Color: R=0.55 G=0.98 B=0.59
+Cosmetics: None

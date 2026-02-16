@@ -1,0 +1,7 @@
+Name: H4PKY
+ActorNumber: 131
+PlayerID: 94C84F3E4CF69DE0
+Platform: Standalone
+AccountCreationDate: 2026-01-10 19:21:02 UTC
+Color: R=0.56 G=0.00 B=0.00
+Cosmetics: None

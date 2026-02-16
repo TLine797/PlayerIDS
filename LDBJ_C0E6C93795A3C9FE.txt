@@ -1,0 +1,7 @@
+Name: BABYTIMMY
+ActorNumber: 520
+PlayerID: C0E6C93795A3C9FE
+Platform: Standalone
+AccountCreationDate: 2025-12-25 17:09:39 UTC
+Color: R=1.00 G=0.67 B=1.00
+Cosmetics: None

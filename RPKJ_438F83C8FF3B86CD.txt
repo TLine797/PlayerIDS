@@ -1,0 +1,7 @@
+Name: JOS3
+ActorNumber: 35
+PlayerID: 438F83C8FF3B86CD
+Platform: Standalone
+AccountCreationDate: 2024-03-01 17:28:18 UTC
+Color: R=0.33 G=1.00 B=1.00
+Cosmetics: None

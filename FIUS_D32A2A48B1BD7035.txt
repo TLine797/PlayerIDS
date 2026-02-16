@@ -1,0 +1,7 @@
+Name: DONZIIGD
+ActorNumber: 19
+PlayerID: D32A2A48B1BD7035
+Platform: Unknown
+AccountCreationDate: 2022-12-03 13:30:13 UTC
+Color: R=0.44 G=0.00 B=0.78
+Cosmetics: None

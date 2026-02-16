@@ -1,0 +1,7 @@
+Name: R
+ActorNumber: 161
+PlayerID: 195DDEA2175B2066
+Platform: Standalone
+AccountCreationDate: 2025-12-25 15:47:54 UTC
+Color: R=0.67 G=0.89 B=1.00
+Cosmetics: None

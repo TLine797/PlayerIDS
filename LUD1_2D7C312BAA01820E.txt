@@ -1,0 +1,7 @@
+Name: TGPDAWNER
+ActorNumber: 210
+PlayerID: 2D7C312BAA01820E
+Platform: Standalone
+AccountCreationDate: 2024-12-24 02:04:51 UTC
+Color: R=0.22 G=0.22 B=0.22
+Cosmetics: None

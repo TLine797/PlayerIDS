@@ -1,0 +1,7 @@
+Name: ASH
+ActorNumber: 114
+PlayerID: E64D34746AD1CA99
+Platform: Standalone
+AccountCreationDate: 2024-12-26 20:59:17 UTC
+Color: R=0.33 G=0.22 B=0.89
+Cosmetics: None

@@ -1,0 +1,7 @@
+Name: gorilla8821
+ActorNumber: 181
+PlayerID: 1FADD7C605A7DD6B
+Platform: Standalone
+AccountCreationDate: 2025-12-07 21:46:54 UTC
+Color: R=0.00 G=0.00 B=0.00
+Cosmetics: None

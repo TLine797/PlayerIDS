@@ -1,0 +1,7 @@
+Name: NUTT
+ActorNumber: 1673
+PlayerID: B6D955EF50B07C5
+Platform: PC
+AccountCreationDate: 2025-02-06 02:04:44 UTC
+Color: R=0.44 G=0.44 B=0.44
+Cosmetics: None

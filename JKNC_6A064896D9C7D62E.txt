@@ -1,0 +1,7 @@
+Name: TTCORTEX
+ActorNumber: 100
+PlayerID: 6A064896D9C7D62E
+Platform: Unknown
+AccountCreationDate: 2022-03-10 00:41:51 UTC
+Color: R=1.00 G=1.00 B=1.00
+Cosmetics: None

@@ -1,0 +1,7 @@
+Name: WATERF3LL
+ActorNumber: 680
+PlayerID: 5151FDE229611241
+Platform: PC
+AccountCreationDate: 2024-03-19 22:39:39 UTC
+Color: R=0.00 G=0.56 B=1.00
+Cosmetics: None

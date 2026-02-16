@@ -1,0 +1,7 @@
+Name: TOP1005GROUN
+ActorNumber: 1719
+PlayerID: 857EEA09B8E5F57B
+Platform: Unknown
+AccountCreationDate: 2022-12-25 22:12:19 UTC
+Color: R=1.00 G=1.00 B=0.44
+Cosmetics: None

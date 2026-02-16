@@ -1,0 +1,7 @@
+Name: CACALIT
+ActorNumber: 6
+PlayerID: 7E2F7FB6BFCC32BF
+Platform: Unknown
+AccountCreationDate: 2023-01-06 23:18:48 UTC
+Color: R=1.00 G=0.89 B=0.00
+Cosmetics: None

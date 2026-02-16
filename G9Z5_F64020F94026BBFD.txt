@@ -1,0 +1,7 @@
+Name: IMTUF3
+ActorNumber: 276
+PlayerID: F64020F94026BBFD
+Platform: Unknown
+AccountCreationDate: 2023-02-02 21:02:39 UTC
+Color: R=0.78 G=0.78 B=1.00
+Cosmetics: None

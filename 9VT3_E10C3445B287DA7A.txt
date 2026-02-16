@@ -1,0 +1,7 @@
+Name: NIGHTWILLOW
+ActorNumber: 41
+PlayerID: E10C3445B287DA7A
+Platform: Unknown
+AccountCreationDate: 2026-02-02 02:18:54 UTC
+Color: R=1.00 G=0.00 B=0.22
+Cosmetics: None

@@ -1,0 +1,7 @@
+Name: gorilla3583
+ActorNumber: 1138
+PlayerID: D8B0572AB6EFEE43
+Platform: Standalone
+AccountCreationDate: 2025-12-25 20:01:17 UTC
+Color: R=0.11 G=0.44 B=0.89
+Cosmetics: None

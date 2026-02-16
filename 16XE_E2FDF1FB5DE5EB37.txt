@@ -1,0 +1,7 @@
+Name: BLCCX
+ActorNumber: 787
+PlayerID: E2FDF1FB5DE5EB37
+Platform: Unknown
+AccountCreationDate: 2022-11-26 04:46:45 UTC
+Color: R=0.00 G=0.78 B=0.44
+Cosmetics: None

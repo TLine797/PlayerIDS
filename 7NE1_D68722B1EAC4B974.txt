@@ -1,0 +1,7 @@
+Name: CLANTRYOUT
+ActorNumber: 66
+PlayerID: D68722B1EAC4B974
+Platform: Standalone
+AccountCreationDate: 2023-12-25 16:49:20 UTC
+Color: R=0.33 G=0.11 B=0.78
+Cosmetics: None

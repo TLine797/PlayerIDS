@@ -1,0 +1,7 @@
+Name: ILOVEGOD
+ActorNumber: 169
+PlayerID: 99FA6EACFE370CE7
+Platform: Standalone
+AccountCreationDate: 2025-03-14 22:55:58 UTC
+Color: R=0.00 G=0.78 B=1.00
+Cosmetics: None

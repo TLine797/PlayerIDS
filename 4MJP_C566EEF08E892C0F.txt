@@ -1,0 +1,7 @@
+Name: IC3Y
+ActorNumber: 545
+PlayerID: C566EEF08E892C0F
+Platform: Standalone
+AccountCreationDate: 2026-02-08 17:04:44 UTC
+Color: R=0.89 G=0.56 B=0.22
+Cosmetics: None

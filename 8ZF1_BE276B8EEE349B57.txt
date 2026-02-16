@@ -1,0 +1,7 @@
+Name: YUJI
+ActorNumber: 462
+PlayerID: BE276B8EEE349B57
+Platform: Unknown
+AccountCreationDate: 2022-08-27 22:28:53 UTC
+Color: R=0.78 G=0.22 B=0.22
+Cosmetics: None

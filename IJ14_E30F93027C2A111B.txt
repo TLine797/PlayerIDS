@@ -1,0 +1,7 @@
+Name: gorilla
+ActorNumber: 284
+PlayerID: E30F93027C2A111B
+Platform: Standalone
+AccountCreationDate: 2024-08-23 20:23:52 UTC
+Color: R=1.00 G=1.00 B=1.00
+Cosmetics: None

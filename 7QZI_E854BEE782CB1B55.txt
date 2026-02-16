@@ -1,0 +1,7 @@
+Name: YEAT
+ActorNumber: 1035
+PlayerID: E854BEE782CB1B55
+Platform: Standalone
+AccountCreationDate: 2023-12-22 02:48:39 UTC
+Color: R=0.44 G=0.00 B=0.78
+Cosmetics: None

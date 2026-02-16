@@ -1,0 +1,7 @@
+Name: BLULUGTAG
+ActorNumber: 575
+PlayerID: D6E28F7846D6255A
+Platform: Standalone
+AccountCreationDate: 2024-12-28 05:02:09 UTC
+Color: R=0.00 G=1.00 B=1.00
+Cosmetics: None

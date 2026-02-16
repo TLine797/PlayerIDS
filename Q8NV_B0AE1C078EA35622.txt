@@ -1,0 +1,7 @@
+Name: BOO
+ActorNumber: 99
+PlayerID: B0AE1C078EA35622
+Platform: Unknown
+AccountCreationDate: 2021-11-28 22:42:43 UTC
+Color: R=0.33 G=0.33 B=1.00
+Cosmetics: None

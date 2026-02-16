@@ -1,0 +1,7 @@
+Name: NMATEGT
+ActorNumber: 15
+PlayerID: D302B777D2D6E48F
+Platform: Standalone
+AccountCreationDate: 2025-12-31 18:02:24 UTC
+Color: R=0.11 G=0.44 B=1.00
+Cosmetics: None

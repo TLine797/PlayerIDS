@@ -1,0 +1,7 @@
+Name: PERC40
+ActorNumber: 157
+PlayerID: D69C4536FE06D059
+Platform: Unknown
+AccountCreationDate: 2022-04-14 00:24:00 UTC
+Color: R=1.00 G=1.00 B=0.78
+Cosmetics: None

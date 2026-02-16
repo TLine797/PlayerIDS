@@ -1,0 +1,7 @@
+Name: RUNTGT
+ActorNumber: 65
+PlayerID: 11A9A4B0A13DABEC
+Platform: Standalone
+AccountCreationDate: 2024-12-25 22:55:59 UTC
+Color: R=0.56 G=0.11 B=0.11
+Cosmetics: None

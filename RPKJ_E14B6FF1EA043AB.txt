@@ -1,0 +1,7 @@
+Name: TSM3SS
+ActorNumber: 7
+PlayerID: E14B6FF1EA043AB
+Platform: Standalone
+AccountCreationDate: 2023-06-15 05:30:55 UTC
+Color: R=0.78 G=0.67 B=0.56
+Cosmetics: None

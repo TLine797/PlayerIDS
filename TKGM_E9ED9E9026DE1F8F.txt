@@ -1,0 +1,7 @@
+Name: TUBTOMATO
+ActorNumber: 170
+PlayerID: E9ED9E9026DE1F8F
+Platform: Standalone
+AccountCreationDate: 2026-01-10 21:07:26 UTC
+Color: R=0.00 G=0.67 B=0.67
+Cosmetics: None

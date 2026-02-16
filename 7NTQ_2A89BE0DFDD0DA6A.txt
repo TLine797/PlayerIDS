@@ -1,0 +1,7 @@
+Name: VAX
+ActorNumber: 127
+PlayerID: 2A89BE0DFDD0DA6A
+Platform: Standalone
+AccountCreationDate: 2024-01-20 03:44:12 UTC
+Color: R=0.44 G=0.00 B=1.00
+Cosmetics: None

@@ -1,0 +1,7 @@
+Name: RAZOR
+ActorNumber: 464
+PlayerID: 7CD198470288AE98
+Platform: Standalone
+AccountCreationDate: 2025-12-25 17:03:47 UTC
+Color: R=0.00 G=0.22 B=1.00
+Cosmetics: None

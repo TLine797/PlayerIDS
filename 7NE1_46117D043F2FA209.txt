@@ -1,0 +1,7 @@
+Name: RAMPAGE
+ActorNumber: 88
+PlayerID: 46117D043F2FA209
+Platform: Standalone
+AccountCreationDate: 2024-06-23 22:46:09 UTC
+Color: R=0.56 G=0.00 B=0.89
+Cosmetics: None

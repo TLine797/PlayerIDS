@@ -1,0 +1,7 @@
+Name: NICK
+ActorNumber: 232
+PlayerID: 906D0F5DDD9A7CFE
+Platform: Standalone
+AccountCreationDate: 2025-04-04 01:19:28 UTC
+Color: R=0.22 G=0.22 B=0.22
+Cosmetics: None

@@ -1,0 +1,7 @@
+Name: UNDEAD
+ActorNumber: 1725
+PlayerID: 12B1AA32CA16D9B0
+Platform: Standalone
+AccountCreationDate: 2024-07-27 22:26:29 UTC
+Color: R=0.00 G=0.22 B=0.33
+Cosmetics: None

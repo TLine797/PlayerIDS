@@ -1,0 +1,7 @@
+Name: gorilla
+ActorNumber: 72
+PlayerID: BFC5F50B6BA4ED8D
+Platform: Standalone
+AccountCreationDate: 2026-01-15 00:56:09 UTC
+Color: R=0.44 G=1.00 B=0.33
+Cosmetics: None
