@@ -1,0 +1,7 @@
+Name: TGAHALLOW
+ActorNumber: 1149
+PlayerID: 12CF659E97067C81
+Platform: Standalone
+AccountCreationDate: 2024-12-25 20:30:16 UTC
+Color: R=0.00 G=0.00 B=0.78
+Cosmetics: None

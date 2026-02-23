@@ -1,0 +1,7 @@
+Name: SEXYDEE
+ActorNumber: 327
+PlayerID: C7DCC4524FB3CA50
+Platform: Standalone
+AccountCreationDate: 2023-12-25 12:34:22 UTC
+Color: R=0.56 G=0.00 B=1.00
+Cosmetics: None

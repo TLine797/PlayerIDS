@@ -1,0 +1,7 @@
+Name: TAK3N
+ActorNumber: 22
+PlayerID: DE09E4674FEA9600
+Platform: PC
+AccountCreationDate: 2024-03-02 02:03:14 UTC
+Color: R=1.00 G=1.00 B=1.00
+Cosmetics: None

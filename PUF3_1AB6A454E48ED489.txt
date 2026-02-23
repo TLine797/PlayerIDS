@@ -1,0 +1,7 @@
+Name: TGDAPPLES
+ActorNumber: 126
+PlayerID: 1AB6A454E48ED489
+Platform: Standalone
+AccountCreationDate: 2023-06-19 01:45:13 UTC
+Color: R=1.00 G=1.00 B=1.00
+Cosmetics: None

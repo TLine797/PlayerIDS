@@ -1,0 +1,7 @@
+Name: HIM
+ActorNumber: 1162
+PlayerID: 38D8CE6EED0FBB6E
+Platform: Standalone
+AccountCreationDate: 2024-07-30 01:15:06 UTC
+Color: R=0.00 G=0.00 B=0.00
+Cosmetics: None

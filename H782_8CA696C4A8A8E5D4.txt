@@ -1,0 +1,7 @@
+Name: JAMAL
+ActorNumber: 316
+PlayerID: 8CA696C4A8A8E5D4
+Platform: Standalone
+AccountCreationDate: 2024-12-25 16:16:31 UTC
+Color: R=1.00 G=1.00 B=1.00
+Cosmetics: None

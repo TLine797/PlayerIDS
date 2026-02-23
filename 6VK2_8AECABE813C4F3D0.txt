@@ -1,0 +1,7 @@
+Name: TOMER
+ActorNumber: 878
+PlayerID: 8AECABE813C4F3D0
+Platform: Standalone
+AccountCreationDate: 2022-07-15 16:13:53 UTC
+Color: R=0.33 G=0.22 B=0.11
+Cosmetics: None

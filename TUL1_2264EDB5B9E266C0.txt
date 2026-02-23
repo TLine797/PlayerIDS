@@ -1,0 +1,7 @@
+Name: BOBERT
+ActorNumber: 34
+PlayerID: 2264EDB5B9E266C0
+Platform: Standalone
+AccountCreationDate: 2025-11-12 01:48:37 UTC
+Color: R=0.00 G=0.00 B=0.00
+Cosmetics: None

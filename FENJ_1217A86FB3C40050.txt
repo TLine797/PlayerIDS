@@ -1,0 +1,7 @@
+Name: gorilla6560
+ActorNumber: 18
+PlayerID: 1217A86FB3C40050
+Platform: Unknown
+AccountCreationDate: 2022-04-17 23:12:40 UTC
+Color: R=0.44 G=0.11 B=1.00
+Cosmetics: None

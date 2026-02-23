@@ -1,0 +1,7 @@
+Name: RIFTS
+ActorNumber: 893
+PlayerID: B725CA5D7284F0EE
+Platform: Standalone
+AccountCreationDate: 2024-06-16 22:44:10 UTC
+Color: R=1.00 G=0.11 B=0.11
+Cosmetics: None

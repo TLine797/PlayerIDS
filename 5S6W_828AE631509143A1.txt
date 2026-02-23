@@ -1,0 +1,7 @@
+Name: ILUCIOEDUP
+ActorNumber: 1175
+PlayerID: 828AE631509143A1
+Platform: Unknown
+AccountCreationDate: 2023-01-16 16:26:26 UTC
+Color: R=0.44 G=0.00 B=0.78
+Cosmetics: None

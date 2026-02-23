@@ -1,0 +1,7 @@
+Name: BEANS
+ActorNumber: 289
+PlayerID: 3DF4C9D322C497D2
+Platform: Standalone
+AccountCreationDate: 2024-11-24 14:35:02 UTC
+Color: R=0.89 G=0.00 B=0.00
+Cosmetics: None

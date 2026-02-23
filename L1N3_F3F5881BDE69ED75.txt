@@ -1,0 +1,7 @@
+Name: CLAMPS
+ActorNumber: 362
+PlayerID: F3F5881BDE69ED75
+Platform: Standalone
+AccountCreationDate: 2025-03-20 15:03:44 UTC
+Color: R=1.00 G=0.67 B=0.67
+Cosmetics: None

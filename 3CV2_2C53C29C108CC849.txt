@@ -1,0 +1,7 @@
+Name: OGH4KPY
+ActorNumber: 77
+PlayerID: 2C53C29C108CC849
+Platform: Standalone
+AccountCreationDate: 2026-01-21 20:54:59 UTC
+Color: R=1.00 G=0.00 B=0.00
+Cosmetics: None

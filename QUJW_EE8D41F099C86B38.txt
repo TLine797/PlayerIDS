@@ -1,0 +1,7 @@
+Name: FISHY
+ActorNumber: 446
+PlayerID: EE8D41F099C86B38
+Platform: PC
+AccountCreationDate: 2025-11-26 23:00:59 UTC
+Color: R=0.44 G=0.00 B=0.89
+Cosmetics: None

@@ -1,0 +1,7 @@
+Name: MIKE
+ActorNumber: 853
+PlayerID: 5E1A941CB84566D5
+Platform: Standalone
+AccountCreationDate: 2024-12-01 01:09:32 UTC
+Color: R=0.89 G=0.89 B=0.89
+Cosmetics: None

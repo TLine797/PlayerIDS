@@ -1,0 +1,7 @@
+Name: TWRBLEZ
+ActorNumber: 982
+PlayerID: 4CE1FFBF9D9FA6D1
+Platform: Standalone
+AccountCreationDate: 2024-12-25 12:15:36 UTC
+Color: R=0.22 G=0.00 B=0.00
+Cosmetics: None

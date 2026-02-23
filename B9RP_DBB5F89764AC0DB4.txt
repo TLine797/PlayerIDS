@@ -1,0 +1,7 @@
+Name: ARCEUS
+ActorNumber: 1398
+PlayerID: DBB5F89764AC0DB4
+Platform: Standalone
+AccountCreationDate: 2023-03-20 16:13:46 UTC
+Color: R=0.56 G=0.67 B=0.89
+Cosmetics: None

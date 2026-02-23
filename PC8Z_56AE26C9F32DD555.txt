@@ -1,0 +1,7 @@
+Name: LVL
+ActorNumber: 893
+PlayerID: 56AE26C9F32DD555
+Platform: Standalone
+AccountCreationDate: 2023-12-26 01:33:37 UTC
+Color: R=1.00 G=0.78 B=0.78
+Cosmetics: None

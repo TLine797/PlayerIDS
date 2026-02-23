@@ -1,0 +1,7 @@
+Name: ELEVEN
+ActorNumber: 475
+PlayerID: C2A5D0BC61ED5AC7
+Platform: Standalone
+AccountCreationDate: 2024-05-12 20:42:17 UTC
+Color: R=0.78 G=0.78 B=0.78
+Cosmetics: None

@@ -1,0 +1,7 @@
+Name: AERO
+ActorNumber: 15
+PlayerID: 20ED5BAAF86A536E
+Platform: Standalone
+AccountCreationDate: 2025-08-05 00:09:13 UTC
+Color: R=0.00 G=0.33 B=1.00
+Cosmetics: None

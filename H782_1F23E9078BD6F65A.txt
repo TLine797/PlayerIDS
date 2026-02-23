@@ -1,0 +1,7 @@
+Name: PENGUINSLAYR
+ActorNumber: 320
+PlayerID: 1F23E9078BD6F65A
+Platform: Standalone
+AccountCreationDate: 2023-11-28 00:41:23 UTC
+Color: R=0.56 G=0.67 B=1.00
+Cosmetics: None

@@ -1,0 +1,7 @@
+Name: GODTURKEYVR
+ActorNumber: 1339
+PlayerID: 2F37D44E8F8CF5BC
+Platform: Unknown
+AccountCreationDate: 2022-12-26 04:59:43 UTC
+Color: R=0.67 G=0.44 B=0.33
+Cosmetics: None

@@ -1,0 +1,7 @@
+Name: ILOVEKAYNE
+ActorNumber: 1
+PlayerID: 8721AE2ECDF82F0B
+Platform: Unknown
+AccountCreationDate: 2022-02-03 01:43:00 UTC
+Color: R=1.00 G=0.11 B=0.22
+Cosmetics: None

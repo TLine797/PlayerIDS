@@ -1,0 +1,7 @@
+Name: BMMVBMVMM
+ActorNumber: 342
+PlayerID: DF8B6F5C7DDD911F
+Platform: Standalone
+AccountCreationDate: 2025-12-27 21:28:07 UTC
+Color: R=0.78 G=1.00 B=1.00
+Cosmetics: None

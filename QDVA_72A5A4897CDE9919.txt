@@ -1,0 +1,7 @@
+Name: ZASH
+ActorNumber: 556
+PlayerID: 72A5A4897CDE9919
+Platform: Standalone
+AccountCreationDate: 2023-12-24 23:40:48 UTC
+Color: R=0.22 G=0.22 B=0.33
+Cosmetics: None

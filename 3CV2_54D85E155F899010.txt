@@ -1,0 +1,7 @@
+Name: MINIDEE
+ActorNumber: 91
+PlayerID: 54D85E155F899010
+Platform: Standalone
+AccountCreationDate: 2025-12-25 11:52:07 UTC
+Color: R=0.44 G=0.00 B=0.78
+Cosmetics: None

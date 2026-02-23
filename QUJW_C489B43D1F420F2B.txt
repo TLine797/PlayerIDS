@@ -1,0 +1,7 @@
+Name: TWHWAFFLE
+ActorNumber: 444
+PlayerID: C489B43D1F420F2B
+Platform: Standalone
+AccountCreationDate: 2025-04-08 23:48:04 UTC
+Color: R=0.44 G=0.00 B=0.89
+Cosmetics: None

@@ -1,0 +1,7 @@
+Name: GOLDENFREDDY
+ActorNumber: 418
+PlayerID: F00D4536D42D6471
+Platform: Standalone
+AccountCreationDate: 2025-12-25 17:47:42 UTC
+Color: R=1.00 G=1.00 B=0.00
+Cosmetics: None

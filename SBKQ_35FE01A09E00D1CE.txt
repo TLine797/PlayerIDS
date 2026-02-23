@@ -1,0 +1,7 @@
+Name: COLTONVR
+ActorNumber: 379
+PlayerID: 35FE01A09E00D1CE
+Platform: Standalone
+AccountCreationDate: 2025-12-16 00:31:30 UTC
+Color: R=0.00 G=0.00 B=0.00
+Cosmetics: None

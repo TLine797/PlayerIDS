@@ -1,0 +1,7 @@
+Name: MARIJUANA
+ActorNumber: 475
+PlayerID: 391B4A84A8616035
+Platform: PC
+AccountCreationDate: 2022-02-15 11:40:55 UTC
+Color: R=0.67 G=0.78 B=1.00
+Cosmetics: None

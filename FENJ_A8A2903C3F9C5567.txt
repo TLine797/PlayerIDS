@@ -1,0 +1,7 @@
+Name: V
+ActorNumber: 9
+PlayerID: A8A2903C3F9C5567
+Platform: Standalone
+AccountCreationDate: 2025-01-10 02:04:52 UTC
+Color: R=1.00 G=1.00 B=1.00
+Cosmetics: None

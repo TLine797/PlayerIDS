@@ -1,0 +1,7 @@
+Name: MINIGAMESKID
+ActorNumber: 889
+PlayerID: B5BE2A3C3640F114
+Platform: Standalone
+AccountCreationDate: 2026-01-18 23:44:53 UTC
+Color: R=0.00 G=0.89 B=1.00
+Cosmetics: None

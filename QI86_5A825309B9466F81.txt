@@ -1,0 +1,7 @@
+Name: 1V1ME
+ActorNumber: 108
+PlayerID: 5A825309B9466F81
+Platform: Standalone
+AccountCreationDate: 2025-04-05 15:18:04 UTC
+Color: R=0.00 G=0.00 B=0.00
+Cosmetics: None

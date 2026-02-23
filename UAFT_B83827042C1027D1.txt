@@ -1,0 +1,7 @@
+Name: RED
+ActorNumber: 1472
+PlayerID: B83827042C1027D1
+Platform: Standalone
+AccountCreationDate: 2025-12-25 17:42:02 UTC
+Color: R=1.00 G=0.00 B=0.00
+Cosmetics: None

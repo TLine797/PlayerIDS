@@ -1,0 +1,7 @@
+Name: BLESSJESUS
+ActorNumber: 1350
+PlayerID: 8A4809A678EA491B
+Platform: Standalone
+AccountCreationDate: 2025-11-16 20:59:55 UTC
+Color: R=0.33 G=0.11 B=0.33
+Cosmetics: None

@@ -1,0 +1,7 @@
+Name: BEEBOBOFART
+ActorNumber: 9
+PlayerID: 73B1E69EAC65956D
+Platform: Standalone
+AccountCreationDate: 2024-12-26 01:19:07 UTC
+Color: R=0.22 G=0.00 B=0.00
+Cosmetics: None

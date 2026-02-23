@@ -1,0 +1,7 @@
+Name: MUSHY
+ActorNumber: 1503
+PlayerID: 337996E1FAEAF2D9
+Platform: PC
+AccountCreationDate: 2024-08-01 23:39:31 UTC
+Color: R=0.44 G=0.44 B=0.56
+Cosmetics: None

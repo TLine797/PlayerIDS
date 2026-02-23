@@ -1,0 +1,7 @@
+Name: GT17
+ActorNumber: 883
+PlayerID: 1C0423312B8F1083
+Platform: Standalone
+AccountCreationDate: 2025-12-30 22:02:38 UTC
+Color: R=0.00 G=1.00 B=1.00
+Cosmetics: None

@@ -1,0 +1,7 @@
+Name: NINJADECODER
+ActorNumber: 1303
+PlayerID: BB6CDA2C0B7E02C4
+Platform: Standalone
+AccountCreationDate: 2023-12-30 01:04:20 UTC
+Color: R=0.44 G=0.00 B=0.78
+Cosmetics: None

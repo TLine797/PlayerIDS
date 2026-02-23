@@ -1,0 +1,7 @@
+Name: LEMMING
+ActorNumber: 759
+PlayerID: 2A405E75D29B3D97
+Platform: Standalone
+AccountCreationDate: 2025-03-09 01:43:51 UTC
+Color: R=0.00 G=0.33 B=0.33
+Cosmetics: None

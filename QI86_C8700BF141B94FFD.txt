@@ -1,0 +1,7 @@
+Name: gorilla7552
+ActorNumber: 117
+PlayerID: C8700BF141B94FFD
+Platform: Standalone
+AccountCreationDate: 2026-01-03 00:38:55 UTC
+Color: R=0.11 G=0.00 B=0.89
+Cosmetics: None

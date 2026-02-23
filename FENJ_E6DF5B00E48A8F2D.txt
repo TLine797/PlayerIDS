@@ -1,0 +1,7 @@
+Name: HP4KYJUNIOR
+ActorNumber: 1
+PlayerID: E6DF5B00E48A8F2D
+Platform: Standalone
+AccountCreationDate: 2026-02-09 18:59:46 UTC
+Color: R=1.00 G=0.00 B=0.00
+Cosmetics: None

@@ -1,0 +1,7 @@
+Name: TRIPIX
+ActorNumber: 1492
+PlayerID: AD04069AB2638A67
+Platform: PC
+AccountCreationDate: 2023-02-18 00:22:22 UTC
+Color: R=0.78 G=0.78 B=0.78
+Cosmetics: None

@@ -1,0 +1,7 @@
+Name: VMT
+ActorNumber: 751
+PlayerID: 61F29887E98BEF84
+Platform: Standalone
+AccountCreationDate: 2026-01-02 18:20:40 UTC
+Color: R=0.11 G=0.11 B=0.44
+Cosmetics: None

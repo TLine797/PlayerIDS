@@ -1,0 +1,7 @@
+Name: HI
+ActorNumber: 987
+PlayerID: 33D0603B08674E59
+Platform: Standalone
+AccountCreationDate: 2023-06-19 17:06:04 UTC
+Color: R=0.22 G=0.33 B=0.56
+Cosmetics: None

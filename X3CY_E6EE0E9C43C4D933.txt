@@ -1,0 +1,7 @@
+Name: BANANA
+ActorNumber: 927
+PlayerID: E6EE0E9C43C4D933
+Platform: Standalone
+AccountCreationDate: 2026-01-24 17:58:27 UTC
+Color: R=0.00 G=0.33 B=0.33
+Cosmetics: None

@@ -1,0 +1,7 @@
+Name: SSGDREAM
+ActorNumber: 453
+PlayerID: B232919E7F0EF60D
+Platform: Standalone
+AccountCreationDate: 2024-04-06 00:03:23 UTC
+Color: R=0.22 G=0.22 B=1.00
+Cosmetics: None

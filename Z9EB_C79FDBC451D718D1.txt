@@ -1,0 +1,7 @@
+Name: RSFBOLTZ
+ActorNumber: 989
+PlayerID: C79FDBC451D718D1
+Platform: Standalone
+AccountCreationDate: 2022-02-12 21:13:18 UTC
+Color: R=0.00 G=1.00 B=0.00
+Cosmetics: None

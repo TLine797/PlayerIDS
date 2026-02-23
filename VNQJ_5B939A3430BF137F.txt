@@ -1,0 +1,7 @@
+Name: TTGHOCKEY
+ActorNumber: 38
+PlayerID: 5B939A3430BF137F
+Platform: Standalone
+AccountCreationDate: 2025-12-12 01:03:42 UTC
+Color: R=1.00 G=1.00 B=0.67
+Cosmetics: None

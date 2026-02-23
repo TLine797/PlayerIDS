@@ -1,0 +1,7 @@
+Name: CREAMSODA
+ActorNumber: 604
+PlayerID: 915D115B9F8DFBF3
+Platform: Standalone
+AccountCreationDate: 2026-01-06 23:34:31 UTC
+Color: R=0.22 G=0.22 B=0.22
+Cosmetics: None

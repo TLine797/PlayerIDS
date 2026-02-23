@@ -1,0 +1,7 @@
+Name: EPICSKETCHNO
+ActorNumber: 1328
+PlayerID: 62F730CD9D2AD81D
+Platform: Standalone
+AccountCreationDate: 2024-10-17 04:18:57 UTC
+Color: R=0.89 G=0.44 B=0.00
+Cosmetics: None

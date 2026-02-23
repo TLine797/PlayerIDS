@@ -1,0 +1,7 @@
+Name: gorilla3276
+ActorNumber: 1160
+PlayerID: FF284D6B237C8FD5
+Platform: Standalone
+AccountCreationDate: 2023-12-26 00:08:49 UTC
+Color: R=0.44 G=0.44 B=1.00
+Cosmetics: None

@@ -1,0 +1,7 @@
+Name: FOXLER1K
+ActorNumber: 348
+PlayerID: 9A8BA2461F62F473
+Platform: Standalone
+AccountCreationDate: 2023-12-25 17:42:43 UTC
+Color: R=1.00 G=0.33 B=0.00
+Cosmetics: None

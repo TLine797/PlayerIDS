@@ -1,0 +1,7 @@
+Name: LUL
+ActorNumber: 369
+PlayerID: 6E4CE273D02241CE
+Platform: Standalone
+AccountCreationDate: 2024-06-01 19:56:51 UTC
+Color: R=0.00 G=0.33 B=0.56
+Cosmetics: None

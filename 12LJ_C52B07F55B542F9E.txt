@@ -1,0 +1,7 @@
+Name: KIM
+ActorNumber: 748
+PlayerID: C52B07F55B542F9E
+Platform: Unknown
+AccountCreationDate: 2022-11-25 17:53:24 UTC
+Color: R=1.00 G=0.89 B=0.11
+Cosmetics: None

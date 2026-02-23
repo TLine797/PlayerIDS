@@ -1,0 +1,7 @@
+Name: TAGZVR1K
+ActorNumber: 865
+PlayerID: 473CBD5B4828A739
+Platform: Standalone
+AccountCreationDate: 2025-04-22 02:31:47 UTC
+Color: R=0.78 G=1.00 B=0.78
+Cosmetics: None

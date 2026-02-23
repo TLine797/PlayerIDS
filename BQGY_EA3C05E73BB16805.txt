@@ -1,0 +1,7 @@
+Name: PICKLES
+ActorNumber: 1354
+PlayerID: EA3C05E73BB16805
+Platform: Standalone
+AccountCreationDate: 2025-09-21 21:25:46 UTC
+Color: R=0.11 G=0.33 B=0.78
+Cosmetics: None

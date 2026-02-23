@@ -1,0 +1,7 @@
+Name: MILK
+ActorNumber: 881
+PlayerID: 649C79A2BCD64489
+Platform: Standalone
+AccountCreationDate: 2024-07-21 02:59:13 UTC
+Color: R=0.67 G=0.67 B=0.67
+Cosmetics: None

@@ -1,0 +1,7 @@
+Name: KIMBLES
+ActorNumber: 1414
+PlayerID: 56B3E98FE8A30C7D
+Platform: Unknown
+AccountCreationDate: 2022-04-02 04:08:05 UTC
+Color: R=0.00 G=0.67 B=1.00
+Cosmetics: None

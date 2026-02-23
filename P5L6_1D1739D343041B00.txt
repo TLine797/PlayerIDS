@@ -1,0 +1,7 @@
+Name: JIM
+ActorNumber: 139
+PlayerID: 1D1739D343041B00
+Platform: Standalone
+AccountCreationDate: 2026-01-24 22:49:33 UTC
+Color: R=1.00 G=0.67 B=0.89
+Cosmetics: None

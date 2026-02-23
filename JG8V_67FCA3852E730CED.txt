@@ -1,0 +1,7 @@
+Name: DEPRESSION
+ActorNumber: 1417
+PlayerID: 67FCA3852E730CED
+Platform: Unknown
+AccountCreationDate: 2022-06-16 21:47:03 UTC
+Color: R=0.00 G=0.00 B=0.00
+Cosmetics: None

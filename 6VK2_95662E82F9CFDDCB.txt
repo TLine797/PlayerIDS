@@ -1,0 +1,7 @@
+Name: I
+ActorNumber: 818
+PlayerID: 95662E82F9CFDDCB
+Platform: Standalone
+AccountCreationDate: 2023-05-21 19:15:53 UTC
+Color: R=0.44 G=0.44 B=0.44
+Cosmetics: None

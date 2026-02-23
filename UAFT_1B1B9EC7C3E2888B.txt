@@ -1,0 +1,7 @@
+Name: BEANDON
+ActorNumber: 1491
+PlayerID: 1B1B9EC7C3E2888B
+Platform: Unknown
+AccountCreationDate: 2022-05-29 02:11:07 UTC
+Color: R=0.78 G=0.89 B=1.00
+Cosmetics: None

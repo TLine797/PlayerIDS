@@ -1,0 +1,7 @@
+Name: NIOMI
+ActorNumber: 2
+PlayerID: 4A0BB6DEA9EC00A1
+Platform: Standalone
+AccountCreationDate: 2023-06-09 00:03:55 UTC
+Color: R=0.44 G=0.44 B=0.89
+Cosmetics: None

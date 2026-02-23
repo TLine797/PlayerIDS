@@ -1,0 +1,7 @@
+Name: TAKIDUST
+ActorNumber: 1478
+PlayerID: F5EA98AD4199925B
+Platform: Standalone
+AccountCreationDate: 2023-12-25 04:56:45 UTC
+Color: R=1.00 G=0.00 B=1.00
+Cosmetics: None

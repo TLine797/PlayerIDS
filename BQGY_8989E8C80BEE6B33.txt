@@ -1,0 +1,7 @@
+Name: SOSA
+ActorNumber: 1252
+PlayerID: 8989E8C80BEE6B33
+Platform: Unknown
+AccountCreationDate: 2021-07-29 19:51:13 UTC
+Color: R=0.22 G=0.11 B=0.22
+Cosmetics: None

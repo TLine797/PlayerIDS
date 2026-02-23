@@ -1,0 +1,7 @@
+Name: KKIL
+ActorNumber: 55
+PlayerID: CF3AC0EA7D5216B5
+Platform: Standalone
+AccountCreationDate: 2023-02-19 04:19:52 UTC
+Color: R=1.00 G=0.44 B=0.00
+Cosmetics: None

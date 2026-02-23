@@ -1,0 +1,7 @@
+Name: WARRIOR
+ActorNumber: 1390
+PlayerID: 3CC7AD6B8F18B5D5
+Platform: Unknown
+AccountCreationDate: 2022-10-03 18:29:46 UTC
+Color: R=1.00 G=0.00 B=0.00
+Cosmetics: None

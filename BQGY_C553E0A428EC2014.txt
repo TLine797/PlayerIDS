@@ -1,0 +1,7 @@
+Name: MUSHA
+ActorNumber: 1386
+PlayerID: C553E0A428EC2014
+Platform: Unknown
+AccountCreationDate: 2022-12-27 00:03:11 UTC
+Color: R=0.56 G=0.67 B=0.44
+Cosmetics: None

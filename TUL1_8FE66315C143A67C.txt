@@ -1,0 +1,7 @@
+Name: HELLO
+ActorNumber: 11
+PlayerID: 8FE66315C143A67C
+Platform: Standalone
+AccountCreationDate: 2024-11-23 00:14:29 UTC
+Color: R=0.44 G=0.22 B=0.56
+Cosmetics: None

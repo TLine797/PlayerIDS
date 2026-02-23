@@ -1,0 +1,7 @@
+Name: MOREO
+ActorNumber: 1420
+PlayerID: B4B3FC76FF3C91B1
+Platform: Unknown
+AccountCreationDate: 2022-04-12 21:45:20 UTC
+Color: R=0.89 G=0.00 B=0.44
+Cosmetics: None

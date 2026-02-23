@@ -1,0 +1,7 @@
+Name: TSSHUBBA
+ActorNumber: 114
+PlayerID: B8416747CC3CE64C
+Platform: Standalone
+AccountCreationDate: 2023-05-03 17:20:37 UTC
+Color: R=0.89 G=0.44 B=0.56
+Cosmetics: None

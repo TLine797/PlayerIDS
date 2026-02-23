@@ -1,0 +1,7 @@
+Name: TNABBY
+ActorNumber: 1342
+PlayerID: 3EA0B8FB8431A868
+Platform: Unknown
+AccountCreationDate: 2025-12-26 01:46:54 UTC
+Color: R=0.33 G=0.00 B=0.44
+Cosmetics: None

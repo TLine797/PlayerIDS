@@ -1,0 +1,7 @@
+Name: FANCY
+ActorNumber: 32
+PlayerID: E5BF9B6D8A56CFC5
+Platform: Standalone
+AccountCreationDate: 2024-12-25 20:31:52 UTC
+Color: R=0.44 G=0.22 B=0.78
+Cosmetics: None

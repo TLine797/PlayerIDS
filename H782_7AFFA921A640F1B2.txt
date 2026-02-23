@@ -1,0 +1,7 @@
+Name: STTDIUJEUDOI
+ActorNumber: 340
+PlayerID: 7AFFA921A640F1B2
+Platform: Standalone
+AccountCreationDate: 2024-10-22 21:49:23 UTC
+Color: R=0.11 G=0.22 B=0.44
+Cosmetics: None

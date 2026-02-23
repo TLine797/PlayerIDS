@@ -1,0 +1,7 @@
+Name: KINGBOB
+ActorNumber: 1490
+PlayerID: 772F553F5CFE668E
+Platform: Standalone
+AccountCreationDate: 2023-12-25 22:30:58 UTC
+Color: R=1.00 G=0.78 B=0.00
+Cosmetics: None

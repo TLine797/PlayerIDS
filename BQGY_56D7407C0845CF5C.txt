@@ -1,0 +1,7 @@
+Name: ZEN
+ActorNumber: 1337
+PlayerID: 56D7407C0845CF5C
+Platform: Standalone
+AccountCreationDate: 2023-03-31 00:52:06 UTC
+Color: R=0.00 G=0.44 B=1.00
+Cosmetics: None

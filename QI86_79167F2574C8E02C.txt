@@ -1,0 +1,7 @@
+Name: PEB
+ActorNumber: 109
+PlayerID: 79167F2574C8E02C
+Platform: Standalone
+AccountCreationDate: 2025-08-10 20:56:20 UTC
+Color: R=0.00 G=0.00 B=0.22
+Cosmetics: None

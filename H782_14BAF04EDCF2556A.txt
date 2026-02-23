@@ -1,0 +1,7 @@
+Name: PPAP
+ActorNumber: 314
+PlayerID: 14BAF04EDCF2556A
+Platform: Standalone
+AccountCreationDate: 2024-06-11 02:00:35 UTC
+Color: R=0.44 G=0.44 B=0.89
+Cosmetics: None

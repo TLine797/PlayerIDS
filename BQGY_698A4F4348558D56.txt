@@ -1,0 +1,7 @@
+Name: POOPBOT2
+ActorNumber: 1377
+PlayerID: 698A4F4348558D56
+Platform: Unknown
+AccountCreationDate: 2021-12-26 05:45:38 UTC
+Color: R=0.58 G=0.00 B=1.00
+Cosmetics: None

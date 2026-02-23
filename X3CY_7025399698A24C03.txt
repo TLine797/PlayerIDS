@@ -1,0 +1,7 @@
+Name: FANKY
+ActorNumber: 905
+PlayerID: 7025399698A24C03
+Platform: Standalone
+AccountCreationDate: 2025-07-23 02:04:34 UTC
+Color: R=0.00 G=0.21 B=0.01
+Cosmetics: None

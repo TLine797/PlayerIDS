@@ -1,0 +1,7 @@
+Name: TOES
+ActorNumber: 926
+PlayerID: 235AB88A298B4943
+Platform: Standalone
+AccountCreationDate: 2026-01-05 19:10:01 UTC
+Color: R=0.67 G=0.44 B=0.22
+Cosmetics: None

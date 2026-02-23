@@ -1,0 +1,7 @@
+Name: ITZKAI
+ActorNumber: 985
+PlayerID: 1825D3CA510B74CE
+Platform: Standalone
+AccountCreationDate: 2024-12-25 11:23:00 UTC
+Color: R=0.33 G=0.00 B=0.00
+Cosmetics: None

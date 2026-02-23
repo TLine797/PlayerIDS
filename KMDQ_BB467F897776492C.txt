@@ -1,0 +1,7 @@
+Name: NAT
+ActorNumber: 161
+PlayerID: BB467F897776492C
+Platform: Unknown
+AccountCreationDate: 2023-01-27 06:03:12 UTC
+Color: R=0.00 G=0.00 B=0.00
+Cosmetics: None

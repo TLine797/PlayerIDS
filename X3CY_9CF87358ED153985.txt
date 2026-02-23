@@ -1,0 +1,7 @@
+Name: TUXI
+ActorNumber: 869
+PlayerID: 9CF87358ED153985
+Platform: Standalone
+AccountCreationDate: 2023-12-17 02:31:07 UTC
+Color: R=1.00 G=1.00 B=1.00
+Cosmetics: None

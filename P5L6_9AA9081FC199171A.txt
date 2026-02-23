@@ -1,0 +1,7 @@
+Name: LILA
+ActorNumber: 140
+PlayerID: 9AA9081FC199171A
+Platform: Standalone
+AccountCreationDate: 2025-01-11 20:18:11 UTC
+Color: R=0.78 G=0.89 B=1.00
+Cosmetics: None

@@ -1,0 +1,7 @@
+Name: N3XT
+ActorNumber: 764
+PlayerID: 410715A89A6A816B
+Platform: Unknown
+AccountCreationDate: 2022-05-11 22:51:24 UTC
+Color: R=0.67 G=0.00 B=1.00
+Cosmetics: None

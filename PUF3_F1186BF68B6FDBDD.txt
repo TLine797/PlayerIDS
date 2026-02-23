@@ -1,0 +1,7 @@
+Name: CMREDMOON
+ActorNumber: 109
+PlayerID: F1186BF68B6FDBDD
+Platform: Standalone
+AccountCreationDate: 2025-04-27 21:17:56 UTC
+Color: R=0.67 G=0.00 B=0.00
+Cosmetics: None

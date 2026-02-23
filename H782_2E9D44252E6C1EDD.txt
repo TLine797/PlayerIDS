@@ -1,0 +1,7 @@
+Name: JOSEPH
+ActorNumber: 333
+PlayerID: 2E9D44252E6C1EDD
+Platform: Standalone
+AccountCreationDate: 2025-12-25 19:21:55 UTC
+Color: R=0.56 G=0.00 B=1.00
+Cosmetics: None

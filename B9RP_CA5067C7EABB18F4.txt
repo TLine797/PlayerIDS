@@ -1,0 +1,7 @@
+Name: ZAIREXX
+ActorNumber: 1419
+PlayerID: CA5067C7EABB18F4
+Platform: Unknown
+AccountCreationDate: 2022-04-03 00:39:09 UTC
+Color: R=0.00 G=0.00 B=0.00
+Cosmetics: None

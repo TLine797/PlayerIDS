@@ -1,0 +1,7 @@
+Name: VOLTIXVR
+ActorNumber: 330
+PlayerID: A32A9768686BEFAB
+Platform: Standalone
+AccountCreationDate: 2024-04-11 02:01:00 UTC
+Color: R=1.00 G=0.44 B=0.11
+Cosmetics: None

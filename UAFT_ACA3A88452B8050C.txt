@@ -1,0 +1,7 @@
+Name: NEXUTA
+ActorNumber: 1459
+PlayerID: ACA3A88452B8050C
+Platform: Standalone
+AccountCreationDate: 2024-03-11 01:54:47 UTC
+Color: R=0.56 G=0.89 B=0.67
+Cosmetics: None

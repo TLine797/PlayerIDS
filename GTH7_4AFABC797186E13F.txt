@@ -1,0 +1,7 @@
+Name: FEATHERS
+ActorNumber: 10
+PlayerID: 4AFABC797186E13F
+Platform: Unknown
+AccountCreationDate: 2022-02-15 03:15:00 UTC
+Color: R=0.44 G=0.00 B=0.78
+Cosmetics: None

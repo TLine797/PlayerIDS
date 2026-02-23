@@ -1,0 +1,7 @@
+Name: WOLFDC
+ActorNumber: 739
+PlayerID: 8695F0A8F6D8B9F5
+Platform: Standalone
+AccountCreationDate: 2026-02-21 03:46:54 UTC
+Color: R=0.22 G=0.00 B=0.44
+Cosmetics: None

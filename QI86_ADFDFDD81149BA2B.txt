@@ -1,0 +1,7 @@
+Name: MORT
+ActorNumber: 115
+PlayerID: ADFDFDD81149BA2B
+Platform: Standalone
+AccountCreationDate: 2024-12-25 11:16:20 UTC
+Color: R=0.67 G=0.56 B=0.67
+Cosmetics: None

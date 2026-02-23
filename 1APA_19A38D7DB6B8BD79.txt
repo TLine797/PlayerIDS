@@ -1,0 +1,7 @@
+Name: MCQUEEN
+ActorNumber: 73
+PlayerID: 19A38D7DB6B8BD79
+Platform: Unknown
+AccountCreationDate: 2022-01-09 00:12:56 UTC
+Color: R=0.56 G=0.00 B=0.00
+Cosmetics: None

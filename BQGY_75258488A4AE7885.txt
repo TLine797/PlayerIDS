@@ -1,0 +1,7 @@
+Name: FIRE
+ActorNumber: 1325
+PlayerID: 75258488A4AE7885
+Platform: Standalone
+AccountCreationDate: 2023-03-04 03:34:32 UTC
+Color: R=1.00 G=0.22 B=0.00
+Cosmetics: None

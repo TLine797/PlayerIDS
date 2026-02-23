@@ -1,0 +1,7 @@
+Name: GORILLAVR
+ActorNumber: 220
+PlayerID: 61D4455028590027
+Platform: PC
+AccountCreationDate: 2025-12-25 15:24:06 UTC
+Color: R=0.00 G=0.89 B=0.00
+Cosmetics: None

@@ -1,0 +1,7 @@
+Name: HITTT
+ActorNumber: 13
+PlayerID: 97B5DF62CB9A8495
+Platform: Standalone
+AccountCreationDate: 2025-12-25 20:17:36 UTC
+Color: R=0.89 G=1.00 B=1.00
+Cosmetics: None

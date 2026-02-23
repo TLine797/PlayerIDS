@@ -1,0 +1,7 @@
+Name: FISHYFISH
+ActorNumber: 1381
+PlayerID: EC03196C2E631521
+Platform: Standalone
+AccountCreationDate: 2023-12-27 01:47:03 UTC
+Color: R=0.33 G=0.00 B=0.67
+Cosmetics: None

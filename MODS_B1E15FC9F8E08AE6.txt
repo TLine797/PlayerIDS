@@ -1,0 +1,7 @@
+Name: PRO4555
+ActorNumber: 1
+PlayerID: B1E15FC9F8E08AE6
+Platform: Standalone
+AccountCreationDate: 2025-12-27 03:02:35 UTC
+Color: R=0.00 G=0.67 B=0.89
+Cosmetics: None

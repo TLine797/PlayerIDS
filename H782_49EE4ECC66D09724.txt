@@ -1,0 +1,7 @@
+Name: SCIZZORME
+ActorNumber: 366
+PlayerID: 49EE4ECC66D09724
+Platform: Standalone
+AccountCreationDate: 2023-12-22 22:39:37 UTC
+Color: R=0.89 G=0.67 B=1.00
+Cosmetics: None

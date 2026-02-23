@@ -1,0 +1,7 @@
+Name: EM3RS0N
+ActorNumber: 928
+PlayerID: 1A629FC5428970BD
+Platform: Standalone
+AccountCreationDate: 2023-11-04 16:56:57 UTC
+Color: R=1.00 G=0.00 B=0.00
+Cosmetics: None

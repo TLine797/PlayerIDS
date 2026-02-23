@@ -1,0 +1,7 @@
+Name: POO
+ActorNumber: 564
+PlayerID: E3F23F1BF6331AE9
+Platform: Unknown
+AccountCreationDate: 2022-11-20 01:35:02 UTC
+Color: R=1.00 G=0.00 B=1.00
+Cosmetics: None

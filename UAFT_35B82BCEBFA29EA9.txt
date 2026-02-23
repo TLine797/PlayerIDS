@@ -1,0 +1,7 @@
+Name: TSMHIM
+ActorNumber: 1489
+PlayerID: 35B82BCEBFA29EA9
+Platform: Standalone
+AccountCreationDate: 2025-12-25 05:20:40 UTC
+Color: R=0.00 G=0.22 B=0.00
+Cosmetics: None

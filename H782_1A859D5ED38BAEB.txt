@@ -1,0 +1,7 @@
+Name: B
+ActorNumber: 346
+PlayerID: 1A859D5ED38BAEB
+Platform: Standalone
+AccountCreationDate: 2022-09-12 02:52:46 UTC
+Color: R=0.44 G=0.00 B=0.78
+Cosmetics: None

@@ -1,0 +1,7 @@
+Name: VALKZZ
+ActorNumber: 547
+PlayerID: 224C392BC8CAC1E7
+Platform: Standalone
+AccountCreationDate: 2024-08-11 01:19:33 UTC
+Color: R=1.00 G=1.00 B=1.00
+Cosmetics: None

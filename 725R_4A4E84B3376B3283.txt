@@ -1,0 +1,7 @@
+Name: BENSON122
+ActorNumber: 92
+PlayerID: 4A4E84B3376B3283
+Platform: Standalone
+AccountCreationDate: 2025-10-04 20:26:48 UTC
+Color: R=0.44 G=0.00 B=1.00
+Cosmetics: None

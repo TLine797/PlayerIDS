@@ -1,0 +1,7 @@
+Name: OHDEER
+ActorNumber: 175
+PlayerID: 5DC4E126DA739966
+Platform: Unknown
+AccountCreationDate: 2021-05-24 18:50:36 UTC
+Color: R=0.22 G=0.22 B=0.44
+Cosmetics: None

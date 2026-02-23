@@ -1,0 +1,7 @@
+Name: GENTLEMAN
+ActorNumber: 1411
+PlayerID: 46AC9D6963AB3D35
+Platform: Standalone
+AccountCreationDate: 2025-03-26 19:28:00 UTC
+Color: R=0.89 G=1.00 B=1.00
+Cosmetics: None

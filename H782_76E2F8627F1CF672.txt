@@ -1,0 +1,7 @@
+Name: TICKLETIMSON
+ActorNumber: 360
+PlayerID: 76E2F8627F1CF672
+Platform: Standalone
+AccountCreationDate: 2023-01-07 03:00:54 UTC
+Color: R=0.67 G=0.00 B=0.00
+Cosmetics: None

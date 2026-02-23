@@ -1,0 +1,7 @@
+Name: BUSTERSCRUGG
+ActorNumber: 3
+PlayerID: A1CABA80EFB49201
+Platform: Standalone
+AccountCreationDate: 2023-03-16 15:01:38 UTC
+Color: R=1.00 G=0.67 B=0.89
+Cosmetics: None

@@ -1,0 +1,7 @@
+Name: JESUSLOVEYOU
+ActorNumber: 186
+PlayerID: 82BB1CDC58157741
+Platform: Standalone
+AccountCreationDate: 2026-01-19 21:37:16 UTC
+Color: R=0.67 G=0.33 B=0.00
+Cosmetics: None

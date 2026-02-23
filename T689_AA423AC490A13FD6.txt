@@ -1,0 +1,7 @@
+Name: Z3R0
+ActorNumber: 323
+PlayerID: AA423AC490A13FD6
+Platform: Standalone
+AccountCreationDate: 2022-07-26 16:11:41 UTC
+Color: R=1.00 G=0.67 B=0.78
+Cosmetics: None

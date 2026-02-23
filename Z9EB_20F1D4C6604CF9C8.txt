@@ -1,0 +1,7 @@
+Name: 485682863847
+ActorNumber: 984
+PlayerID: 20F1D4C6604CF9C8
+Platform: Standalone
+AccountCreationDate: 2026-02-05 14:27:33 UTC
+Color: R=0.67 G=0.67 B=1.00
+Cosmetics: None

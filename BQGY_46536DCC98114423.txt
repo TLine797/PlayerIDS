@@ -1,0 +1,7 @@
+Name: JJDADVRGT
+ActorNumber: 1323
+PlayerID: 46536DCC98114423
+Platform: Standalone
+AccountCreationDate: 2026-01-26 12:30:30 UTC
+Color: R=0.22 G=0.00 B=0.78
+Cosmetics: None

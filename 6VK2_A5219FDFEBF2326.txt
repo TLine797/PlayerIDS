@@ -1,0 +1,7 @@
+Name: SPONGE
+ActorNumber: 846
+PlayerID: A5219FDFEBF2326
+Platform: Standalone
+AccountCreationDate: 2024-01-20 15:36:48 UTC
+Color: R=0.22 G=0.00 B=1.00
+Cosmetics: None

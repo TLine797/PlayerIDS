@@ -1,0 +1,7 @@
+Name: NICECAT
+ActorNumber: 138
+PlayerID: 2BCC769CAD4171DB
+Platform: Standalone
+AccountCreationDate: 2025-08-06 23:01:50 UTC
+Color: R=0.22 G=0.11 B=1.00
+Cosmetics: None

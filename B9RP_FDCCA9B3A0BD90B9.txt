@@ -1,0 +1,7 @@
+Name: GREG
+ActorNumber: 1417
+PlayerID: FDCCA9B3A0BD90B9
+Platform: Standalone
+AccountCreationDate: 2025-12-25 22:14:45 UTC
+Color: R=0.00 G=0.00 B=0.00
+Cosmetics: None

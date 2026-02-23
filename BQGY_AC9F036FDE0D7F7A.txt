@@ -1,0 +1,7 @@
+Name: T4MJR
+ActorNumber: 1318
+PlayerID: AC9F036FDE0D7F7A
+Platform: PC
+AccountCreationDate: 2025-02-01 19:14:55 UTC
+Color: R=1.00 G=1.00 B=1.00
+Cosmetics: None

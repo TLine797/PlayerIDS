@@ -1,0 +1,7 @@
+Name: MRJEFFY
+ActorNumber: 4
+PlayerID: 6BF412AC0AD84AF4
+Platform: Unknown
+AccountCreationDate: 2022-02-17 16:26:08 UTC
+Color: R=0.33 G=0.22 B=0.00
+Cosmetics: None

@@ -1,0 +1,7 @@
+Name: MITH1XZGT
+ActorNumber: 906
+PlayerID: 3A003DCFD0C526BC
+Platform: Unknown
+AccountCreationDate: 2024-12-26 00:25:13 UTC
+Color: R=1.00 G=0.78 B=1.00
+Cosmetics: None

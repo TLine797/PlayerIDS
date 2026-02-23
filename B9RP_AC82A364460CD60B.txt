@@ -1,0 +1,7 @@
+Name: CLAY
+ActorNumber: 1424
+PlayerID: AC82A364460CD60B
+Platform: Standalone
+AccountCreationDate: 2023-08-10 18:45:11 UTC
+Color: R=0.44 G=0.44 B=1.00
+Cosmetics: None

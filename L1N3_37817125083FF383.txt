@@ -1,0 +1,7 @@
+Name: MOGGED
+ActorNumber: 340
+PlayerID: 37817125083FF383
+Platform: Standalone
+AccountCreationDate: 2026-02-03 16:38:04 UTC
+Color: R=0.00 G=0.00 B=0.00
+Cosmetics: None

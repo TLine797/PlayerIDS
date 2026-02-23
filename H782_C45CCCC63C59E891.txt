@@ -1,0 +1,7 @@
+Name: HYPER
+ActorNumber: 364
+PlayerID: C45CCCC63C59E891
+Platform: Standalone
+AccountCreationDate: 2026-01-30 21:06:03 UTC
+Color: R=0.33 G=0.44 B=0.56
+Cosmetics: None

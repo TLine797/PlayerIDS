@@ -1,0 +1,7 @@
+Name: TFMZZ
+ActorNumber: 200
+PlayerID: 5B755062D6221984
+Platform: Standalone
+AccountCreationDate: 2025-12-27 01:09:47 UTC
+Color: R=0.89 G=0.33 B=0.00
+Cosmetics: None

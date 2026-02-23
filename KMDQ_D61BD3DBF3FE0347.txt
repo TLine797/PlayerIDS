@@ -1,0 +1,7 @@
+Name: TRIXXIECOMP
+ActorNumber: 169
+PlayerID: D61BD3DBF3FE0347
+Platform: Standalone
+AccountCreationDate: 2025-12-26 19:17:14 UTC
+Color: R=0.67 G=0.11 B=0.22
+Cosmetics: None

@@ -1,0 +1,7 @@
+Name: BUZZ
+ActorNumber: 309
+PlayerID: 19470126A5F0E19
+Platform: Standalone
+AccountCreationDate: 2025-11-20 22:26:28 UTC
+Color: R=0.33 G=0.44 B=0.78
+Cosmetics: None

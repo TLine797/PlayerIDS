@@ -1,0 +1,7 @@
+Name: JAQUAVYWAVY
+ActorNumber: 376
+PlayerID: AF98EBDB3A414D23
+Platform: PC
+AccountCreationDate: 2025-08-31 02:35:52 UTC
+Color: R=0.00 G=0.44 B=1.00
+Cosmetics: None

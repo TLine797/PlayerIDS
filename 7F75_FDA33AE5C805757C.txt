@@ -1,0 +1,7 @@
+Name: BLLZ
+ActorNumber: 196
+PlayerID: FDA33AE5C805757C
+Platform: Standalone
+AccountCreationDate: 2025-12-18 23:56:19 UTC
+Color: R=0.33 G=1.00 B=0.44
+Cosmetics: None

@@ -1,0 +1,7 @@
+Name: MOMMY
+ActorNumber: 382
+PlayerID: DA0935A4F346B948
+Platform: Unknown
+AccountCreationDate: 2022-04-09 17:40:56 UTC
+Color: R=0.44 G=0.44 B=0.78
+Cosmetics: None

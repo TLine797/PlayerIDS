@@ -1,0 +1,7 @@
+Name: RAKAI
+ActorNumber: 10
+PlayerID: 1BAFF5133AC5DB84
+Platform: Standalone
+AccountCreationDate: 2026-01-17 01:14:44 UTC
+Color: R=0.00 G=1.00 B=0.00
+Cosmetics: None

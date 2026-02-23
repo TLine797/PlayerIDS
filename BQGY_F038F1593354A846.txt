@@ -1,0 +1,7 @@
+Name: BIGPOPPY
+ActorNumber: 1339
+PlayerID: F038F1593354A846
+Platform: Standalone
+AccountCreationDate: 2023-12-26 15:51:44 UTC
+Color: R=1.00 G=0.33 B=0.67
+Cosmetics: None

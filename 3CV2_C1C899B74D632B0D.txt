@@ -1,0 +1,7 @@
+Name: PEBBJR
+ActorNumber: 65
+PlayerID: C1C899B74D632B0D
+Platform: Standalone
+AccountCreationDate: 2024-05-17 23:48:39 UTC
+Color: R=0.00 G=0.00 B=0.33
+Cosmetics: None

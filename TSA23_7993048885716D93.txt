@@ -1,0 +1,7 @@
+Name: MODA
+ActorNumber: 10
+PlayerID: 7993048885716D93
+Platform: Standalone
+AccountCreationDate: 2026-01-30 01:14:35 UTC
+Color: R=0.67 G=1.00 B=0.56
+Cosmetics: None

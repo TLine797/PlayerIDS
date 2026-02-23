@@ -1,0 +1,7 @@
+Name: TDFNIMBUS
+ActorNumber: 349
+PlayerID: 299B5367F00D37B1
+Platform: Unknown
+AccountCreationDate: 2022-12-26 23:03:54 UTC
+Color: R=0.44 G=0.11 B=0.00
+Cosmetics: None

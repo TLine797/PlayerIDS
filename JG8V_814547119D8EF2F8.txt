@@ -1,0 +1,7 @@
+Name: SOAPYTITTY
+ActorNumber: 1494
+PlayerID: 814547119D8EF2F8
+Platform: Standalone
+AccountCreationDate: 2025-12-25 18:14:28 UTC
+Color: R=0.33 G=0.44 B=0.78
+Cosmetics: None

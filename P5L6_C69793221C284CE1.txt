@@ -1,0 +1,7 @@
+Name: LORDFARTQUAD
+ActorNumber: 135
+PlayerID: C69793221C284CE1
+Platform: Standalone
+AccountCreationDate: 2025-05-22 18:52:37 UTC
+Color: R=1.00 G=0.44 B=0.33
+Cosmetics: None

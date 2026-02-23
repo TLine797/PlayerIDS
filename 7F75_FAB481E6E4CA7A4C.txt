@@ -1,0 +1,7 @@
+Name: MID
+ActorNumber: 212
+PlayerID: FAB481E6E4CA7A4C
+Platform: Standalone
+AccountCreationDate: 2023-06-26 21:43:34 UTC
+Color: R=0.33 G=0.33 B=0.33
+Cosmetics: None

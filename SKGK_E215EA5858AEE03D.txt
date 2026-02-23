@@ -1,0 +1,7 @@
+Name: TGA
+ActorNumber: 85
+PlayerID: E215EA5858AEE03D
+Platform: Standalone
+AccountCreationDate: 2023-09-04 22:14:48 UTC
+Color: R=0.00 G=0.00 B=1.00
+Cosmetics: None

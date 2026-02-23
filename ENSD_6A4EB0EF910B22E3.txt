@@ -1,0 +1,7 @@
+Name: BARKK
+ActorNumber: 403
+PlayerID: 6A4EB0EF910B22E3
+Platform: Standalone
+AccountCreationDate: 2023-12-24 21:02:34 UTC
+Color: R=0.00 G=0.00 B=0.22
+Cosmetics: None

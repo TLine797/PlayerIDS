@@ -1,0 +1,7 @@
+Name: SKETCH
+ActorNumber: 933
+PlayerID: 3F2867783177F315
+Platform: Standalone
+AccountCreationDate: 2023-09-10 21:42:41 UTC
+Color: R=1.00 G=1.00 B=1.00
+Cosmetics: None

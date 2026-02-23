@@ -1,0 +1,7 @@
+Name: RAIDENWINSVR
+ActorNumber: 7
+PlayerID: EF67C9764C65F8F4
+Platform: Standalone
+AccountCreationDate: 2025-06-02 17:57:24 UTC
+Color: R=0.56 G=0.56 B=0.67
+Cosmetics: None

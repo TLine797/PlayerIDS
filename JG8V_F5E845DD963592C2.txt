@@ -1,0 +1,7 @@
+Name: XOLY
+ActorNumber: 1485
+PlayerID: F5E845DD963592C2
+Platform: Standalone
+AccountCreationDate: 2024-11-27 21:45:31 UTC
+Color: R=1.00 G=0.44 B=0.67
+Cosmetics: None

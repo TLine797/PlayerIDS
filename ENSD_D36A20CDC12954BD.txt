@@ -1,0 +1,7 @@
+Name: DAWN
+ActorNumber: 421
+PlayerID: D36A20CDC12954BD
+Platform: Unknown
+AccountCreationDate: 2022-02-11 21:49:39 UTC
+Color: R=0.44 G=0.00 B=0.67
+Cosmetics: None

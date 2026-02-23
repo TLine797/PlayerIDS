@@ -1,0 +1,7 @@
+Name: VRRIO30
+ActorNumber: 101
+PlayerID: DA3784827604F3BC
+Platform: Standalone
+AccountCreationDate: 2025-07-25 08:20:54 UTC
+Color: R=0.00 G=0.00 B=1.00
+Cosmetics: None

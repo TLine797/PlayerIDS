@@ -1,0 +1,7 @@
+Name: GGCRAIN
+ActorNumber: 68
+PlayerID: 7ECFC7F90CB9C5A7
+Platform: Standalone
+AccountCreationDate: 2024-12-31 20:17:11 UTC
+Color: R=1.00 G=0.78 B=0.44
+Cosmetics: None

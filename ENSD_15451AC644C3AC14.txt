@@ -1,0 +1,7 @@
+Name: TPSFOGVR
+ActorNumber: 422
+PlayerID: 15451AC644C3AC14
+Platform: Standalone
+AccountCreationDate: 2024-12-25 20:33:45 UTC
+Color: R=1.00 G=1.00 B=0.78
+Cosmetics: None

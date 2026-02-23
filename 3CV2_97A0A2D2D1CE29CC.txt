@@ -1,0 +1,7 @@
+Name: MELL
+ActorNumber: 43
+PlayerID: 97A0A2D2D1CE29CC
+Platform: Standalone
+AccountCreationDate: 2025-12-27 15:01:28 UTC
+Color: R=0.11 G=0.00 B=0.22
+Cosmetics: None

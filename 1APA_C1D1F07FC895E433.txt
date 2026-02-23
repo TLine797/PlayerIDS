@@ -1,0 +1,7 @@
+Name: CFLOWER
+ActorNumber: 72
+PlayerID: C1D1F07FC895E433
+Platform: Unknown
+AccountCreationDate: 2021-10-11 02:26:43 UTC
+Color: R=1.00 G=0.44 B=1.00
+Cosmetics: None

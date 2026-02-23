@@ -1,0 +1,7 @@
+Name: WXNAB
+ActorNumber: 921
+PlayerID: C314B681E5E9D682
+Platform: Standalone
+AccountCreationDate: 2023-12-27 03:17:26 UTC
+Color: R=0.33 G=1.00 B=0.22
+Cosmetics: None

@@ -1,0 +1,7 @@
+Name: WREN
+ActorNumber: 997
+PlayerID: 9374AB385BDA7DBC
+Platform: Standalone
+AccountCreationDate: 2022-04-10 12:50:14 UTC
+Color: R=1.00 G=1.00 B=1.00
+Cosmetics: None

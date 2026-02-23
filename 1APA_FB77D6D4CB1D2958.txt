@@ -1,0 +1,7 @@
+Name: YUI
+ActorNumber: 82
+PlayerID: FB77D6D4CB1D2958
+Platform: Unknown
+AccountCreationDate: 2022-12-17 00:04:09 UTC
+Color: R=1.00 G=1.00 B=0.56
+Cosmetics: None

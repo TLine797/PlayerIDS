@@ -1,0 +1,7 @@
+Name: HTNJOHN
+ActorNumber: 367
+PlayerID: F69ACCE6C1406C47
+Platform: Standalone
+AccountCreationDate: 2023-07-21 22:04:21 UTC
+Color: R=0.78 G=0.78 B=0.78
+Cosmetics: None

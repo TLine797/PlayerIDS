@@ -1,0 +1,7 @@
+Name: JACK
+ActorNumber: 1003
+PlayerID: 608F1E530B2796A5
+Platform: Standalone
+AccountCreationDate: 2021-12-27 00:09:48 UTC
+Color: R=1.00 G=1.00 B=1.00
+Cosmetics: None

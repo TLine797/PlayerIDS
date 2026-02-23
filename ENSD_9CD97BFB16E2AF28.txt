@@ -1,0 +1,7 @@
+Name: KN3XY
+ActorNumber: 436
+PlayerID: 9CD97BFB16E2AF28
+Platform: Unknown
+AccountCreationDate: 2026-01-10 19:58:13 UTC
+Color: R=0.00 G=1.00 B=0.00
+Cosmetics: None

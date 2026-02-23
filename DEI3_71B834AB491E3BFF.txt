@@ -1,0 +1,7 @@
+Name: HI8
+ActorNumber: 776
+PlayerID: 71B834AB491E3BFF
+Platform: Standalone
+AccountCreationDate: 2026-01-02 22:11:04 UTC
+Color: R=0.00 G=0.56 B=0.89
+Cosmetics: None

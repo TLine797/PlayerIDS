@@ -1,0 +1,7 @@
+Name: S0LAR
+ActorNumber: 355
+PlayerID: 7389607DE9E64D44
+Platform: Standalone
+AccountCreationDate: 2024-08-09 17:08:58 UTC
+Color: R=0.67 G=0.00 B=0.00
+Cosmetics: None

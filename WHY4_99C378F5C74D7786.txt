@@ -1,0 +1,7 @@
+Name: 465
+ActorNumber: 3
+PlayerID: 99C378F5C74D7786
+Platform: Standalone
+AccountCreationDate: 2025-08-30 03:15:18 UTC
+Color: R=0.44 G=0.67 B=0.56
+Cosmetics: None

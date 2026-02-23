@@ -1,0 +1,7 @@
+Name: 67
+ActorNumber: 902
+PlayerID: D66419A213A1FC2B
+Platform: Standalone
+AccountCreationDate: 2026-01-13 00:12:00 UTC
+Color: R=0.00 G=1.00 B=0.00
+Cosmetics: None

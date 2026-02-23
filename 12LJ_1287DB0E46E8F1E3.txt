@@ -1,0 +1,7 @@
+Name: JESUSISKING
+ActorNumber: 771
+PlayerID: 1287DB0E46E8F1E3
+Platform: Unknown
+AccountCreationDate: 2025-07-03 02:46:44 UTC
+Color: R=0.33 G=0.33 B=0.33
+Cosmetics: None

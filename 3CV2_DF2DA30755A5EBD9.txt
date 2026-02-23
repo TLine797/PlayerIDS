@@ -1,0 +1,7 @@
+Name: TURTLELOVER
+ActorNumber: 69
+PlayerID: DF2DA30755A5EBD9
+Platform: Standalone
+AccountCreationDate: 2025-12-26 15:08:31 UTC
+Color: R=0.44 G=1.00 B=1.00
+Cosmetics: None

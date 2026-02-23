@@ -1,0 +1,7 @@
+Name: JJVR
+ActorNumber: 321
+PlayerID: 4447CF44CCC3B75D
+Platform: Standalone
+AccountCreationDate: 2024-02-04 20:43:43 UTC
+Color: R=1.00 G=0.22 B=0.00
+Cosmetics: None

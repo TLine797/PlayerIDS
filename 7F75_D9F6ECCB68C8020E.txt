@@ -1,0 +1,7 @@
+Name: DRACO
+ActorNumber: 201
+PlayerID: D9F6ECCB68C8020E
+Platform: Standalone
+AccountCreationDate: 2024-10-17 14:12:22 UTC
+Color: R=1.00 G=0.00 B=0.00
+Cosmetics: None

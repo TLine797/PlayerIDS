@@ -1,0 +1,7 @@
+Name: CP
+ActorNumber: 102
+PlayerID: 2D0386F166D27D56
+Platform: Standalone
+AccountCreationDate: 2025-11-22 14:46:33 UTC
+Color: R=0.22 G=0.67 B=1.00
+Cosmetics: None

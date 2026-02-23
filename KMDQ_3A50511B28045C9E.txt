@@ -1,0 +1,7 @@
+Name: MRTACOCATVR
+ActorNumber: 141
+PlayerID: 3A50511B28045C9E
+Platform: Standalone
+AccountCreationDate: 2025-04-19 13:54:21 UTC
+Color: R=0.00 G=0.89 B=0.44
+Cosmetics: None

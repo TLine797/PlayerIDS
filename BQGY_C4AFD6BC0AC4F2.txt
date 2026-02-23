@@ -1,0 +1,7 @@
+Name: JADEVRZ
+ActorNumber: 1321
+PlayerID: C4AFD6BC0AC4F2
+Platform: Standalone
+AccountCreationDate: 2026-01-01 09:41:01 UTC
+Color: R=0.33 G=0.00 B=0.00
+Cosmetics: None

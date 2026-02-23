@@ -1,0 +1,7 @@
+Name: TPTNITRO
+ActorNumber: 113
+PlayerID: ADD24025CC5641D6
+Platform: Standalone
+AccountCreationDate: 2023-12-23 19:34:35 UTC
+Color: R=0.44 G=0.00 B=0.78
+Cosmetics: None

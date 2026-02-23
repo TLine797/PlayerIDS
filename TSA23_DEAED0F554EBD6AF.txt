@@ -1,0 +1,7 @@
+Name: OK
+ActorNumber: 11
+PlayerID: DEAED0F554EBD6AF
+Platform: Standalone
+AccountCreationDate: 2026-02-15 17:14:34 UTC
+Color: R=1.00 G=0.00 B=0.56
+Cosmetics: None

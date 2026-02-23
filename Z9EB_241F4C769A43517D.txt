@@ -1,0 +1,7 @@
+Name: TRYU
+ActorNumber: 979
+PlayerID: 241F4C769A43517D
+Platform: Standalone
+AccountCreationDate: 2023-12-25 18:43:46 UTC
+Color: R=0.00 G=1.00 B=1.00
+Cosmetics: None

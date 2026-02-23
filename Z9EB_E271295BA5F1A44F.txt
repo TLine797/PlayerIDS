@@ -1,0 +1,7 @@
+Name: HAMPEL
+ActorNumber: 988
+PlayerID: E271295BA5F1A44F
+Platform: Standalone
+AccountCreationDate: 2022-01-27 16:52:05 UTC
+Color: R=0.67 G=0.00 B=0.00
+Cosmetics: None

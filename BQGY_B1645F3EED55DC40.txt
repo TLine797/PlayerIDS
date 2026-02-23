@@ -1,0 +1,7 @@
+Name: HARLEY
+ActorNumber: 1326
+PlayerID: B1645F3EED55DC40
+Platform: Standalone
+AccountCreationDate: 2025-12-29 00:51:18 UTC
+Color: R=0.89 G=0.33 B=0.56
+Cosmetics: None

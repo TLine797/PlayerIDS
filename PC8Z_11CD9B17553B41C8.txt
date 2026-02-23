@@ -1,0 +1,7 @@
+Name: IDK
+ActorNumber: 898
+PlayerID: 11CD9B17553B41C8
+Platform: Unknown
+AccountCreationDate: 2022-12-25 17:54:35 UTC
+Color: R=0.89 G=0.78 B=0.67
+Cosmetics: None

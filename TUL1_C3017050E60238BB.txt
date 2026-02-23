@@ -1,0 +1,7 @@
+Name: ELLIOT
+ActorNumber: 21
+PlayerID: C3017050E60238BB
+Platform: Unknown
+AccountCreationDate: 2022-04-06 02:22:28 UTC
+Color: R=0.56 G=0.56 B=0.56
+Cosmetics: None

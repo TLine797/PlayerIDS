@@ -1,0 +1,7 @@
+Name: HORNMASTER
+ActorNumber: 41
+PlayerID: C3C9CC66F925B432
+Platform: Standalone
+AccountCreationDate: 2023-12-25 14:09:17 UTC
+Color: R=0.00 G=0.00 B=0.00
+Cosmetics: None

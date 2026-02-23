@@ -1,0 +1,7 @@
+Name: LOLP
+ActorNumber: 71
+PlayerID: 68A6D62F1E89AF86
+Platform: PC
+AccountCreationDate: 2025-12-14 00:12:44 UTC
+Color: R=0.44 G=0.00 B=0.78
+Cosmetics: None

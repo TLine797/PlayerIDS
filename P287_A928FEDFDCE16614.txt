@@ -1,0 +1,7 @@
+Name: T
+ActorNumber: 1350
+PlayerID: A928FEDFDCE16614
+Platform: Unknown
+AccountCreationDate: 2022-06-22 00:19:06 UTC
+Color: R=0.78 G=0.78 B=0.78
+Cosmetics: None

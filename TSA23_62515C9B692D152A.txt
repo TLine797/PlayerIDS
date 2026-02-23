@@ -1,0 +1,7 @@
+Name: APEXONYX
+ActorNumber: 8
+PlayerID: 62515C9B692D152A
+Platform: Standalone
+AccountCreationDate: 2025-01-21 02:38:26 UTC
+Color: R=0.89 G=0.33 B=0.00
+Cosmetics: None

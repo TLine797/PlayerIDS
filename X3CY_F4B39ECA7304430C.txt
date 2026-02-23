@@ -1,0 +1,7 @@
+Name: M1NUTE
+ActorNumber: 916
+PlayerID: F4B39ECA7304430C
+Platform: Standalone
+AccountCreationDate: 2023-12-25 18:42:16 UTC
+Color: R=0.00 G=0.56 B=0.67
+Cosmetics: None

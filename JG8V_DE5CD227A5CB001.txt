@@ -1,0 +1,7 @@
+Name: FATALBERT133
+ActorNumber: 1489
+PlayerID: DE5CD227A5CB001
+Platform: Standalone
+AccountCreationDate: 2023-10-13 01:58:36 UTC
+Color: R=0.00 G=1.00 B=0.00
+Cosmetics: None

@@ -1,0 +1,7 @@
+Name: X2GHOST
+ActorNumber: 552
+PlayerID: EA81E2F319DB76D2
+Platform: Unknown
+AccountCreationDate: 2021-12-25 11:40:18 UTC
+Color: R=0.00 G=1.00 B=1.00
+Cosmetics: None

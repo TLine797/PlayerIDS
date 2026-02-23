@@ -1,0 +1,7 @@
+Name: BLAKE
+ActorNumber: 341
+PlayerID: D9BDEF3EDF3E36F9
+Platform: Standalone
+AccountCreationDate: 2025-08-03 20:53:48 UTC
+Color: R=0.00 G=0.00 B=0.00
+Cosmetics: None

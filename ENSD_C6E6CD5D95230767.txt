@@ -1,0 +1,7 @@
+Name: LOST
+ActorNumber: 440
+PlayerID: C6E6CD5D95230767
+Platform: Unknown
+AccountCreationDate: 2024-03-14 19:31:21 UTC
+Color: R=1.00 G=0.78 B=0.56
+Cosmetics: None

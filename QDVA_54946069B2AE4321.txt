@@ -1,0 +1,7 @@
+Name: ELLIOTVR
+ActorNumber: 532
+PlayerID: 54946069B2AE4321
+Platform: Standalone
+AccountCreationDate: 2025-12-25 18:06:49 UTC
+Color: R=1.00 G=0.00 B=0.00
+Cosmetics: None

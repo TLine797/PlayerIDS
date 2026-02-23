@@ -1,0 +1,7 @@
+Name: ALYSSA15
+ActorNumber: 72
+PlayerID: 14222341E34288A9
+Platform: Standalone
+AccountCreationDate: 2024-02-03 00:28:59 UTC
+Color: R=0.89 G=0.89 B=1.00
+Cosmetics: None

@@ -1,0 +1,7 @@
+Name: GODLOVESYOU
+ActorNumber: 464
+PlayerID: F3757D383BC4087E
+Platform: Standalone
+AccountCreationDate: 2025-12-25 15:28:51 UTC
+Color: R=0.33 G=0.89 B=1.00
+Cosmetics: None

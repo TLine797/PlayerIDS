@@ -1,0 +1,7 @@
+Name: INDEX
+ActorNumber: 1335
+PlayerID: 115B6D3D62DDE308
+Platform: Unknown
+AccountCreationDate: 2022-04-23 20:23:40 UTC
+Color: R=1.00 G=1.00 B=1.00
+Cosmetics: None

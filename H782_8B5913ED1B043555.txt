@@ -1,0 +1,7 @@
+Name: LITTILZADKIE
+ActorNumber: 335
+PlayerID: 8B5913ED1B043555
+Platform: Standalone
+AccountCreationDate: 2025-12-25 19:23:04 UTC
+Color: R=0.11 G=0.56 B=0.78
+Cosmetics: None

@@ -1,0 +1,7 @@
+Name: VOIDYT
+ActorNumber: 595
+PlayerID: B06BB81B87CF174
+Platform: Standalone
+AccountCreationDate: 2023-12-10 02:33:25 UTC
+Color: R=1.00 G=0.00 B=0.00
+Cosmetics: None

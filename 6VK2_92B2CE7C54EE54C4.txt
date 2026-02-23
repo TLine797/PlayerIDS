@@ -1,0 +1,7 @@
+Name: IMJUSTCHILL
+ActorNumber: 852
+PlayerID: 92B2CE7C54EE54C4
+Platform: Unknown
+AccountCreationDate: 2021-12-26 01:18:32 UTC
+Color: R=1.00 G=0.78 B=1.00
+Cosmetics: None

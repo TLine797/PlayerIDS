@@ -1,0 +1,7 @@
+Name: POOPYBUTT
+ActorNumber: 89
+PlayerID: 18F011F1E1675332
+Platform: Unknown
+AccountCreationDate: 2025-07-31 01:11:49 UTC
+Color: R=0.44 G=0.00 B=0.78
+Cosmetics: None

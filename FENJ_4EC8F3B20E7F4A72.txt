@@ -1,0 +1,7 @@
+Name: RWESPEED
+ActorNumber: 16
+PlayerID: 4EC8F3B20E7F4A72
+Platform: Unknown
+AccountCreationDate: 2023-01-01 06:18:18 UTC
+Color: R=1.00 G=0.00 B=0.00
+Cosmetics: None

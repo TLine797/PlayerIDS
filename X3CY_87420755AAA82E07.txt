@@ -1,0 +1,7 @@
+Name: NEZUKO
+ActorNumber: 910
+PlayerID: 87420755AAA82E07
+Platform: Standalone
+AccountCreationDate: 2023-09-24 00:44:04 UTC
+Color: R=1.00 G=0.78 B=1.00
+Cosmetics: None

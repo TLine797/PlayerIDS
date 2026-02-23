@@ -1,0 +1,7 @@
+Name: NOTSTEAM
+ActorNumber: 60
+PlayerID: 4B5E6D04DAA98FFC
+Platform: Standalone
+AccountCreationDate: 2023-06-03 09:30:49 UTC
+Color: R=0.22 G=0.22 B=0.33
+Cosmetics: None

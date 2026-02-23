@@ -1,0 +1,7 @@
+Name: CV1
+ActorNumber: 760
+PlayerID: 9C2E5B24D75C9022
+Platform: Standalone
+AccountCreationDate: 2025-02-03 01:49:39 UTC
+Color: R=0.67 G=0.56 B=1.00
+Cosmetics: None

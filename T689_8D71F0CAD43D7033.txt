@@ -1,0 +1,7 @@
+Name: PETER
+ActorNumber: 277
+PlayerID: 8D71F0CAD43D7033
+Platform: Standalone
+AccountCreationDate: 2023-11-25 12:27:31 UTC
+Color: R=0.22 G=0.78 B=0.89
+Cosmetics: None

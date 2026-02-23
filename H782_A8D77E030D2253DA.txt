@@ -1,0 +1,7 @@
+Name: TTTDRAX
+ActorNumber: 334
+PlayerID: A8D77E030D2253DA
+Platform: Standalone
+AccountCreationDate: 2025-12-22 17:51:04 UTC
+Color: R=0.00 G=1.00 B=1.00
+Cosmetics: None

@@ -1,0 +1,7 @@
+Name: POOPYNERDFAT
+ActorNumber: 608
+PlayerID: 1897A4103A29EBBB
+Platform: Standalone
+AccountCreationDate: 2024-06-14 17:19:35 UTC
+Color: R=0.22 G=0.11 B=0.00
+Cosmetics: None

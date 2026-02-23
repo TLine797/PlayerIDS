@@ -1,0 +1,7 @@
+Name: SPED
+ActorNumber: 922
+PlayerID: 5FB735C2FEAB358F
+Platform: Standalone
+AccountCreationDate: 2024-02-23 13:59:01 UTC
+Color: R=0.11 G=0.11 B=0.11
+Cosmetics: None

@@ -1,0 +1,7 @@
+Name: GIRLYPOPTEAM
+ActorNumber: 297
+PlayerID: 2D953AC7029E581
+Platform: Standalone
+AccountCreationDate: 2025-11-27 01:25:18 UTC
+Color: R=1.00 G=0.56 B=1.00
+Cosmetics: None

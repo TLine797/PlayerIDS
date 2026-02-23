@@ -1,0 +1,7 @@
+Name: JAY
+ActorNumber: 896
+PlayerID: F87DCCB67929FACD
+Platform: Standalone
+AccountCreationDate: 2025-03-12 20:53:16 UTC
+Color: R=0.00 G=0.33 B=1.00
+Cosmetics: None

@@ -1,0 +1,7 @@
+Name: XERONIGHT
+ActorNumber: 167
+PlayerID: 5E25A767C8550583
+Platform: Standalone
+AccountCreationDate: 2024-01-24 20:24:52 UTC
+Color: R=1.00 G=0.56 B=0.78
+Cosmetics: None

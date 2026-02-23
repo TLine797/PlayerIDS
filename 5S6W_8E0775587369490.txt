@@ -1,0 +1,7 @@
+Name: JOHN148
+ActorNumber: 1181
+PlayerID: 8E0775587369490
+Platform: Standalone
+AccountCreationDate: 2024-04-16 16:38:56 UTC
+Color: R=0.89 G=0.78 B=1.00
+Cosmetics: None

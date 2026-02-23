@@ -1,0 +1,7 @@
+Name: WENEEDJESUS
+ActorNumber: 1387
+PlayerID: 6A173EF7FA4E34A1
+Platform: Standalone
+AccountCreationDate: 2024-03-03 00:44:21 UTC
+Color: R=0.83 G=0.00 B=1.00
+Cosmetics: None

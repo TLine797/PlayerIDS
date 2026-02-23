@@ -1,0 +1,7 @@
+Name: P00FF
+ActorNumber: 1413
+PlayerID: 32F3719AE42583E7
+Platform: Standalone
+AccountCreationDate: 2025-12-18 14:18:35 UTC
+Color: R=0.44 G=0.33 B=0.44
+Cosmetics: None

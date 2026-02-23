@@ -1,0 +1,7 @@
+Name: JOHNATHAN
+ActorNumber: 450
+PlayerID: B7A2ECCE71C5523
+Platform: Unknown
+AccountCreationDate: 2022-01-20 01:24:52 UTC
+Color: R=0.78 G=0.78 B=0.78
+Cosmetics: None

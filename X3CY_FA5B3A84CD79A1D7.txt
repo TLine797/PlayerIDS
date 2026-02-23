@@ -1,0 +1,7 @@
+Name: WACFILLY
+ActorNumber: 887
+PlayerID: FA5B3A84CD79A1D7
+Platform: Standalone
+AccountCreationDate: 2024-12-25 21:42:10 UTC
+Color: R=0.56 G=0.00 B=0.89
+Cosmetics: None

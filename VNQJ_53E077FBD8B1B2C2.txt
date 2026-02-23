@@ -1,0 +1,7 @@
+Name: SWIPZ
+ActorNumber: 51
+PlayerID: 53E077FBD8B1B2C2
+Platform: Unknown
+AccountCreationDate: 2022-02-05 15:30:23 UTC
+Color: R=0.44 G=0.00 B=0.78
+Cosmetics: None

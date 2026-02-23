@@ -1,0 +1,7 @@
+Name: gorilla1443
+ActorNumber: 388
+PlayerID: 2456E816055DCCFD
+Platform: Standalone
+AccountCreationDate: 2025-11-05 21:54:32 UTC
+Color: R=0.22 G=0.22 B=0.22
+Cosmetics: None

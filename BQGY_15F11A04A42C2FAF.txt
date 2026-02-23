@@ -1,0 +1,7 @@
+Name: SNOWBALL
+ActorNumber: 1324
+PlayerID: 15F11A04A42C2FAF
+Platform: Standalone
+AccountCreationDate: 2025-03-19 21:56:56 UTC
+Color: R=0.89 G=0.44 B=0.00
+Cosmetics: None

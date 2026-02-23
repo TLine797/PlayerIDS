@@ -1,0 +1,7 @@
+Name: HD
+ActorNumber: 76
+PlayerID: 2FB5800FD8FB47D
+Platform: Standalone
+AccountCreationDate: 2024-01-20 00:17:35 UTC
+Color: R=0.00 G=1.00 B=1.00
+Cosmetics: None

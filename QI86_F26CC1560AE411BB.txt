@@ -1,0 +1,7 @@
+Name: DJ
+ActorNumber: 116
+PlayerID: F26CC1560AE411BB
+Platform: Unknown
+AccountCreationDate: 2022-04-28 19:07:20 UTC
+Color: R=0.22 G=0.00 B=0.67
+Cosmetics: None

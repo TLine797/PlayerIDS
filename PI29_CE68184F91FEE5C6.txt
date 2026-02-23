@@ -1,0 +1,7 @@
+Name: OHMANDY
+ActorNumber: 484
+PlayerID: CE68184F91FEE5C6
+Platform: PC
+AccountCreationDate: 2024-07-22 22:57:12 UTC
+Color: R=0.44 G=0.00 B=0.22
+Cosmetics: None

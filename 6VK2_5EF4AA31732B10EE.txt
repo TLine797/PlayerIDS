@@ -1,0 +1,7 @@
+Name: PURPLE
+ActorNumber: 873
+PlayerID: 5EF4AA31732B10EE
+Platform: Unknown
+AccountCreationDate: 2021-12-30 13:34:03 UTC
+Color: R=1.00 G=1.00 B=0.56
+Cosmetics: None

@@ -1,0 +1,7 @@
+Name: KADE
+ActorNumber: 368
+PlayerID: FEA1DCA7F55B43DA
+Platform: Standalone
+AccountCreationDate: 2023-03-02 04:13:52 UTC
+Color: R=0.00 G=0.00 B=0.00
+Cosmetics: None

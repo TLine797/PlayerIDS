@@ -1,0 +1,7 @@
+Name: THEYES
+ActorNumber: 4
+PlayerID: 9F247971D2601380
+Platform: Unknown
+AccountCreationDate: 2021-09-03 08:34:48 UTC
+Color: R=1.00 G=0.67 B=0.33
+Cosmetics: None

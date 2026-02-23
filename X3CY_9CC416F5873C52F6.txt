@@ -1,0 +1,7 @@
+Name: WINBOY5
+ActorNumber: 924
+PlayerID: 9CC416F5873C52F6
+Platform: Standalone
+AccountCreationDate: 2025-01-18 15:51:50 UTC
+Color: R=0.22 G=0.00 B=0.00
+Cosmetics: None

@@ -1,0 +1,7 @@
+Name: BEAN
+ActorNumber: 1314
+PlayerID: F8546DBB5900ADDD
+Platform: Standalone
+AccountCreationDate: 2023-05-07 15:46:50 UTC
+Color: R=1.00 G=0.78 B=1.00
+Cosmetics: None

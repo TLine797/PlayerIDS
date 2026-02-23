@@ -1,0 +1,7 @@
+Name: GENZ
+ActorNumber: 1313
+PlayerID: 180620F5C4E30C79
+Platform: Standalone
+AccountCreationDate: 2026-02-04 02:01:25 UTC
+Color: R=1.00 G=1.00 B=1.00
+Cosmetics: None

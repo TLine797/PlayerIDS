@@ -1,0 +1,7 @@
+Name: B
+ActorNumber: 596
+PlayerID: 5762430A94D9E813
+Platform: Standalone
+AccountCreationDate: 2025-01-07 21:12:23 UTC
+Color: R=0.22 G=0.22 B=0.56
+Cosmetics: None

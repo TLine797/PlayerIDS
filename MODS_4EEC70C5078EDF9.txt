@@ -1,0 +1,7 @@
+Name: PRO4197
+ActorNumber: 13
+PlayerID: 4EEC70C5078EDF9
+Platform: Standalone
+AccountCreationDate: 2025-12-25 19:05:57 UTC
+Color: R=1.00 G=0.00 B=0.67
+Cosmetics: None

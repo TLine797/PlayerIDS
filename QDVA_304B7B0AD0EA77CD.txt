@@ -1,0 +1,7 @@
+Name: TSMTURBO
+ActorNumber: 562
+PlayerID: 304B7B0AD0EA77CD
+Platform: Standalone
+AccountCreationDate: 2025-12-25 13:46:29 UTC
+Color: R=0.00 G=0.22 B=0.22
+Cosmetics: None

@@ -1,0 +1,7 @@
+Name: NEED2NUT
+ActorNumber: 1412
+PlayerID: 66631E8E127F8E38
+Platform: Standalone
+AccountCreationDate: 2023-12-25 18:22:47 UTC
+Color: R=0.00 G=0.22 B=1.00
+Cosmetics: None

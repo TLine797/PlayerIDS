@@ -1,0 +1,7 @@
+Name: RAMPAGE
+ActorNumber: 308
+PlayerID: 9E43D8AE024946B8
+Platform: Standalone
+AccountCreationDate: 2025-12-24 22:31:36 UTC
+Color: R=0.44 G=0.11 B=0.00
+Cosmetics: None

@@ -1,0 +1,7 @@
+Name: TTTMOOSE
+ActorNumber: 918
+PlayerID: 57229004D1671672
+Platform: Standalone
+AccountCreationDate: 2025-09-02 23:04:50 UTC
+Color: R=0.56 G=0.11 B=0.89
+Cosmetics: None

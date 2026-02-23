@@ -1,0 +1,7 @@
+Name: RED
+ActorNumber: 679
+PlayerID: 4EB7345572011EF6
+Platform: Unknown
+AccountCreationDate: 2022-01-12 00:23:23 UTC
+Color: R=0.56 G=0.11 B=0.00
+Cosmetics: None

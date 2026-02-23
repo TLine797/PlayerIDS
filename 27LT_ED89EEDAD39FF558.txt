@@ -1,0 +1,7 @@
+Name: QCDARTH
+ActorNumber: 20
+PlayerID: ED89EEDAD39FF558
+Platform: Standalone
+AccountCreationDate: 2025-07-24 22:34:40 UTC
+Color: R=0.00 G=0.44 B=0.67
+Cosmetics: None

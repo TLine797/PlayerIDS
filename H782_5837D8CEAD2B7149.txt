@@ -1,0 +1,7 @@
+Name: TMGNOTYO
+ActorNumber: 368
+PlayerID: 5837D8CEAD2B7149
+Platform: Standalone
+AccountCreationDate: 2022-12-26 22:07:40 UTC
+Color: R=0.33 G=0.00 B=0.44
+Cosmetics: None

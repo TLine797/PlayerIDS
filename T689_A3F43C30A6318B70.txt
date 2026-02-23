@@ -1,0 +1,7 @@
+Name: GLOOD
+ActorNumber: 305
+PlayerID: A3F43C30A6318B70
+Platform: Unknown
+AccountCreationDate: 2022-02-20 03:26:07 UTC
+Color: R=0.00 G=0.44 B=1.00
+Cosmetics: None

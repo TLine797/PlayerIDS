@@ -1,0 +1,7 @@
+Name: WOW
+ActorNumber: 37
+PlayerID: 4880B62B88A7BC54
+Platform: Standalone
+AccountCreationDate: 2024-12-26 01:36:05 UTC
+Color: R=0.00 G=0.00 B=0.00
+Cosmetics: None

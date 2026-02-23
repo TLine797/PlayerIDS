@@ -1,0 +1,7 @@
+Name: WOLVEZISTOP1
+ActorNumber: 885
+PlayerID: 145D4C50D9E558CA
+Platform: Standalone
+AccountCreationDate: 2025-12-30 01:17:49 UTC
+Color: R=1.00 G=0.44 B=0.67
+Cosmetics: None

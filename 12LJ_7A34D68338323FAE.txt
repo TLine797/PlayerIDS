@@ -1,0 +1,7 @@
+Name: CLIP
+ActorNumber: 750
+PlayerID: 7A34D68338323FAE
+Platform: Standalone
+AccountCreationDate: 2026-01-15 23:37:51 UTC
+Color: R=0.44 G=0.00 B=1.00
+Cosmetics: None

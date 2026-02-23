@@ -1,0 +1,7 @@
+Name: KITTY
+ActorNumber: 74
+PlayerID: 5EA02F94CC346044
+Platform: Standalone
+AccountCreationDate: 2022-01-17 19:32:56 UTC
+Color: R=1.00 G=0.00 B=0.00
+Cosmetics: None

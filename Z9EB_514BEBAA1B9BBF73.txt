@@ -1,0 +1,7 @@
+Name: VOID
+ActorNumber: 994
+PlayerID: 514BEBAA1B9BBF73
+Platform: Standalone
+AccountCreationDate: 2025-12-25 14:42:15 UTC
+Color: R=0.33 G=0.00 B=0.33
+Cosmetics: None

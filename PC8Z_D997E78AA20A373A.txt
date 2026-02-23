@@ -1,0 +1,7 @@
+Name: BERRY
+ActorNumber: 903
+PlayerID: D997E78AA20A373A
+Platform: Standalone
+AccountCreationDate: 2025-03-22 04:35:58 UTC
+Color: R=0.44 G=0.00 B=0.22
+Cosmetics: None

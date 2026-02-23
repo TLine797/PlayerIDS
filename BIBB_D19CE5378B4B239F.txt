@@ -1,0 +1,7 @@
+Name: FDVBROS
+ActorNumber: 647
+PlayerID: D19CE5378B4B239F
+Platform: Standalone
+AccountCreationDate: 2025-03-08 19:32:31 UTC
+Color: R=0.00 G=0.00 B=0.22
+Cosmetics: None

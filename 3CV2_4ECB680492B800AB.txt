@@ -1,0 +1,7 @@
+Name: SERRIAN
+ActorNumber: 38
+PlayerID: 4ECB680492B800AB
+Platform: Standalone
+AccountCreationDate: 2023-12-07 20:32:02 UTC
+Color: R=0.00 G=0.00 B=1.00
+Cosmetics: None

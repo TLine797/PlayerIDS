@@ -1,0 +1,7 @@
+Name: TREETOPER
+ActorNumber: 9
+PlayerID: A85D87A41D7430A6
+Platform: Standalone
+AccountCreationDate: 2023-06-04 15:06:26 UTC
+Color: R=0.00 G=0.00 B=0.00
+Cosmetics: None

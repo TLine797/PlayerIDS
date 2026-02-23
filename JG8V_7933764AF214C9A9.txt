@@ -1,0 +1,7 @@
+Name: LTOP
+ActorNumber: 1500
+PlayerID: 7933764AF214C9A9
+Platform: Standalone
+AccountCreationDate: 2023-09-10 19:53:51 UTC
+Color: R=0.11 G=0.11 B=0.67
+Cosmetics: None

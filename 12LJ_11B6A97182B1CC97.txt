@@ -1,0 +1,7 @@
+Name: PLZDONTTAG
+ActorNumber: 736
+PlayerID: 11B6A97182B1CC97
+Platform: Standalone
+AccountCreationDate: 2026-01-28 09:04:46 UTC
+Color: R=0.11 G=0.89 B=0.78
+Cosmetics: None

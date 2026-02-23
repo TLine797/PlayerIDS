@@ -1,0 +1,7 @@
+Name: SONOFZILLA
+ActorNumber: 638
+PlayerID: CF08045F740C2CDB
+Platform: Standalone
+AccountCreationDate: 2025-05-04 21:16:26 UTC
+Color: R=0.00 G=0.67 B=0.89
+Cosmetics: None

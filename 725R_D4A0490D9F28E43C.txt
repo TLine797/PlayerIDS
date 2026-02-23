@@ -1,0 +1,7 @@
+Name: HIGGLEJIGGLE
+ActorNumber: 103
+PlayerID: D4A0490D9F28E43C
+Platform: Unknown
+AccountCreationDate: 2023-01-28 14:03:35 UTC
+Color: R=0.56 G=0.56 B=0.56
+Cosmetics: None

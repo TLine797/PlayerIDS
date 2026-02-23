@@ -1,0 +1,7 @@
+Name: JACOB
+ActorNumber: 52
+PlayerID: 5AE656EB6F763643
+Platform: Standalone
+AccountCreationDate: 2025-12-26 18:11:42 UTC
+Color: R=0.00 G=0.11 B=0.89
+Cosmetics: None

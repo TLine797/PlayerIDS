@@ -1,0 +1,7 @@
+Name: DRXO
+ActorNumber: 1415
+PlayerID: B1CD3629492ACD89
+Platform: Standalone
+AccountCreationDate: 2023-10-15 17:35:51 UTC
+Color: R=0.56 G=0.00 B=1.00
+Cosmetics: None

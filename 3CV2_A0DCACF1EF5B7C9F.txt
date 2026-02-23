@@ -1,0 +1,7 @@
+Name: FLYINGBANANA
+ActorNumber: 63
+PlayerID: A0DCACF1EF5B7C9F
+Platform: Standalone
+AccountCreationDate: 2024-12-25 19:20:36 UTC
+Color: R=0.00 G=0.00 B=0.00
+Cosmetics: None

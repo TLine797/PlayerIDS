@@ -1,0 +1,7 @@
+Name: LUD1K
+ActorNumber: 104
+PlayerID: 47ABA0F328679EEB
+Platform: Unknown
+AccountCreationDate: 2021-12-26 14:02:30 UTC
+Color: R=0.44 G=0.00 B=0.33
+Cosmetics: None

@@ -1,0 +1,7 @@
+Name: ARCHYTHEPIR
+ActorNumber: 358
+PlayerID: DDFC2D323A6A0DCB
+Platform: Standalone
+AccountCreationDate: 2025-12-25 22:27:45 UTC
+Color: R=0.56 G=0.67 B=0.44
+Cosmetics: None

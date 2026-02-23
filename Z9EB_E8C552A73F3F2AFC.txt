@@ -1,0 +1,7 @@
+Name: TTSBABYGIRL
+ActorNumber: 998
+PlayerID: E8C552A73F3F2AFC
+Platform: Standalone
+AccountCreationDate: 2024-12-01 12:12:03 UTC
+Color: R=0.00 G=0.00 B=0.44
+Cosmetics: None

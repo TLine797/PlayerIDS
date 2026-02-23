@@ -1,0 +1,7 @@
+Name: IZZY
+ActorNumber: 1308
+PlayerID: A49EA1D9E56FA0AE
+Platform: Standalone
+AccountCreationDate: 2025-07-23 16:41:10 UTC
+Color: R=1.00 G=0.00 B=0.78
+Cosmetics: None

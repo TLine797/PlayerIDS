@@ -1,0 +1,7 @@
+Name: 41
+ActorNumber: 59
+PlayerID: DC0947DFEE550E2B
+Platform: Standalone
+AccountCreationDate: 2024-10-07 02:47:42 UTC
+Color: R=0.56 G=0.56 B=0.56
+Cosmetics: None

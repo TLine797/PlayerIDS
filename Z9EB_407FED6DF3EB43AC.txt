@@ -1,0 +1,7 @@
+Name: VALENT
+ActorNumber: 986
+PlayerID: 407FED6DF3EB43AC
+Platform: Standalone
+AccountCreationDate: 2023-12-25 22:25:58 UTC
+Color: R=1.00 G=0.78 B=1.00
+Cosmetics: None

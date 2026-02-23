@@ -1,0 +1,7 @@
+Name: SOLLYMAN24
+ActorNumber: 230
+PlayerID: F88EDA8A72F762A7
+Platform: Standalone
+AccountCreationDate: 2025-12-27 02:54:23 UTC
+Color: R=0.67 G=0.67 B=0.78
+Cosmetics: None

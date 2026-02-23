@@ -1,0 +1,7 @@
+Name: QUEST1USER
+ActorNumber: 351
+PlayerID: F92241E87B03D15E
+Platform: Standalone
+AccountCreationDate: 2025-12-28 00:15:53 UTC
+Color: R=0.89 G=0.89 B=0.89
+Cosmetics: None

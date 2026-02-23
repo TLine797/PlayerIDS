@@ -1,0 +1,7 @@
+Name: HI
+ActorNumber: 920
+PlayerID: 19532023DA96B210
+Platform: Standalone
+AccountCreationDate: 2025-04-12 02:12:39 UTC
+Color: R=0.00 G=0.00 B=0.00
+Cosmetics: None

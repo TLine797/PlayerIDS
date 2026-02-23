@@ -1,0 +1,7 @@
+Name: 0951
+ActorNumber: 243
+PlayerID: 1842DFEF6E25C500
+Platform: Standalone
+AccountCreationDate: 2025-12-24 20:34:20 UTC
+Color: R=0.22 G=0.33 B=0.89
+Cosmetics: None

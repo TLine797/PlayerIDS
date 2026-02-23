@@ -1,0 +1,7 @@
+Name: AJ
+ActorNumber: 182
+PlayerID: FE5DDC4EA165CC78
+Platform: Standalone
+AccountCreationDate: 2025-02-05 01:33:53 UTC
+Color: R=1.00 G=0.00 B=0.00
+Cosmetics: None

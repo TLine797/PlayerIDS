@@ -1,0 +1,7 @@
+Name: 1ST
+ActorNumber: 778
+PlayerID: A63AFBE28348A690
+Platform: Standalone
+AccountCreationDate: 2026-01-29 23:20:54 UTC
+Color: R=0.00 G=0.22 B=0.44
+Cosmetics: None

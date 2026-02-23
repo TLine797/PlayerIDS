@@ -1,0 +1,7 @@
+Name: PEANUT
+ActorNumber: 884
+PlayerID: 404D883176989088
+Platform: Standalone
+AccountCreationDate: 2023-12-26 01:30:05 UTC
+Color: R=0.67 G=0.44 B=0.22
+Cosmetics: None

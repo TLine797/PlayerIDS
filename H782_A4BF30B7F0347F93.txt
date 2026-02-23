@@ -1,0 +1,7 @@
+Name: LEXXON
+ActorNumber: 363
+PlayerID: A4BF30B7F0347F93
+Platform: Standalone
+AccountCreationDate: 2025-01-22 21:51:03 UTC
+Color: R=0.22 G=0.44 B=0.44
+Cosmetics: None

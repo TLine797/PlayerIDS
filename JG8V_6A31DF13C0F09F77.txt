@@ -1,0 +1,7 @@
+Name: KIMMI
+ActorNumber: 1473
+PlayerID: 6A31DF13C0F09F77
+Platform: Standalone
+AccountCreationDate: 2023-08-08 00:21:00 UTC
+Color: R=0.67 G=0.67 B=1.00
+Cosmetics: None

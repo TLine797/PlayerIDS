@@ -1,0 +1,7 @@
+Name: H2K
+ActorNumber: 20
+PlayerID: 8935EE9A125BC8EC
+Platform: PC
+AccountCreationDate: 2024-12-28 15:23:15 UTC
+Color: R=0.44 G=0.00 B=0.78
+Cosmetics: None

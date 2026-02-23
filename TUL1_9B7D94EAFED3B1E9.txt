@@ -1,0 +1,7 @@
+Name: CVC
+ActorNumber: 26
+PlayerID: 9B7D94EAFED3B1E9
+Platform: Standalone
+AccountCreationDate: 2023-05-08 00:02:04 UTC
+Color: R=0.44 G=0.00 B=0.78
+Cosmetics: None

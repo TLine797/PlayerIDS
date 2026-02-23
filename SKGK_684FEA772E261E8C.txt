@@ -1,0 +1,7 @@
+Name: CHANN
+ActorNumber: 87
+PlayerID: 684FEA772E261E8C
+Platform: Standalone
+AccountCreationDate: 2023-11-17 00:14:25 UTC
+Color: R=0.33 G=0.00 B=0.33
+Cosmetics: None

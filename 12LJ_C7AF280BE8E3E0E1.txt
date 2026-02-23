@@ -1,0 +1,7 @@
+Name: gorilla4143
+ActorNumber: 726
+PlayerID: C7AF280BE8E3E0E1
+Platform: PC
+AccountCreationDate: 2025-05-03 20:53:30 UTC
+Color: R=1.00 G=0.22 B=0.22
+Cosmetics: None

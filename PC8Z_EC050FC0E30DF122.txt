@@ -1,0 +1,7 @@
+Name: ONYX
+ActorNumber: 904
+PlayerID: EC050FC0E30DF122
+Platform: Unknown
+AccountCreationDate: 2022-01-16 20:30:10 UTC
+Color: R=0.00 G=1.00 B=0.00
+Cosmetics: None

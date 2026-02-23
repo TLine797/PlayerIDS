@@ -1,0 +1,7 @@
+Name: LIBB
+ActorNumber: 40
+PlayerID: A24D3F0E833B37F9
+Platform: Standalone
+AccountCreationDate: 2026-02-13 15:51:35 UTC
+Color: R=0.11 G=1.00 B=0.00
+Cosmetics: None

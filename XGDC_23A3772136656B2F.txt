@@ -1,0 +1,7 @@
+Name: GRACE
+ActorNumber: 1293
+PlayerID: 23A3772136656B2F
+Platform: Unknown
+AccountCreationDate: 2023-01-16 18:15:05 UTC
+Color: R=0.56 G=0.56 B=0.89
+Cosmetics: None

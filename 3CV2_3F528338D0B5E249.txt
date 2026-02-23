@@ -1,0 +1,7 @@
+Name: NOODLE
+ActorNumber: 90
+PlayerID: 3F528338D0B5E249
+Platform: Standalone
+AccountCreationDate: 2025-09-18 21:25:14 UTC
+Color: R=0.33 G=0.67 B=1.00
+Cosmetics: None

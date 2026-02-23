@@ -1,0 +1,7 @@
+Name: KEB
+ActorNumber: 105
+PlayerID: EC4C9230A58EBFE4
+Platform: Standalone
+AccountCreationDate: 2026-01-04 23:01:33 UTC
+Color: R=0.67 G=0.00 B=0.00
+Cosmetics: None

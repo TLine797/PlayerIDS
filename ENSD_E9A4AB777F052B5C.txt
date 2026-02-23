@@ -1,0 +1,7 @@
+Name: TMRSLIP
+ActorNumber: 414
+PlayerID: E9A4AB777F052B5C
+Platform: Unknown
+AccountCreationDate: 2022-12-26 00:07:43 UTC
+Color: R=0.56 G=0.67 B=1.00
+Cosmetics: None

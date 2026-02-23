@@ -1,0 +1,7 @@
+Name: TTTBEAN
+ActorNumber: 4
+PlayerID: 46FF7F3690863EFF
+Platform: Standalone
+AccountCreationDate: 2023-12-25 23:05:47 UTC
+Color: R=0.44 G=1.00 B=0.44
+Cosmetics: None

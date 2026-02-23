@@ -1,0 +1,7 @@
+Name: SOMEGUY
+ActorNumber: 238
+PlayerID: A7574F78DBF7368B
+Platform: Standalone
+AccountCreationDate: 2025-12-25 17:26:29 UTC
+Color: R=0.00 G=0.00 B=0.67
+Cosmetics: None

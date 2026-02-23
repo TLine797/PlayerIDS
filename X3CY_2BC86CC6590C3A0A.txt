@@ -1,0 +1,7 @@
+Name: NIXO
+ActorNumber: 888
+PlayerID: 2BC86CC6590C3A0A
+Platform: Standalone
+AccountCreationDate: 2025-01-04 19:44:08 UTC
+Color: R=0.44 G=0.00 B=0.00
+Cosmetics: None

@@ -1,0 +1,7 @@
+Name: YORIICHI
+ActorNumber: 770
+PlayerID: 7210A74DF18BEDFA
+Platform: Standalone
+AccountCreationDate: 2024-03-09 22:54:45 UTC
+Color: R=0.67 G=0.89 B=1.00
+Cosmetics: None

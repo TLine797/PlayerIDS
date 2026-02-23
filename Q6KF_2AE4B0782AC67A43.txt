@@ -1,0 +1,7 @@
+Name: gorilla1430
+ActorNumber: 623
+PlayerID: 2AE4B0782AC67A43
+Platform: Standalone
+AccountCreationDate: 2025-07-14 02:12:47 UTC
+Color: R=0.00 G=0.00 B=0.00
+Cosmetics: None

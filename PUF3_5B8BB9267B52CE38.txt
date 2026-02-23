@@ -1,0 +1,7 @@
+Name: KITE
+ActorNumber: 118
+PlayerID: 5B8BB9267B52CE38
+Platform: Standalone
+AccountCreationDate: 2024-10-29 06:34:42 UTC
+Color: R=0.44 G=0.00 B=1.00
+Cosmetics: None

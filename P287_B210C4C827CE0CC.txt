@@ -1,0 +1,7 @@
+Name: BAILEY
+ActorNumber: 1398
+PlayerID: B210C4C827CE0CC
+Platform: Unknown
+AccountCreationDate: 2022-02-06 23:46:36 UTC
+Color: R=1.00 G=0.00 B=0.11
+Cosmetics: None

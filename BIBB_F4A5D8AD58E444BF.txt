@@ -1,0 +1,7 @@
+Name: SKY
+ActorNumber: 643
+PlayerID: F4A5D8AD58E444BF
+Platform: Standalone
+AccountCreationDate: 2024-02-25 23:57:16 UTC
+Color: R=1.00 G=0.00 B=0.00
+Cosmetics: None

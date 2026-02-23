@@ -1,0 +1,7 @@
+Name: HYDRA
+ActorNumber: 469
+PlayerID: 4A1C22953FD40D9B
+Platform: Unknown
+AccountCreationDate: 2022-07-21 18:48:02 UTC
+Color: R=1.00 G=0.56 B=0.89
+Cosmetics: None

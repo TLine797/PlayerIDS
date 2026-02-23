@@ -1,0 +1,7 @@
+Name: AYLA
+ActorNumber: 8
+PlayerID: 5B96A99A7E45F677
+Platform: Standalone
+AccountCreationDate: 2025-01-08 00:46:43 UTC
+Color: R=0.89 G=0.78 B=1.00
+Cosmetics: None

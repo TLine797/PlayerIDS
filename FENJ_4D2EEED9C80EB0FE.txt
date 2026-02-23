@@ -1,0 +1,7 @@
+Name: GARRY
+ActorNumber: 2
+PlayerID: 4D2EEED9C80EB0FE
+Platform: Standalone
+AccountCreationDate: 2025-07-16 18:31:17 UTC
+Color: R=0.11 G=0.22 B=0.78
+Cosmetics: None

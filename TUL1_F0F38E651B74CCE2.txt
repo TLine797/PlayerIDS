@@ -1,0 +1,7 @@
+Name: POOP
+ActorNumber: 36
+PlayerID: F0F38E651B74CCE2
+Platform: Standalone
+AccountCreationDate: 2022-01-28 00:00:02 UTC
+Color: R=1.00 G=1.00 B=0.78
+Cosmetics: None

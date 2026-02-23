@@ -1,0 +1,7 @@
+Name: BLAST
+ActorNumber: 965
+PlayerID: 9BD268AAA4C4DBAE
+Platform: Standalone
+AccountCreationDate: 2024-11-22 07:14:20 UTC
+Color: R=0.44 G=0.00 B=1.00
+Cosmetics: None

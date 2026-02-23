@@ -1,0 +1,7 @@
+Name: ARCANE
+ActorNumber: 1408
+PlayerID: FB96E3C6EC73617B
+Platform: Standalone
+AccountCreationDate: 2023-07-25 20:56:36 UTC
+Color: R=0.33 G=0.44 B=0.44
+Cosmetics: None

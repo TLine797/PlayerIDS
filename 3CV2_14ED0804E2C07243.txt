@@ -1,0 +1,7 @@
+Name: CDMANGO
+ActorNumber: 83
+PlayerID: 14ED0804E2C07243
+Platform: Unknown
+AccountCreationDate: 2026-02-12 22:39:22 UTC
+Color: R=0.67 G=0.33 B=0.33
+Cosmetics: None

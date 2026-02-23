@@ -1,0 +1,7 @@
+Name: VALVEINDEX
+ActorNumber: 213
+PlayerID: 838AE4FC56E193FF
+Platform: Standalone
+AccountCreationDate: 2023-12-22 22:07:40 UTC
+Color: R=0.44 G=0.44 B=0.56
+Cosmetics: None

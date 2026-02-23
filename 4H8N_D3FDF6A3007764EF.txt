@@ -1,0 +1,7 @@
+Name: V1LO
+ActorNumber: 931
+PlayerID: D3FDF6A3007764EF
+Platform: Standalone
+AccountCreationDate: 2026-02-17 03:30:29 UTC
+Color: R=1.00 G=0.11 B=0.22
+Cosmetics: None

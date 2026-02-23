@@ -1,0 +1,7 @@
+Name: LILTIMMY
+ActorNumber: 355
+PlayerID: F14B4299A4A315D3
+Platform: Standalone
+AccountCreationDate: 2025-08-08 13:25:40 UTC
+Color: R=0.22 G=0.00 B=1.00
+Cosmetics: None

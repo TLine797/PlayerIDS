@@ -1,0 +1,7 @@
+Name: DIVA2
+ActorNumber: 870
+PlayerID: 9B7934AD5447287C
+Platform: Standalone
+AccountCreationDate: 2025-07-21 18:38:33 UTC
+Color: R=0.67 G=0.67 B=1.00
+Cosmetics: None

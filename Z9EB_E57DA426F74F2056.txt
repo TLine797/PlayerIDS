@@ -1,0 +1,7 @@
+Name: HOMERSIMPING
+ActorNumber: 996
+PlayerID: E57DA426F74F2056
+Platform: Standalone
+AccountCreationDate: 2022-12-18 08:23:15 UTC
+Color: R=0.00 G=0.00 B=0.00
+Cosmetics: None

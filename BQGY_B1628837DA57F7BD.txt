@@ -1,0 +1,7 @@
+Name: BUS
+ActorNumber: 1329
+PlayerID: B1628837DA57F7BD
+Platform: PC
+AccountCreationDate: 2026-02-19 03:45:03 UTC
+Color: R=0.56 G=0.22 B=1.00
+Cosmetics: None

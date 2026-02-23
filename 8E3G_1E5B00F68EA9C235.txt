@@ -1,0 +1,7 @@
+Name: ZEN
+ActorNumber: 240
+PlayerID: 1E5B00F68EA9C235
+Platform: Standalone
+AccountCreationDate: 2024-12-25 16:54:41 UTC
+Color: R=1.00 G=0.56 B=0.00
+Cosmetics: None

@@ -1,0 +1,7 @@
+Name: ASTRO
+ActorNumber: 132
+PlayerID: C4C6B3BD14526575
+Platform: Standalone
+AccountCreationDate: 2025-12-25 20:35:48 UTC
+Color: R=0.00 G=0.67 B=1.00
+Cosmetics: None

@@ -1,0 +1,7 @@
+Name: TELETUBIESSS
+ActorNumber: 755
+PlayerID: FA71B310DF1A72B
+Platform: Standalone
+AccountCreationDate: 2023-12-26 00:53:47 UTC
+Color: R=0.00 G=0.00 B=0.00
+Cosmetics: None

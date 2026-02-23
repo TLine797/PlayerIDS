@@ -1,0 +1,7 @@
+Name: RYOT505
+ActorNumber: 25
+PlayerID: 49C7141C9C2FCB8A
+Platform: Standalone
+AccountCreationDate: 2025-12-25 15:28:13 UTC
+Color: R=0.11 G=0.67 B=1.00
+Cosmetics: None

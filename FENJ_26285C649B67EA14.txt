@@ -1,0 +1,7 @@
+Name: LEGOSHI
+ActorNumber: 7
+PlayerID: 26285C649B67EA14
+Platform: Standalone
+AccountCreationDate: 2024-06-19 00:56:34 UTC
+Color: R=0.00 G=0.33 B=0.56
+Cosmetics: None

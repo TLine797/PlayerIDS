@@ -1,0 +1,7 @@
+Name: KRATOS
+ActorNumber: 87
+PlayerID: 6139F13152000109
+Platform: Standalone
+AccountCreationDate: 2025-09-12 00:48:06 UTC
+Color: R=0.11 G=0.11 B=0.33
+Cosmetics: None

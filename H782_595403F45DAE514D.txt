@@ -1,0 +1,7 @@
+Name: BIGBLACKMONK
+ActorNumber: 352
+PlayerID: 595403F45DAE514D
+Platform: Standalone
+AccountCreationDate: 2024-05-27 21:33:07 UTC
+Color: R=0.44 G=0.44 B=0.56
+Cosmetics: None

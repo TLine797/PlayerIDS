@@ -1,0 +1,7 @@
+Name: DENTONVR
+ActorNumber: 626
+PlayerID: 1C70BF25CFF120CA
+Platform: Standalone
+AccountCreationDate: 2023-12-25 15:36:16 UTC
+Color: R=0.00 G=1.00 B=1.00
+Cosmetics: None

@@ -1,0 +1,7 @@
+Name: SREHTAEF
+ActorNumber: 86
+PlayerID: 9DB33BC3A48405FF
+Platform: PC
+AccountCreationDate: 2024-12-27 22:29:37 UTC
+Color: R=0.11 G=0.67 B=1.00
+Cosmetics: None

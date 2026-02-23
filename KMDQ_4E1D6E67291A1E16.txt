@@ -1,0 +1,7 @@
+Name: SPONGE
+ActorNumber: 155
+PlayerID: 4E1D6E67291A1E16
+Platform: Standalone
+AccountCreationDate: 2025-12-14 04:09:27 UTC
+Color: R=0.78 G=0.78 B=0.00
+Cosmetics: None

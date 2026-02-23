@@ -1,0 +1,7 @@
+Name: XANS
+ActorNumber: 14
+PlayerID: 1B9E7939B43D8154
+Platform: Standalone
+AccountCreationDate: 2023-05-28 20:41:34 UTC
+Color: R=0.00 G=1.00 B=1.00
+Cosmetics: None

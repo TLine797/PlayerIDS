@@ -1,0 +1,7 @@
+Name: DIGLET
+ActorNumber: 904
+PlayerID: 4AE692D0D0CB0596
+Platform: Standalone
+AccountCreationDate: 2023-12-31 19:48:01 UTC
+Color: R=0.22 G=0.00 B=0.67
+Cosmetics: None

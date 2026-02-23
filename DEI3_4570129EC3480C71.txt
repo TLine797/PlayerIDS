@@ -1,0 +1,7 @@
+Name: MIA
+ActorNumber: 771
+PlayerID: 4570129EC3480C71
+Platform: Standalone
+AccountCreationDate: 2025-12-21 17:31:42 UTC
+Color: R=1.00 G=0.67 B=1.00
+Cosmetics: None

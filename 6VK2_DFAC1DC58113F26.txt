@@ -1,0 +1,7 @@
+Name: ME
+ActorNumber: 848
+PlayerID: DFAC1DC58113F26
+Platform: Standalone
+AccountCreationDate: 2024-03-03 16:10:49 UTC
+Color: R=0.00 G=0.00 B=0.44
+Cosmetics: None

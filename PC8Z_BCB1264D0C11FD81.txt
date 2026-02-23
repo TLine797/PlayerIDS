@@ -1,0 +1,7 @@
+Name: SHEEEEEEEESH
+ActorNumber: 899
+PlayerID: BCB1264D0C11FD81
+Platform: Standalone
+AccountCreationDate: 2025-01-16 00:37:32 UTC
+Color: R=1.00 G=0.78 B=1.00
+Cosmetics: None

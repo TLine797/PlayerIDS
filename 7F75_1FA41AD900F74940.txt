@@ -1,0 +1,7 @@
+Name: gorilla2721
+ActorNumber: 203
+PlayerID: 1FA41AD900F74940
+Platform: Standalone
+AccountCreationDate: 2025-12-28 00:47:22 UTC
+Color: R=1.00 G=0.00 B=0.00
+Cosmetics: None

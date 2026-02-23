@@ -1,0 +1,7 @@
+Name: HELP911HOSTI
+ActorNumber: 1362
+PlayerID: B932BA8E2E66ABDE
+Platform: Standalone
+AccountCreationDate: 2024-12-26 14:26:19 UTC
+Color: R=1.00 G=0.33 B=0.00
+Cosmetics: None

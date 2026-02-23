@@ -1,0 +1,7 @@
+Name: PINK
+ActorNumber: 975
+PlayerID: 24303D63019C45EA
+Platform: Unknown
+AccountCreationDate: 2021-12-30 21:52:29 UTC
+Color: R=1.00 G=0.00 B=0.67
+Cosmetics: None

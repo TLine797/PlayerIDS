@@ -1,0 +1,7 @@
+Name: ELLIOTGT
+ActorNumber: 432
+PlayerID: 6597C0A062D9E57
+Platform: Standalone
+AccountCreationDate: 2024-12-26 02:55:53 UTC
+Color: R=0.67 G=0.67 B=0.67
+Cosmetics: None

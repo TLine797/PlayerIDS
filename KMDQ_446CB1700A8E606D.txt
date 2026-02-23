@@ -1,0 +1,7 @@
+Name: JSN
+ActorNumber: 152
+PlayerID: 446CB1700A8E606D
+Platform: Unknown
+AccountCreationDate: 2022-02-26 23:19:09 UTC
+Color: R=0.00 G=0.22 B=0.00
+Cosmetics: None

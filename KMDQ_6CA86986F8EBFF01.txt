@@ -1,0 +1,7 @@
+Name: CAYLEE
+ActorNumber: 170
+PlayerID: 6CA86986F8EBFF01
+Platform: Standalone
+AccountCreationDate: 2022-12-17 16:31:54 UTC
+Color: R=1.00 G=0.89 B=1.00
+Cosmetics: None

@@ -1,0 +1,7 @@
+Name: MJJMMJJMJJM
+ActorNumber: 1502
+PlayerID: 737E1B076C63A6B7
+Platform: PC
+AccountCreationDate: 2024-08-17 02:18:22 UTC
+Color: R=0.89 G=0.89 B=0.78
+Cosmetics: None

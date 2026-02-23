@@ -1,0 +1,7 @@
+Name: ASTERIA4LIFE
+ActorNumber: 1356
+PlayerID: 563ACE78E8D4D472
+Platform: Standalone
+AccountCreationDate: 2024-05-06 23:32:07 UTC
+Color: R=1.00 G=0.78 B=0.89
+Cosmetics: None

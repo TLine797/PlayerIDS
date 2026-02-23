@@ -1,0 +1,7 @@
+Name: FAZEBUHPLUG
+ActorNumber: 241
+PlayerID: 125CA0926F91E90C
+Platform: Standalone
+AccountCreationDate: 2024-01-09 21:32:46 UTC
+Color: R=0.67 G=0.44 B=0.78
+Cosmetics: None

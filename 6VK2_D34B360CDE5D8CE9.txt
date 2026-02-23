@@ -1,0 +1,7 @@
+Name: YURITPOTFAN
+ActorNumber: 868
+PlayerID: D34B360CDE5D8CE9
+Platform: Standalone
+AccountCreationDate: 2025-05-10 00:21:08 UTC
+Color: R=0.89 G=0.89 B=0.78
+Cosmetics: None

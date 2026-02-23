@@ -1,0 +1,7 @@
+Name: PCTTT
+ActorNumber: 357
+PlayerID: CD92CCEE63F48CD0
+Platform: Standalone
+AccountCreationDate: 2025-12-24 18:40:20 UTC
+Color: R=0.00 G=0.22 B=0.00
+Cosmetics: None

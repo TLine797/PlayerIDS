@@ -1,0 +1,7 @@
+Name: TTVSLIXZZ
+ActorNumber: 23
+PlayerID: 6F75F0C9625DF0C2
+Platform: Standalone
+AccountCreationDate: 2025-12-26 23:46:03 UTC
+Color: R=1.00 G=0.67 B=0.67
+Cosmetics: None

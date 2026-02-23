@@ -1,0 +1,7 @@
+Name: VEX
+ActorNumber: 174
+PlayerID: 18092D0D69CD3090
+Platform: Standalone
+AccountCreationDate: 2024-06-13 02:16:28 UTC
+Color: R=1.00 G=0.00 B=0.00
+Cosmetics: None

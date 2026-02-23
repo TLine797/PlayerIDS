@@ -1,0 +1,7 @@
+Name: TPCLEECH
+ActorNumber: 43
+PlayerID: BE8DD9557153118E
+Platform: Standalone
+AccountCreationDate: 2026-01-19 19:34:54 UTC
+Color: R=0.89 G=0.67 B=0.33
+Cosmetics: None

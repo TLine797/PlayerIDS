@@ -1,0 +1,7 @@
+Name: V3RK
+ActorNumber: 1332
+PlayerID: 43E8F3DAD5908809
+Platform: Standalone
+AccountCreationDate: 2023-12-30 00:19:27 UTC
+Color: R=0.00 G=0.00 B=0.00
+Cosmetics: None

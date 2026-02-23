@@ -1,0 +1,7 @@
+Name: NYGD7UM
+ActorNumber: 227
+PlayerID: 5D43D596B6089011
+Platform: PC
+AccountCreationDate: 2022-04-10 20:20:07 UTC
+Color: R=1.00 G=0.56 B=0.44
+Cosmetics: None

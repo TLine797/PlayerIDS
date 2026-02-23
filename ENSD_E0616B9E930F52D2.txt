@@ -1,0 +1,7 @@
+Name: TTCPIG
+ActorNumber: 432
+PlayerID: E0616B9E930F52D2
+Platform: PC
+AccountCreationDate: 2024-12-21 00:04:48 UTC
+Color: R=0.44 G=0.00 B=0.78
+Cosmetics: None

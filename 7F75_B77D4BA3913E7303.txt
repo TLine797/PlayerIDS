@@ -1,0 +1,7 @@
+Name: BLUEGUY
+ActorNumber: 215
+PlayerID: B77D4BA3913E7303
+Platform: Standalone
+AccountCreationDate: 2024-10-17 02:50:21 UTC
+Color: R=0.56 G=0.78 B=1.00
+Cosmetics: None

@@ -1,0 +1,7 @@
+Name: TTTOPLI
+ActorNumber: 1347
+PlayerID: 13CAD01DADE5AB60
+Platform: Standalone
+AccountCreationDate: 2025-07-14 00:39:29 UTC
+Color: R=0.67 G=0.33 B=0.56
+Cosmetics: None

@@ -1,0 +1,7 @@
+Name: Z39
+ActorNumber: 769
+PlayerID: 2DC85248F7139995
+Platform: Standalone
+AccountCreationDate: 2023-05-29 00:38:23 UTC
+Color: R=0.56 G=0.00 B=0.00
+Cosmetics: None

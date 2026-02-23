@@ -1,0 +1,7 @@
+Name: VOIDD
+ActorNumber: 198
+PlayerID: 694A5EA1F54A94B5
+Platform: Standalone
+AccountCreationDate: 2024-10-14 23:32:11 UTC
+Color: R=0.00 G=0.00 B=0.00
+Cosmetics: None

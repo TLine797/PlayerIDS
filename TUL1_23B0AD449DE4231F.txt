@@ -1,0 +1,7 @@
+Name: DEATH
+ActorNumber: 38
+PlayerID: 23B0AD449DE4231F
+Platform: Standalone
+AccountCreationDate: 2022-07-11 13:29:29 UTC
+Color: R=0.22 G=0.00 B=0.00
+Cosmetics: None

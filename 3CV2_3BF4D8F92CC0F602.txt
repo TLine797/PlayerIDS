@@ -1,0 +1,7 @@
+Name: GAVIN
+ActorNumber: 62
+PlayerID: 3BF4D8F92CC0F602
+Platform: Standalone
+AccountCreationDate: 2025-08-04 02:45:31 UTC
+Color: R=0.33 G=0.00 B=0.67
+Cosmetics: None

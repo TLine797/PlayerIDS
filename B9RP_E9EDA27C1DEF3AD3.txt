@@ -1,0 +1,7 @@
+Name: JMANCURLY
+ActorNumber: 1348
+PlayerID: E9EDA27C1DEF3AD3
+Platform: Standalone
+AccountCreationDate: 2025-12-25 16:48:59 UTC
+Color: R=0.00 G=0.78 B=0.89
+Cosmetics: None

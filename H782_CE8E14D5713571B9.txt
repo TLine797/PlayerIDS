@@ -1,0 +1,7 @@
+Name: ANDREW
+ActorNumber: 321
+PlayerID: CE8E14D5713571B9
+Platform: Unknown
+AccountCreationDate: 2022-12-31 21:12:41 UTC
+Color: R=0.44 G=0.11 B=1.00
+Cosmetics: None

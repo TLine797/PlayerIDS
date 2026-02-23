@@ -1,0 +1,7 @@
+Name: BRIANNA
+ActorNumber: 1355
+PlayerID: 462E14CE68D6F7C3
+Platform: Standalone
+AccountCreationDate: 2024-01-03 02:10:12 UTC
+Color: R=1.00 G=0.78 B=0.78
+Cosmetics: None

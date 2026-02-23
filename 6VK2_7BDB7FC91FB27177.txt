@@ -1,0 +1,7 @@
+Name: BANANAVR
+ActorNumber: 875
+PlayerID: 7BDB7FC91FB27177
+Platform: Standalone
+AccountCreationDate: 2024-12-28 18:06:03 UTC
+Color: R=1.00 G=0.78 B=0.00
+Cosmetics: None

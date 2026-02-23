@@ -1,0 +1,7 @@
+Name: PELU
+ActorNumber: 80
+PlayerID: 92E888C89586ABAB
+Platform: Unknown
+AccountCreationDate: 2022-04-29 01:05:06 UTC
+Color: R=0.20 G=0.28 B=0.74
+Cosmetics: None

@@ -1,0 +1,7 @@
+Name: ELIOT
+ActorNumber: 879
+PlayerID: 2322C48C610C477D
+Platform: Standalone
+AccountCreationDate: 2026-01-11 20:09:35 UTC
+Color: R=0.44 G=0.44 B=0.44
+Cosmetics: None

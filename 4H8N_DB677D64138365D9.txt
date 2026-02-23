@@ -1,0 +1,7 @@
+Name: SONIC3VR
+ActorNumber: 926
+PlayerID: DB677D64138365D9
+Platform: Standalone
+AccountCreationDate: 2026-02-15 22:46:30 UTC
+Color: R=1.00 G=0.00 B=0.00
+Cosmetics: None

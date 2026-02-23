@@ -1,0 +1,7 @@
+Name: VAIV
+ActorNumber: 1311
+PlayerID: 7EF8A35112B60C4B
+Platform: Standalone
+AccountCreationDate: 2024-12-16 01:25:11 UTC
+Color: R=0.22 G=0.22 B=0.56
+Cosmetics: None

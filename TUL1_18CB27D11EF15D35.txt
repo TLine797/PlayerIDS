@@ -1,0 +1,7 @@
+Name: WATCHER
+ActorNumber: 32
+PlayerID: 18CB27D11EF15D35
+Platform: Standalone
+AccountCreationDate: 2026-02-06 23:42:28 UTC
+Color: R=0.00 G=0.00 B=0.00
+Cosmetics: None

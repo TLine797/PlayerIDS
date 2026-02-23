@@ -1,0 +1,7 @@
+Name: C
+ActorNumber: 129
+PlayerID: E9FE72B08BD3E5F4
+Platform: Standalone
+AccountCreationDate: 2025-01-28 22:07:15 UTC
+Color: R=1.00 G=0.44 B=0.44
+Cosmetics: None

@@ -1,0 +1,7 @@
+Name: 60HZ
+ActorNumber: 1348
+PlayerID: 7B540CB33335E6B1
+Platform: Standalone
+AccountCreationDate: 2023-05-10 11:04:09 UTC
+Color: R=0.67 G=0.11 B=0.00
+Cosmetics: None

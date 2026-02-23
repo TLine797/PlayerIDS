@@ -1,0 +1,7 @@
+Name: TSKDINOOOGT
+ActorNumber: 136
+PlayerID: BD156C4549865022
+Platform: Standalone
+AccountCreationDate: 2023-12-25 15:15:33 UTC
+Color: R=1.00 G=0.33 B=0.33
+Cosmetics: None

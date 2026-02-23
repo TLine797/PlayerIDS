@@ -1,0 +1,7 @@
+Name: TRSTRISTYN
+ActorNumber: 313
+PlayerID: F7238E420011670F
+Platform: Standalone
+AccountCreationDate: 2023-12-25 23:12:27 UTC
+Color: R=0.00 G=0.00 B=0.78
+Cosmetics: None

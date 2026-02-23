@@ -1,0 +1,7 @@
+Name: PAZ
+ActorNumber: 80
+PlayerID: 7F8E9303307E4E96
+Platform: PC
+AccountCreationDate: 2024-01-01 01:57:49 UTC
+Color: R=0.22 G=0.00 B=0.67
+Cosmetics: None

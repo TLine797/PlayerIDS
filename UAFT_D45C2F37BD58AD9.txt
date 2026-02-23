@@ -1,0 +1,7 @@
+Name: CHEF
+ActorNumber: 1493
+PlayerID: D45C2F37BD58AD9
+Platform: Standalone
+AccountCreationDate: 2025-12-25 20:54:43 UTC
+Color: R=0.56 G=0.11 B=0.89
+Cosmetics: None

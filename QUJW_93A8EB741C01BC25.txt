@@ -1,0 +1,7 @@
+Name: FEMBOY
+ActorNumber: 426
+PlayerID: 93A8EB741C01BC25
+Platform: Standalone
+AccountCreationDate: 2024-07-19 21:22:06 UTC
+Color: R=1.00 G=0.67 B=0.00
+Cosmetics: None

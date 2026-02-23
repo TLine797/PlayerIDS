@@ -1,0 +1,7 @@
+Name: TREY
+ActorNumber: 211
+PlayerID: A03A8528A46BA2E
+Platform: Standalone
+AccountCreationDate: 2024-12-25 16:35:00 UTC
+Color: R=0.00 G=0.00 B=0.00
+Cosmetics: None

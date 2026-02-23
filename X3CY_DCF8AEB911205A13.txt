@@ -1,0 +1,7 @@
+Name: TR3CKST3R
+ActorNumber: 861
+PlayerID: DCF8AEB911205A13
+Platform: Standalone
+AccountCreationDate: 2026-01-04 21:55:48 UTC
+Color: R=0.11 G=0.11 B=1.00
+Cosmetics: None

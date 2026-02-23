@@ -1,0 +1,7 @@
+Name: GURBLYCASTER
+ActorNumber: 1501
+PlayerID: 9C5E5C1E7193DD4F
+Platform: Standalone
+AccountCreationDate: 2023-04-01 15:52:23 UTC
+Color: R=0.33 G=0.33 B=1.00
+Cosmetics: None

@@ -1,0 +1,7 @@
+Name: ADAMKAVR
+ActorNumber: 64
+PlayerID: FB3015201386DC9E
+Platform: PC
+AccountCreationDate: 2026-02-22 23:13:55 UTC
+Color: R=0.89 G=0.89 B=0.89
+Cosmetics: None

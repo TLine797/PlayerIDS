@@ -1,0 +1,7 @@
+Name: NOTTOP1
+ActorNumber: 872
+PlayerID: FA9029E0FB7F911
+Platform: Standalone
+AccountCreationDate: 2026-01-18 00:14:27 UTC
+Color: R=1.00 G=0.67 B=0.78
+Cosmetics: None

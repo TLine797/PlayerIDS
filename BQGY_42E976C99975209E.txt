@@ -1,0 +1,7 @@
+Name: BOBBY
+ActorNumber: 1327
+PlayerID: 42E976C99975209E
+Platform: Unknown
+AccountCreationDate: 2024-09-12 02:09:16 UTC
+Color: R=0.44 G=0.00 B=0.78
+Cosmetics: None

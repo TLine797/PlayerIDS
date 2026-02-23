@@ -1,0 +1,7 @@
+Name: TUMADRE
+ActorNumber: 221
+PlayerID: BC2537E502BBEDFF
+Platform: Standalone
+AccountCreationDate: 2024-03-09 00:29:49 UTC
+Color: R=0.89 G=0.11 B=0.22
+Cosmetics: None

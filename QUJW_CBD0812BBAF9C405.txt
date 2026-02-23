@@ -1,0 +1,7 @@
+Name: SHEIS14
+ActorNumber: 464
+PlayerID: CBD0812BBAF9C405
+Platform: Standalone
+AccountCreationDate: 2024-02-11 02:20:49 UTC
+Color: R=1.00 G=0.00 B=0.00
+Cosmetics: None

@@ -1,0 +1,7 @@
+Name: LUNAR
+ActorNumber: 296
+PlayerID: 5516E9CC9243441B
+Platform: Unknown
+AccountCreationDate: 2022-02-27 22:13:35 UTC
+Color: R=1.00 G=0.00 B=0.22
+Cosmetics: None

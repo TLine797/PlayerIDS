@@ -1,0 +1,7 @@
+Name: SADNESSFOREV
+ActorNumber: 86
+PlayerID: 9DD73E3D34C27BF2
+Platform: PC
+AccountCreationDate: 2022-06-07 00:05:05 UTC
+Color: R=0.67 G=1.00 B=0.89
+Cosmetics: None

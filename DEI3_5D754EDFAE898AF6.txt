@@ -1,0 +1,7 @@
+Name: GOOFYY
+ActorNumber: 773
+PlayerID: 5D754EDFAE898AF6
+Platform: Standalone
+AccountCreationDate: 2025-11-22 17:16:46 UTC
+Color: R=0.00 G=0.00 B=0.00
+Cosmetics: None

@@ -1,0 +1,7 @@
+Name: ZEABON
+ActorNumber: 6
+PlayerID: C4DC4A898EA86C97
+Platform: Unknown
+AccountCreationDate: 2021-08-13 01:30:05 UTC
+Color: R=0.00 G=1.00 B=0.00
+Cosmetics: None

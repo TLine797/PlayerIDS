@@ -1,0 +1,7 @@
+Name: FFF
+ActorNumber: 125
+PlayerID: 48215CDCEEB5FE86
+Platform: Standalone
+AccountCreationDate: 2025-08-31 23:22:48 UTC
+Color: R=0.44 G=0.00 B=1.00
+Cosmetics: None

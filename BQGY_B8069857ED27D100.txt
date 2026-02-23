@@ -1,0 +1,7 @@
+Name: KNUCOMP
+ActorNumber: 1370
+PlayerID: B8069857ED27D100
+Platform: PC
+AccountCreationDate: 2025-11-15 03:20:15 UTC
+Color: R=0.67 G=0.56 B=0.44
+Cosmetics: None

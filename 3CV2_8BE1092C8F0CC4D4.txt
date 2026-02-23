@@ -1,0 +1,7 @@
+Name: JK
+ActorNumber: 75
+PlayerID: 8BE1092C8F0CC4D4
+Platform: Unknown
+AccountCreationDate: 2021-12-18 03:32:30 UTC
+Color: R=0.67 G=0.67 B=1.00
+Cosmetics: None

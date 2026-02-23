@@ -1,0 +1,7 @@
+Name: TBWR1OWNER
+ActorNumber: 316
+PlayerID: 496EB0C1516A3BB0
+Platform: Standalone
+AccountCreationDate: 2023-12-25 11:44:28 UTC
+Color: R=0.00 G=0.67 B=1.00
+Cosmetics: None

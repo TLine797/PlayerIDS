@@ -1,0 +1,7 @@
+Name: suck my crusty toes
+ActorNumber: 415
+PlayerID: 32AD907CC022B2CD
+Platform: Standalone
+AccountCreationDate: 2025-04-02 01:11:40 UTC
+Color: R=0.00 G=0.21 B=0.01
+Cosmetics: None

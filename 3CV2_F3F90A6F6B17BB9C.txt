@@ -1,0 +1,7 @@
+Name: NOMNOM
+ActorNumber: 93
+PlayerID: F3F90A6F6B17BB9C
+Platform: PC
+AccountCreationDate: 2022-09-11 19:56:02 UTC
+Color: R=0.00 G=0.00 B=0.00
+Cosmetics: None

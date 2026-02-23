@@ -1,0 +1,7 @@
+Name: GOBGOB
+ActorNumber: 137
+PlayerID: 3D6A4710B04B1320
+Platform: Standalone
+AccountCreationDate: 2024-08-18 16:36:40 UTC
+Color: R=0.56 G=0.89 B=0.56
+Cosmetics: None

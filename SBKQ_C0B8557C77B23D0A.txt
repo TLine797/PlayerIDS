@@ -1,0 +1,7 @@
+Name: 1
+ActorNumber: 389
+PlayerID: C0B8557C77B23D0A
+Platform: Standalone
+AccountCreationDate: 2024-12-25 18:02:55 UTC
+Color: R=1.00 G=0.00 B=0.00
+Cosmetics: None

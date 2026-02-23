@@ -1,0 +1,7 @@
+Name: DEXTERVRTY
+ActorNumber: 980
+PlayerID: 8A01B5D1E4281D5E
+Platform: Standalone
+AccountCreationDate: 2025-12-25 15:25:17 UTC
+Color: R=0.44 G=0.00 B=1.00
+Cosmetics: None

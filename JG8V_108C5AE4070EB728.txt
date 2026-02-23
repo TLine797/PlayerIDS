@@ -1,0 +1,7 @@
+Name: RINK3R
+ActorNumber: 1499
+PlayerID: 108C5AE4070EB728
+Platform: PC
+AccountCreationDate: 2024-06-10 21:40:52 UTC
+Color: R=0.22 G=0.22 B=0.44
+Cosmetics: None

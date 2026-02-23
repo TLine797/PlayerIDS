@@ -1,0 +1,7 @@
+Name: PERRYWINKLE
+ActorNumber: 557
+PlayerID: 8ED3B4AE688EA90A
+Platform: PC
+AccountCreationDate: 2024-02-05 17:51:02 UTC
+Color: R=0.00 G=0.11 B=0.22
+Cosmetics: None

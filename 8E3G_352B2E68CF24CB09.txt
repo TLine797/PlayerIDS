@@ -1,0 +1,7 @@
+Name: FAZEBUTTSEX2
+ActorNumber: 242
+PlayerID: 352B2E68CF24CB09
+Platform: Standalone
+AccountCreationDate: 2023-09-20 19:59:38 UTC
+Color: R=0.44 G=0.00 B=0.78
+Cosmetics: None

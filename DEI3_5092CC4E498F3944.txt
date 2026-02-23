@@ -1,0 +1,7 @@
+Name: FREAKYT
+ActorNumber: 777
+PlayerID: 5092CC4E498F3944
+Platform: Unknown
+AccountCreationDate: 2022-07-23 01:03:32 UTC
+Color: R=0.00 G=0.00 B=0.33
+Cosmetics: None

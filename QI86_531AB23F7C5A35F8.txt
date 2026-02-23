@@ -1,0 +1,7 @@
+Name: MANINTHEBOX
+ActorNumber: 112
+PlayerID: 531AB23F7C5A35F8
+Platform: Standalone
+AccountCreationDate: 2024-09-30 12:21:11 UTC
+Color: R=0.11 G=0.00 B=0.00
+Cosmetics: None

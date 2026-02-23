@@ -1,0 +1,7 @@
+Name: SHERIFF
+ActorNumber: 1490
+PlayerID: EC7464704A8C0D1A
+Platform: Standalone
+AccountCreationDate: 2023-07-08 14:50:11 UTC
+Color: R=0.67 G=0.56 B=0.44
+Cosmetics: None

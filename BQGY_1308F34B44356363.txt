@@ -1,0 +1,7 @@
+Name: CHOCO
+ActorNumber: 1315
+PlayerID: 1308F34B44356363
+Platform: Standalone
+AccountCreationDate: 2025-09-27 18:56:25 UTC
+Color: R=0.44 G=0.33 B=0.22
+Cosmetics: None

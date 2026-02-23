@@ -1,0 +1,7 @@
+Name: SERENDIPITY
+ActorNumber: 895
+PlayerID: 88F9E8E4F539D9D4
+Platform: Standalone
+AccountCreationDate: 2021-12-25 18:30:40 UTC
+Color: R=0.22 G=0.56 B=1.00
+Cosmetics: None

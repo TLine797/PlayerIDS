@@ -1,0 +1,7 @@
+Name: THEBEST
+ActorNumber: 197
+PlayerID: 2E5B0BCC4C130266
+Platform: Standalone
+AccountCreationDate: 2025-12-25 21:14:50 UTC
+Color: R=0.44 G=0.00 B=0.44
+Cosmetics: None

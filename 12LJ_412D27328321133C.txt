@@ -1,0 +1,7 @@
+Name: ZAPZZZZZ
+ActorNumber: 773
+PlayerID: 412D27328321133C
+Platform: Standalone
+AccountCreationDate: 2025-05-23 20:02:39 UTC
+Color: R=0.44 G=0.00 B=0.56
+Cosmetics: None

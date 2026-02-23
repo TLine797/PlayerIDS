@@ -1,0 +1,7 @@
+Name: GHFOD
+ActorNumber: 912
+PlayerID: 30578C7B1CB9122F
+Platform: Standalone
+AccountCreationDate: 2023-12-31 19:09:06 UTC
+Color: R=0.00 G=0.00 B=0.78
+Cosmetics: None

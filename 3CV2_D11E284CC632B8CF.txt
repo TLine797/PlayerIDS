@@ -1,0 +1,7 @@
+Name: CRIMSON
+ActorNumber: 88
+PlayerID: D11E284CC632B8CF
+Platform: Standalone
+AccountCreationDate: 2023-03-22 00:55:38 UTC
+Color: R=0.44 G=0.00 B=0.00
+Cosmetics: None

@@ -1,0 +1,7 @@
+Name: CHEETAH
+ActorNumber: 159
+PlayerID: B24B07F9A5E19CA2
+Platform: Standalone
+AccountCreationDate: 2024-04-21 17:33:12 UTC
+Color: R=0.67 G=0.00 B=0.33
+Cosmetics: None

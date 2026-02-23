@@ -1,0 +1,7 @@
+Name: CRICKET
+ActorNumber: 329
+PlayerID: 6327EAF385F455C5
+Platform: Standalone
+AccountCreationDate: 2024-12-27 23:01:35 UTC
+Color: R=0.33 G=0.33 B=0.33
+Cosmetics: None

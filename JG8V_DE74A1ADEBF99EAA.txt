@@ -1,0 +1,7 @@
+Name: SBMOON
+ActorNumber: 1498
+PlayerID: DE74A1ADEBF99EAA
+Platform: Standalone
+AccountCreationDate: 2025-12-25 19:17:48 UTC
+Color: R=0.44 G=0.00 B=1.00
+Cosmetics: None

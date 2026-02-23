@@ -1,0 +1,7 @@
+Name: JULIAN
+ActorNumber: 29
+PlayerID: A3F43C30A6318B70
+Platform: Unknown
+AccountCreationDate: 2022-02-20 03:26:07 UTC
+Color: R=1.00 G=0.78 B=0.33
+Cosmetics: None

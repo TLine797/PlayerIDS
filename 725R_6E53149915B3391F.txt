@@ -1,0 +1,7 @@
+Name: STANDY
+ActorNumber: 106
+PlayerID: 6E53149915B3391F
+Platform: Standalone
+AccountCreationDate: 2024-06-22 16:28:33 UTC
+Color: R=1.00 G=0.67 B=0.22
+Cosmetics: None
