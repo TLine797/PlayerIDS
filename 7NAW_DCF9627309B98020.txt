@@ -1,0 +1,7 @@
+Name: KAYLAVR
+ActorNumber: 109
+PlayerID: DCF9627309B98020
+Platform: Unknown
+AccountCreationDate: 2021-12-21 08:36:30 UTC
+Color: R=1.00 G=0.00 B=0.22
+Cosmetics: None

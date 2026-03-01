@@ -1,0 +1,7 @@
+Name: SCR1PTED
+ActorNumber: 205
+PlayerID: 1E89E08F806FE258
+Platform: PC
+AccountCreationDate: 2022-09-19 00:54:22 UTC
+Color: R=1.00 G=0.00 B=0.33
+Cosmetics: None

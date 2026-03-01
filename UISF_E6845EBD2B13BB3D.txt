@@ -1,0 +1,7 @@
+Name: BLOXMAN
+ActorNumber: 21
+PlayerID: E6845EBD2B13BB3D
+Platform: Standalone
+AccountCreationDate: 2023-05-28 16:56:25 UTC
+Color: R=1.00 G=1.00 B=0.00
+Cosmetics: None

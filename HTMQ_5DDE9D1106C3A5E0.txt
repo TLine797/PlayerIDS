@@ -1,0 +1,7 @@
+Name: RINVR
+ActorNumber: 68
+PlayerID: 5DDE9D1106C3A5E0
+Platform: Standalone
+AccountCreationDate: 2023-12-01 23:55:37 UTC
+Color: R=0.00 G=0.00 B=0.00
+Cosmetics: None

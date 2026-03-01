@@ -1,0 +1,7 @@
+Name: JR
+ActorNumber: 157
+PlayerID: 6904368268833CC4
+Platform: Unknown
+AccountCreationDate: 2023-01-15 16:45:02 UTC
+Color: R=1.00 G=0.00 B=0.67
+Cosmetics: None

@@ -1,0 +1,7 @@
+Name: LUCY
+ActorNumber: 971
+PlayerID: B0403AF3DABA15AA
+Platform: Unknown
+AccountCreationDate: 2022-03-01 16:44:59 UTC
+Color: R=0.44 G=0.78 B=0.89
+Cosmetics: None

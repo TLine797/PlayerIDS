@@ -1,0 +1,7 @@
+Name: MUSHROOMVR
+ActorNumber: 2
+PlayerID: 74D96D7F6A9A96BC
+Platform: Standalone
+AccountCreationDate: 2024-05-13 23:44:46 UTC
+Color: R=1.00 G=1.00 B=1.00
+Cosmetics: None

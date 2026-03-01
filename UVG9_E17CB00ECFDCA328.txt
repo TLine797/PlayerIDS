@@ -1,0 +1,7 @@
+Name: ILUV
+ActorNumber: 886
+PlayerID: E17CB00ECFDCA328
+Platform: Standalone
+AccountCreationDate: 2025-11-16 23:21:59 UTC
+Color: R=1.00 G=0.00 B=0.11
+Cosmetics: None

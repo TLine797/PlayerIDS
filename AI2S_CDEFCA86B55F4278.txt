@@ -1,0 +1,7 @@
+Name: CHRONOCHAMP
+ActorNumber: 7
+PlayerID: CDEFCA86B55F4278
+Platform: Standalone
+AccountCreationDate: 2026-02-22 16:17:52 UTC
+Color: R=0.22 G=0.00 B=0.67
+Cosmetics: None

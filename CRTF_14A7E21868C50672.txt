@@ -1,0 +1,7 @@
+Name: ANN
+ActorNumber: 360
+PlayerID: 14A7E21868C50672
+Platform: Standalone
+AccountCreationDate: 2025-01-11 02:36:47 UTC
+Color: R=0.56 G=0.67 B=1.00
+Cosmetics: None

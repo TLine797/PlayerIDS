@@ -1,0 +1,7 @@
+Name: HJ445IJTTK
+ActorNumber: 684
+PlayerID: 332BEEFC09ABD819
+Platform: Standalone
+AccountCreationDate: 2025-03-15 05:27:05 UTC
+Color: R=1.00 G=0.78 B=1.00
+Cosmetics: None

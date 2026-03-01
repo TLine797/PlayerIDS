@@ -1,0 +1,7 @@
+Name: VRVORTEX
+ActorNumber: 437
+PlayerID: 6C314BE2651FC662
+Platform: Standalone
+AccountCreationDate: 2026-01-04 23:34:58 UTC
+Color: R=1.00 G=1.00 B=1.00
+Cosmetics: None

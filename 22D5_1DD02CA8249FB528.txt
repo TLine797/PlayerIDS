@@ -1,0 +1,7 @@
+Name: JOHN316
+ActorNumber: 160
+PlayerID: 1DD02CA8249FB528
+Platform: Standalone
+AccountCreationDate: 2025-02-08 14:33:55 UTC
+Color: R=0.44 G=0.00 B=1.00
+Cosmetics: None

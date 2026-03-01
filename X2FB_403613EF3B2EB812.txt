@@ -1,0 +1,7 @@
+Name: FINDYOU
+ActorNumber: 121
+PlayerID: 403613EF3B2EB812
+Platform: Standalone
+AccountCreationDate: 2025-12-27 01:00:31 UTC
+Color: R=0.78 G=0.44 B=0.00
+Cosmetics: None

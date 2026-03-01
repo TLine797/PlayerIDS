@@ -1,0 +1,7 @@
+Name: PIGBENIS
+ActorNumber: 28
+PlayerID: CEE27FB9F6545E83
+Platform: Unknown
+AccountCreationDate: 2022-02-06 01:45:25 UTC
+Color: R=0.11 G=0.33 B=0.00
+Cosmetics: None

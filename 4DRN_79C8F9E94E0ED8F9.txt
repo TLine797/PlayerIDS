@@ -1,0 +1,7 @@
+Name: gorilla
+ActorNumber: 36
+PlayerID: 79C8F9E94E0ED8F9
+Platform: Standalone
+AccountCreationDate: 2026-01-03 05:55:51 UTC
+Color: R=0.89 G=0.00 B=1.00
+Cosmetics: None

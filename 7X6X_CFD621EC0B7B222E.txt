@@ -1,0 +1,7 @@
+Name: GHOST
+ActorNumber: 105
+PlayerID: CFD621EC0B7B222E
+Platform: Standalone
+AccountCreationDate: 2026-02-20 23:39:13 UTC
+Color: R=0.00 G=0.00 B=0.00
+Cosmetics: None

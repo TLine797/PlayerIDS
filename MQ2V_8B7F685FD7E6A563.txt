@@ -1,0 +1,7 @@
+Name: A
+ActorNumber: 191
+PlayerID: 8B7F685FD7E6A563
+Platform: Standalone
+AccountCreationDate: 2023-07-09 21:58:58 UTC
+Color: R=0.67 G=0.00 B=0.00
+Cosmetics: None

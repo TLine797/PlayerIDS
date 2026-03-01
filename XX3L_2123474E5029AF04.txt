@@ -1,0 +1,7 @@
+Name: SPONGEBOBVR
+ActorNumber: 1089
+PlayerID: 2123474E5029AF04
+Platform: Standalone
+AccountCreationDate: 2025-12-25 17:10:51 UTC
+Color: R=0.22 G=0.00 B=0.67
+Cosmetics: None

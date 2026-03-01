@@ -1,0 +1,7 @@
+Name: EVOKEXO
+ActorNumber: 216
+PlayerID: A29878C6F40DC411
+Platform: PC
+AccountCreationDate: 2026-01-04 18:35:08 UTC
+Color: R=0.56 G=0.44 B=1.00
+Cosmetics: None

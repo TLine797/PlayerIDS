@@ -1,0 +1,7 @@
+Name: CUTIEPIE
+ActorNumber: 171
+PlayerID: BB268A4292766FB4
+Platform: Standalone
+AccountCreationDate: 2025-02-13 15:03:42 UTC
+Color: R=0.22 G=0.22 B=0.33
+Cosmetics: None

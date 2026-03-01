@@ -1,0 +1,7 @@
+Name: HPREVERBG1
+ActorNumber: 128
+PlayerID: C04450F0F8AE2FEB
+Platform: Standalone
+AccountCreationDate: 2024-11-16 01:19:25 UTC
+Color: R=1.00 G=0.56 B=1.00
+Cosmetics: None

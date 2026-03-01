@@ -1,0 +1,7 @@
+Name: HORSE
+ActorNumber: 1887
+PlayerID: F6427A657E7EB5EC
+Platform: Unknown
+AccountCreationDate: 2021-08-14 22:44:57 UTC
+Color: R=0.00 G=0.00 B=0.00
+Cosmetics: None

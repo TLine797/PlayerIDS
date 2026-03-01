@@ -1,0 +1,7 @@
+Name: gorilla2010
+ActorNumber: 429
+PlayerID: A85A155BC6E1E8A9
+Platform: Standalone
+AccountCreationDate: 2025-12-25 15:42:47 UTC
+Color: R=1.00 G=1.00 B=1.00
+Cosmetics: None

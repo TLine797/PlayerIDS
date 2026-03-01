@@ -1,0 +1,7 @@
+Name: ZENIX
+ActorNumber: 415
+PlayerID: 1371E64BE0C07943
+Platform: Unknown
+AccountCreationDate: 2025-06-06 11:22:19 UTC
+Color: R=0.67 G=0.67 B=0.67
+Cosmetics: None

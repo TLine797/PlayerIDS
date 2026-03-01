@@ -1,0 +1,7 @@
+Name: VEX
+ActorNumber: 30
+PlayerID: 42C25DD49FDE0C1
+Platform: Standalone
+AccountCreationDate: 2025-12-20 00:08:40 UTC
+Color: R=0.67 G=0.67 B=0.67
+Cosmetics: None

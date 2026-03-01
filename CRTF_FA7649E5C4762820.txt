@@ -1,0 +1,7 @@
+Name: TXXJUDE
+ActorNumber: 374
+PlayerID: FA7649E5C4762820
+Platform: Unknown
+AccountCreationDate: 2022-01-26 13:45:18 UTC
+Color: R=1.00 G=0.67 B=1.00
+Cosmetics: None

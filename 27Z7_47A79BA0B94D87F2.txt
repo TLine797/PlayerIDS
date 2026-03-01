@@ -1,0 +1,7 @@
+Name: O
+ActorNumber: 34
+PlayerID: 47A79BA0B94D87F2
+Platform: Standalone
+AccountCreationDate: 2025-12-25 23:20:37 UTC
+Color: R=0.56 G=0.00 B=1.00
+Cosmetics: None

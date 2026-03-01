@@ -1,0 +1,7 @@
+Name: K
+ActorNumber: 54
+PlayerID: 6753277927E6058A
+Platform: Unknown
+AccountCreationDate: 2021-12-25 17:45:31 UTC
+Color: R=0.22 G=0.22 B=0.22
+Cosmetics: None

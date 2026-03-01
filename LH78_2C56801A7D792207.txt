@@ -1,0 +1,7 @@
+Name: VOIDKNIGHTVR
+ActorNumber: 373
+PlayerID: 2C56801A7D792207
+Platform: Standalone
+AccountCreationDate: 2025-04-05 05:04:26 UTC
+Color: R=0.44 G=0.00 B=0.78
+Cosmetics: None

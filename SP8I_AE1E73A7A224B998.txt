@@ -1,0 +1,7 @@
+Name: 4LCFURRYHATE
+ActorNumber: 292
+PlayerID: AE1E73A7A224B998
+Platform: Standalone
+AccountCreationDate: 2023-07-21 00:18:49 UTC
+Color: R=1.00 G=0.00 B=1.00
+Cosmetics: None

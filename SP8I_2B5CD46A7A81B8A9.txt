@@ -1,0 +1,7 @@
+Name: TTSJ
+ActorNumber: 267
+PlayerID: 2B5CD46A7A81B8A9
+Platform: Standalone
+AccountCreationDate: 2024-03-15 21:13:35 UTC
+Color: R=0.00 G=0.00 B=0.00
+Cosmetics: None

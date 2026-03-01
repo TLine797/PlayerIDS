@@ -1,0 +1,7 @@
+Name: 67FURRYVAPE
+ActorNumber: 24
+PlayerID: E0AF4A94DFF5E2FD
+Platform: Unknown
+AccountCreationDate: 2022-06-11 09:06:20 UTC
+Color: R=1.00 G=0.00 B=1.00
+Cosmetics: None

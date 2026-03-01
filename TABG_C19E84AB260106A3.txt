@@ -1,0 +1,7 @@
+Name: MICKEYMOUSE
+ActorNumber: 1869
+PlayerID: C19E84AB260106A3
+Platform: Standalone
+AccountCreationDate: 2025-12-26 20:06:42 UTC
+Color: R=1.00 G=1.00 B=1.00
+Cosmetics: None

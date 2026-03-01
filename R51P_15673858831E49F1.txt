@@ -1,0 +1,7 @@
+Name: M0ND08
+ActorNumber: 57
+PlayerID: 15673858831E49F1
+Platform: Standalone
+AccountCreationDate: 2025-12-05 06:21:55 UTC
+Color: R=0.00 G=1.00 B=0.78
+Cosmetics: None

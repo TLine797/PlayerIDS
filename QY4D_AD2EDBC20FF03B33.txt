@@ -1,0 +1,7 @@
+Name: H4KPY
+ActorNumber: 618
+PlayerID: AD2EDBC20FF03B33
+Platform: Standalone
+AccountCreationDate: 2025-03-23 00:02:55 UTC
+Color: R=0.56 G=0.22 B=0.56
+Cosmetics: None

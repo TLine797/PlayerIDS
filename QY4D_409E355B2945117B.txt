@@ -1,0 +1,7 @@
+Name: TX2FANLOONA
+ActorNumber: 407
+PlayerID: 409E355B2945117B
+Platform: Standalone
+AccountCreationDate: 2023-06-03 21:22:17 UTC
+Color: R=0.33 G=0.00 B=0.00
+Cosmetics: None

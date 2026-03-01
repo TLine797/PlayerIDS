@@ -1,0 +1,7 @@
+Name: gorilla5832
+ActorNumber: 147
+PlayerID: 5AADE769C5EDBB9E
+Platform: Standalone
+AccountCreationDate: 2025-12-25 20:13:28 UTC
+Color: R=0.44 G=0.00 B=1.00
+Cosmetics: None

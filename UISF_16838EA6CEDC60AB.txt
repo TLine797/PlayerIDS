@@ -1,0 +1,7 @@
+Name: CHAMPIONVR
+ActorNumber: 9
+PlayerID: 16838EA6CEDC60AB
+Platform: Standalone
+AccountCreationDate: 2024-12-22 18:38:30 UTC
+Color: R=0.78 G=0.00 B=0.00
+Cosmetics: None

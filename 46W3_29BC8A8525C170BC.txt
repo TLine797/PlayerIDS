@@ -1,0 +1,7 @@
+Name: SAW
+ActorNumber: 2985
+PlayerID: 29BC8A8525C170BC
+Platform: Standalone
+AccountCreationDate: 2025-10-04 11:37:37 UTC
+Color: R=0.33 G=1.00 B=0.22
+Cosmetics: None

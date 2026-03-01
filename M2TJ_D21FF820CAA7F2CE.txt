@@ -1,0 +1,7 @@
+Name: DELULU
+ActorNumber: 625
+PlayerID: D21FF820CAA7F2CE
+Platform: Standalone
+AccountCreationDate: 2026-02-22 04:33:26 UTC
+Color: R=0.00 G=0.00 B=0.00
+Cosmetics: None

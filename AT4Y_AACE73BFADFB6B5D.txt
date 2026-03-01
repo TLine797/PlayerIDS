@@ -1,0 +1,7 @@
+Name: MYLIFENOTBAD
+ActorNumber: 535
+PlayerID: AACE73BFADFB6B5D
+Platform: Standalone
+AccountCreationDate: 2025-05-12 21:44:15 UTC
+Color: R=0.00 G=0.00 B=0.00
+Cosmetics: None

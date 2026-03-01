@@ -1,0 +1,7 @@
+Name: KFCMONEY
+ActorNumber: 119
+PlayerID: C93FDAB088EEBE44
+Platform: Standalone
+AccountCreationDate: 2026-02-23 00:31:38 UTC
+Color: R=0.78 G=0.00 B=0.89
+Cosmetics: None

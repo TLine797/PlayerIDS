@@ -1,0 +1,7 @@
+Name: TTTWSRS
+ActorNumber: 161
+PlayerID: 20B86A5AE756ADB3
+Platform: Standalone
+AccountCreationDate: 2022-12-25 14:03:52 UTC
+Color: R=0.00 G=0.67 B=1.00
+Cosmetics: None

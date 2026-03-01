@@ -1,0 +1,7 @@
+Name: H4KPY
+ActorNumber: 178
+PlayerID: 9D1407F9C459B044
+Platform: PC
+AccountCreationDate: 2025-12-25 16:49:56 UTC
+Color: R=1.00 G=0.00 B=0.00
+Cosmetics: None

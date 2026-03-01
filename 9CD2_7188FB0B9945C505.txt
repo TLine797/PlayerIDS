@@ -1,0 +1,7 @@
+Name: XSB
+ActorNumber: 763
+PlayerID: 7188FB0B9945C505
+Platform: Standalone
+AccountCreationDate: 2024-02-10 18:47:16 UTC
+Color: R=0.78 G=1.00 B=0.22
+Cosmetics: None

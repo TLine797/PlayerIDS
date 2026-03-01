@@ -1,0 +1,7 @@
+Name: KIKI
+ActorNumber: 695
+PlayerID: 5572A01D77E0420B
+Platform: Standalone
+AccountCreationDate: 2024-12-26 19:43:07 UTC
+Color: R=1.00 G=0.67 B=1.00
+Cosmetics: None

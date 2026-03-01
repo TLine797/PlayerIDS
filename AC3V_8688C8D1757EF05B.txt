@@ -1,0 +1,7 @@
+Name: OKBUD
+ActorNumber: 269
+PlayerID: 8688C8D1757EF05B
+Platform: Standalone
+AccountCreationDate: 2025-11-17 00:53:33 UTC
+Color: R=0.56 G=0.33 B=0.33
+Cosmetics: None

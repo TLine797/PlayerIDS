@@ -1,0 +1,7 @@
+Name: LASERJETS
+ActorNumber: 65
+PlayerID: 734A6EBADD81A7A9
+Platform: Standalone
+AccountCreationDate: 2024-12-27 15:16:28 UTC
+Color: R=0.44 G=0.00 B=0.78
+Cosmetics: None

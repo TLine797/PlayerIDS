@@ -1,0 +1,7 @@
+Name: MONKINATOR
+ActorNumber: 379
+PlayerID: F08F897D8DAC5749
+Platform: Unknown
+AccountCreationDate: 2021-10-10 21:35:11 UTC
+Color: R=0.67 G=0.67 B=0.67
+Cosmetics: None

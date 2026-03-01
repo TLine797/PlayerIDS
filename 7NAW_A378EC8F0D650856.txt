@@ -1,0 +1,7 @@
+Name: ANDO
+ActorNumber: 114
+PlayerID: A378EC8F0D650856
+Platform: Standalone
+AccountCreationDate: 2024-01-02 01:35:20 UTC
+Color: R=0.89 G=1.00 B=0.00
+Cosmetics: None

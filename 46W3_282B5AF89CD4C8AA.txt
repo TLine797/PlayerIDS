@@ -1,0 +1,7 @@
+Name: GEOGTAG
+ActorNumber: 3071
+PlayerID: 282B5AF89CD4C8AA
+Platform: Standalone
+AccountCreationDate: 2026-01-04 10:29:04 UTC
+Color: R=1.00 G=1.00 B=1.00
+Cosmetics: None

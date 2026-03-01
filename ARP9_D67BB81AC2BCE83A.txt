@@ -1,0 +1,7 @@
+Name: FISSO
+ActorNumber: 141
+PlayerID: D67BB81AC2BCE83A
+Platform: Standalone
+AccountCreationDate: 2025-10-20 01:27:23 UTC
+Color: R=0.44 G=0.00 B=0.78
+Cosmetics: None

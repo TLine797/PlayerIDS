@@ -1,0 +1,7 @@
+Name: JAPPER
+ActorNumber: 1893
+PlayerID: 95B9BC0566944389
+Platform: Standalone
+AccountCreationDate: 2024-09-14 00:31:33 UTC
+Color: R=1.00 G=1.00 B=0.00
+Cosmetics: None

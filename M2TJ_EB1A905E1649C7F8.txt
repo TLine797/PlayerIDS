@@ -1,0 +1,7 @@
+Name: TTTCUM
+ActorNumber: 631
+PlayerID: EB1A905E1649C7F8
+Platform: Standalone
+AccountCreationDate: 2024-04-06 00:28:56 UTC
+Color: R=1.00 G=0.44 B=1.00
+Cosmetics: None

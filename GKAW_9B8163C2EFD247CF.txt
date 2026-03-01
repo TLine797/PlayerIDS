@@ -1,0 +1,7 @@
+Name: CHILLGUY
+ActorNumber: 4
+PlayerID: 9B8163C2EFD247CF
+Platform: Standalone
+AccountCreationDate: 2024-12-25 17:11:44 UTC
+Color: R=0.56 G=0.00 B=1.00
+Cosmetics: None

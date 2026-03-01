@@ -1,0 +1,7 @@
+Name: SPARK
+ActorNumber: 200
+PlayerID: 35CA9868327BB9D
+Platform: Standalone
+AccountCreationDate: 2022-10-04 01:16:27 UTC
+Color: R=0.33 G=0.00 B=0.67
+Cosmetics: None

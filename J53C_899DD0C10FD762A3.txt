@@ -1,0 +1,7 @@
+Name: GRAPURTICLAF
+ActorNumber: 40
+PlayerID: 899DD0C10FD762A3
+Platform: Standalone
+AccountCreationDate: 2024-07-17 19:27:25 UTC
+Color: R=0.22 G=0.00 B=0.67
+Cosmetics: None

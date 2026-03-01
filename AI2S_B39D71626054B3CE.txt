@@ -1,0 +1,7 @@
+Name: ELIASVRGT
+ActorNumber: 226
+PlayerID: B39D71626054B3CE
+Platform: Standalone
+AccountCreationDate: 2025-08-15 09:24:41 UTC
+Color: R=0.22 G=0.44 B=1.00
+Cosmetics: None

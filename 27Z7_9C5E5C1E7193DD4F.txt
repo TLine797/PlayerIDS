@@ -1,0 +1,7 @@
+Name: VLRGURBLY
+ActorNumber: 41
+PlayerID: 9C5E5C1E7193DD4F
+Platform: Standalone
+AccountCreationDate: 2023-04-01 15:52:23 UTC
+Color: R=1.00 G=0.00 B=0.00
+Cosmetics: None

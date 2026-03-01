@@ -1,0 +1,7 @@
+Name: REZY
+ActorNumber: 41
+PlayerID: 57ADC137B735189D
+Platform: Standalone
+AccountCreationDate: 2023-04-10 06:21:15 UTC
+Color: R=0.78 G=0.00 B=0.11
+Cosmetics: None

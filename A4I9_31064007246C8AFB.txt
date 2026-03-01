@@ -1,0 +1,7 @@
+Name: HAPPY12Q
+ActorNumber: 804
+PlayerID: 31064007246C8AFB
+Platform: Standalone
+AccountCreationDate: 2026-02-02 05:44:45 UTC
+Color: R=0.56 G=0.00 B=1.00
+Cosmetics: None

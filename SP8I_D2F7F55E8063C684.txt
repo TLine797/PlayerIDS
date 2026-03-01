@@ -1,0 +1,7 @@
+Name: ANT1V3N0M
+ActorNumber: 268
+PlayerID: D2F7F55E8063C684
+Platform: Standalone
+AccountCreationDate: 2024-01-01 21:35:37 UTC
+Color: R=0.33 G=0.00 B=1.00
+Cosmetics: None

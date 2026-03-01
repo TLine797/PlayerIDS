@@ -1,0 +1,7 @@
+Name: NOON
+ActorNumber: 362
+PlayerID: F9E60D41110DE314
+Platform: Standalone
+AccountCreationDate: 2025-12-25 00:39:58 UTC
+Color: R=0.44 G=0.00 B=0.78
+Cosmetics: None

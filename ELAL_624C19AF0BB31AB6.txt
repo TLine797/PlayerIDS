@@ -1,0 +1,7 @@
+Name: MRBIG
+ActorNumber: 427
+PlayerID: 624C19AF0BB31AB6
+Platform: PC
+AccountCreationDate: 2026-01-03 02:27:16 UTC
+Color: R=0.00 G=0.78 B=0.89
+Cosmetics: None

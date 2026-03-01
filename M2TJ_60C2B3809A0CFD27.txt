@@ -1,0 +1,7 @@
+Name: D3MON
+ActorNumber: 467
+PlayerID: 60C2B3809A0CFD27
+Platform: Standalone
+AccountCreationDate: 2026-01-03 01:04:03 UTC
+Color: R=0.44 G=0.00 B=0.78
+Cosmetics: None

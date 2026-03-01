@@ -1,0 +1,7 @@
+Name: COOLDUDE
+ActorNumber: 3065
+PlayerID: F948F7A8F98884E5
+Platform: Standalone
+AccountCreationDate: 2024-02-17 18:09:00 UTC
+Color: R=0.33 G=0.00 B=0.00
+Cosmetics: None

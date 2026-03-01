@@ -1,0 +1,7 @@
+Name: XENO
+ActorNumber: 2983
+PlayerID: D8540EC8247F808B
+Platform: Standalone
+AccountCreationDate: 2023-08-02 22:26:39 UTC
+Color: R=0.33 G=0.33 B=0.33
+Cosmetics: None

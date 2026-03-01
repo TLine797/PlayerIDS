@@ -1,0 +1,7 @@
+Name: BOOBARRY
+ActorNumber: 195
+PlayerID: 38C3EF2330B8A0E0
+Platform: Standalone
+AccountCreationDate: 2024-12-24 21:54:00 UTC
+Color: R=0.00 G=0.00 B=1.00
+Cosmetics: None

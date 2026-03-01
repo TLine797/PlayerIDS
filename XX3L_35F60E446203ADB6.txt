@@ -1,0 +1,7 @@
+Name: gorilla
+ActorNumber: 1114
+PlayerID: 35F60E446203ADB6
+Platform: Standalone
+AccountCreationDate: 2026-01-11 19:30:54 UTC
+Color: R=0.67 G=0.67 B=0.67
+Cosmetics: None

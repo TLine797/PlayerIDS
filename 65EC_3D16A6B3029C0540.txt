@@ -1,0 +1,7 @@
+Name: THUNDERBOLT
+ActorNumber: 1658
+PlayerID: 3D16A6B3029C0540
+Platform: Standalone
+AccountCreationDate: 2025-10-12 04:36:51 UTC
+Color: R=0.00 G=0.89 B=0.00
+Cosmetics: None

@@ -1,0 +1,7 @@
+Name: VHDRT678
+ActorNumber: 596
+PlayerID: C2D2B7C3EF746542
+Platform: Standalone
+AccountCreationDate: 2024-03-03 20:12:19 UTC
+Color: R=0.56 G=0.11 B=0.89
+Cosmetics: None

@@ -1,0 +1,7 @@
+Name: PEPEMOVISTAR
+ActorNumber: 385
+PlayerID: C4B42F2DD07ECAEA
+Platform: Standalone
+AccountCreationDate: 2024-08-13 19:03:49 UTC
+Color: R=0.44 G=0.11 B=1.00
+Cosmetics: None

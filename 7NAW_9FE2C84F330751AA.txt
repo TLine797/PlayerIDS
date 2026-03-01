@@ -1,0 +1,7 @@
+Name: BIGBOY
+ActorNumber: 123
+PlayerID: 9FE2C84F330751AA
+Platform: Standalone
+AccountCreationDate: 2023-12-22 15:22:25 UTC
+Color: R=0.22 G=0.22 B=0.22
+Cosmetics: None

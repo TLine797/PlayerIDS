@@ -1,0 +1,7 @@
+Name: DEEP
+ActorNumber: 592
+PlayerID: 6147B981CB82138
+Platform: Standalone
+AccountCreationDate: 2024-08-28 00:00:53 UTC
+Color: R=0.44 G=0.00 B=1.00
+Cosmetics: None

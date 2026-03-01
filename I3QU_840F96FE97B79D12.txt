@@ -1,0 +1,7 @@
+Name: FLACOVR
+ActorNumber: 33
+PlayerID: 840F96FE97B79D12
+Platform: Standalone
+AccountCreationDate: 2025-12-25 07:01:53 UTC
+Color: R=0.67 G=0.33 B=0.33
+Cosmetics: None

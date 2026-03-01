@@ -1,0 +1,7 @@
+Name: gorilla9748
+ActorNumber: 440
+PlayerID: C31CF65022DC9A6E
+Platform: Standalone
+AccountCreationDate: 2025-12-25 16:05:55 UTC
+Color: R=1.00 G=1.00 B=0.67
+Cosmetics: None

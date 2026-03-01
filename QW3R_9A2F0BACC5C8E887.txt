@@ -1,0 +1,7 @@
+Name: JOT
+ActorNumber: 81
+PlayerID: 9A2F0BACC5C8E887
+Platform: Standalone
+AccountCreationDate: 2025-05-16 14:03:45 UTC
+Color: R=0.78 G=0.78 B=1.00
+Cosmetics: None

@@ -1,0 +1,7 @@
+Name: FVPGLITCHGT1
+ActorNumber: 400
+PlayerID: BF719768BC34549D
+Platform: Standalone
+AccountCreationDate: 2025-12-25 13:28:31 UTC
+Color: R=0.44 G=0.00 B=0.78
+Cosmetics: None

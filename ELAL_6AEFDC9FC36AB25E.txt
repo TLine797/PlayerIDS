@@ -1,0 +1,7 @@
+Name: TMC
+ActorNumber: 438
+PlayerID: 6AEFDC9FC36AB25E
+Platform: Standalone
+AccountCreationDate: 2026-01-11 21:09:09 UTC
+Color: R=0.00 G=0.00 B=0.00
+Cosmetics: None

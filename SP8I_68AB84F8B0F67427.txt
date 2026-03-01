@@ -1,0 +1,7 @@
+Name: DREAM
+ActorNumber: 253
+PlayerID: 68AB84F8B0F67427
+Platform: Standalone
+AccountCreationDate: 2026-01-31 18:06:41 UTC
+Color: R=0.44 G=0.00 B=0.78
+Cosmetics: None

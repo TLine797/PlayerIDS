@@ -1,0 +1,7 @@
+Name: PUPZJR
+ActorNumber: 46
+PlayerID: 8CCE398DF01B1145
+Platform: Standalone
+AccountCreationDate: 2022-03-20 02:08:41 UTC
+Color: R=1.00 G=0.11 B=1.00
+Cosmetics: None

@@ -1,0 +1,7 @@
+Name: GFDA
+ActorNumber: 302
+PlayerID: 9C09185E6C101C04
+Platform: Unknown
+AccountCreationDate: 2025-01-28 03:13:59 UTC
+Color: R=1.00 G=1.00 B=1.00
+Cosmetics: None

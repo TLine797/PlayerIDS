@@ -1,0 +1,7 @@
+Name: TOCOOL
+ActorNumber: 11
+PlayerID: 95F650C20FFBAFF4
+Platform: Standalone
+AccountCreationDate: 2025-05-03 15:36:59 UTC
+Color: R=0.11 G=0.00 B=0.44
+Cosmetics: None

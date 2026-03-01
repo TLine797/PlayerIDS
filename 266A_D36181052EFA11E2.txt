@@ -1,0 +1,7 @@
+Name: TFSCOCOGT
+ActorNumber: 92
+PlayerID: D36181052EFA11E2
+Platform: PC
+AccountCreationDate: 2025-04-11 23:19:19 UTC
+Color: R=0.78 G=0.78 B=0.78
+Cosmetics: None

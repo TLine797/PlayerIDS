@@ -1,0 +1,7 @@
+Name: gorilla7101
+ActorNumber: 52
+PlayerID: 4BB2810D0E99F70F
+Platform: Standalone
+AccountCreationDate: 2025-01-08 03:35:11 UTC
+Color: R=0.22 G=0.00 B=0.78
+Cosmetics: None

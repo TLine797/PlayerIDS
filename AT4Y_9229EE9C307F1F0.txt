@@ -1,0 +1,7 @@
+Name: ETERNAL
+ActorNumber: 540
+PlayerID: 9229EE9C307F1F0
+Platform: Standalone
+AccountCreationDate: 2023-12-27 09:43:17 UTC
+Color: R=0.44 G=0.00 B=0.44
+Cosmetics: None

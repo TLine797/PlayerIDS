@@ -1,0 +1,7 @@
+Name: SVLDARKHEART
+ActorNumber: 347
+PlayerID: 51C3849DCF93EA34
+Platform: Standalone
+AccountCreationDate: 2025-02-03 22:26:26 UTC
+Color: R=0.89 G=0.56 B=0.67
+Cosmetics: None

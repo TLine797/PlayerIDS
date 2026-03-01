@@ -1,0 +1,7 @@
+Name: 89
+ActorNumber: 375
+PlayerID: F4EC3C15B3A8291E
+Platform: Standalone
+AccountCreationDate: 2025-12-28 23:13:30 UTC
+Color: R=0.89 G=1.00 B=1.00
+Cosmetics: None

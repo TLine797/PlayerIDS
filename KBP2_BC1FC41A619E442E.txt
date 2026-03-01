@@ -1,0 +1,7 @@
+Name: JOLLLY
+ActorNumber: 153
+PlayerID: BC1FC41A619E442E
+Platform: Standalone
+AccountCreationDate: 2024-02-03 09:16:45 UTC
+Color: R=0.22 G=0.22 B=1.00
+Cosmetics: None

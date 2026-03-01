@@ -1,0 +1,7 @@
+Name: BRAD
+ActorNumber: 76
+PlayerID: 7910A18DBC67D2A6
+Platform: Standalone
+AccountCreationDate: 2023-12-25 18:46:30 UTC
+Color: R=0.00 G=0.00 B=0.00
+Cosmetics: None

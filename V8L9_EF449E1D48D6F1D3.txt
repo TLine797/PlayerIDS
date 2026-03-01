@@ -1,0 +1,7 @@
+Name: POOPYBUTT
+ActorNumber: 141
+PlayerID: EF449E1D48D6F1D3
+Platform: Standalone
+AccountCreationDate: 2025-08-01 10:45:54 UTC
+Color: R=0.00 G=0.22 B=0.00
+Cosmetics: None

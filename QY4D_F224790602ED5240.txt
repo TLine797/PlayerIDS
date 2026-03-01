@@ -1,0 +1,7 @@
+Name: KMFUNK227
+ActorNumber: 628
+PlayerID: F224790602ED5240
+Platform: Standalone
+AccountCreationDate: 2026-01-31 00:05:32 UTC
+Color: R=0.11 G=0.11 B=0.56
+Cosmetics: None

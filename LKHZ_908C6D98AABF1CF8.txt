@@ -1,0 +1,7 @@
+Name: goldentrophy
+ActorNumber: 586
+PlayerID: 908C6D98AABF1CF8
+Platform: PC
+AccountCreationDate: 2025-11-16 01:09:22 UTC
+Color: R=0.18 G=0.93 B=0.27
+Cosmetics: None

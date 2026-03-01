@@ -1,0 +1,7 @@
+Name: NOTELLIOT
+ActorNumber: 54
+PlayerID: 3BD41D2069B72BF8
+Platform: Standalone
+AccountCreationDate: 2024-08-22 00:51:43 UTC
+Color: R=0.67 G=0.67 B=0.67
+Cosmetics: None

@@ -1,0 +1,7 @@
+Name: HI
+ActorNumber: 750
+PlayerID: 131BFD09B11C95D5
+Platform: Standalone
+AccountCreationDate: 2024-07-30 00:15:45 UTC
+Color: R=0.11 G=0.00 B=0.78
+Cosmetics: None

@@ -1,0 +1,7 @@
+Name: NOVKILLER45
+ActorNumber: 5
+PlayerID: 3C9736FD8EB6C9C4
+Platform: Standalone
+AccountCreationDate: 2024-01-23 00:09:43 UTC
+Color: R=0.00 G=0.00 B=0.00
+Cosmetics: None

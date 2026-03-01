@@ -1,0 +1,7 @@
+Name: SAVAGE
+ActorNumber: 29
+PlayerID: FE8DBCFEB2A67CB5
+Platform: Standalone
+AccountCreationDate: 2023-12-31 22:56:47 UTC
+Color: R=0.44 G=0.44 B=0.33
+Cosmetics: None

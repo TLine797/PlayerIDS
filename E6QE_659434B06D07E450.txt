@@ -1,0 +1,7 @@
+Name: FELIXVR
+ActorNumber: 769
+PlayerID: 659434B06D07E450
+Platform: Standalone
+AccountCreationDate: 2025-12-25 14:36:27 UTC
+Color: R=1.00 G=1.00 B=0.00
+Cosmetics: None

@@ -1,0 +1,7 @@
+Name: SAP
+ActorNumber: 705
+PlayerID: 62C35229231C2F19
+Platform: Unknown
+AccountCreationDate: 2022-07-26 00:47:42 UTC
+Color: R=0.00 G=0.33 B=0.56
+Cosmetics: None

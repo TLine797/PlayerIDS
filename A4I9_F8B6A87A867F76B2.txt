@@ -1,0 +1,7 @@
+Name: XPOSED
+ActorNumber: 812
+PlayerID: F8B6A87A867F76B2
+Platform: PC
+AccountCreationDate: 2023-08-30 00:56:43 UTC
+Color: R=0.22 G=0.00 B=0.22
+Cosmetics: None

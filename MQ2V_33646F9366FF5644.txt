@@ -1,0 +1,7 @@
+Name: ANDREW
+ActorNumber: 118
+PlayerID: 33646F9366FF5644
+Platform: Standalone
+AccountCreationDate: 2026-02-13 21:15:59 UTC
+Color: R=0.11 G=1.00 B=0.67
+Cosmetics: None

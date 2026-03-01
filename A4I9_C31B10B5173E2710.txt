@@ -1,0 +1,7 @@
+Name: LEXOR
+ActorNumber: 809
+PlayerID: C31B10B5173E2710
+Platform: PC
+AccountCreationDate: 2024-11-22 18:31:37 UTC
+Color: R=0.78 G=0.56 B=0.89
+Cosmetics: None

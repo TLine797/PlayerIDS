@@ -1,0 +1,7 @@
+Name: BHDAYROS
+ActorNumber: 3020
+PlayerID: 91D08BA043CB64A1
+Platform: Standalone
+AccountCreationDate: 2025-02-01 15:43:14 UTC
+Color: R=0.00 G=0.33 B=0.33
+Cosmetics: None

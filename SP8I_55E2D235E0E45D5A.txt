@@ -1,0 +1,7 @@
+Name: PROWLER
+ActorNumber: 315
+PlayerID: 55E2D235E0E45D5A
+Platform: Standalone
+AccountCreationDate: 2026-02-01 04:20:32 UTC
+Color: R=0.22 G=0.11 B=0.22
+Cosmetics: None

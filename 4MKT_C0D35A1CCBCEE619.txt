@@ -1,0 +1,7 @@
+Name: DELTA
+ActorNumber: 687
+PlayerID: C0D35A1CCBCEE619
+Platform: Standalone
+AccountCreationDate: 2025-05-19 22:37:27 UTC
+Color: R=0.33 G=0.11 B=0.89
+Cosmetics: None

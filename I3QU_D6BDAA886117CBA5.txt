@@ -1,0 +1,7 @@
+Name: ZX6R
+ActorNumber: 2
+PlayerID: D6BDAA886117CBA5
+Platform: Unknown
+AccountCreationDate: 2022-02-24 19:33:45 UTC
+Color: R=0.33 G=0.33 B=0.56
+Cosmetics: None

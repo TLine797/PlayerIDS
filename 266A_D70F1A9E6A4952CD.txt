@@ -1,0 +1,7 @@
+Name: SLEEPYY
+ActorNumber: 62
+PlayerID: D70F1A9E6A4952CD
+Platform: Standalone
+AccountCreationDate: 2024-01-17 08:05:58 UTC
+Color: R=0.78 G=0.22 B=1.00
+Cosmetics: None

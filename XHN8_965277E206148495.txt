@@ -1,0 +1,7 @@
+Name: 10HZ
+ActorNumber: 896
+PlayerID: 965277E206148495
+Platform: Standalone
+AccountCreationDate: 2025-06-23 17:58:07 UTC
+Color: R=0.00 G=0.67 B=1.00
+Cosmetics: None

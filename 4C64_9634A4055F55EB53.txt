@@ -1,0 +1,7 @@
+Name: SPINKLE
+ActorNumber: 14
+PlayerID: 9634A4055F55EB53
+Platform: Standalone
+AccountCreationDate: 2023-06-11 23:48:21 UTC
+Color: R=0.78 G=0.00 B=0.11
+Cosmetics: None

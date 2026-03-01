@@ -1,0 +1,7 @@
+Name: 12345
+ActorNumber: 13
+PlayerID: B7CB058E3A473B0B
+Platform: Standalone
+AccountCreationDate: 2025-02-20 11:16:00 UTC
+Color: R=1.00 G=0.44 B=0.00
+Cosmetics: None

@@ -1,0 +1,7 @@
+Name: TOP1DEMICASA
+ActorNumber: 386
+PlayerID: 3D1AF65DF8BAEC16
+Platform: Standalone
+AccountCreationDate: 2023-10-29 20:59:29 UTC
+Color: R=0.44 G=0.11 B=1.00
+Cosmetics: None

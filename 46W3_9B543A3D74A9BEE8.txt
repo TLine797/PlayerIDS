@@ -1,0 +1,7 @@
+Name: UAINTNOTOGI
+ActorNumber: 2991
+PlayerID: 9B543A3D74A9BEE8
+Platform: Standalone
+AccountCreationDate: 2025-01-13 22:58:26 UTC
+Color: R=0.00 G=0.00 B=0.00
+Cosmetics: None

@@ -1,0 +1,7 @@
+Name: RGVR
+ActorNumber: 209
+PlayerID: C3E4C6D78BB87678
+Platform: Standalone
+AccountCreationDate: 2024-01-22 00:18:08 UTC
+Color: R=0.44 G=0.00 B=0.89
+Cosmetics: None

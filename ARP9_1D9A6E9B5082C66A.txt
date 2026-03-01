@@ -1,0 +1,7 @@
+Name: FMTJ
+ActorNumber: 145
+PlayerID: 1D9A6E9B5082C66A
+Platform: Standalone
+AccountCreationDate: 2024-12-29 01:20:40 UTC
+Color: R=0.44 G=0.00 B=1.00
+Cosmetics: None

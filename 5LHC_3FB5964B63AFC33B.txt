@@ -1,0 +1,7 @@
+Name: gorilla
+ActorNumber: 534
+PlayerID: 3FB5964B63AFC33B
+Platform: Standalone
+AccountCreationDate: 2026-02-22 16:48:05 UTC
+Color: R=0.00 G=1.00 B=0.56
+Cosmetics: None

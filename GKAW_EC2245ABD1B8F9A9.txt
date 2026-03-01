@@ -1,0 +1,7 @@
+Name: PRINCESS
+ActorNumber: 43
+PlayerID: EC2245ABD1B8F9A9
+Platform: Standalone
+AccountCreationDate: 2022-05-25 07:27:51 UTC
+Color: R=0.00 G=0.00 B=0.00
+Cosmetics: None

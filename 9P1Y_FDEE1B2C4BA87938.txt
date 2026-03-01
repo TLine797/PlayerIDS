@@ -1,0 +1,7 @@
+Name: 123
+ActorNumber: 382
+PlayerID: FDEE1B2C4BA87938
+Platform: Standalone
+AccountCreationDate: 2025-06-18 23:25:26 UTC
+Color: R=0.78 G=0.67 B=1.00
+Cosmetics: None

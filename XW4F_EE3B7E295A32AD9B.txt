@@ -1,0 +1,7 @@
+Name: ICEK1NG
+ActorNumber: 613
+PlayerID: EE3B7E295A32AD9B
+Platform: Standalone
+AccountCreationDate: 2024-11-28 21:23:27 UTC
+Color: R=0.44 G=0.89 B=1.00
+Cosmetics: None

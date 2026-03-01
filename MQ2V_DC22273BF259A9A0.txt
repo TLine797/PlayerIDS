@@ -1,0 +1,7 @@
+Name: FASTER
+ActorNumber: 119
+PlayerID: DC22273BF259A9A0
+Platform: Standalone
+AccountCreationDate: 2023-03-19 01:17:17 UTC
+Color: R=0.22 G=0.00 B=0.44
+Cosmetics: None

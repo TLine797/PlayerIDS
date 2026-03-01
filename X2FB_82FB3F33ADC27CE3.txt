@@ -1,0 +1,7 @@
+Name: TCMTITALWAVE
+ActorNumber: 113
+PlayerID: 82FB3F33ADC27CE3
+Platform: Standalone
+AccountCreationDate: 2025-03-05 01:56:20 UTC
+Color: R=0.44 G=0.11 B=0.56
+Cosmetics: None

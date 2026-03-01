@@ -1,0 +1,7 @@
+Name: ZIXIL
+ActorNumber: 45
+PlayerID: 550D4EA06E3A7AB5
+Platform: Standalone
+AccountCreationDate: 2025-01-05 02:25:15 UTC
+Color: R=0.44 G=0.33 B=1.00
+Cosmetics: None

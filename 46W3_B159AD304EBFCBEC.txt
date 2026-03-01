@@ -1,0 +1,7 @@
+Name: BINK
+ActorNumber: 3355
+PlayerID: B159AD304EBFCBEC
+Platform: Unknown
+AccountCreationDate: 2022-12-25 19:48:28 UTC
+Color: R=0.00 G=0.00 B=1.00
+Cosmetics: None

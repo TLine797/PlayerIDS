@@ -1,0 +1,7 @@
+Name: JESUSLOVES
+ActorNumber: 50
+PlayerID: 677AFC34191764DA
+Platform: Standalone
+AccountCreationDate: 2023-07-14 15:02:02 UTC
+Color: R=1.00 G=1.00 B=1.00
+Cosmetics: None

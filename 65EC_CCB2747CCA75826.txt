@@ -1,0 +1,7 @@
+Name: SIMON
+ActorNumber: 1651
+PlayerID: CCB2747CCA75826
+Platform: Standalone
+AccountCreationDate: 2024-12-26 02:19:48 UTC
+Color: R=0.22 G=1.00 B=0.78
+Cosmetics: None

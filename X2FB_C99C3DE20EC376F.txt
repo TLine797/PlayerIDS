@@ -1,0 +1,7 @@
+Name: GRR
+ActorNumber: 62
+PlayerID: C99C3DE20EC376F
+Platform: PC
+AccountCreationDate: 2026-01-16 22:03:45 UTC
+Color: R=0.44 G=0.00 B=1.00
+Cosmetics: None

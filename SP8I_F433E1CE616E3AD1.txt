@@ -1,0 +1,7 @@
+Name: MORSE
+ActorNumber: 309
+PlayerID: F433E1CE616E3AD1
+Platform: Unknown
+AccountCreationDate: 2023-07-01 18:00:58 UTC
+Color: R=0.00 G=0.00 B=0.00
+Cosmetics: None

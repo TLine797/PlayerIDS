@@ -1,0 +1,7 @@
+Name: EXOO
+ActorNumber: 456
+PlayerID: 2153849FA255BA2D
+Platform: Standalone
+AccountCreationDate: 2022-02-06 21:17:57 UTC
+Color: R=0.89 G=0.22 B=0.22
+Cosmetics: None

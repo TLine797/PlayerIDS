@@ -1,0 +1,7 @@
+Name: FOX
+ActorNumber: 72
+PlayerID: 55442B00FB6A1298
+Platform: Unknown
+AccountCreationDate: 2022-06-06 20:02:43 UTC
+Color: R=0.78 G=0.56 B=0.56
+Cosmetics: None

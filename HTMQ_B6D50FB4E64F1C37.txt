@@ -1,0 +1,7 @@
+Name: 1JOHN48
+ActorNumber: 61
+PlayerID: B6D50FB4E64F1C37
+Platform: Unknown
+AccountCreationDate: 2022-12-31 23:49:20 UTC
+Color: R=0.44 G=0.00 B=0.78
+Cosmetics: None

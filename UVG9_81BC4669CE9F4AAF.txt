@@ -1,0 +1,7 @@
+Name: TFFKIRBO
+ActorNumber: 67
+PlayerID: 81BC4669CE9F4AAF
+Platform: Standalone
+AccountCreationDate: 2025-01-02 18:40:44 UTC
+Color: R=0.67 G=0.67 B=0.67
+Cosmetics: None

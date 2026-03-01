@@ -1,0 +1,7 @@
+Name: BANANAGOD
+ActorNumber: 538
+PlayerID: 61A009B19A944E68
+Platform: Standalone
+AccountCreationDate: 2024-11-25 03:18:20 UTC
+Color: R=1.00 G=1.00 B=0.00
+Cosmetics: None

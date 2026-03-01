@@ -1,0 +1,7 @@
+Name: yoyoyo
+ActorNumber: 2218
+PlayerID: FC4B76F637B377B7
+Platform: Standalone
+AccountCreationDate: 2025-03-23 00:45:05 UTC
+Color: R=0.00 G=0.00 B=0.00
+Cosmetics: None

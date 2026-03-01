@@ -1,0 +1,7 @@
+Name: TIBI
+ActorNumber: 150
+PlayerID: 2A32765FFA6715A
+Platform: Standalone
+AccountCreationDate: 2024-01-24 12:19:54 UTC
+Color: R=0.00 G=0.56 B=0.67
+Cosmetics: None

@@ -1,0 +1,7 @@
+Name: DOMINICAN
+ActorNumber: 421
+PlayerID: A562C0FE761FBFD3
+Platform: Standalone
+AccountCreationDate: 2025-04-20 12:24:43 UTC
+Color: R=0.67 G=1.00 B=0.67
+Cosmetics: None

@@ -1,0 +1,7 @@
+Name: FFFTART
+ActorNumber: 223
+PlayerID: AE2A63A313464F43
+Platform: Standalone
+AccountCreationDate: 2023-12-25 19:41:12 UTC
+Color: R=0.00 G=0.11 B=1.00
+Cosmetics: None

@@ -1,0 +1,7 @@
+Name: MUFFIN
+ActorNumber: 161
+PlayerID: 68FBB01C257BC30B
+Platform: Standalone
+AccountCreationDate: 2024-06-22 00:12:31 UTC
+Color: R=0.44 G=0.22 B=0.00
+Cosmetics: None

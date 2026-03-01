@@ -1,0 +1,7 @@
+Name: BLUEDITZZ
+ActorNumber: 2986
+PlayerID: E48F071646D5CD00
+Platform: Standalone
+AccountCreationDate: 2025-04-22 09:43:06 UTC
+Color: R=0.67 G=0.78 B=1.00
+Cosmetics: None

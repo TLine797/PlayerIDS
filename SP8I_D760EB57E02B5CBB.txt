@@ -1,0 +1,7 @@
+Name: TTPCRAVYYY
+ActorNumber: 223
+PlayerID: D760EB57E02B5CBB
+Platform: Standalone
+AccountCreationDate: 2024-05-01 21:41:40 UTC
+Color: R=0.67 G=0.00 B=1.00
+Cosmetics: None

@@ -1,0 +1,7 @@
+Name: ZYLO
+ActorNumber: 263
+PlayerID: 332916DE4CEECD0E
+Platform: Standalone
+AccountCreationDate: 2022-03-02 18:07:09 UTC
+Color: R=1.00 G=0.00 B=0.00
+Cosmetics: None

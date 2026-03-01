@@ -1,0 +1,7 @@
+Name: PPPTIGG
+ActorNumber: 149
+PlayerID: 4BB6AD995CF58979
+Platform: Standalone
+AccountCreationDate: 2025-12-25 20:00:49 UTC
+Color: R=0.67 G=0.67 B=0.67
+Cosmetics: None

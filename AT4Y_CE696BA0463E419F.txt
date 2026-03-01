@@ -1,0 +1,7 @@
+Name: RUGCLAN2
+ActorNumber: 531
+PlayerID: CE696BA0463E419F
+Platform: Standalone
+AccountCreationDate: 2026-01-06 00:10:51 UTC
+Color: R=0.00 G=1.00 B=0.67
+Cosmetics: None

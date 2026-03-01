@@ -1,0 +1,7 @@
+Name: YOGURT
+ActorNumber: 114
+PlayerID: AF3BA2D95EEA7A9F
+Platform: Standalone
+AccountCreationDate: 2024-01-02 02:06:00 UTC
+Color: R=1.00 G=0.78 B=0.78
+Cosmetics: None

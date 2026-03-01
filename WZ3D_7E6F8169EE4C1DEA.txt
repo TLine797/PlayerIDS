@@ -1,0 +1,7 @@
+Name: gorilla3941
+ActorNumber: 341
+PlayerID: 7E6F8169EE4C1DEA
+Platform: Standalone
+AccountCreationDate: 2025-12-25 19:19:23 UTC
+Color: R=0.89 G=0.33 B=0.78
+Cosmetics: None

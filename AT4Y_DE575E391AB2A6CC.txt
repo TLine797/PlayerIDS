@@ -1,0 +1,7 @@
+Name: CJ
+ActorNumber: 533
+PlayerID: DE575E391AB2A6CC
+Platform: Standalone
+AccountCreationDate: 2025-08-02 15:50:06 UTC
+Color: R=1.00 G=0.00 B=0.00
+Cosmetics: None

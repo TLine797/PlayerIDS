@@ -1,0 +1,7 @@
+Name: DEDE
+ActorNumber: 228
+PlayerID: 4AD1982949FD56C6
+Platform: Standalone
+AccountCreationDate: 2025-02-09 21:23:00 UTC
+Color: R=0.67 G=0.22 B=0.22
+Cosmetics: None

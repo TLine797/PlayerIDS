@@ -1,0 +1,7 @@
+Name: T
+ActorNumber: 119
+PlayerID: F5CC2E2DE58884F2
+Platform: Unknown
+AccountCreationDate: 2025-03-11 02:17:51 UTC
+Color: R=1.00 G=0.44 B=0.78
+Cosmetics: None

@@ -1,0 +1,7 @@
+Name: KOOPZ
+ActorNumber: 80
+PlayerID: A46DB6FF9EF62FB0
+Platform: Standalone
+AccountCreationDate: 2025-01-30 16:59:48 UTC
+Color: R=0.11 G=0.22 B=0.78
+Cosmetics: None

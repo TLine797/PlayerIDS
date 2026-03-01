@@ -1,0 +1,7 @@
+Name: BAITTV
+ActorNumber: 53
+PlayerID: 2BF9D5508A78AC81
+Platform: Standalone
+AccountCreationDate: 2025-02-08 02:54:57 UTC
+Color: R=0.11 G=0.67 B=1.00
+Cosmetics: None

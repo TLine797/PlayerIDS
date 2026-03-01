@@ -1,0 +1,7 @@
+Name: BLUEGUYVR
+ActorNumber: 540
+PlayerID: 6417FE71B2A7D16C
+Platform: Standalone
+AccountCreationDate: 2025-12-26 00:47:08 UTC
+Color: R=0.22 G=0.44 B=1.00
+Cosmetics: None

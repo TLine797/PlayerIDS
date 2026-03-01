@@ -1,0 +1,7 @@
+Name: RIZZZYMAN
+ActorNumber: 274
+PlayerID: DC924CFB6BCAC40D
+Platform: Standalone
+AccountCreationDate: 2026-01-30 04:37:03 UTC
+Color: R=1.00 G=0.00 B=0.00
+Cosmetics: None

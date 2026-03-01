@@ -1,0 +1,7 @@
+Name: GHOSTVR
+ActorNumber: 3075
+PlayerID: A3E0D451BEF1512D
+Platform: Standalone
+AccountCreationDate: 2024-06-03 17:04:31 UTC
+Color: R=0.33 G=0.00 B=0.44
+Cosmetics: None

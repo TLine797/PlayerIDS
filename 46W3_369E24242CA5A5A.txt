@@ -1,0 +1,7 @@
+Name: PELMENIVR
+ActorNumber: 3067
+PlayerID: 369E24242CA5A5A
+Platform: Standalone
+AccountCreationDate: 2024-07-07 15:24:09 UTC
+Color: R=1.00 G=1.00 B=1.00
+Cosmetics: None

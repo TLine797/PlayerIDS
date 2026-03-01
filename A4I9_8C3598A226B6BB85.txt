@@ -1,0 +1,7 @@
+Name: PBBV
+ActorNumber: 820
+PlayerID: 8C3598A226B6BB85
+Platform: Standalone
+AccountCreationDate: 2026-02-07 15:10:51 UTC
+Color: R=0.67 G=0.67 B=0.67
+Cosmetics: None

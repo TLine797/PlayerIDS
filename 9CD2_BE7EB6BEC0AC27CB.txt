@@ -1,0 +1,7 @@
+Name: COOLHANK
+ActorNumber: 650
+PlayerID: BE7EB6BEC0AC27CB
+Platform: Standalone
+AccountCreationDate: 2024-08-13 23:40:35 UTC
+Color: R=0.00 G=0.11 B=1.00
+Cosmetics: None

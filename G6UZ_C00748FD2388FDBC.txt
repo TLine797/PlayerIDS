@@ -1,0 +1,7 @@
+Name: DAMONTEVR
+ActorNumber: 666
+PlayerID: C00748FD2388FDBC
+Platform: Standalone
+AccountCreationDate: 2024-12-14 11:21:18 UTC
+Color: R=0.44 G=0.00 B=0.78
+Cosmetics: None

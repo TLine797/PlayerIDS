@@ -1,0 +1,7 @@
+Name: MRSHRIMP
+ActorNumber: 32
+PlayerID: 22EFC1E0ECB72F2A
+Platform: Standalone
+AccountCreationDate: 2025-12-25 14:31:50 UTC
+Color: R=1.00 G=0.50 B=0.00
+Cosmetics: None

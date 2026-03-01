@@ -1,0 +1,7 @@
+Name: STEADY
+ActorNumber: 3037
+PlayerID: 942602C417AE5774
+Platform: Standalone
+AccountCreationDate: 2025-12-30 03:15:10 UTC
+Color: R=0.44 G=0.00 B=0.78
+Cosmetics: None

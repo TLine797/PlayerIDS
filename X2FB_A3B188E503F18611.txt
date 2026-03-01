@@ -1,0 +1,7 @@
+Name: HAVOC
+ActorNumber: 102
+PlayerID: A3B188E503F18611
+Platform: Standalone
+AccountCreationDate: 2024-12-25 12:00:40 UTC
+Color: R=0.78 G=0.78 B=0.78
+Cosmetics: None

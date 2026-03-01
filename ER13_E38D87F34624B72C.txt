@@ -1,0 +1,7 @@
+Name: ORPHANEATER
+ActorNumber: 220
+PlayerID: E38D87F34624B72C
+Platform: Standalone
+AccountCreationDate: 2024-02-29 00:16:40 UTC
+Color: R=0.44 G=0.89 B=0.67
+Cosmetics: None

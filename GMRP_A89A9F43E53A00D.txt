@@ -1,0 +1,7 @@
+Name: RNGMOTIN
+ActorNumber: 373
+PlayerID: A89A9F43E53A00D
+Platform: Standalone
+AccountCreationDate: 2026-02-19 02:02:57 UTC
+Color: R=1.00 G=0.00 B=1.00
+Cosmetics: None

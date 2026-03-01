@@ -1,0 +1,7 @@
+Name: KERM
+ActorNumber: 52
+PlayerID: 7B7D54960D7046AA
+Platform: Standalone
+AccountCreationDate: 2023-06-30 16:48:39 UTC
+Color: R=1.00 G=0.00 B=0.22
+Cosmetics: None

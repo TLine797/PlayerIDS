@@ -1,0 +1,7 @@
+Name: LUCKY
+ActorNumber: 355
+PlayerID: A205A96A83AB1BE5
+Platform: Unknown
+AccountCreationDate: 2022-12-25 17:53:51 UTC
+Color: R=0.00 G=0.67 B=1.00
+Cosmetics: None

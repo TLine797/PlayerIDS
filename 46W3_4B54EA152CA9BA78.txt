@@ -1,0 +1,7 @@
+Name: YESSIR
+ActorNumber: 3032
+PlayerID: 4B54EA152CA9BA78
+Platform: Standalone
+AccountCreationDate: 2023-09-12 17:54:02 UTC
+Color: R=0.89 G=0.44 B=0.00
+Cosmetics: None

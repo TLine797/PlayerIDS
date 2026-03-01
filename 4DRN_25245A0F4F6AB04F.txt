@@ -1,0 +1,7 @@
+Name: TSGZ3R0
+ActorNumber: 50
+PlayerID: 25245A0F4F6AB04F
+Platform: Unknown
+AccountCreationDate: 2022-10-23 12:27:10 UTC
+Color: R=0.00 G=0.67 B=0.78
+Cosmetics: None

@@ -1,0 +1,7 @@
+Name: OSAMABIN
+ActorNumber: 293
+PlayerID: B18C651692492FCF
+Platform: PC
+AccountCreationDate: 2026-01-25 00:25:12 UTC
+Color: R=0.11 G=0.00 B=0.22
+Cosmetics: None

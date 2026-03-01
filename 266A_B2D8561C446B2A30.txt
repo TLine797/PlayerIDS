@@ -1,0 +1,7 @@
+Name: LOLL
+ActorNumber: 42
+PlayerID: B2D8561C446B2A30
+Platform: Standalone
+AccountCreationDate: 2025-01-07 19:10:24 UTC
+Color: R=0.00 G=0.00 B=0.00
+Cosmetics: None

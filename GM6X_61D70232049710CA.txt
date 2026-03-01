@@ -1,0 +1,7 @@
+Name: YOIBOICHEEZ
+ActorNumber: 479
+PlayerID: 61D70232049710CA
+Platform: Standalone
+AccountCreationDate: 2023-03-10 00:03:47 UTC
+Color: R=1.00 G=0.00 B=0.00
+Cosmetics: None

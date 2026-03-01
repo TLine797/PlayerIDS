@@ -1,0 +1,7 @@
+Name: TIMETRAVEL
+ActorNumber: 364
+PlayerID: 131BFD09B11C95D5
+Platform: Standalone
+AccountCreationDate: 2024-07-30 00:15:45 UTC
+Color: R=1.00 G=0.22 B=0.00
+Cosmetics: None

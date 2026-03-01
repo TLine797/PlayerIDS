@@ -1,0 +1,7 @@
+Name: ROSE
+ActorNumber: 113
+PlayerID: 2AA0CA950074F7BC
+Platform: Standalone
+AccountCreationDate: 2025-07-10 14:41:40 UTC
+Color: R=1.00 G=0.00 B=0.00
+Cosmetics: None

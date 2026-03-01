@@ -1,0 +1,7 @@
+Name: CARLOVER
+ActorNumber: 456
+PlayerID: B22BB2608D32EAB1
+Platform: Standalone
+AccountCreationDate: 2024-04-12 21:49:21 UTC
+Color: R=0.00 G=0.00 B=0.00
+Cosmetics: None

@@ -1,0 +1,7 @@
+Name: TYUWINK
+ActorNumber: 114
+PlayerID: C2C5024548596087
+Platform: Standalone
+AccountCreationDate: 2025-12-25 16:28:48 UTC
+Color: R=0.33 G=0.00 B=0.00
+Cosmetics: None

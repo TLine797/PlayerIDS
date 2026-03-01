@@ -1,0 +1,7 @@
+Name: MOHAWK
+ActorNumber: 264
+PlayerID: 1290CC21E0E68783
+Platform: Unknown
+AccountCreationDate: 2024-12-25 14:31:16 UTC
+Color: R=0.00 G=0.44 B=0.67
+Cosmetics: None

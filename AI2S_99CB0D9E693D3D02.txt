@@ -1,0 +1,7 @@
+Name: ELLIOTJR
+ActorNumber: 217
+PlayerID: 99CB0D9E693D3D02
+Platform: Standalone
+AccountCreationDate: 2024-01-06 00:21:11 UTC
+Color: R=1.00 G=1.00 B=1.00
+Cosmetics: None

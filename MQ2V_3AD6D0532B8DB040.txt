@@ -1,0 +1,7 @@
+Name: CV1FEMBOY
+ActorNumber: 122
+PlayerID: 3AD6D0532B8DB040
+Platform: Standalone
+AccountCreationDate: 2025-04-21 01:34:24 UTC
+Color: R=0.67 G=0.44 B=0.56
+Cosmetics: None

@@ -1,0 +1,7 @@
+Name: AJ
+ActorNumber: 625
+PlayerID: 71D2FA0A05C4E439
+Platform: Standalone
+AccountCreationDate: 2024-08-04 16:50:38 UTC
+Color: R=1.00 G=0.00 B=0.00
+Cosmetics: None

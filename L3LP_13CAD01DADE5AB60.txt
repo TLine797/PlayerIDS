@@ -1,0 +1,7 @@
+Name: JIMJIM
+ActorNumber: 275
+PlayerID: 13CAD01DADE5AB60
+Platform: Standalone
+AccountCreationDate: 2025-07-14 00:39:29 UTC
+Color: R=0.22 G=0.78 B=1.00
+Cosmetics: None

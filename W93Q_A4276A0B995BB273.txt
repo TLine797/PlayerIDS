@@ -1,0 +1,7 @@
+Name: FLUFFYBOI
+ActorNumber: 158
+PlayerID: A4276A0B995BB273
+Platform: PC
+AccountCreationDate: 2023-04-10 23:29:52 UTC
+Color: R=0.44 G=0.00 B=1.00
+Cosmetics: None

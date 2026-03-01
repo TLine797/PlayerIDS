@@ -1,0 +1,7 @@
+Name: CAB
+ActorNumber: 255
+PlayerID: CFA2CA2B398E6350
+Platform: Standalone
+AccountCreationDate: 2026-01-20 01:21:53 UTC
+Color: R=0.00 G=0.00 B=0.00
+Cosmetics: None

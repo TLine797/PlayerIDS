@@ -1,0 +1,7 @@
+Name: GIILLE
+ActorNumber: 506
+PlayerID: 7992648D0FFBA03F
+Platform: Standalone
+AccountCreationDate: 2025-12-25 02:48:57 UTC
+Color: R=0.67 G=0.22 B=1.00
+Cosmetics: None

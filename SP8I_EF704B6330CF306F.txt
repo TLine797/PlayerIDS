@@ -1,0 +1,7 @@
+Name: JOHNTAG
+ActorNumber: 207
+PlayerID: EF704B6330CF306F
+Platform: Standalone
+AccountCreationDate: 2023-12-25 19:35:19 UTC
+Color: R=0.67 G=1.00 B=0.00
+Cosmetics: None

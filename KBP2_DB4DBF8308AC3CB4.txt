@@ -1,0 +1,7 @@
+Name: CBBBGT
+ActorNumber: 165
+PlayerID: DB4DBF8308AC3CB4
+Platform: Standalone
+AccountCreationDate: 2026-02-10 00:37:13 UTC
+Color: R=1.00 G=0.67 B=0.78
+Cosmetics: None

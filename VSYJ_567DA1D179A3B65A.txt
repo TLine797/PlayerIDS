@@ -1,0 +1,7 @@
+Name: CASTERSPED
+ActorNumber: 464
+PlayerID: 567DA1D179A3B65A
+Platform: Standalone
+AccountCreationDate: 2025-08-23 21:24:23 UTC
+Color: R=0.00 G=0.67 B=0.56
+Cosmetics: None

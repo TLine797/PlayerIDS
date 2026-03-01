@@ -1,0 +1,7 @@
+Name: NERRD
+ActorNumber: 142
+PlayerID: 15C73C2F210A48D9
+Platform: Unknown
+AccountCreationDate: 2021-07-24 06:38:32 UTC
+Color: R=0.11 G=0.11 B=0.33
+Cosmetics: None

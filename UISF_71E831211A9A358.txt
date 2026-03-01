@@ -1,0 +1,7 @@
+Name: TURTLEVR
+ActorNumber: 27
+PlayerID: 71E831211A9A358
+Platform: Standalone
+AccountCreationDate: 2024-12-25 19:53:52 UTC
+Color: R=0.78 G=0.89 B=1.00
+Cosmetics: None

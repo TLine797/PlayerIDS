@@ -1,0 +1,7 @@
+Name: PAUL
+ActorNumber: 371
+PlayerID: 901385905D63E5E9
+Platform: Standalone
+AccountCreationDate: 2023-11-09 00:13:50 UTC
+Color: R=0.00 G=0.89 B=1.00
+Cosmetics: None

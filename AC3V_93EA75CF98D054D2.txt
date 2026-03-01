@@ -1,0 +1,7 @@
+Name: DRAXO
+ActorNumber: 262
+PlayerID: 93EA75CF98D054D2
+Platform: Unknown
+AccountCreationDate: 2023-01-17 23:46:05 UTC
+Color: R=0.56 G=0.22 B=1.00
+Cosmetics: None

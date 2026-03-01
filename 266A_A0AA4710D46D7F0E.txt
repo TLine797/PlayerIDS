@@ -1,0 +1,7 @@
+Name: COBO
+ActorNumber: 88
+PlayerID: A0AA4710D46D7F0E
+Platform: Standalone
+AccountCreationDate: 2024-04-09 20:52:03 UTC
+Color: R=1.00 G=0.00 B=0.89
+Cosmetics: None

@@ -1,0 +1,7 @@
+Name: XNXZPLITS
+ActorNumber: 671
+PlayerID: D676B64B7A97F6A7
+Platform: Standalone
+AccountCreationDate: 2024-12-25 11:28:07 UTC
+Color: R=0.89 G=0.00 B=0.22
+Cosmetics: None

@@ -1,0 +1,7 @@
+Name: QUEST
+ActorNumber: 263
+PlayerID: AD9C0E7CF917BD23
+Platform: Standalone
+AccountCreationDate: 2023-12-25 17:28:26 UTC
+Color: R=1.00 G=1.00 B=0.56
+Cosmetics: None

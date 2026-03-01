@@ -1,0 +1,7 @@
+Name: K
+ActorNumber: 107
+PlayerID: 38286D93F3EE770B
+Platform: Unknown
+AccountCreationDate: 2022-06-11 02:21:53 UTC
+Color: R=0.89 G=0.11 B=0.22
+Cosmetics: None

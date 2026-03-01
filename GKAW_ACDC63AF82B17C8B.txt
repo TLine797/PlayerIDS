@@ -1,0 +1,7 @@
+Name: HAPPYGUY
+ActorNumber: 12
+PlayerID: ACDC63AF82B17C8B
+Platform: Standalone
+AccountCreationDate: 2026-01-27 17:10:27 UTC
+Color: R=1.00 G=0.44 B=0.00
+Cosmetics: None

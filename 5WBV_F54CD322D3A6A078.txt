@@ -1,0 +1,7 @@
+Name: LIGHTSEE
+ActorNumber: 657
+PlayerID: F54CD322D3A6A078
+Platform: Unknown
+AccountCreationDate: 2022-06-13 23:55:32 UTC
+Color: R=0.00 G=0.00 B=1.00
+Cosmetics: None

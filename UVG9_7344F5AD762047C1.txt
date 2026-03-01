@@ -1,0 +1,7 @@
+Name: SHADOW
+ActorNumber: 888
+PlayerID: 7344F5AD762047C1
+Platform: Standalone
+AccountCreationDate: 2024-12-12 00:07:08 UTC
+Color: R=0.00 G=0.00 B=0.00
+Cosmetics: None

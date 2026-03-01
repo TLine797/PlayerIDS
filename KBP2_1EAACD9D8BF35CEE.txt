@@ -1,0 +1,7 @@
+Name: PLEBGT
+ActorNumber: 139
+PlayerID: 1EAACD9D8BF35CEE
+Platform: Standalone
+AccountCreationDate: 2025-04-24 12:36:13 UTC
+Color: R=0.33 G=0.67 B=1.00
+Cosmetics: None

@@ -1,0 +1,7 @@
+Name: FNMOUSE
+ActorNumber: 44
+PlayerID: 7E7D9B9A6D5DD7C0
+Platform: Standalone
+AccountCreationDate: 2024-06-27 19:07:51 UTC
+Color: R=1.00 G=0.11 B=0.22
+Cosmetics: None

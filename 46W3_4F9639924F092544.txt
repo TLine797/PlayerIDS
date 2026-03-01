@@ -1,0 +1,7 @@
+Name: HEXONTT
+ActorNumber: 3028
+PlayerID: 4F9639924F092544
+Platform: PC
+AccountCreationDate: 2025-12-01 16:11:31 UTC
+Color: R=0.44 G=0.00 B=0.78
+Cosmetics: None

@@ -1,0 +1,7 @@
+Name: TOFE
+ActorNumber: 99
+PlayerID: B57D338CB74600E0
+Platform: Standalone
+AccountCreationDate: 2025-03-29 20:57:21 UTC
+Color: R=0.44 G=0.00 B=0.78
+Cosmetics: None

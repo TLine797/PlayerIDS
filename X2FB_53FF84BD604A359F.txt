@@ -1,0 +1,7 @@
+Name: WASHED
+ActorNumber: 120
+PlayerID: 53FF84BD604A359F
+Platform: Standalone
+AccountCreationDate: 2025-04-04 19:12:34 UTC
+Color: R=0.22 G=0.89 B=0.56
+Cosmetics: None

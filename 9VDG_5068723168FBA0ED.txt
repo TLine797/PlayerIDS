@@ -1,0 +1,7 @@
+Name: POPO
+ActorNumber: 1322
+PlayerID: 5068723168FBA0ED
+Platform: Unknown
+AccountCreationDate: 2022-12-30 18:51:58 UTC
+Color: R=0.00 G=0.00 B=0.00
+Cosmetics: None

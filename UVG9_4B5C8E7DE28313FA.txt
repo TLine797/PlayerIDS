@@ -1,0 +1,7 @@
+Name: DIH
+ActorNumber: 887
+PlayerID: 4B5C8E7DE28313FA
+Platform: Standalone
+AccountCreationDate: 2025-01-03 03:55:25 UTC
+Color: R=1.00 G=0.33 B=0.78
+Cosmetics: None

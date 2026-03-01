@@ -1,0 +1,7 @@
+Name: MINIGAMESKID
+ActorNumber: 3002
+PlayerID: 558A13AF82DBDF44
+Platform: Standalone
+AccountCreationDate: 2026-01-29 02:07:10 UTC
+Color: R=0.00 G=0.89 B=1.00
+Cosmetics: None

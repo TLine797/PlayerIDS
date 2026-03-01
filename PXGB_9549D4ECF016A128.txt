@@ -1,0 +1,7 @@
+Name: TTTMASON
+ActorNumber: 9
+PlayerID: 9549D4ECF016A128
+Platform: Standalone
+AccountCreationDate: 2024-01-13 17:31:10 UTC
+Color: R=0.44 G=0.00 B=0.78
+Cosmetics: None

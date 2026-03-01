@@ -1,0 +1,7 @@
+Name: GOOFYMONKEY
+ActorNumber: 543
+PlayerID: A9FDE432C861D040
+Platform: Standalone
+AccountCreationDate: 2024-07-14 19:34:25 UTC
+Color: R=0.00 G=0.00 B=0.00
+Cosmetics: None

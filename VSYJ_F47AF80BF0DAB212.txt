@@ -1,0 +1,7 @@
+Name: WURP
+ActorNumber: 459
+PlayerID: F47AF80BF0DAB212
+Platform: Standalone
+AccountCreationDate: 2024-01-08 22:05:56 UTC
+Color: R=0.44 G=0.22 B=0.67
+Cosmetics: None

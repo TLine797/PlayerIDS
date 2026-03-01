@@ -1,0 +1,7 @@
+Name: MADELF
+ActorNumber: 679
+PlayerID: 86F738026492F7A7
+Platform: Standalone
+AccountCreationDate: 2025-07-03 17:02:14 UTC
+Color: R=0.89 G=0.00 B=1.00
+Cosmetics: None

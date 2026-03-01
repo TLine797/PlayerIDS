@@ -1,0 +1,7 @@
+Name: RUSS
+ActorNumber: 685
+PlayerID: 8989E8C80BEE6B33
+Platform: Unknown
+AccountCreationDate: 2021-07-29 19:51:13 UTC
+Color: R=0.11 G=0.22 B=0.33
+Cosmetics: None

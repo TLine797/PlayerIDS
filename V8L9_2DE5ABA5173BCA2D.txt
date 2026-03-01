@@ -1,0 +1,7 @@
+Name: MINIGAME
+ActorNumber: 132
+PlayerID: 2DE5ABA5173BCA2D
+Platform: Standalone
+AccountCreationDate: 2025-12-25 12:56:46 UTC
+Color: R=0.00 G=0.89 B=1.00
+Cosmetics: None

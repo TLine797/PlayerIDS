@@ -1,0 +1,7 @@
+Name: EXOTIC
+ActorNumber: 802
+PlayerID: 3A6DC0BFEC9DBBD9
+Platform: Standalone
+AccountCreationDate: 2025-03-29 17:11:44 UTC
+Color: R=0.11 G=0.22 B=0.56
+Cosmetics: None

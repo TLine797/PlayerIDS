@@ -1,0 +1,7 @@
+Name: ASHER
+ActorNumber: 45
+PlayerID: 520AA6130BD860C1
+Platform: Standalone
+AccountCreationDate: 2025-07-05 20:21:17 UTC
+Color: R=0.00 G=0.22 B=1.00
+Cosmetics: None

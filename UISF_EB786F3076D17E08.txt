@@ -1,0 +1,7 @@
+Name: RATCENAT
+ActorNumber: 34
+PlayerID: EB786F3076D17E08
+Platform: Standalone
+AccountCreationDate: 2022-10-11 23:06:02 UTC
+Color: R=0.33 G=0.00 B=0.00
+Cosmetics: None

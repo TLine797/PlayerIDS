@@ -1,0 +1,7 @@
+Name: BRNMOSA
+ActorNumber: 525
+PlayerID: 89C127BC7D264FA4
+Platform: Standalone
+AccountCreationDate: 2025-03-26 00:25:04 UTC
+Color: R=0.44 G=0.11 B=1.00
+Cosmetics: None

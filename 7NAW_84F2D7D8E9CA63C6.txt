@@ -1,0 +1,7 @@
+Name: IMAPROUDJEW
+ActorNumber: 100
+PlayerID: 84F2D7D8E9CA63C6
+Platform: Standalone
+AccountCreationDate: 2024-12-24 22:15:59 UTC
+Color: R=0.89 G=0.11 B=0.00
+Cosmetics: None

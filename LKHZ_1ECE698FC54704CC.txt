@@ -1,0 +1,7 @@
+Name: SCARSHBV
+ActorNumber: 595
+PlayerID: 1ECE698FC54704CC
+Platform: Unknown
+AccountCreationDate: 2022-01-09 17:59:05 UTC
+Color: R=0.44 G=0.67 B=0.67
+Cosmetics: None

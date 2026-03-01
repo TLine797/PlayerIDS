@@ -1,0 +1,7 @@
+Name: LUX
+ActorNumber: 219
+PlayerID: AEA8C8196877D6B1
+Platform: Standalone
+AccountCreationDate: 2024-02-11 00:40:54 UTC
+Color: R=1.00 G=0.67 B=0.89
+Cosmetics: None

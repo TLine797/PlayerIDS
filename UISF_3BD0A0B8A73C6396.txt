@@ -1,0 +1,7 @@
+Name: VERDEX
+ActorNumber: 3
+PlayerID: 3BD0A0B8A73C6396
+Platform: Standalone
+AccountCreationDate: 2025-12-31 23:24:46 UTC
+Color: R=0.22 G=1.00 B=0.67
+Cosmetics: None

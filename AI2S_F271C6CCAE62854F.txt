@@ -1,0 +1,7 @@
+Name: JHANEZ
+ActorNumber: 224
+PlayerID: F271C6CCAE62854F
+Platform: PC
+AccountCreationDate: 2026-01-13 01:01:09 UTC
+Color: R=1.00 G=0.32 B=0.91
+Cosmetics: None

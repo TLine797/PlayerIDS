@@ -1,0 +1,7 @@
+Name: TACCOBRUH
+ActorNumber: 65
+PlayerID: E244D9D1D6C8A578
+Platform: Standalone
+AccountCreationDate: 2026-01-02 01:34:57 UTC
+Color: R=1.00 G=0.44 B=0.00
+Cosmetics: None

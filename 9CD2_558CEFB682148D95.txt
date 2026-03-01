@@ -1,0 +1,7 @@
+Name: IDK
+ActorNumber: 575
+PlayerID: 558CEFB682148D95
+Platform: Unknown
+AccountCreationDate: 2021-08-26 01:10:51 UTC
+Color: R=0.22 G=0.00 B=0.67
+Cosmetics: None

@@ -1,0 +1,7 @@
+Name: KSI
+ActorNumber: 188
+PlayerID: 6C340F1D856C2E1A
+Platform: Standalone
+AccountCreationDate: 2025-08-08 21:17:35 UTC
+Color: R=0.56 G=0.44 B=0.33
+Cosmetics: None

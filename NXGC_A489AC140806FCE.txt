@@ -1,0 +1,7 @@
+Name: TGMSALT
+ActorNumber: 227
+PlayerID: A489AC140806FCE
+Platform: Standalone
+AccountCreationDate: 2024-03-30 16:56:24 UTC
+Color: R=1.00 G=0.89 B=1.00
+Cosmetics: None

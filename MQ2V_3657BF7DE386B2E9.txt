@@ -1,0 +1,7 @@
+Name: BADMONKE
+ActorNumber: 176
+PlayerID: 3657BF7DE386B2E9
+Platform: Standalone
+AccountCreationDate: 2025-11-28 23:37:36 UTC
+Color: R=0.44 G=0.67 B=0.56
+Cosmetics: None

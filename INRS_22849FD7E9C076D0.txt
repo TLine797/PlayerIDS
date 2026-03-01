@@ -1,0 +1,7 @@
+Name: NOXVINEVAULT
+ActorNumber: 198
+PlayerID: 22849FD7E9C076D0
+Platform: Standalone
+AccountCreationDate: 2024-12-01 23:43:50 UTC
+Color: R=0.22 G=0.11 B=0.33
+Cosmetics: None

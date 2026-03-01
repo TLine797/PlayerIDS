@@ -1,0 +1,7 @@
+Name: LILJIMBOB
+ActorNumber: 31
+PlayerID: EEDAAA442E08EDB9
+Platform: PC
+AccountCreationDate: 2025-12-26 23:10:52 UTC
+Color: R=0.00 G=0.00 B=0.78
+Cosmetics: None

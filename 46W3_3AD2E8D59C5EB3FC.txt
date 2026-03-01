@@ -1,0 +1,7 @@
+Name: SVESTER
+ActorNumber: 3018
+PlayerID: 3AD2E8D59C5EB3FC
+Platform: Standalone
+AccountCreationDate: 2025-02-25 23:18:05 UTC
+Color: R=0.00 G=0.56 B=1.00
+Cosmetics: None

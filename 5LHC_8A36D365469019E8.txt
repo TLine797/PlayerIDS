@@ -1,0 +1,7 @@
+Name: LEITHPIERRE
+ActorNumber: 781
+PlayerID: 8A36D365469019E8
+Platform: Standalone
+AccountCreationDate: 2023-12-25 13:13:36 UTC
+Color: R=1.00 G=0.89 B=0.33
+Cosmetics: None

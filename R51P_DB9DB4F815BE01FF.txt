@@ -1,0 +1,7 @@
+Name: WOBBLES
+ActorNumber: 41
+PlayerID: DB9DB4F815BE01FF
+Platform: Standalone
+AccountCreationDate: 2023-12-10 19:53:40 UTC
+Color: R=1.00 G=0.00 B=0.00
+Cosmetics: None

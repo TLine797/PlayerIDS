@@ -1,0 +1,7 @@
+Name: PIXELFPS
+ActorNumber: 822
+PlayerID: 82D85E580439F5D0
+Platform: Unknown
+AccountCreationDate: 2022-05-12 11:45:47 UTC
+Color: R=0.00 G=0.00 B=1.00
+Cosmetics: None

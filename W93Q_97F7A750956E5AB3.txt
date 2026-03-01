@@ -1,0 +1,7 @@
+Name: KEMZOH43
+ActorNumber: 150
+PlayerID: 97F7A750956E5AB3
+Platform: Standalone
+AccountCreationDate: 2025-11-12 04:21:37 UTC
+Color: R=0.89 G=0.22 B=0.22
+Cosmetics: None

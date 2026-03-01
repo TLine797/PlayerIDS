@@ -1,0 +1,7 @@
+Name: JESUSWALKS
+ActorNumber: 650
+PlayerID: C06A93FFD2D8DE23
+Platform: Standalone
+AccountCreationDate: 2024-09-17 22:16:55 UTC
+Color: R=0.00 G=0.22 B=0.22
+Cosmetics: None

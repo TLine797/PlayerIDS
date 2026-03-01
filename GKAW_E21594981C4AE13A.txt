@@ -1,0 +1,7 @@
+Name: VLSAMZ
+ActorNumber: 30
+PlayerID: E21594981C4AE13A
+Platform: Standalone
+AccountCreationDate: 2024-01-10 17:09:01 UTC
+Color: R=1.00 G=1.00 B=1.00
+Cosmetics: None

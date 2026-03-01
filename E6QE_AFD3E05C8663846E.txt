@@ -1,0 +1,7 @@
+Name: FOIDSLAYER
+ActorNumber: 758
+PlayerID: AFD3E05C8663846E
+Platform: Standalone
+AccountCreationDate: 2024-08-15 12:08:00 UTC
+Color: R=1.00 G=0.44 B=0.78
+Cosmetics: None

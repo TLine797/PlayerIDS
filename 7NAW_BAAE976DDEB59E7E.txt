@@ -1,0 +1,7 @@
+Name: DUMDUM
+ActorNumber: 120
+PlayerID: BAAE976DDEB59E7E
+Platform: Standalone
+AccountCreationDate: 2025-07-29 11:53:32 UTC
+Color: R=0.00 G=1.00 B=0.00
+Cosmetics: None

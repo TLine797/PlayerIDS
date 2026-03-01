@@ -1,0 +1,7 @@
+Name: ASISTANT
+ActorNumber: 20
+PlayerID: C312D636DB72DA70
+Platform: Standalone
+AccountCreationDate: 2024-09-28 20:34:49 UTC
+Color: R=1.00 G=1.00 B=0.89
+Cosmetics: None

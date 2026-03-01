@@ -1,0 +1,7 @@
+Name: HI
+ActorNumber: 673
+PlayerID: 1F248C8DC5FE8924
+Platform: Standalone
+AccountCreationDate: 2024-09-15 19:28:21 UTC
+Color: R=1.00 G=0.11 B=0.44
+Cosmetics: None

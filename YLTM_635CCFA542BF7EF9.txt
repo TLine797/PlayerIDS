@@ -1,0 +1,7 @@
+Name: MICKEYMOUSE
+ActorNumber: 179
+PlayerID: 635CCFA542BF7EF9
+Platform: Standalone
+AccountCreationDate: 2025-01-28 01:48:01 UTC
+Color: R=0.00 G=0.00 B=0.00
+Cosmetics: None

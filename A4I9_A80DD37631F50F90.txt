@@ -1,0 +1,7 @@
+Name: EEGFGFBENS
+ActorNumber: 799
+PlayerID: A80DD37631F50F90
+Platform: Standalone
+AccountCreationDate: 2025-11-24 21:26:34 UTC
+Color: R=0.33 G=0.22 B=0.67
+Cosmetics: None

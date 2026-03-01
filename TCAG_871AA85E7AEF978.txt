@@ -1,0 +1,7 @@
+Name: SOUL
+ActorNumber: 79
+PlayerID: 871AA85E7AEF978
+Platform: Standalone
+AccountCreationDate: 2023-08-27 22:03:23 UTC
+Color: R=0.44 G=0.00 B=1.00
+Cosmetics: None

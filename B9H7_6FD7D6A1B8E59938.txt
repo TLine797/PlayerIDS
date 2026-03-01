@@ -1,0 +1,7 @@
+Name: TIKTOKVORTEX
+ActorNumber: 148
+PlayerID: 6FD7D6A1B8E59938
+Platform: Standalone
+AccountCreationDate: 2025-10-05 19:34:51 UTC
+Color: R=0.56 G=0.44 B=0.67
+Cosmetics: None

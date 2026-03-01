@@ -1,0 +1,7 @@
+Name: IAMAARONOK
+ActorNumber: 242
+PlayerID: 494F0B40F54C1ED8
+Platform: Standalone
+AccountCreationDate: 2021-05-13 22:07:47 UTC
+Color: R=0.11 G=1.00 B=0.44
+Cosmetics: None

@@ -1,0 +1,7 @@
+Name: DARAGON
+ActorNumber: 2968
+PlayerID: 917690CD4311ED53
+Platform: Standalone
+AccountCreationDate: 2024-12-25 09:12:30 UTC
+Color: R=0.00 G=0.56 B=1.00
+Cosmetics: None

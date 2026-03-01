@@ -1,0 +1,7 @@
+Name: JAYBEE
+ActorNumber: 212
+PlayerID: D8E7F47045699A88
+Platform: Standalone
+AccountCreationDate: 2024-12-17 23:04:51 UTC
+Color: R=0.56 G=1.00 B=0.67
+Cosmetics: None

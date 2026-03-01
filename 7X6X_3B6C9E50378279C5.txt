@@ -1,0 +1,7 @@
+Name: PJEVC
+ActorNumber: 94
+PlayerID: 3B6C9E50378279C5
+Platform: PC
+AccountCreationDate: 2025-03-06 02:46:09 UTC
+Color: R=0.78 G=0.11 B=0.33
+Cosmetics: None

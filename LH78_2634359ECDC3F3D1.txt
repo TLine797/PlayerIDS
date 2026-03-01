@@ -1,0 +1,7 @@
+Name: gorilla7580
+ActorNumber: 395
+PlayerID: 2634359ECDC3F3D1
+Platform: Standalone
+AccountCreationDate: 2025-08-02 14:53:54 UTC
+Color: R=0.89 G=0.00 B=1.00
+Cosmetics: None

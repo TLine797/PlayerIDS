@@ -1,0 +1,7 @@
+Name: REZY
+ActorNumber: 5
+PlayerID: DFB24ED254705E8F
+Platform: Unknown
+AccountCreationDate: 2022-03-30 04:16:59 UTC
+Color: R=0.89 G=0.44 B=0.00
+Cosmetics: None

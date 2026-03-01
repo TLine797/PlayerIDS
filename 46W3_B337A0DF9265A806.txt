@@ -1,0 +1,7 @@
+Name: BTA2BBB
+ActorNumber: 3100
+PlayerID: B337A0DF9265A806
+Platform: Standalone
+AccountCreationDate: 2023-02-24 02:33:10 UTC
+Color: R=0.00 G=0.00 B=1.00
+Cosmetics: None

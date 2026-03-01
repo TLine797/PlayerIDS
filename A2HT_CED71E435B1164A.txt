@@ -1,0 +1,7 @@
+Name: TPM
+ActorNumber: 282
+PlayerID: CED71E435B1164A
+Platform: PC
+AccountCreationDate: 2025-05-26 22:18:24 UTC
+Color: R=0.44 G=0.67 B=1.00
+Cosmetics: None

@@ -1,0 +1,7 @@
+Name: TTROLL
+ActorNumber: 3081
+PlayerID: B72A96F88E224030
+Platform: Standalone
+AccountCreationDate: 2025-12-12 15:53:07 UTC
+Color: R=1.00 G=0.78 B=0.00
+Cosmetics: None

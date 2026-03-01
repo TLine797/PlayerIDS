@@ -1,0 +1,7 @@
+Name: HIM
+ActorNumber: 402
+PlayerID: 2EE44B7286CCCCD3
+Platform: Standalone
+AccountCreationDate: 2024-08-10 12:45:12 UTC
+Color: R=0.56 G=0.00 B=1.00
+Cosmetics: None

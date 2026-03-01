@@ -1,0 +1,7 @@
+Name: XSFROSTY
+ActorNumber: 67
+PlayerID: E723E8C1B3CDF241
+Platform: Standalone
+AccountCreationDate: 2025-12-23 03:30:01 UTC
+Color: R=0.56 G=0.33 B=0.78
+Cosmetics: None

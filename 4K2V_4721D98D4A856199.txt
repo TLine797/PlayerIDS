@@ -1,0 +1,7 @@
+Name: KP
+ActorNumber: 198
+PlayerID: 4721D98D4A856199
+Platform: Standalone
+AccountCreationDate: 2024-03-04 09:49:42 UTC
+Color: R=1.00 G=1.00 B=0.22
+Cosmetics: None

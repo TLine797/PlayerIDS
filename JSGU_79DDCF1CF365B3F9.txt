@@ -1,0 +1,7 @@
+Name: METEOR
+ActorNumber: 31
+PlayerID: 79DDCF1CF365B3F9
+Platform: Unknown
+AccountCreationDate: 2022-05-23 10:31:01 UTC
+Color: R=0.67 G=0.56 B=0.56
+Cosmetics: None

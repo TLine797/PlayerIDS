@@ -1,0 +1,7 @@
+Name: TTT
+ActorNumber: 130
+PlayerID: FE5A03A452A27B04
+Platform: Standalone
+AccountCreationDate: 2022-10-24 01:07:37 UTC
+Color: R=0.44 G=0.11 B=1.00
+Cosmetics: None

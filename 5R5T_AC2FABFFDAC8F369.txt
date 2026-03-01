@@ -1,0 +1,7 @@
+Name: GEORGE
+ActorNumber: 76
+PlayerID: AC2FABFFDAC8F369
+Platform: Standalone
+AccountCreationDate: 2023-03-11 20:12:45 UTC
+Color: R=0.89 G=0.22 B=0.00
+Cosmetics: None

@@ -1,0 +1,7 @@
+Name: DOLL
+ActorNumber: 423
+PlayerID: 5E732DBFF281019E
+Platform: Standalone
+AccountCreationDate: 2024-07-18 18:42:09 UTC
+Color: R=0.00 G=1.00 B=0.00
+Cosmetics: None

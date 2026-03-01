@@ -1,0 +1,7 @@
+Name: THRAGG
+ActorNumber: 321
+PlayerID: 96E699D9AE61FC0
+Platform: Unknown
+AccountCreationDate: 2022-02-21 03:22:50 UTC
+Color: R=0.67 G=0.00 B=0.00
+Cosmetics: None

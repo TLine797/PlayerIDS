@@ -1,0 +1,7 @@
+Name: ICEVRZYT
+ActorNumber: 33
+PlayerID: 22982F6C20DF8DF4
+Platform: Standalone
+AccountCreationDate: 2025-12-29 23:19:09 UTC
+Color: R=0.00 G=0.78 B=1.00
+Cosmetics: None

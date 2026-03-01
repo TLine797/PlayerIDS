@@ -1,0 +1,7 @@
+Name: gorilla8595
+ActorNumber: 34
+PlayerID: 27D86F50C90A1398
+Platform: Standalone
+AccountCreationDate: 2022-12-25 18:41:05 UTC
+Color: R=0.11 G=0.22 B=0.33
+Cosmetics: None

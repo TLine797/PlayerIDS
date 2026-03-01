@@ -1,0 +1,7 @@
+Name: F5DH
+ActorNumber: 5
+PlayerID: 27BA2D259D12A768
+Platform: Standalone
+AccountCreationDate: 2024-06-20 18:27:27 UTC
+Color: R=0.33 G=0.00 B=0.67
+Cosmetics: None

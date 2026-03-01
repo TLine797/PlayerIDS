@@ -1,0 +1,7 @@
+Name: BEANSX3
+ActorNumber: 184
+PlayerID: 520E931CCD8E7620
+Platform: Standalone
+AccountCreationDate: 2024-12-29 21:36:44 UTC
+Color: R=1.00 G=0.33 B=0.33
+Cosmetics: None

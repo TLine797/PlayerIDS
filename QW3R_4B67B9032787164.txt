@@ -1,0 +1,7 @@
+Name: BALLSVR
+ActorNumber: 73
+PlayerID: 4B67B9032787164
+Platform: Standalone
+AccountCreationDate: 2024-07-28 12:09:16 UTC
+Color: R=0.67 G=0.00 B=0.89
+Cosmetics: None

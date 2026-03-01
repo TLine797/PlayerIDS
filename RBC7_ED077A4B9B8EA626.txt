@@ -1,0 +1,7 @@
+Name: GRIBBER
+ActorNumber: 606
+PlayerID: ED077A4B9B8EA626
+Platform: Unknown
+AccountCreationDate: 2022-02-08 16:44:10 UTC
+Color: R=0.56 G=1.00 B=0.67
+Cosmetics: None

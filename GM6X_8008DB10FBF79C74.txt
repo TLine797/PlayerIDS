@@ -1,0 +1,7 @@
+Name: BLAADE
+ActorNumber: 467
+PlayerID: 8008DB10FBF79C74
+Platform: Unknown
+AccountCreationDate: 2022-11-05 21:13:49 UTC
+Color: R=0.89 G=0.89 B=0.89
+Cosmetics: None

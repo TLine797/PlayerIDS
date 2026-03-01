@@ -1,0 +1,7 @@
+Name: KA
+ActorNumber: 42
+PlayerID: 2646111E84D202D3
+Platform: Standalone
+AccountCreationDate: 2025-12-27 22:56:20 UTC
+Color: R=1.00 G=0.11 B=1.00
+Cosmetics: None

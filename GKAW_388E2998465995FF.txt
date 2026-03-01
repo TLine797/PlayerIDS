@@ -1,0 +1,7 @@
+Name: HAPPY
+ActorNumber: 5
+PlayerID: 388E2998465995FF
+Platform: Standalone
+AccountCreationDate: 2025-09-17 17:32:52 UTC
+Color: R=0.00 G=0.67 B=0.78
+Cosmetics: None

@@ -1,0 +1,7 @@
+Name: H0TH3AD
+ActorNumber: 345
+PlayerID: 232BCC92BBA07C54
+Platform: Unknown
+AccountCreationDate: 2022-01-04 23:23:26 UTC
+Color: R=0.00 G=0.89 B=0.00
+Cosmetics: None

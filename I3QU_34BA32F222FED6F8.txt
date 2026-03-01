@@ -1,0 +1,7 @@
+Name: JOSIAH
+ActorNumber: 26
+PlayerID: 34BA32F222FED6F8
+Platform: Standalone
+AccountCreationDate: 2023-12-10 22:22:15 UTC
+Color: R=0.44 G=0.00 B=1.00
+Cosmetics: None

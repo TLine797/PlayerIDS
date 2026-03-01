@@ -1,0 +1,7 @@
+Name: AXOVR
+ActorNumber: 2979
+PlayerID: 7A68D32FCA615E38
+Platform: Standalone
+AccountCreationDate: 2025-12-25 07:30:32 UTC
+Color: R=0.00 G=0.89 B=0.00
+Cosmetics: None

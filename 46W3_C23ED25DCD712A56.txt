@@ -1,0 +1,7 @@
+Name: CGTCRUZZ
+ActorNumber: 3348
+PlayerID: C23ED25DCD712A56
+Platform: Standalone
+AccountCreationDate: 2026-01-18 13:09:36 UTC
+Color: R=0.00 G=0.89 B=1.00
+Cosmetics: None

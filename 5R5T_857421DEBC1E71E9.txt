@@ -1,0 +1,7 @@
+Name: TTVSPEED
+ActorNumber: 75
+PlayerID: 857421DEBC1E71E9
+Platform: Standalone
+AccountCreationDate: 2026-02-23 22:25:43 UTC
+Color: R=0.44 G=0.00 B=0.78
+Cosmetics: None

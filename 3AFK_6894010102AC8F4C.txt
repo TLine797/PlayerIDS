@@ -1,0 +1,7 @@
+Name: TNTCOSMIC
+ActorNumber: 446
+PlayerID: 6894010102AC8F4C
+Platform: Standalone
+AccountCreationDate: 2025-06-19 00:42:02 UTC
+Color: R=0.44 G=0.00 B=0.78
+Cosmetics: None

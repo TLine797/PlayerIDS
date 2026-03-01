@@ -1,0 +1,7 @@
+Name: BLOODGEORGE
+ActorNumber: 41
+PlayerID: 99BC989BD437768B
+Platform: Standalone
+AccountCreationDate: 2025-12-25 08:22:45 UTC
+Color: R=0.22 G=0.00 B=0.00
+Cosmetics: None

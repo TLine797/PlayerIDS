@@ -1,0 +1,7 @@
+Name: BAZY89JESTER
+ActorNumber: 1110
+PlayerID: 65E2C27A11ECC87D
+Platform: Standalone
+AccountCreationDate: 2023-12-25 15:49:58 UTC
+Color: R=0.00 G=0.11 B=1.00
+Cosmetics: None

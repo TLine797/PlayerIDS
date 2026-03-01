@@ -1,0 +1,7 @@
+Name: KATALYST
+ActorNumber: 590
+PlayerID: E567510BD27CC5FD
+Platform: Unknown
+AccountCreationDate: 2022-05-10 01:47:52 UTC
+Color: R=0.33 G=0.00 B=0.00
+Cosmetics: None

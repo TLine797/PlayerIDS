@@ -1,0 +1,7 @@
+Name: GLOCKY
+ActorNumber: 3022
+PlayerID: E35C9ECEC0F0F38E
+Platform: Standalone
+AccountCreationDate: 2026-02-22 11:59:41 UTC
+Color: R=0.22 G=0.00 B=0.00
+Cosmetics: None

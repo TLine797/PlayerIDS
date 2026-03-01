@@ -1,0 +1,7 @@
+Name: LONGJUMPA
+ActorNumber: 227
+PlayerID: 6431E148F5DB61A6
+Platform: Standalone
+AccountCreationDate: 2022-01-13 00:23:20 UTC
+Color: R=0.89 G=0.44 B=0.22
+Cosmetics: None

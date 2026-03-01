@@ -1,0 +1,7 @@
+Name: THEKING
+ActorNumber: 40
+PlayerID: E8C76CBF0BA3173D
+Platform: Standalone
+AccountCreationDate: 2023-01-02 14:09:37 UTC
+Color: R=0.56 G=0.00 B=0.89
+Cosmetics: None

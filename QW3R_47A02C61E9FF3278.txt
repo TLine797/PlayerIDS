@@ -1,0 +1,7 @@
+Name: JOHNGT
+ActorNumber: 86
+PlayerID: 47A02C61E9FF3278
+Platform: Standalone
+AccountCreationDate: 2023-07-20 13:00:45 UTC
+Color: R=0.00 G=0.22 B=0.22
+Cosmetics: None

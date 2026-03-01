@@ -1,0 +1,7 @@
+Name: PRIMALZAZA
+ActorNumber: 274
+PlayerID: 658C6CC469589872
+Platform: Standalone
+AccountCreationDate: 2024-08-03 23:51:52 UTC
+Color: R=0.56 G=0.00 B=0.89
+Cosmetics: None

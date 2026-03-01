@@ -1,0 +1,7 @@
+Name: ZBEVV
+ActorNumber: 112
+PlayerID: 1D160E583E37A5C
+Platform: PC
+AccountCreationDate: 2026-02-22 00:44:56 UTC
+Color: R=1.00 G=0.22 B=0.33
+Cosmetics: None

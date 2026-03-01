@@ -1,0 +1,7 @@
+Name: GORILLAKID
+ActorNumber: 427
+PlayerID: 23EDBD8DEF88B1C7
+Platform: Standalone
+AccountCreationDate: 2025-12-26 01:01:57 UTC
+Color: R=0.00 G=0.89 B=1.00
+Cosmetics: None

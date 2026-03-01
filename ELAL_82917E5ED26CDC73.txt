@@ -1,0 +1,7 @@
+Name: 558
+ActorNumber: 442
+PlayerID: 82917E5ED26CDC73
+Platform: Standalone
+AccountCreationDate: 2024-12-25 16:32:18 UTC
+Color: R=0.56 G=0.44 B=1.00
+Cosmetics: None

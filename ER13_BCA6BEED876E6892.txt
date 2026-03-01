@@ -1,0 +1,7 @@
+Name: TSTBOBBY
+ActorNumber: 153
+PlayerID: BCA6BEED876E6892
+Platform: Standalone
+AccountCreationDate: 2025-12-25 16:14:46 UTC
+Color: R=0.44 G=0.00 B=0.56
+Cosmetics: None

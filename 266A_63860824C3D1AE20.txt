@@ -1,0 +1,7 @@
+Name: TOGGLE
+ActorNumber: 27
+PlayerID: 63860824C3D1AE20
+Platform: Unknown
+AccountCreationDate: 2022-03-01 22:27:13 UTC
+Color: R=1.00 G=1.00 B=1.00
+Cosmetics: None

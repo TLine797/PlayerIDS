@@ -1,0 +1,7 @@
+Name: PINKYYYYY
+ActorNumber: 300
+PlayerID: 7F19EEE12441C256
+Platform: Standalone
+AccountCreationDate: 2025-12-25 14:26:19 UTC
+Color: R=1.00 G=0.33 B=0.89
+Cosmetics: None

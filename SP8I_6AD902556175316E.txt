@@ -1,0 +1,7 @@
+Name: BBI
+ActorNumber: 304
+PlayerID: 6AD902556175316E
+Platform: Standalone
+AccountCreationDate: 2025-12-25 19:33:59 UTC
+Color: R=0.33 G=0.00 B=0.67
+Cosmetics: None

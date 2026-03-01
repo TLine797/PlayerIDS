@@ -1,0 +1,7 @@
+Name: WXSHEDSKYZZ
+ActorNumber: 122
+PlayerID: CBA70DA7D3862BF
+Platform: Standalone
+AccountCreationDate: 2024-07-31 15:29:55 UTC
+Color: R=0.22 G=0.44 B=1.00
+Cosmetics: None

@@ -1,0 +1,7 @@
+Name: L00PX
+ActorNumber: 68
+PlayerID: 2AC3944A0C11A135
+Platform: Standalone
+AccountCreationDate: 2026-02-11 16:11:18 UTC
+Color: R=0.00 G=0.00 B=0.00
+Cosmetics: None

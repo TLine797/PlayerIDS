@@ -1,0 +1,7 @@
+Name: TURDY
+ActorNumber: 88
+PlayerID: CA6153A1DD899C4
+Platform: PC
+AccountCreationDate: 2023-12-17 14:02:44 UTC
+Color: R=0.44 G=0.44 B=0.67
+Cosmetics: None

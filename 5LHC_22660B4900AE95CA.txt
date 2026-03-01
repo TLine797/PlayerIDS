@@ -1,0 +1,7 @@
+Name: SUBTOMRBLUVR
+ActorNumber: 784
+PlayerID: 22660B4900AE95CA
+Platform: Standalone
+AccountCreationDate: 2026-02-23 16:17:20 UTC
+Color: R=0.00 G=0.33 B=1.00
+Cosmetics: None

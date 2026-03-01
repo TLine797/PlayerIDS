@@ -1,0 +1,7 @@
+Name: ICECOLDGT
+ActorNumber: 275
+PlayerID: C72B1317D4E70A41
+Platform: Unknown
+AccountCreationDate: 2023-01-12 23:34:10 UTC
+Color: R=0.44 G=0.22 B=0.89
+Cosmetics: None

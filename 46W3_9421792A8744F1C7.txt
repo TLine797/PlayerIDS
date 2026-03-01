@@ -1,0 +1,7 @@
+Name: TERMINATOR
+ActorNumber: 3029
+PlayerID: 9421792A8744F1C7
+Platform: Standalone
+AccountCreationDate: 2025-12-06 07:21:36 UTC
+Color: R=0.11 G=0.44 B=0.22
+Cosmetics: None

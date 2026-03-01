@@ -1,0 +1,7 @@
+Name: YOURBOISAL
+ActorNumber: 60
+PlayerID: 9B81A5B17853BF82
+Platform: Standalone
+AccountCreationDate: 2026-02-13 05:50:28 UTC
+Color: R=1.00 G=1.00 B=1.00
+Cosmetics: None

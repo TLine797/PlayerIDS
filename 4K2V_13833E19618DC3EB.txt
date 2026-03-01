@@ -1,0 +1,7 @@
+Name: GOLDENPLAYZ
+ActorNumber: 223
+PlayerID: 13833E19618DC3EB
+Platform: Standalone
+AccountCreationDate: 2025-12-20 15:35:59 UTC
+Color: R=1.00 G=1.00 B=0.00
+Cosmetics: None

@@ -1,0 +1,7 @@
+Name: OHOHOHORILEY
+ActorNumber: 75
+PlayerID: ECEED4E4077D7814
+Platform: Standalone
+AccountCreationDate: 2024-01-15 01:26:27 UTC
+Color: R=1.00 G=0.44 B=0.67
+Cosmetics: None

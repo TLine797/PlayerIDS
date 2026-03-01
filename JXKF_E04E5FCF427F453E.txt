@@ -1,0 +1,7 @@
+Name: JAYDES
+ActorNumber: 744
+PlayerID: E04E5FCF427F453E
+Platform: Standalone
+AccountCreationDate: 2024-04-06 23:01:23 UTC
+Color: R=0.00 G=0.11 B=0.67
+Cosmetics: None

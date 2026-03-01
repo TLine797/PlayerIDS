@@ -1,0 +1,7 @@
+Name: ZIXXY
+ActorNumber: 7
+PlayerID: 2E642213BBD8B1B1
+Platform: Standalone
+AccountCreationDate: 2026-01-06 21:48:09 UTC
+Color: R=1.00 G=0.67 B=1.00
+Cosmetics: None

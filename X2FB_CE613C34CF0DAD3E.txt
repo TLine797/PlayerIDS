@@ -1,0 +1,7 @@
+Name: MAX
+ActorNumber: 103
+PlayerID: CE613C34CF0DAD3E
+Platform: Unknown
+AccountCreationDate: 2023-01-10 21:52:08 UTC
+Color: R=0.33 G=0.89 B=0.11
+Cosmetics: None

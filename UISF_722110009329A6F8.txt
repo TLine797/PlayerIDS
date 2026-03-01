@@ -1,0 +1,7 @@
+Name: YAY
+ActorNumber: 2
+PlayerID: 722110009329A6F8
+Platform: Standalone
+AccountCreationDate: 2024-01-08 22:16:23 UTC
+Color: R=0.78 G=0.44 B=0.56
+Cosmetics: None

@@ -1,0 +1,7 @@
+Name: SIBORGSILAS7
+ActorNumber: 69
+PlayerID: BD64137D84280D93
+Platform: Standalone
+AccountCreationDate: 2024-05-03 21:44:24 UTC
+Color: R=0.56 G=0.00 B=0.00
+Cosmetics: None

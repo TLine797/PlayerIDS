@@ -1,0 +1,7 @@
+Name: HAPPY
+ActorNumber: 786
+PlayerID: 3193055B30323AE4
+Platform: Standalone
+AccountCreationDate: 2025-12-13 18:34:12 UTC
+Color: R=0.00 G=0.67 B=0.78
+Cosmetics: None

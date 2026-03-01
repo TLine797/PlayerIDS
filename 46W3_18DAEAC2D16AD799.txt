@@ -1,0 +1,7 @@
+Name: EL1
+ActorNumber: 3050
+PlayerID: 18DAEAC2D16AD799
+Platform: Unknown
+AccountCreationDate: 2025-02-05 07:51:28 UTC
+Color: R=0.00 G=1.00 B=1.00
+Cosmetics: None

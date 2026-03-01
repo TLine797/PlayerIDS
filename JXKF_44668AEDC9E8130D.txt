@@ -1,0 +1,7 @@
+Name: WTFVEXEN
+ActorNumber: 737
+PlayerID: 44668AEDC9E8130D
+Platform: Standalone
+AccountCreationDate: 2023-12-25 18:15:20 UTC
+Color: R=0.00 G=0.56 B=1.00
+Cosmetics: None

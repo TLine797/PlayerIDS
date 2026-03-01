@@ -1,0 +1,7 @@
+Name: REX
+ActorNumber: 377
+PlayerID: 644A6066E4485BCE
+Platform: Unknown
+AccountCreationDate: 2022-10-05 18:30:19 UTC
+Color: R=0.67 G=1.00 B=1.00
+Cosmetics: None

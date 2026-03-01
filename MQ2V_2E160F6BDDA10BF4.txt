@@ -1,0 +1,7 @@
+Name: LOLLIPOP
+ActorNumber: 135
+PlayerID: 2E160F6BDDA10BF4
+Platform: Standalone
+AccountCreationDate: 2026-02-14 22:52:24 UTC
+Color: R=0.22 G=0.44 B=1.00
+Cosmetics: None

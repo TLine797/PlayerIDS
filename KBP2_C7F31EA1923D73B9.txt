@@ -1,0 +1,7 @@
+Name: SPRYOURMOM
+ActorNumber: 145
+PlayerID: C7F31EA1923D73B9
+Platform: Standalone
+AccountCreationDate: 2025-12-25 18:32:39 UTC
+Color: R=0.00 G=0.67 B=0.78
+Cosmetics: None

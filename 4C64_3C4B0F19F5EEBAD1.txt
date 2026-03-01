@@ -1,0 +1,7 @@
+Name: THEPUGVR
+ActorNumber: 25
+PlayerID: 3C4B0F19F5EEBAD1
+Platform: Unknown
+AccountCreationDate: 2022-04-21 21:22:47 UTC
+Color: R=0.33 G=0.33 B=0.33
+Cosmetics: None

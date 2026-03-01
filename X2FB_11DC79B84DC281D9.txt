@@ -1,0 +1,7 @@
+Name: ERIC
+ActorNumber: 94
+PlayerID: 11DC79B84DC281D9
+Platform: Standalone
+AccountCreationDate: 2025-12-19 00:08:26 UTC
+Color: R=0.00 G=0.00 B=0.00
+Cosmetics: None

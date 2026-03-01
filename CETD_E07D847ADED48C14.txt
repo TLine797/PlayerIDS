@@ -1,0 +1,7 @@
+Name: CAVE
+ActorNumber: 79
+PlayerID: E07D847ADED48C14
+Platform: Standalone
+AccountCreationDate: 2025-08-22 12:28:40 UTC
+Color: R=0.00 G=0.22 B=0.33
+Cosmetics: None

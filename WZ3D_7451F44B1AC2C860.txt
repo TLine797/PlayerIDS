@@ -1,0 +1,7 @@
+Name: gorilla5965
+ActorNumber: 378
+PlayerID: 7451F44B1AC2C860
+Platform: Standalone
+AccountCreationDate: 2025-12-25 17:22:29 UTC
+Color: R=0.22 G=0.67 B=1.00
+Cosmetics: None

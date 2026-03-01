@@ -1,0 +1,7 @@
+Name: AVERAGE
+ActorNumber: 54
+PlayerID: 1A4269A6C7EE71A2
+Platform: Unknown
+AccountCreationDate: 2021-07-10 21:53:28 UTC
+Color: R=0.22 G=1.00 B=0.78
+Cosmetics: None

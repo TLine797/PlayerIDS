@@ -1,0 +1,7 @@
+Name: K
+ActorNumber: 3041
+PlayerID: 1C21CB9E8D723E2E
+Platform: Standalone
+AccountCreationDate: 2025-01-26 18:19:34 UTC
+Color: R=0.00 G=0.67 B=0.56
+Cosmetics: None

@@ -1,0 +1,7 @@
+Name: APEDITZ
+ActorNumber: 476
+PlayerID: EA5B235CAFD9681D
+Platform: Standalone
+AccountCreationDate: 2025-10-25 14:02:10 UTC
+Color: R=0.44 G=0.44 B=1.00
+Cosmetics: None

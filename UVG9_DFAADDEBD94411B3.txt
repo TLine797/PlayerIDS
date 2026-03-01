@@ -1,0 +1,7 @@
+Name: LOL
+ActorNumber: 76
+PlayerID: DFAADDEBD94411B3
+Platform: Standalone
+AccountCreationDate: 2024-02-28 11:30:38 UTC
+Color: R=0.00 G=0.00 B=0.22
+Cosmetics: None

@@ -1,0 +1,7 @@
+Name: BOATISFIRENG
+ActorNumber: 762
+PlayerID: 599496854F0B2207
+Platform: Standalone
+AccountCreationDate: 2026-01-24 00:51:51 UTC
+Color: R=0.44 G=0.89 B=0.67
+Cosmetics: None

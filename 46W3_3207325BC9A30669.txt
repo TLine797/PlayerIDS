@@ -1,0 +1,7 @@
+Name: SPANVR
+ActorNumber: 3092
+PlayerID: 3207325BC9A30669
+Platform: Standalone
+AccountCreationDate: 2024-12-25 11:39:25 UTC
+Color: R=1.00 G=0.00 B=0.00
+Cosmetics: None

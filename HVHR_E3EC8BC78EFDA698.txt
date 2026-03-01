@@ -1,0 +1,7 @@
+Name: SYNC
+ActorNumber: 688
+PlayerID: E3EC8BC78EFDA698
+Platform: Standalone
+AccountCreationDate: 2025-03-15 19:01:02 UTC
+Color: R=0.00 G=1.00 B=0.30
+Cosmetics: None

@@ -1,0 +1,7 @@
+Name: STEVE
+ActorNumber: 243
+PlayerID: 483D4BBF817AB961
+Platform: Standalone
+AccountCreationDate: 2023-04-12 22:41:15 UTC
+Color: R=0.11 G=0.00 B=1.00
+Cosmetics: None

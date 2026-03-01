@@ -1,0 +1,7 @@
+Name: COOLYT250
+ActorNumber: 313
+PlayerID: E1BF44A98DE1E9D0
+Platform: Standalone
+AccountCreationDate: 2022-12-28 14:07:32 UTC
+Color: R=1.00 G=0.00 B=0.22
+Cosmetics: None

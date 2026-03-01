@@ -1,0 +1,7 @@
+Name: KILLCOMP
+ActorNumber: 266
+PlayerID: 87B72CACA9CCA161
+Platform: Unknown
+AccountCreationDate: 2022-12-25 16:32:09 UTC
+Color: R=1.00 G=0.00 B=0.00
+Cosmetics: None

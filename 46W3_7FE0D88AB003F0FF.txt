@@ -1,0 +1,7 @@
+Name: MOON
+ActorNumber: 2998
+PlayerID: 7FE0D88AB003F0FF
+Platform: Standalone
+AccountCreationDate: 2025-01-25 17:43:14 UTC
+Color: R=0.11 G=0.22 B=0.67
+Cosmetics: None

@@ -1,0 +1,7 @@
+Name: GORILLA9800
+ActorNumber: 668
+PlayerID: 604AD2B1001EF69
+Platform: Standalone
+AccountCreationDate: 2024-12-03 13:25:20 UTC
+Color: R=0.89 G=0.78 B=0.33
+Cosmetics: None

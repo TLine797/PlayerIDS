@@ -1,0 +1,7 @@
+Name: GORILLA3645
+ActorNumber: 3082
+PlayerID: AE068604AC20F630
+Platform: Standalone
+AccountCreationDate: 2025-04-13 15:37:09 UTC
+Color: R=0.22 G=0.00 B=0.89
+Cosmetics: None

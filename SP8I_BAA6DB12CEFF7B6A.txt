@@ -1,0 +1,7 @@
+Name: S
+ActorNumber: 213
+PlayerID: BAA6DB12CEFF7B6A
+Platform: Standalone
+AccountCreationDate: 2026-02-07 23:09:14 UTC
+Color: R=1.00 G=0.00 B=0.33
+Cosmetics: None

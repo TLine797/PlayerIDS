@@ -1,0 +1,7 @@
+Name: KARA
+ActorNumber: 38
+PlayerID: F980DD7738A4D532
+Platform: Standalone
+AccountCreationDate: 2026-01-31 00:09:35 UTC
+Color: R=0.33 G=0.00 B=0.67
+Cosmetics: None

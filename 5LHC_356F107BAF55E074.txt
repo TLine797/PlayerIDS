@@ -1,0 +1,7 @@
+Name: BRUCEWAYNE
+ActorNumber: 453
+PlayerID: 356F107BAF55E074
+Platform: Unknown
+AccountCreationDate: 2022-02-19 01:07:31 UTC
+Color: R=0.56 G=0.67 B=0.89
+Cosmetics: None

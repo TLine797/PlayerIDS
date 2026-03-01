@@ -1,0 +1,7 @@
+Name: PRMLGOBLIN
+ActorNumber: 119
+PlayerID: D1948E74C5EDED78
+Platform: Standalone
+AccountCreationDate: 2023-04-07 20:56:59 UTC
+Color: R=1.00 G=0.00 B=0.00
+Cosmetics: None

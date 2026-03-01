@@ -1,0 +1,7 @@
+Name: AURELIUS
+ActorNumber: 369
+PlayerID: E7E004E7D7B89886
+Platform: Unknown
+AccountCreationDate: 2021-09-10 17:25:41 UTC
+Color: R=0.00 G=0.00 B=1.00
+Cosmetics: None

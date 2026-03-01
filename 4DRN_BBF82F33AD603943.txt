@@ -1,0 +1,7 @@
+Name: SYNC
+ActorNumber: 47
+PlayerID: BBF82F33AD603943
+Platform: Unknown
+AccountCreationDate: 2022-06-08 15:16:36 UTC
+Color: R=0.00 G=0.44 B=1.00
+Cosmetics: None

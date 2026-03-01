@@ -1,0 +1,7 @@
+Name: GLTAURA
+ActorNumber: 40
+PlayerID: D97798538081D6B
+Platform: Standalone
+AccountCreationDate: 2025-05-13 23:00:24 UTC
+Color: R=0.44 G=0.44 B=1.00
+Cosmetics: None

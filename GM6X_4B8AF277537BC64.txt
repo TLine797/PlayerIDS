@@ -1,0 +1,7 @@
+Name: PHANTIVXR
+ActorNumber: 477
+PlayerID: 4B8AF277537BC64
+Platform: Standalone
+AccountCreationDate: 2026-01-05 11:48:44 UTC
+Color: R=0.00 G=0.00 B=0.00
+Cosmetics: None

@@ -1,0 +1,7 @@
+Name: ERA
+ActorNumber: 33
+PlayerID: 2EE0DE9E4A96E9BF
+Platform: Standalone
+AccountCreationDate: 2026-02-15 05:46:52 UTC
+Color: R=0.33 G=0.33 B=0.67
+Cosmetics: None

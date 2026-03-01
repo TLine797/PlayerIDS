@@ -1,0 +1,7 @@
+Name: ENDLESS
+ActorNumber: 119
+PlayerID: 1B2A6D8DE22D7ECD
+Platform: Standalone
+AccountCreationDate: 2022-12-25 18:24:52 UTC
+Color: R=0.00 G=1.00 B=0.67
+Cosmetics: None

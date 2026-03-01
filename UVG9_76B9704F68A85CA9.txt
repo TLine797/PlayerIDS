@@ -1,0 +1,7 @@
+Name: INCARNATE
+ActorNumber: 70
+PlayerID: 76B9704F68A85CA9
+Platform: Standalone
+AccountCreationDate: 2025-07-14 01:18:02 UTC
+Color: R=0.67 G=0.56 B=1.00
+Cosmetics: None

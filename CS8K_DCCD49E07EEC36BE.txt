@@ -1,0 +1,7 @@
+Name: CATTYVR
+ActorNumber: 874
+PlayerID: DCCD49E07EEC36BE
+Platform: Standalone
+AccountCreationDate: 2023-03-23 18:44:14 UTC
+Color: R=1.00 G=0.56 B=0.00
+Cosmetics: None

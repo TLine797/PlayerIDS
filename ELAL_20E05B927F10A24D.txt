@@ -1,0 +1,7 @@
+Name: BANANIII
+ActorNumber: 436
+PlayerID: 20E05B927F10A24D
+Platform: Standalone
+AccountCreationDate: 2026-02-11 23:45:58 UTC
+Color: R=1.00 G=1.00 B=0.78
+Cosmetics: None

@@ -1,0 +1,7 @@
+Name: 1
+ActorNumber: 55
+PlayerID: 2BE4A12EB90ACC9
+Platform: Unknown
+AccountCreationDate: 2021-12-24 20:56:44 UTC
+Color: R=0.33 G=0.22 B=1.00
+Cosmetics: None

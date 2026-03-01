@@ -1,0 +1,7 @@
+Name: BARNACLE
+ActorNumber: 248
+PlayerID: 98EED89C22553A7D
+Platform: Unknown
+AccountCreationDate: 2024-03-28 21:53:29 UTC
+Color: R=0.00 G=0.00 B=1.00
+Cosmetics: None

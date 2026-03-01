@@ -1,0 +1,7 @@
+Name: gorilla9140
+ActorNumber: 95
+PlayerID: 7E43F5EA87F175E7
+Platform: Standalone
+AccountCreationDate: 2025-09-13 17:09:17 UTC
+Color: R=0.44 G=0.00 B=0.78
+Cosmetics: None

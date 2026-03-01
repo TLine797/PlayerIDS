@@ -1,0 +1,7 @@
+Name: XLR8
+ActorNumber: 23
+PlayerID: A8C321C59E776AA7
+Platform: Standalone
+AccountCreationDate: 2026-01-01 01:26:09 UTC
+Color: R=0.00 G=1.00 B=0.00
+Cosmetics: None

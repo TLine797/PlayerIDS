@@ -1,0 +1,7 @@
+Name: PEBBLESGT
+ActorNumber: 60
+PlayerID: A2AE8A9E9917DFD5
+Platform: Standalone
+AccountCreationDate: 2025-10-26 02:49:19 UTC
+Color: R=0.00 G=0.00 B=0.22
+Cosmetics: None

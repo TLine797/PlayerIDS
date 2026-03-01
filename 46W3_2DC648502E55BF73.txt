@@ -1,0 +1,7 @@
+Name: P00PBOT
+ActorNumber: 3033
+PlayerID: 2DC648502E55BF73
+Platform: Standalone
+AccountCreationDate: 2025-12-25 08:33:35 UTC
+Color: R=0.33 G=0.00 B=0.44
+Cosmetics: None

@@ -1,0 +1,7 @@
+Name: VMXC
+ActorNumber: 475
+PlayerID: 569B782ACD8D2E0E
+Platform: Standalone
+AccountCreationDate: 2023-12-26 11:45:48 UTC
+Color: R=1.00 G=0.56 B=0.67
+Cosmetics: None

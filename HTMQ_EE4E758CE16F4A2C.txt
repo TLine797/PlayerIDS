@@ -1,0 +1,7 @@
+Name: SLEEPYMOKEGT
+ActorNumber: 65
+PlayerID: EE4E758CE16F4A2C
+Platform: Standalone
+AccountCreationDate: 2025-12-31 04:21:33 UTC
+Color: R=0.22 G=0.44 B=0.78
+Cosmetics: None

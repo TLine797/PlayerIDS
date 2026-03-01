@@ -1,0 +1,7 @@
+Name: GILBERT
+ActorNumber: 1883
+PlayerID: 96F19A1C8E8484A9
+Platform: Standalone
+AccountCreationDate: 2026-01-22 20:41:41 UTC
+Color: R=1.00 G=0.22 B=1.00
+Cosmetics: None

@@ -1,0 +1,7 @@
+Name: PPPLITNING
+ActorNumber: 35
+PlayerID: DA4E46557209B5E3
+Platform: Standalone
+AccountCreationDate: 2025-12-25 14:00:37 UTC
+Color: R=1.00 G=1.00 B=0.44
+Cosmetics: None

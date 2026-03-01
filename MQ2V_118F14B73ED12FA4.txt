@@ -1,0 +1,7 @@
+Name: DSGXHSFSSFGG
+ActorNumber: 180
+PlayerID: 118F14B73ED12FA4
+Platform: Standalone
+AccountCreationDate: 2025-12-15 02:27:08 UTC
+Color: R=0.00 G=0.00 B=0.00
+Cosmetics: None

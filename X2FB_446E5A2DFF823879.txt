@@ -1,0 +1,7 @@
+Name: TTG
+ActorNumber: 110
+PlayerID: 446E5A2DFF823879
+Platform: Unknown
+AccountCreationDate: 2026-02-28 12:55:47 UTC
+Color: R=0.44 G=0.00 B=0.78
+Cosmetics: None

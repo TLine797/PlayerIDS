@@ -1,0 +1,7 @@
+Name: ANDERDINGLE
+ActorNumber: 271
+PlayerID: FEFE1095B92DD670
+Platform: Standalone
+AccountCreationDate: 2025-02-17 00:02:06 UTC
+Color: R=0.89 G=0.22 B=0.22
+Cosmetics: None

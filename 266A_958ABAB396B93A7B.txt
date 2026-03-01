@@ -1,0 +1,7 @@
+Name: JYHJBBNMNMNJ
+ActorNumber: 71
+PlayerID: 958ABAB396B93A7B
+Platform: PC
+AccountCreationDate: 2026-01-23 13:14:04 UTC
+Color: R=1.00 G=0.00 B=1.00
+Cosmetics: None

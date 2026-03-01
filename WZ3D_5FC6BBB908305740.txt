@@ -1,0 +1,7 @@
+Name: ILOVEGOD
+ActorNumber: 352
+PlayerID: 5FC6BBB908305740
+Platform: Standalone
+AccountCreationDate: 2025-12-25 17:25:21 UTC
+Color: R=0.11 G=0.22 B=0.33
+Cosmetics: None

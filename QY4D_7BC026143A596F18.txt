@@ -1,0 +1,7 @@
+Name: BEES
+ActorNumber: 392
+PlayerID: 7BC026143A596F18
+Platform: Standalone
+AccountCreationDate: 2025-07-01 22:25:53 UTC
+Color: R=0.50 G=0.50 B=0.50
+Cosmetics: None

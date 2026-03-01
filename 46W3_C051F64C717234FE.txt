@@ -1,0 +1,7 @@
+Name: SCOPE
+ActorNumber: 3047
+PlayerID: C051F64C717234FE
+Platform: Standalone
+AccountCreationDate: 2022-12-31 01:14:57 UTC
+Color: R=0.56 G=0.33 B=0.89
+Cosmetics: None

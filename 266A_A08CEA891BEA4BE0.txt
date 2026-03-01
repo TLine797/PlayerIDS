@@ -1,0 +1,7 @@
+Name: BRAY
+ActorNumber: 85
+PlayerID: A08CEA891BEA4BE0
+Platform: Standalone
+AccountCreationDate: 2024-01-05 02:17:48 UTC
+Color: R=0.00 G=0.00 B=0.00
+Cosmetics: None

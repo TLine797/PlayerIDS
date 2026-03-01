@@ -1,0 +1,7 @@
+Name: GOOD
+ActorNumber: 659
+PlayerID: BE7266BF980AE378
+Platform: Standalone
+AccountCreationDate: 2025-10-10 15:40:41 UTC
+Color: R=1.00 G=1.00 B=1.00
+Cosmetics: None

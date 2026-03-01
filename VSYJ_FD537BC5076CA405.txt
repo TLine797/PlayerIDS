@@ -1,0 +1,7 @@
+Name: SNOW
+ActorNumber: 418
+PlayerID: FD537BC5076CA405
+Platform: Standalone
+AccountCreationDate: 2024-02-19 15:10:03 UTC
+Color: R=1.00 G=1.00 B=1.00
+Cosmetics: None

@@ -1,0 +1,7 @@
+Name: NUGGETBOY21
+ActorNumber: 136
+PlayerID: 4609E5D93AA2B8D1
+Platform: Standalone
+AccountCreationDate: 2024-12-25 13:43:54 UTC
+Color: R=0.00 G=1.00 B=0.56
+Cosmetics: None

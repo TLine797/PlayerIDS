@@ -1,0 +1,7 @@
+Name: TTCREF
+ActorNumber: 521
+PlayerID: F45651BF54CD86B2
+Platform: Standalone
+AccountCreationDate: 2025-12-25 13:37:10 UTC
+Color: R=0.00 G=0.00 B=0.00
+Cosmetics: None

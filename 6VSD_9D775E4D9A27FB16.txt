@@ -1,0 +1,7 @@
+Name: gorilla0980
+ActorNumber: 468
+PlayerID: 9D775E4D9A27FB16
+Platform: Standalone
+AccountCreationDate: 2025-01-10 20:54:07 UTC
+Color: R=0.00 G=0.67 B=1.00
+Cosmetics: None

@@ -1,0 +1,7 @@
+Name: FRPINEAPPLE
+ActorNumber: 247
+PlayerID: AF4B1B2D231A0F3D
+Platform: Standalone
+AccountCreationDate: 2022-12-31 17:27:28 UTC
+Color: R=1.00 G=0.67 B=0.33
+Cosmetics: None

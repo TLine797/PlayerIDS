@@ -1,0 +1,7 @@
+Name: ZYROWORLD
+ActorNumber: 230
+PlayerID: 7D7AF6D5E7C16250
+Platform: Standalone
+AccountCreationDate: 2023-04-29 00:56:13 UTC
+Color: R=0.00 G=0.78 B=0.00
+Cosmetics: None

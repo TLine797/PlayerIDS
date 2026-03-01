@@ -1,0 +1,7 @@
+Name: PK
+ActorNumber: 541
+PlayerID: C8C58F6546B634AF
+Platform: Standalone
+AccountCreationDate: 2023-05-27 23:51:11 UTC
+Color: R=1.00 G=0.89 B=0.56
+Cosmetics: None

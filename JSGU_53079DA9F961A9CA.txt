@@ -1,0 +1,7 @@
+Name: POTATO
+ActorNumber: 181
+PlayerID: 53079DA9F961A9CA
+Platform: Standalone
+AccountCreationDate: 2026-01-02 16:46:39 UTC
+Color: R=0.00 G=1.00 B=0.00
+Cosmetics: None

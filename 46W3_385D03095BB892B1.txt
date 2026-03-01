@@ -1,0 +1,7 @@
+Name: TANGATANGA
+ActorNumber: 2978
+PlayerID: 385D03095BB892B1
+Platform: Standalone
+AccountCreationDate: 2025-12-25 09:24:57 UTC
+Color: R=0.00 G=0.22 B=0.00
+Cosmetics: None

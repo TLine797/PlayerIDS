@@ -1,0 +1,7 @@
+Name: TBCZERO
+ActorNumber: 74
+PlayerID: 869EAF59D4E7D49B
+Platform: Unknown
+AccountCreationDate: 2022-01-25 20:46:48 UTC
+Color: R=1.00 G=0.78 B=1.00
+Cosmetics: None

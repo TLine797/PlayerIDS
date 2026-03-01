@@ -1,0 +1,7 @@
+Name: SLOWH4KPY
+ActorNumber: 134
+PlayerID: 221A932962031EF9
+Platform: Standalone
+AccountCreationDate: 2024-03-18 18:46:29 UTC
+Color: R=0.67 G=0.22 B=0.89
+Cosmetics: None

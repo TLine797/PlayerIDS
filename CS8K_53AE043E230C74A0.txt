@@ -1,0 +1,7 @@
+Name: IVY
+ActorNumber: 864
+PlayerID: 53AE043E230C74A0
+Platform: Standalone
+AccountCreationDate: 2025-12-25 19:04:59 UTC
+Color: R=0.00 G=0.00 B=0.00
+Cosmetics: None

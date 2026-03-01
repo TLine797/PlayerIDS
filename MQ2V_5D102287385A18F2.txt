@@ -1,0 +1,7 @@
+Name: FATTY
+ActorNumber: 170
+PlayerID: 5D102287385A18F2
+Platform: Unknown
+AccountCreationDate: 2022-12-25 15:06:42 UTC
+Color: R=0.56 G=0.67 B=0.67
+Cosmetics: None

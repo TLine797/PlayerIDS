@@ -1,0 +1,7 @@
+Name: STORMY
+ActorNumber: 33
+PlayerID: E3FCEBF860BA14D1
+Platform: Unknown
+AccountCreationDate: 2023-02-01 16:43:21 UTC
+Color: R=0.33 G=0.22 B=0.22
+Cosmetics: None

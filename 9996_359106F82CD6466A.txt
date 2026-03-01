@@ -1,0 +1,7 @@
+Name: JJ
+ActorNumber: 386
+PlayerID: 359106F82CD6466A
+Platform: Standalone
+AccountCreationDate: 2024-03-07 22:24:27 UTC
+Color: R=1.00 G=0.67 B=1.00
+Cosmetics: None

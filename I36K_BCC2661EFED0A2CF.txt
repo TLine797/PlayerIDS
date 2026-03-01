@@ -1,0 +1,7 @@
+Name: TRK9JESTER
+ActorNumber: 110
+PlayerID: BCC2661EFED0A2CF
+Platform: Standalone
+AccountCreationDate: 2024-12-25 18:19:33 UTC
+Color: R=0.00 G=0.22 B=0.89
+Cosmetics: None

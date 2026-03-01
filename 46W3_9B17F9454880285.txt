@@ -1,0 +1,7 @@
+Name: ENVIXITY
+ActorNumber: 3097
+PlayerID: 9B17F9454880285
+Platform: Standalone
+AccountCreationDate: 2026-02-17 00:05:20 UTC
+Color: R=0.33 G=0.33 B=0.33
+Cosmetics: None

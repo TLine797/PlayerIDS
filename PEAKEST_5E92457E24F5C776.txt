@@ -1,0 +1,7 @@
+Name: SKIB
+ActorNumber: 3
+PlayerID: 5E92457E24F5C776
+Platform: Standalone
+AccountCreationDate: 2025-12-25 14:00:11 UTC
+Color: R=0.44 G=0.00 B=0.78
+Cosmetics: None

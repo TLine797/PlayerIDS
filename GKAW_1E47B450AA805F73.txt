@@ -1,0 +1,7 @@
+Name: NASERSI
+ActorNumber: 9
+PlayerID: 1E47B450AA805F73
+Platform: Standalone
+AccountCreationDate: 2023-08-12 17:56:17 UTC
+Color: R=1.00 G=0.44 B=0.33
+Cosmetics: None

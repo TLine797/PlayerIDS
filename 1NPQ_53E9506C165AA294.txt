@@ -1,0 +1,7 @@
+Name: THMCMS
+ActorNumber: 326
+PlayerID: 53E9506C165AA294
+Platform: Unknown
+AccountCreationDate: 2022-04-08 21:39:07 UTC
+Color: R=0.56 G=0.56 B=0.56
+Cosmetics: None

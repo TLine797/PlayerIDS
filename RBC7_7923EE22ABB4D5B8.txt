@@ -1,0 +1,7 @@
+Name: FADE
+ActorNumber: 1089
+PlayerID: 7923EE22ABB4D5B8
+Platform: Standalone
+AccountCreationDate: 2024-12-30 03:16:00 UTC
+Color: R=1.00 G=0.00 B=0.78
+Cosmetics: None

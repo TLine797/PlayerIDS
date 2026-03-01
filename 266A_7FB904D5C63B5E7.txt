@@ -1,0 +1,7 @@
+Name: NOOR
+ActorNumber: 51
+PlayerID: 7FB904D5C63B5E7
+Platform: Standalone
+AccountCreationDate: 2025-01-05 06:23:47 UTC
+Color: R=0.44 G=0.44 B=0.44
+Cosmetics: None

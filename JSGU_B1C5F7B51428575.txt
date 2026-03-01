@@ -1,0 +1,7 @@
+Name: URDAD
+ActorNumber: 183
+PlayerID: B1C5F7B51428575
+Platform: Standalone
+AccountCreationDate: 2025-02-18 00:13:50 UTC
+Color: R=0.44 G=0.44 B=1.00
+Cosmetics: None

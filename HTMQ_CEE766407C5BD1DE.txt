@@ -1,0 +1,7 @@
+Name: GUILTY
+ActorNumber: 49
+PlayerID: CEE766407C5BD1DE
+Platform: Unknown
+AccountCreationDate: 2022-08-10 00:42:07 UTC
+Color: R=0.33 G=0.44 B=0.56
+Cosmetics: None

@@ -1,0 +1,7 @@
+Name: HAAKON
+ActorNumber: 210
+PlayerID: E31A97B989404E64
+Platform: Standalone
+AccountCreationDate: 2025-12-24 20:14:57 UTC
+Color: R=1.00 G=1.00 B=1.00
+Cosmetics: None

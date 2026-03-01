@@ -1,0 +1,7 @@
+Name: FEMYAGA
+ActorNumber: 99
+PlayerID: A928FEDFDCE16614
+Platform: Unknown
+AccountCreationDate: 2022-06-22 00:19:06 UTC
+Color: R=0.22 G=0.44 B=0.44
+Cosmetics: None

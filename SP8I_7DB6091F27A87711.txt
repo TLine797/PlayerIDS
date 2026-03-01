@@ -1,0 +1,7 @@
+Name: NOTYTSLIXXVR
+ActorNumber: 185
+PlayerID: 7DB6091F27A87711
+Platform: Standalone
+AccountCreationDate: 2024-04-04 00:39:38 UTC
+Color: R=0.11 G=0.44 B=0.89
+Cosmetics: None

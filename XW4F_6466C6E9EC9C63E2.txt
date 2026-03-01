@@ -1,0 +1,7 @@
+Name: COCO
+ActorNumber: 636
+PlayerID: 6466C6E9EC9C63E2
+Platform: Standalone
+AccountCreationDate: 2024-10-06 21:42:50 UTC
+Color: R=0.78 G=0.89 B=1.00
+Cosmetics: None

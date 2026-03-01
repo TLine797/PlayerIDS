@@ -1,0 +1,7 @@
+Name: VIOLET
+ActorNumber: 55
+PlayerID: 4C3BC438E5B0FC54
+Platform: Standalone
+AccountCreationDate: 2025-01-02 02:13:08 UTC
+Color: R=0.89 G=0.00 B=0.00
+Cosmetics: None

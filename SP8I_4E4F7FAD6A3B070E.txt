@@ -1,0 +1,7 @@
+Name: FLOUEDGT
+ActorNumber: 284
+PlayerID: 4E4F7FAD6A3B070E
+Platform: PC
+AccountCreationDate: 2025-11-09 15:44:11 UTC
+Color: R=0.44 G=0.00 B=0.78
+Cosmetics: None

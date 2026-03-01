@@ -1,0 +1,7 @@
+Name: SX4
+ActorNumber: 399
+PlayerID: F79948D785008862
+Platform: Standalone
+AccountCreationDate: 2024-06-19 20:50:50 UTC
+Color: R=0.67 G=0.78 B=0.89
+Cosmetics: None

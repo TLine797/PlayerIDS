@@ -1,0 +1,7 @@
+Name: BOMBER
+ActorNumber: 311
+PlayerID: 1AA6559338BF4F98
+Platform: Unknown
+AccountCreationDate: 2022-11-14 22:58:17 UTC
+Color: R=0.00 G=0.44 B=1.00
+Cosmetics: None

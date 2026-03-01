@@ -1,0 +1,7 @@
+Name: 1FLY
+ActorNumber: 190
+PlayerID: 5DAF721C0C73DA17
+Platform: Unknown
+AccountCreationDate: 2024-10-24 21:28:45 UTC
+Color: R=0.22 G=0.78 B=1.00
+Cosmetics: None

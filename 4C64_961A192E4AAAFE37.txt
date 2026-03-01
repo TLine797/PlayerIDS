@@ -1,0 +1,7 @@
+Name: ITZCHEASY
+ActorNumber: 29
+PlayerID: 961A192E4AAAFE37
+Platform: Standalone
+AccountCreationDate: 2024-07-11 15:16:30 UTC
+Color: R=0.33 G=0.11 B=0.33
+Cosmetics: None

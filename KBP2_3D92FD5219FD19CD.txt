@@ -1,0 +1,7 @@
+Name: MJKINGPOP
+ActorNumber: 126
+PlayerID: 3D92FD5219FD19CD
+Platform: Unknown
+AccountCreationDate: 2022-12-30 21:31:19 UTC
+Color: R=0.11 G=0.89 B=0.78
+Cosmetics: None

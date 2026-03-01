@@ -1,0 +1,7 @@
+Name: CLAN
+ActorNumber: 1102
+PlayerID: 854178DF6663E2F6
+Platform: PC
+AccountCreationDate: 2025-03-28 18:21:01 UTC
+Color: R=1.00 G=1.00 B=0.78
+Cosmetics: None

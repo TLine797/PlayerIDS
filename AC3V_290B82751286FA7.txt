@@ -1,0 +1,7 @@
+Name: MRBYEBYE
+ActorNumber: 274
+PlayerID: 290B82751286FA7
+Platform: Unknown
+AccountCreationDate: 2022-12-26 18:25:58 UTC
+Color: R=0.11 G=0.11 B=0.11
+Cosmetics: None

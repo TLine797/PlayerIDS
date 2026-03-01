@@ -1,0 +1,7 @@
+Name: R3D3MON
+ActorNumber: 24
+PlayerID: 7FFB118113A09005
+Platform: Standalone
+AccountCreationDate: 2025-12-27 22:02:01 UTC
+Color: R=0.00 G=0.00 B=0.00
+Cosmetics: None

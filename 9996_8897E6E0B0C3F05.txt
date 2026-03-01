@@ -1,0 +1,7 @@
+Name: PRMFATRAT
+ActorNumber: 381
+PlayerID: 8897E6E0B0C3F05
+Platform: Standalone
+AccountCreationDate: 2023-07-12 21:42:41 UTC
+Color: R=0.33 G=0.00 B=0.00
+Cosmetics: None

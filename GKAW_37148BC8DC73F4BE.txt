@@ -1,0 +1,7 @@
+Name: SEALKING
+ActorNumber: 1
+PlayerID: 37148BC8DC73F4BE
+Platform: Standalone
+AccountCreationDate: 2025-03-13 08:01:27 UTC
+Color: R=0.44 G=0.00 B=1.00
+Cosmetics: None

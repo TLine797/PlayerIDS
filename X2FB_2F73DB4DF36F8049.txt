@@ -1,0 +1,7 @@
+Name: DW
+ActorNumber: 106
+PlayerID: 2F73DB4DF36F8049
+Platform: Standalone
+AccountCreationDate: 2023-12-30 21:44:47 UTC
+Color: R=0.22 G=0.11 B=1.00
+Cosmetics: None

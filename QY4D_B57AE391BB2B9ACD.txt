@@ -1,0 +1,7 @@
+Name: PD
+ActorNumber: 630
+PlayerID: B57AE391BB2B9ACD
+Platform: Standalone
+AccountCreationDate: 2023-12-25 18:27:07 UTC
+Color: R=0.22 G=0.11 B=0.22
+Cosmetics: None

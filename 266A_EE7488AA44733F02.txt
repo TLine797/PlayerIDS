@@ -1,0 +1,7 @@
+Name: REPYY
+ActorNumber: 84
+PlayerID: EE7488AA44733F02
+Platform: Standalone
+AccountCreationDate: 2026-01-05 22:00:23 UTC
+Color: R=0.11 G=0.00 B=0.22
+Cosmetics: None

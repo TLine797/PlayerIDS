@@ -1,0 +1,7 @@
+Name: CHUBSKUB
+ActorNumber: 21
+PlayerID: 3F1FBED40918CFDC
+Platform: Standalone
+AccountCreationDate: 2024-12-25 15:11:42 UTC
+Color: R=0.11 G=0.00 B=1.00
+Cosmetics: None

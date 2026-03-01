@@ -1,0 +1,7 @@
+Name: LELOUCH
+ActorNumber: 226
+PlayerID: 6F1BBE043BED939F
+Platform: Unknown
+AccountCreationDate: 2021-12-25 20:23:28 UTC
+Color: R=1.00 G=1.00 B=1.00
+Cosmetics: None

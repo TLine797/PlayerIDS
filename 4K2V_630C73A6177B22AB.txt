@@ -1,0 +1,7 @@
+Name: TAGSTORM
+ActorNumber: 220
+PlayerID: 630C73A6177B22AB
+Platform: Standalone
+AccountCreationDate: 2024-12-08 00:13:59 UTC
+Color: R=0.00 G=0.67 B=0.78
+Cosmetics: None

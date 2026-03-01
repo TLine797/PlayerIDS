@@ -1,0 +1,7 @@
+Name: 6677
+ActorNumber: 217
+PlayerID: E9FE72B08BD3E5F4
+Platform: Standalone
+AccountCreationDate: 2025-01-28 22:07:15 UTC
+Color: R=0.67 G=0.00 B=0.00
+Cosmetics: None

@@ -1,0 +1,7 @@
+Name: TOM
+ActorNumber: 118
+PlayerID: 5DB061619DE0E76
+Platform: Standalone
+AccountCreationDate: 2024-03-27 15:34:23 UTC
+Color: R=0.00 G=1.00 B=0.89
+Cosmetics: None

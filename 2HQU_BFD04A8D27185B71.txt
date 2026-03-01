@@ -1,0 +1,7 @@
+Name: GREGXOPHLIA
+ActorNumber: 3
+PlayerID: BFD04A8D27185B71
+Platform: PC
+AccountCreationDate: 2026-01-31 02:03:45 UTC
+Color: R=0.00 G=0.11 B=0.00
+Cosmetics: None

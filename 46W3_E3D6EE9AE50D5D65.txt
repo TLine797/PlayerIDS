@@ -1,0 +1,7 @@
+Name: JENS
+ActorNumber: 3001
+PlayerID: E3D6EE9AE50D5D65
+Platform: Standalone
+AccountCreationDate: 2024-12-25 18:33:26 UTC
+Color: R=0.33 G=0.00 B=0.44
+Cosmetics: None

@@ -1,0 +1,7 @@
+Name: D64EC65RDCV7
+ActorNumber: 1351
+PlayerID: 4A81DD4256DF2BF9
+Platform: Standalone
+AccountCreationDate: 2024-10-05 07:34:41 UTC
+Color: R=0.44 G=0.33 B=0.11
+Cosmetics: None

@@ -1,0 +1,7 @@
+Name: MINA
+ActorNumber: 309
+PlayerID: 218BE3F1A7C7BEF3
+Platform: Unknown
+AccountCreationDate: 2022-02-02 00:41:27 UTC
+Color: R=0.00 G=0.00 B=0.00
+Cosmetics: None

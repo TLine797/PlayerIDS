@@ -1,0 +1,7 @@
+Name: TSGLAKAKA
+ActorNumber: 49
+PlayerID: 2375FD1CA1889A6F
+Platform: Standalone
+AccountCreationDate: 2025-08-24 22:49:32 UTC
+Color: R=0.00 G=0.67 B=0.78
+Cosmetics: None

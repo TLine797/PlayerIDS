@@ -1,0 +1,7 @@
+Name: AMERICA
+ActorNumber: 125
+PlayerID: 530CECE0C15D0A83
+Platform: Standalone
+AccountCreationDate: 2024-03-09 21:20:11 UTC
+Color: R=0.00 G=0.89 B=1.00
+Cosmetics: None

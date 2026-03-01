@@ -1,0 +1,7 @@
+Name: VOID
+ActorNumber: 199
+PlayerID: 4FC2D89C81F2A923
+Platform: Standalone
+AccountCreationDate: 2024-07-13 19:34:50 UTC
+Color: R=0.11 G=0.11 B=0.22
+Cosmetics: None

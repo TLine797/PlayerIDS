@@ -1,0 +1,7 @@
+Name: VAXON
+ActorNumber: 148
+PlayerID: 393FF774FA7B905
+Platform: Standalone
+AccountCreationDate: 2024-12-26 14:11:20 UTC
+Color: R=0.44 G=0.78 B=1.00
+Cosmetics: None

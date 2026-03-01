@@ -1,0 +1,7 @@
+Name: MUZ
+ActorNumber: 231
+PlayerID: 3F3E8F3779DDF9CA
+Platform: Standalone
+AccountCreationDate: 2025-12-25 16:45:07 UTC
+Color: R=0.56 G=0.67 B=1.00
+Cosmetics: None

@@ -1,0 +1,7 @@
+Name: HT1
+ActorNumber: 636
+PlayerID: F1EA999C8128D936
+Platform: Unknown
+AccountCreationDate: 2021-12-25 12:30:33 UTC
+Color: R=0.33 G=0.11 B=1.00
+Cosmetics: None

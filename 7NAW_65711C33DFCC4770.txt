@@ -1,0 +1,7 @@
+Name: TTTMOSTICS
+ActorNumber: 115
+PlayerID: 65711C33DFCC4770
+Platform: Standalone
+AccountCreationDate: 2024-04-01 23:56:21 UTC
+Color: R=1.00 G=0.78 B=1.00
+Cosmetics: None

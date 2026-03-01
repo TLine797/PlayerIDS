@@ -1,0 +1,7 @@
+Name: 101
+ActorNumber: 496
+PlayerID: 1C549C32F81B62CB
+Platform: Standalone
+AccountCreationDate: 2025-12-26 04:18:25 UTC
+Color: R=0.89 G=0.00 B=0.78
+Cosmetics: None

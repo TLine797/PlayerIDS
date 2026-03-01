@@ -1,0 +1,7 @@
+Name: TELLMEIT
+ActorNumber: 642
+PlayerID: A8D24B045F0CE416
+Platform: Standalone
+AccountCreationDate: 2023-12-25 14:21:16 UTC
+Color: R=1.00 G=0.56 B=0.56
+Cosmetics: None

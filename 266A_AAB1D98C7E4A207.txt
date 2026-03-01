@@ -1,0 +1,7 @@
+Name: JAMAICAN
+ActorNumber: 89
+PlayerID: AAB1D98C7E4A207
+Platform: Standalone
+AccountCreationDate: 2021-12-15 12:02:52 UTC
+Color: R=0.00 G=0.00 B=0.00
+Cosmetics: None

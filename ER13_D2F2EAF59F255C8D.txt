@@ -1,0 +1,7 @@
+Name: CLNS
+ActorNumber: 216
+PlayerID: D2F2EAF59F255C8D
+Platform: Standalone
+AccountCreationDate: 2026-02-23 23:45:29 UTC
+Color: R=0.11 G=0.11 B=0.33
+Cosmetics: None

@@ -1,0 +1,7 @@
+Name: EVAN
+ActorNumber: 294
+PlayerID: 6078377093394FB5
+Platform: Standalone
+AccountCreationDate: 2023-11-05 20:09:45 UTC
+Color: R=0.00 G=0.22 B=0.33
+Cosmetics: None

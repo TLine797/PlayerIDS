@@ -1,0 +1,7 @@
+Name: TOASTY
+ActorNumber: 861
+PlayerID: A8EB4D7CE3A06B1A
+Platform: Standalone
+AccountCreationDate: 2025-12-25 09:13:55 UTC
+Color: R=0.11 G=0.11 B=0.67
+Cosmetics: None

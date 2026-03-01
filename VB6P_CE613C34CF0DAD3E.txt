@@ -1,0 +1,7 @@
+Name: TTCDRIP
+ActorNumber: 42
+PlayerID: CE613C34CF0DAD3E
+Platform: Unknown
+AccountCreationDate: 2023-01-10 21:52:08 UTC
+Color: R=1.00 G=0.11 B=0.00
+Cosmetics: None

@@ -1,0 +1,7 @@
+Name: NOTCHETING
+ActorNumber: 3003
+PlayerID: 502AD58DD18189F
+Platform: PC
+AccountCreationDate: 2025-03-23 11:32:20 UTC
+Color: R=0.78 G=1.00 B=0.78
+Cosmetics: None

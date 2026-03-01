@@ -1,0 +1,7 @@
+Name: KYMIX
+ActorNumber: 177
+PlayerID: 534F55DC68474CA8
+Platform: Standalone
+AccountCreationDate: 2025-12-22 19:01:07 UTC
+Color: R=0.44 G=0.44 B=1.00
+Cosmetics: None

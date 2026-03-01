@@ -1,0 +1,7 @@
+Name: LIV
+ActorNumber: 970
+PlayerID: 185D879007BFE297
+Platform: Standalone
+AccountCreationDate: 2023-12-26 13:57:17 UTC
+Color: R=1.00 G=1.00 B=1.00
+Cosmetics: None

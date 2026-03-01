@@ -1,0 +1,7 @@
+Name: BUDDER
+ActorNumber: 36
+PlayerID: 98DA5D8C9D6E297B
+Platform: PC
+AccountCreationDate: 2025-12-25 22:18:40 UTC
+Color: R=1.00 G=1.00 B=1.00
+Cosmetics: None

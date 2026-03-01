@@ -1,0 +1,7 @@
+Name: NOOBIE
+ActorNumber: 407
+PlayerID: 93B94D6F3C167750
+Platform: Standalone
+AccountCreationDate: 2025-12-27 03:12:22 UTC
+Color: R=0.33 G=0.00 B=0.44
+Cosmetics: None

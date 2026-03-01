@@ -1,0 +1,7 @@
+Name: THESILENTONE
+ActorNumber: 64
+PlayerID: BE8EA5EE3DA1921A
+Platform: Standalone
+AccountCreationDate: 2025-08-11 00:24:11 UTC
+Color: R=0.56 G=0.22 B=1.00
+Cosmetics: None

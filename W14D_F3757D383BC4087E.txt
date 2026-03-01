@@ -1,0 +1,7 @@
+Name: GODLOVESYOU
+ActorNumber: 529
+PlayerID: F3757D383BC4087E
+Platform: Standalone
+AccountCreationDate: 2025-12-25 15:28:51 UTC
+Color: R=1.00 G=0.22 B=0.11
+Cosmetics: None

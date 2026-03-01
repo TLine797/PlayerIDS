@@ -1,0 +1,7 @@
+Name: LERNSO
+ActorNumber: 1
+PlayerID: DBE54EB3C10CA5CB
+Platform: PC
+AccountCreationDate: 2023-02-11 10:51:27 UTC
+Color: R=0.56 G=0.44 B=0.78
+Cosmetics: None

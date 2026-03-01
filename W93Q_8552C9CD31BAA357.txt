@@ -1,0 +1,7 @@
+Name: TFSHOLY
+ActorNumber: 674
+PlayerID: 8552C9CD31BAA357
+Platform: Standalone
+AccountCreationDate: 2025-04-13 21:20:56 UTC
+Color: R=0.00 G=0.00 B=0.00
+Cosmetics: None

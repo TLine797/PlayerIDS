@@ -1,0 +1,7 @@
+Name: LUCIOMIKEY
+ActorNumber: 2989
+PlayerID: C375A9104DA87A7F
+Platform: Standalone
+AccountCreationDate: 2022-02-20 02:09:05 UTC
+Color: R=0.89 G=0.22 B=1.00
+Cosmetics: None

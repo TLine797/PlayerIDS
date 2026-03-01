@@ -1,0 +1,7 @@
+Name: THEYES
+ActorNumber: 727
+PlayerID: E491C8A87E45768E
+Platform: Standalone
+AccountCreationDate: 2025-12-20 04:43:24 UTC
+Color: R=1.00 G=0.67 B=0.33
+Cosmetics: None

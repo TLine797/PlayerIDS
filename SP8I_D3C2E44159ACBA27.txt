@@ -1,0 +1,7 @@
+Name: KILLA
+ActorNumber: 256
+PlayerID: D3C2E44159ACBA27
+Platform: Standalone
+AccountCreationDate: 2025-07-21 03:02:56 UTC
+Color: R=1.00 G=0.78 B=0.00
+Cosmetics: None

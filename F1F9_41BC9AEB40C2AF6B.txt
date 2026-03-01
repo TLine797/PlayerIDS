@@ -1,0 +1,7 @@
+Name: FOXVR
+ActorNumber: 21
+PlayerID: 41BC9AEB40C2AF6B
+Platform: Standalone
+AccountCreationDate: 2025-12-25 14:03:50 UTC
+Color: R=0.00 G=0.00 B=0.00
+Cosmetics: None

@@ -1,0 +1,7 @@
+Name: PICO4
+ActorNumber: 3012
+PlayerID: 3B1E1E9C0D79EA24
+Platform: Standalone
+AccountCreationDate: 2026-02-15 10:09:18 UTC
+Color: R=0.44 G=0.00 B=0.00
+Cosmetics: None

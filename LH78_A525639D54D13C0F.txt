@@ -1,0 +1,7 @@
+Name: TTT
+ActorNumber: 414
+PlayerID: A525639D54D13C0F
+Platform: Standalone
+AccountCreationDate: 2025-12-23 01:00:50 UTC
+Color: R=0.00 G=0.00 B=0.00
+Cosmetics: None

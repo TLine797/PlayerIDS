@@ -1,0 +1,7 @@
+Name: SOPHIERAIN
+ActorNumber: 34
+PlayerID: 5831CCAF9612C9AD
+Platform: Standalone
+AccountCreationDate: 2023-09-20 11:39:00 UTC
+Color: R=1.00 G=0.67 B=0.67
+Cosmetics: None

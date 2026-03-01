@@ -1,0 +1,7 @@
+Name: AKUMA
+ActorNumber: 38
+PlayerID: 15EAA63A0500CE09
+Platform: Standalone
+AccountCreationDate: 2023-12-30 02:22:30 UTC
+Color: R=0.44 G=0.22 B=1.00
+Cosmetics: None

@@ -1,0 +1,7 @@
+Name: TGD
+ActorNumber: 75
+PlayerID: 7F73464348A63B90
+Platform: Standalone
+AccountCreationDate: 2026-01-10 12:40:17 UTC
+Color: R=0.00 G=0.00 B=0.89
+Cosmetics: None

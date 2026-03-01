@@ -1,0 +1,7 @@
+Name: NIVED
+ActorNumber: 162
+PlayerID: CC9072FA65BAD30D
+Platform: Standalone
+AccountCreationDate: 2024-05-09 00:56:58 UTC
+Color: R=0.44 G=0.89 B=0.22
+Cosmetics: None

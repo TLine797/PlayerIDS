@@ -1,0 +1,7 @@
+Name: POOPYMASTER
+ActorNumber: 562
+PlayerID: F825325E912F9E83
+Platform: Unknown
+AccountCreationDate: 2022-08-01 02:10:52 UTC
+Color: R=0.11 G=0.00 B=0.22
+Cosmetics: None

@@ -1,0 +1,7 @@
+Name: GUGU
+ActorNumber: 423
+PlayerID: A973B93B93E455F6
+Platform: Standalone
+AccountCreationDate: 2025-05-23 23:09:06 UTC
+Color: R=1.00 G=0.78 B=1.00
+Cosmetics: None

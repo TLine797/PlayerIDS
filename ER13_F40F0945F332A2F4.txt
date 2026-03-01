@@ -1,0 +1,7 @@
+Name: CASH
+ActorNumber: 222
+PlayerID: F40F0945F332A2F4
+Platform: Unknown
+AccountCreationDate: 2022-01-15 23:03:10 UTC
+Color: R=0.00 G=1.00 B=0.00
+Cosmetics: None

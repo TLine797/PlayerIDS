@@ -1,0 +1,7 @@
+Name: JJJRJK
+ActorNumber: 134
+PlayerID: 3069D978D0BE189F
+Platform: Standalone
+AccountCreationDate: 2025-11-20 07:49:17 UTC
+Color: R=1.00 G=1.00 B=0.67
+Cosmetics: None

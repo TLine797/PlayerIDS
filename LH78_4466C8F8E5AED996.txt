@@ -1,0 +1,7 @@
+Name: EXOTICVR
+ActorNumber: 412
+PlayerID: 4466C8F8E5AED996
+Platform: Standalone
+AccountCreationDate: 2025-12-25 13:51:52 UTC
+Color: R=0.33 G=0.00 B=0.67
+Cosmetics: None

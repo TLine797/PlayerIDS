@@ -1,0 +1,7 @@
+Name: RILEYISCUTE
+ActorNumber: 117
+PlayerID: 9580EB1F93357D6C
+Platform: Standalone
+AccountCreationDate: 2022-01-26 02:16:46 UTC
+Color: R=0.67 G=0.22 B=0.44
+Cosmetics: None

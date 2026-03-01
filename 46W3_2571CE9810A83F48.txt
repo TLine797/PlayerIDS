@@ -1,0 +1,7 @@
+Name: PICKEL
+ActorNumber: 3013
+PlayerID: 2571CE9810A83F48
+Platform: Standalone
+AccountCreationDate: 2025-10-11 11:22:05 UTC
+Color: R=0.22 G=0.33 B=1.00
+Cosmetics: None

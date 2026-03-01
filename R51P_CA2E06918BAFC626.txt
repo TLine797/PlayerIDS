@@ -1,0 +1,7 @@
+Name: IMDAWNSTUCK
+ActorNumber: 51
+PlayerID: CA2E06918BAFC626
+Platform: Unknown
+AccountCreationDate: 2022-12-18 20:52:28 UTC
+Color: R=0.44 G=0.00 B=0.78
+Cosmetics: None

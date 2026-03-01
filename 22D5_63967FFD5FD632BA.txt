@@ -1,0 +1,7 @@
+Name: TMGGREN
+ActorNumber: 145
+PlayerID: 63967FFD5FD632BA
+Platform: Standalone
+AccountCreationDate: 2024-12-26 21:32:13 UTC
+Color: R=0.00 G=0.67 B=0.44
+Cosmetics: None

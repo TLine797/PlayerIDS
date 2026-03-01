@@ -1,0 +1,7 @@
+Name: DANIELA
+ActorNumber: 154
+PlayerID: BC762E0DEE5922E8
+Platform: Unknown
+AccountCreationDate: 2022-02-04 02:00:44 UTC
+Color: R=1.00 G=0.78 B=1.00
+Cosmetics: None

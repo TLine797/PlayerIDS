@@ -1,0 +1,7 @@
+Name: YOUTUBE
+ActorNumber: 56
+PlayerID: DD7F2158E5FCE398
+Platform: Standalone
+AccountCreationDate: 2025-11-15 04:10:48 UTC
+Color: R=0.89 G=0.15 B=0.90
+Cosmetics: None

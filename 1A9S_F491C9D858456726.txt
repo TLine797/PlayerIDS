@@ -1,0 +1,7 @@
+Name: UUU
+ActorNumber: 2225
+PlayerID: F491C9D858456726
+Platform: Standalone
+AccountCreationDate: 2024-05-19 18:27:16 UTC
+Color: R=0.00 G=1.00 B=0.11
+Cosmetics: None

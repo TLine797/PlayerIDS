@@ -1,0 +1,7 @@
+Name: STITCHVR
+ActorNumber: 23
+PlayerID: 4D857573DB5AA191
+Platform: Standalone
+AccountCreationDate: 2023-11-07 01:17:54 UTC
+Color: R=0.78 G=0.89 B=1.00
+Cosmetics: None

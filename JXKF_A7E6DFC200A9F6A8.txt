@@ -1,0 +1,7 @@
+Name: ZYNXX
+ActorNumber: 739
+PlayerID: A7E6DFC200A9F6A8
+Platform: Standalone
+AccountCreationDate: 2025-03-05 22:47:36 UTC
+Color: R=0.11 G=1.00 B=0.78
+Cosmetics: None

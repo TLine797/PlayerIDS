@@ -1,0 +1,7 @@
+Name: ORBIT
+ActorNumber: 13
+PlayerID: 225BFF8E5F61BFDA
+Platform: Standalone
+AccountCreationDate: 2024-03-02 15:33:07 UTC
+Color: R=1.00 G=0.44 B=0.33
+Cosmetics: None

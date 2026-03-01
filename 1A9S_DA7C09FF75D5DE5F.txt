@@ -1,0 +1,7 @@
+Name: MRBLUE
+ActorNumber: 143
+PlayerID: DA7C09FF75D5DE5F
+Platform: Standalone
+AccountCreationDate: 2024-04-20 12:15:15 UTC
+Color: R=0.22 G=0.33 B=0.89
+Cosmetics: None

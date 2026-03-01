@@ -1,0 +1,7 @@
+Name: SLEPY
+ActorNumber: 2
+PlayerID: 12BE1C4888E2D521
+Platform: PC
+AccountCreationDate: 2025-06-30 23:42:45 UTC
+Color: R=0.78 G=0.56 B=0.89
+Cosmetics: None

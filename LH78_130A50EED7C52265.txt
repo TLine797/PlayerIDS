@@ -1,0 +1,7 @@
+Name: MOSA
+ActorNumber: 399
+PlayerID: 130A50EED7C52265
+Platform: Standalone
+AccountCreationDate: 2025-07-15 23:22:56 UTC
+Color: R=1.00 G=0.00 B=0.00
+Cosmetics: None

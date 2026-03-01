@@ -1,0 +1,7 @@
+Name: gorilla0706
+ActorNumber: 366
+PlayerID: 5601E9084A876BA8
+Platform: Standalone
+AccountCreationDate: 2025-04-27 20:03:51 UTC
+Color: R=0.44 G=0.00 B=0.78
+Cosmetics: None

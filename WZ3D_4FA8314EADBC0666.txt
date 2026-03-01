@@ -1,0 +1,7 @@
+Name: IQ200
+ActorNumber: 380
+PlayerID: 4FA8314EADBC0666
+Platform: Standalone
+AccountCreationDate: 2025-12-24 18:29:27 UTC
+Color: R=0.67 G=0.67 B=0.67
+Cosmetics: None

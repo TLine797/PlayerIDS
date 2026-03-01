@@ -1,0 +1,7 @@
+Name: COCONUTVR
+ActorNumber: 67
+PlayerID: 6D5A78BCE4011498
+Platform: Standalone
+AccountCreationDate: 2024-12-25 18:08:06 UTC
+Color: R=0.22 G=0.22 B=1.00
+Cosmetics: None

@@ -1,0 +1,7 @@
+Name: PINEAPPLE
+ActorNumber: 106
+PlayerID: 14B1691A467D142
+Platform: Standalone
+AccountCreationDate: 2024-10-12 15:32:48 UTC
+Color: R=1.00 G=1.00 B=1.00
+Cosmetics: None

@@ -1,0 +1,7 @@
+Name: PENUTMAN
+ActorNumber: 235
+PlayerID: 1495991F431A15A6
+Platform: Standalone
+AccountCreationDate: 2023-12-18 20:54:25 UTC
+Color: R=0.56 G=0.22 B=0.22
+Cosmetics: None

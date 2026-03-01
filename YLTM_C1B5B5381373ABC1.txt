@@ -1,0 +1,7 @@
+Name: LTGSLIMMY
+ActorNumber: 163
+PlayerID: C1B5B5381373ABC1
+Platform: Standalone
+AccountCreationDate: 2023-12-25 15:37:04 UTC
+Color: R=0.33 G=0.33 B=0.44
+Cosmetics: None

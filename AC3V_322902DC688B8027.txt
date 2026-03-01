@@ -1,0 +1,7 @@
+Name: DZD
+ActorNumber: 273
+PlayerID: 322902DC688B8027
+Platform: Unknown
+AccountCreationDate: 2022-12-25 17:10:21 UTC
+Color: R=0.44 G=0.00 B=0.44
+Cosmetics: None

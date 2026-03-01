@@ -1,0 +1,7 @@
+Name: LAVA
+ActorNumber: 363
+PlayerID: 2FC8343C012CC302
+Platform: Standalone
+AccountCreationDate: 2025-06-14 22:18:35 UTC
+Color: R=0.44 G=0.00 B=1.00
+Cosmetics: None

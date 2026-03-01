@@ -1,0 +1,7 @@
+Name: ALIEN
+ActorNumber: 219
+PlayerID: 82662C22351A40C5
+Platform: Standalone
+AccountCreationDate: 2026-01-23 01:51:41 UTC
+Color: R=1.00 G=0.33 B=1.00
+Cosmetics: None

@@ -1,0 +1,7 @@
+Name: SHADOW
+ActorNumber: 310
+PlayerID: 92F5BAE459229444
+Platform: Standalone
+AccountCreationDate: 2025-10-12 19:20:39 UTC
+Color: R=0.44 G=0.00 B=0.78
+Cosmetics: None

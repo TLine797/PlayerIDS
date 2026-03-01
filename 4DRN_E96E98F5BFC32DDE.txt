@@ -1,0 +1,7 @@
+Name: ________
+ActorNumber: 38
+PlayerID: E96E98F5BFC32DDE
+Platform: Standalone
+AccountCreationDate: 2026-02-10 23:33:04 UTC
+Color: R=0.00 G=0.21 B=0.01
+Cosmetics: None

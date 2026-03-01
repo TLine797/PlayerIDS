@@ -1,0 +1,7 @@
+Name: LIM
+ActorNumber: 1085
+PlayerID: AE42EE4A5F72A405
+Platform: Standalone
+AccountCreationDate: 2024-03-12 20:34:27 UTC
+Color: R=0.00 G=0.00 B=0.00
+Cosmetics: None

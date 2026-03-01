@@ -1,0 +1,7 @@
+Name: KLI79
+ActorNumber: 229
+PlayerID: 30DDF278805EE0EE
+Platform: Standalone
+AccountCreationDate: 2025-12-25 03:22:22 UTC
+Color: R=0.89 G=1.00 B=0.00
+Cosmetics: None

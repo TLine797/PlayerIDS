@@ -1,0 +1,7 @@
+Name: 7887
+ActorNumber: 199
+PlayerID: ED65010C9169DD59
+Platform: Unknown
+AccountCreationDate: 2022-12-25 06:24:48 UTC
+Color: R=0.89 G=0.44 B=0.00
+Cosmetics: None

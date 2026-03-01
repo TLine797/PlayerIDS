@@ -1,0 +1,7 @@
+Name: OASIS
+ActorNumber: 1111
+PlayerID: 749D154BADBC9C4C
+Platform: Standalone
+AccountCreationDate: 2026-02-08 12:26:03 UTC
+Color: R=0.22 G=0.78 B=1.00
+Cosmetics: None

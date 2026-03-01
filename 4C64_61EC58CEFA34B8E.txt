@@ -1,0 +1,7 @@
+Name: GG
+ActorNumber: 33
+PlayerID: 61EC58CEFA34B8E
+Platform: Standalone
+AccountCreationDate: 2024-08-13 17:35:30 UTC
+Color: R=0.44 G=0.11 B=0.89
+Cosmetics: None

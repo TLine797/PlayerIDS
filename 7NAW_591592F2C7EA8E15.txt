@@ -1,0 +1,7 @@
+Name: VBAUDIO
+ActorNumber: 118
+PlayerID: 591592F2C7EA8E15
+Platform: Standalone
+AccountCreationDate: 2025-01-25 05:07:59 UTC
+Color: R=1.00 G=0.00 B=0.56
+Cosmetics: None

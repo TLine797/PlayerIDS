@@ -1,0 +1,7 @@
+Name: O
+ActorNumber: 3347
+PlayerID: 47B3E97A2CCB4010
+Platform: Standalone
+AccountCreationDate: 2025-01-08 19:01:27 UTC
+Color: R=1.00 G=1.00 B=0.33
+Cosmetics: None

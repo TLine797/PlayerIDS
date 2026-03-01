@@ -1,0 +1,7 @@
+Name: CHLOE
+ActorNumber: 876
+PlayerID: 70A674F01C41FCC6
+Platform: Standalone
+AccountCreationDate: 2024-06-03 19:21:21 UTC
+Color: R=0.78 G=0.00 B=0.00
+Cosmetics: None

@@ -1,0 +1,7 @@
+Name: SKULLSANTAVR
+ActorNumber: 512
+PlayerID: D94A04BCFBCF7FDF
+Platform: Standalone
+AccountCreationDate: 2024-02-24 15:04:37 UTC
+Color: R=0.44 G=0.00 B=0.78
+Cosmetics: None

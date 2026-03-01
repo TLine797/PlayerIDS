@@ -1,0 +1,7 @@
+Name: S4TURNN
+ActorNumber: 3099
+PlayerID: 6531A25C8D7D7A7F
+Platform: Standalone
+AccountCreationDate: 2024-12-15 10:34:40 UTC
+Color: R=0.56 G=0.00 B=1.00
+Cosmetics: None

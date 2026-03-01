@@ -1,0 +1,7 @@
+Name: HI
+ActorNumber: 634
+PlayerID: 4FB5895E79A81337
+Platform: PC
+AccountCreationDate: 2025-09-08 18:29:37 UTC
+Color: R=0.44 G=0.67 B=0.44
+Cosmetics: None

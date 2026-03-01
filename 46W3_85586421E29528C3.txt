@@ -1,0 +1,7 @@
+Name: XDDC
+ActorNumber: 2993
+PlayerID: 85586421E29528C3
+Platform: Standalone
+AccountCreationDate: 2024-08-27 16:59:04 UTC
+Color: R=0.44 G=0.44 B=0.56
+Cosmetics: None

@@ -1,0 +1,7 @@
+Name: ROXAN
+ActorNumber: 70
+PlayerID: B5064717289FE574
+Platform: Unknown
+AccountCreationDate: 2022-12-25 17:50:13 UTC
+Color: R=0.56 G=0.56 B=0.56
+Cosmetics: None

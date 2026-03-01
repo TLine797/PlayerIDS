@@ -1,0 +1,7 @@
+Name: OXRD
+ActorNumber: 275
+PlayerID: 371C329BD2A3F56B
+Platform: Unknown
+AccountCreationDate: 2023-12-06 02:23:09 UTC
+Color: R=0.44 G=0.44 B=0.78
+Cosmetics: None

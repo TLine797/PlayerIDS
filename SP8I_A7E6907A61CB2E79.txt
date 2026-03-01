@@ -1,0 +1,7 @@
+Name: GORILLA
+ActorNumber: 214
+PlayerID: A7E6907A61CB2E79
+Platform: Unknown
+AccountCreationDate: 2025-10-04 00:09:52 UTC
+Color: R=0.56 G=0.44 B=1.00
+Cosmetics: None

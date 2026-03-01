@@ -1,0 +1,7 @@
+Name: TUNKIEVR2025
+ActorNumber: 23
+PlayerID: FC0F3263AD0BB116
+Platform: Standalone
+AccountCreationDate: 2025-01-12 01:47:16 UTC
+Color: R=0.22 G=0.44 B=0.56
+Cosmetics: None

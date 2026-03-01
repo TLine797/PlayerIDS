@@ -1,0 +1,7 @@
+Name: RIKKI
+ActorNumber: 299
+PlayerID: 4460A7496C1DF79D
+Platform: Standalone
+AccountCreationDate: 2024-06-29 00:25:28 UTC
+Color: R=0.89 G=0.33 B=0.11
+Cosmetics: None

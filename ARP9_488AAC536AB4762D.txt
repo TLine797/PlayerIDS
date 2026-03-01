@@ -1,0 +1,7 @@
+Name: MINT41K
+ActorNumber: 130
+PlayerID: 488AAC536AB4762D
+Platform: Standalone
+AccountCreationDate: 2023-12-25 13:16:43 UTC
+Color: R=0.67 G=1.00 B=0.67
+Cosmetics: None

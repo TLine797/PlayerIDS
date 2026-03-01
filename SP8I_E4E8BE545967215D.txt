@@ -1,0 +1,7 @@
+Name: SNOWMANS
+ActorNumber: 297
+PlayerID: E4E8BE545967215D
+Platform: Standalone
+AccountCreationDate: 2025-01-22 02:35:00 UTC
+Color: R=0.89 G=0.89 B=0.89
+Cosmetics: None

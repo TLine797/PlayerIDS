@@ -1,0 +1,7 @@
+Name: PEDRO
+ActorNumber: 246
+PlayerID: 7483DBC54358D704
+Platform: Unknown
+AccountCreationDate: 2022-06-26 20:03:59 UTC
+Color: R=0.78 G=0.56 B=0.44
+Cosmetics: None

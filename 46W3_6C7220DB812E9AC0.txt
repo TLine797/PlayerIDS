@@ -1,0 +1,7 @@
+Name: TMMAXIO
+ActorNumber: 3027
+PlayerID: 6C7220DB812E9AC0
+Platform: Standalone
+AccountCreationDate: 2025-09-25 17:23:46 UTC
+Color: R=1.00 G=1.00 B=0.00
+Cosmetics: None

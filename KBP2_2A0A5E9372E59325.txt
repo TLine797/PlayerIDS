@@ -1,0 +1,7 @@
+Name: FAST
+ActorNumber: 137
+PlayerID: 2A0A5E9372E59325
+Platform: PC
+AccountCreationDate: 2025-05-04 23:29:07 UTC
+Color: R=1.00 G=0.00 B=0.00
+Cosmetics: None

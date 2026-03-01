@@ -1,0 +1,7 @@
+Name: TEMVORTEX
+ActorNumber: 486
+PlayerID: A308A1FDF325004D
+Platform: Standalone
+AccountCreationDate: 2025-02-03 13:36:15 UTC
+Color: R=0.78 G=0.00 B=0.00
+Cosmetics: None

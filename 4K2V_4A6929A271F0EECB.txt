@@ -1,0 +1,7 @@
+Name: VII
+ActorNumber: 213
+PlayerID: 4A6929A271F0EECB
+Platform: Standalone
+AccountCreationDate: 2024-06-12 14:22:50 UTC
+Color: R=1.00 G=0.00 B=0.33
+Cosmetics: None

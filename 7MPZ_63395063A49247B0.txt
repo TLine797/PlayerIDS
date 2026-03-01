@@ -1,0 +1,7 @@
+Name: DOG3000
+ActorNumber: 29
+PlayerID: 63395063A49247B0
+Platform: Standalone
+AccountCreationDate: 2025-12-17 19:07:10 UTC
+Color: R=0.00 G=1.00 B=0.00
+Cosmetics: None

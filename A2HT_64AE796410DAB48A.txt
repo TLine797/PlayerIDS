@@ -1,0 +1,7 @@
+Name: MRMONK
+ActorNumber: 314
+PlayerID: 64AE796410DAB48A
+Platform: Unknown
+AccountCreationDate: 2022-02-16 14:14:59 UTC
+Color: R=1.00 G=1.00 B=0.00
+Cosmetics: None

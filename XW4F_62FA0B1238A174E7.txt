@@ -1,0 +1,7 @@
+Name: STORMVR
+ActorNumber: 682
+PlayerID: 62FA0B1238A174E7
+Platform: Standalone
+AccountCreationDate: 2025-12-25 13:11:35 UTC
+Color: R=0.44 G=0.56 B=0.89
+Cosmetics: None

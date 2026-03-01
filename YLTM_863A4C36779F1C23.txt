@@ -1,0 +1,7 @@
+Name: TSPSAWYER
+ActorNumber: 184
+PlayerID: 863A4C36779F1C23
+Platform: Standalone
+AccountCreationDate: 2025-08-19 20:36:41 UTC
+Color: R=0.33 G=0.00 B=0.67
+Cosmetics: None

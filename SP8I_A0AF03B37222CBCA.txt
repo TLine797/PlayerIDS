@@ -1,0 +1,7 @@
+Name: RRUUKSXXER65
+ActorNumber: 296
+PlayerID: A0AF03B37222CBCA
+Platform: Standalone
+AccountCreationDate: 2025-05-11 03:56:45 UTC
+Color: R=0.67 G=0.89 B=0.44
+Cosmetics: None

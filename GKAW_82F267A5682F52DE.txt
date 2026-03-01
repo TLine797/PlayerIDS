@@ -1,0 +1,7 @@
+Name: GOOSE
+ActorNumber: 14
+PlayerID: 82F267A5682F52DE
+Platform: Standalone
+AccountCreationDate: 2024-01-13 08:36:36 UTC
+Color: R=0.00 G=0.22 B=0.67
+Cosmetics: None

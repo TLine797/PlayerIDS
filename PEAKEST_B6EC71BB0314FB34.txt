@@ -1,0 +1,7 @@
+Name: EAGLE
+ActorNumber: 3
+PlayerID: B6EC71BB0314FB34
+Platform: Unknown
+AccountCreationDate: 2022-04-18 14:36:44 UTC
+Color: R=1.00 G=1.00 B=0.56
+Cosmetics: None

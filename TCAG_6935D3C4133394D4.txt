@@ -1,0 +1,7 @@
+Name: SOSHIRO
+ActorNumber: 67
+PlayerID: 6935D3C4133394D4
+Platform: Standalone
+AccountCreationDate: 2025-06-07 22:41:16 UTC
+Color: R=0.44 G=0.00 B=0.22
+Cosmetics: None

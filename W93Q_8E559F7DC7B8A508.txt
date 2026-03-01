@@ -1,0 +1,7 @@
+Name: WWALLSVR
+ActorNumber: 696
+PlayerID: 8E559F7DC7B8A508
+Platform: Standalone
+AccountCreationDate: 2026-01-04 02:16:43 UTC
+Color: R=0.56 G=0.00 B=1.00
+Cosmetics: None

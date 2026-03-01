@@ -1,0 +1,7 @@
+Name: SQUIDWARD
+ActorNumber: 51
+PlayerID: A649EA8E40774A0F
+Platform: Standalone
+AccountCreationDate: 2024-12-25 18:46:29 UTC
+Color: R=0.11 G=0.00 B=1.00
+Cosmetics: None

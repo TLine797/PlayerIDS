@@ -1,0 +1,7 @@
+Name: NOTDAWN
+ActorNumber: 7
+PlayerID: 70B7D840170F0A64
+Platform: Standalone
+AccountCreationDate: 2025-10-12 04:48:23 UTC
+Color: R=0.44 G=0.00 B=0.89
+Cosmetics: None

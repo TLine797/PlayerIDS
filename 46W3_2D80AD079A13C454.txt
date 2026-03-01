@@ -1,0 +1,7 @@
+Name: MINIGAMESKID
+ActorNumber: 3059
+PlayerID: 2D80AD079A13C454
+Platform: Standalone
+AccountCreationDate: 2025-12-25 09:11:43 UTC
+Color: R=0.44 G=1.00 B=0.22
+Cosmetics: None

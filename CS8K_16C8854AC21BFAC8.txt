@@ -1,0 +1,7 @@
+Name: PICO4
+ActorNumber: 872
+PlayerID: 16C8854AC21BFAC8
+Platform: Standalone
+AccountCreationDate: 2026-02-13 00:39:52 UTC
+Color: R=0.00 G=0.00 B=1.00
+Cosmetics: None

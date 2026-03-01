@@ -1,0 +1,7 @@
+Name: LUV
+ActorNumber: 617
+PlayerID: 705C0289EBBB9349
+Platform: Unknown
+AccountCreationDate: 2021-06-29 01:41:01 UTC
+Color: R=0.11 G=0.33 B=1.00
+Cosmetics: None

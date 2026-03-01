@@ -1,0 +1,7 @@
+Name: TFMFIRE
+ActorNumber: 258
+PlayerID: D4940A96CE3962EB
+Platform: Standalone
+AccountCreationDate: 2026-01-25 23:45:26 UTC
+Color: R=1.00 G=0.22 B=0.11
+Cosmetics: None

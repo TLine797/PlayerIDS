@@ -1,0 +1,7 @@
+Name: B3AT
+ActorNumber: 401
+PlayerID: 2B3AB4DE55668E86
+Platform: Standalone
+AccountCreationDate: 2024-01-03 22:08:18 UTC
+Color: R=0.67 G=0.89 B=1.00
+Cosmetics: None

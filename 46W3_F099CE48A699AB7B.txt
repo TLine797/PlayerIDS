@@ -1,0 +1,7 @@
+Name: TTATJMNITRO
+ActorNumber: 2992
+PlayerID: F099CE48A699AB7B
+Platform: Standalone
+AccountCreationDate: 2025-12-05 18:06:05 UTC
+Color: R=1.00 G=0.11 B=0.78
+Cosmetics: None

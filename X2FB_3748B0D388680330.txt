@@ -1,0 +1,7 @@
+Name: THEENDISNEAR
+ActorNumber: 108
+PlayerID: 3748B0D388680330
+Platform: Standalone
+AccountCreationDate: 2024-07-18 18:48:01 UTC
+Color: R=0.50 G=0.50 B=0.50
+Cosmetics: None

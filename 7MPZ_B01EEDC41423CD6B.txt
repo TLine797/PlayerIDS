@@ -1,0 +1,7 @@
+Name: MONK
+ActorNumber: 30
+PlayerID: B01EEDC41423CD6B
+Platform: Standalone
+AccountCreationDate: 2025-01-29 00:44:50 UTC
+Color: R=0.56 G=0.67 B=0.89
+Cosmetics: None

@@ -1,0 +1,7 @@
+Name: ELLO
+ActorNumber: 20
+PlayerID: 5DC4A03372CD4460
+Platform: Standalone
+AccountCreationDate: 2023-12-28 00:37:57 UTC
+Color: R=0.00 G=0.00 B=0.00
+Cosmetics: None

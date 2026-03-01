@@ -1,0 +1,7 @@
+Name: DEFENSE
+ActorNumber: 144
+PlayerID: EED7F37E50DCBE75
+Platform: Standalone
+AccountCreationDate: 2024-12-27 02:37:45 UTC
+Color: R=0.44 G=0.44 B=1.00
+Cosmetics: None

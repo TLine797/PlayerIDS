@@ -1,0 +1,7 @@
+Name: DAYDAY
+ActorNumber: 37
+PlayerID: 86BB17DBBE29B9EA
+Platform: Standalone
+AccountCreationDate: 2025-02-05 21:36:51 UTC
+Color: R=0.56 G=0.33 B=0.33
+Cosmetics: None

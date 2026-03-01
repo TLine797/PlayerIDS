@@ -1,0 +1,7 @@
+Name: SOFIE
+ActorNumber: 131
+PlayerID: AC9FB242AEADE156
+Platform: Unknown
+AccountCreationDate: 2023-12-25 17:40:31 UTC
+Color: R=0.44 G=0.89 B=1.00
+Cosmetics: None

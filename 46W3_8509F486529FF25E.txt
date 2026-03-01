@@ -1,0 +1,7 @@
+Name: SHAXZ
+ActorNumber: 3039
+PlayerID: 8509F486529FF25E
+Platform: Standalone
+AccountCreationDate: 2025-12-25 10:26:32 UTC
+Color: R=1.00 G=0.44 B=0.00
+Cosmetics: None

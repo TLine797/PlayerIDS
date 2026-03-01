@@ -1,0 +1,7 @@
+Name: PATPATVR
+ActorNumber: 116
+PlayerID: A589E6BF6F2AA3B3
+Platform: Standalone
+AccountCreationDate: 2025-04-05 04:12:28 UTC
+Color: R=0.56 G=0.00 B=0.00
+Cosmetics: None

@@ -1,0 +1,7 @@
+Name: WUTIWANT
+ActorNumber: 669
+PlayerID: 8BA796AAB6B1B73D
+Platform: Standalone
+AccountCreationDate: 2023-05-21 23:43:39 UTC
+Color: R=0.44 G=0.44 B=1.00
+Cosmetics: None

@@ -1,0 +1,7 @@
+Name: NOOB
+ActorNumber: 201
+PlayerID: 40AE83D19A3655AF
+Platform: Standalone
+AccountCreationDate: 2025-12-25 20:36:55 UTC
+Color: R=0.44 G=0.00 B=0.78
+Cosmetics: None

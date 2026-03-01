@@ -1,0 +1,7 @@
+Name: SOLARA
+ActorNumber: 3336
+PlayerID: 64579448EC963E0A
+Platform: Unknown
+AccountCreationDate: 2022-12-25 20:20:54 UTC
+Color: R=0.67 G=0.11 B=0.22
+Cosmetics: None

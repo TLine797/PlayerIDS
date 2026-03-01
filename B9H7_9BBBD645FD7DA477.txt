@@ -1,0 +1,7 @@
+Name: SHOKAN
+ActorNumber: 114
+PlayerID: 9BBBD645FD7DA477
+Platform: Standalone
+AccountCreationDate: 2025-03-27 11:56:25 UTC
+Color: R=0.00 G=0.67 B=0.56
+Cosmetics: None

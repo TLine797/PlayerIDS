@@ -1,0 +1,7 @@
+Name: KAWI
+ActorNumber: 2232
+PlayerID: 2CF883D75C461F31
+Platform: Standalone
+AccountCreationDate: 2024-08-07 19:42:13 UTC
+Color: R=0.56 G=0.00 B=0.00
+Cosmetics: None

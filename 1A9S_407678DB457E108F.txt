@@ -1,0 +1,7 @@
+Name: SH4KEI
+ActorNumber: 2178
+PlayerID: 407678DB457E108F
+Platform: PC
+AccountCreationDate: 2024-01-05 20:15:38 UTC
+Color: R=0.22 G=0.00 B=0.89
+Cosmetics: None

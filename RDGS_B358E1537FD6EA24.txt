@@ -1,0 +1,7 @@
+Name: ELLIOTJR
+ActorNumber: 20
+PlayerID: B358E1537FD6EA24
+Platform: Standalone
+AccountCreationDate: 2025-12-25 12:50:09 UTC
+Color: R=0.67 G=0.67 B=0.67
+Cosmetics: None

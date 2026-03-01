@@ -1,0 +1,7 @@
+Name: VIETNAM
+ActorNumber: 298
+PlayerID: B2BCDC113EE6515D
+Platform: Unknown
+AccountCreationDate: 2022-12-20 17:27:34 UTC
+Color: R=0.56 G=0.22 B=0.22
+Cosmetics: None

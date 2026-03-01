@@ -1,0 +1,7 @@
+Name: 0000
+ActorNumber: 1880
+PlayerID: A8B02F667A185CB9
+Platform: Standalone
+AccountCreationDate: 2026-01-04 19:24:34 UTC
+Color: R=1.00 G=0.89 B=0.67
+Cosmetics: None

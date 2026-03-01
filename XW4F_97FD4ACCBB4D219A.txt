@@ -1,0 +1,7 @@
+Name: PUPXGT
+ActorNumber: 671
+PlayerID: 97FD4ACCBB4D219A
+Platform: Standalone
+AccountCreationDate: 2025-03-03 05:52:06 UTC
+Color: R=0.00 G=0.00 B=1.00
+Cosmetics: None

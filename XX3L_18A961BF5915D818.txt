@@ -1,0 +1,7 @@
+Name: XP
+ActorNumber: 1105
+PlayerID: 18A961BF5915D818
+Platform: Unknown
+AccountCreationDate: 2022-01-02 03:51:13 UTC
+Color: R=0.56 G=0.56 B=0.56
+Cosmetics: None

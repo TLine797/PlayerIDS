@@ -1,0 +1,7 @@
+Name: W3LLIDK
+ActorNumber: 328
+PlayerID: 8348BCD0986A7682
+Platform: Unknown
+AccountCreationDate: 2022-05-02 02:21:01 UTC
+Color: R=1.00 G=0.00 B=1.00
+Cosmetics: None

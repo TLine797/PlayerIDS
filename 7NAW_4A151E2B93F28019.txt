@@ -1,0 +1,7 @@
+Name: TCFBLAZE
+ActorNumber: 96
+PlayerID: 4A151E2B93F28019
+Platform: Standalone
+AccountCreationDate: 2025-01-05 13:43:15 UTC
+Color: R=0.00 G=0.33 B=0.00
+Cosmetics: None

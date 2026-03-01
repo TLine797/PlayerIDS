@@ -1,0 +1,7 @@
+Name: TUCBBOY
+ActorNumber: 317
+PlayerID: 1FD72AB2BE7A61D3
+Platform: Standalone
+AccountCreationDate: 2025-01-13 00:25:20 UTC
+Color: R=0.00 G=0.78 B=1.00
+Cosmetics: None

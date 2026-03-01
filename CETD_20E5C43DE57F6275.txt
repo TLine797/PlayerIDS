@@ -1,0 +1,7 @@
+Name: 098
+ActorNumber: 63
+PlayerID: 20E5C43DE57F6275
+Platform: Standalone
+AccountCreationDate: 2024-10-03 11:19:37 UTC
+Color: R=1.00 G=0.33 B=0.00
+Cosmetics: None

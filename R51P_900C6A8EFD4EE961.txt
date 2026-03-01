@@ -1,0 +1,7 @@
+Name: GODISGOOD
+ActorNumber: 48
+PlayerID: 900C6A8EFD4EE961
+Platform: Standalone
+AccountCreationDate: 2024-01-09 21:53:34 UTC
+Color: R=0.44 G=0.00 B=0.78
+Cosmetics: None

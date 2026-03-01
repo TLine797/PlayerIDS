@@ -1,0 +1,7 @@
+Name: KIT
+ActorNumber: 56
+PlayerID: F222FAC32EF4484D
+Platform: Standalone
+AccountCreationDate: 2025-06-18 00:38:04 UTC
+Color: R=1.00 G=0.00 B=0.00
+Cosmetics: None

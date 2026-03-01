@@ -1,0 +1,7 @@
+Name: KINGDEVILDUC
+ActorNumber: 73
+PlayerID: 34C915A4938FCCEF
+Platform: Standalone
+AccountCreationDate: 2025-12-07 21:52:30 UTC
+Color: R=1.00 G=0.00 B=0.00
+Cosmetics: None

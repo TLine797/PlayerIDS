@@ -1,0 +1,7 @@
+Name: TANGO
+ActorNumber: 37
+PlayerID: 31CB171894E907DD
+Platform: Standalone
+AccountCreationDate: 2025-01-02 00:18:59 UTC
+Color: R=0.44 G=0.89 B=1.00
+Cosmetics: None

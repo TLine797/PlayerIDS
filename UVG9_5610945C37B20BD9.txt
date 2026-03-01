@@ -1,0 +1,7 @@
+Name: SEXYDEXY
+ActorNumber: 863
+PlayerID: 5610945C37B20BD9
+Platform: Standalone
+AccountCreationDate: 2025-12-25 16:06:29 UTC
+Color: R=0.56 G=0.33 B=1.00
+Cosmetics: None

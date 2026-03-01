@@ -1,0 +1,7 @@
+Name: DRHTRS
+ActorNumber: 3057
+PlayerID: 38F10F09D81543AA
+Platform: PC
+AccountCreationDate: 2024-06-02 14:43:29 UTC
+Color: R=0.00 G=0.00 B=0.33
+Cosmetics: None

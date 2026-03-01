@@ -1,0 +1,7 @@
+Name: SALMON
+ActorNumber: 254
+PlayerID: 9DC22AD9C664CBF4
+Platform: Standalone
+AccountCreationDate: 2021-08-01 18:55:04 UTC
+Color: R=1.00 G=0.78 B=0.78
+Cosmetics: None

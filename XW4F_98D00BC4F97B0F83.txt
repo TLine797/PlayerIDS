@@ -1,0 +1,7 @@
+Name: LAUGHING
+ActorNumber: 681
+PlayerID: 98D00BC4F97B0F83
+Platform: Standalone
+AccountCreationDate: 2023-08-18 11:29:11 UTC
+Color: R=0.33 G=0.33 B=0.33
+Cosmetics: None

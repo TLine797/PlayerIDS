@@ -1,0 +1,7 @@
+Name: PLANETJAY845
+ActorNumber: 544
+PlayerID: E185ECBCE56A8F32
+Platform: Standalone
+AccountCreationDate: 2024-11-27 03:11:23 UTC
+Color: R=0.44 G=0.00 B=0.78
+Cosmetics: None

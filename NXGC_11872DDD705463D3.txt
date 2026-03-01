@@ -1,0 +1,7 @@
+Name: TTTPIG
+ActorNumber: 230
+PlayerID: 11872DDD705463D3
+Platform: Standalone
+AccountCreationDate: 2025-12-26 02:43:46 UTC
+Color: R=1.00 G=1.00 B=1.00
+Cosmetics: None

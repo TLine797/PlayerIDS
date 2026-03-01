@@ -1,0 +1,7 @@
+Name: REZZY
+ActorNumber: 441
+PlayerID: AC8855603880BCFC
+Platform: Standalone
+AccountCreationDate: 2024-12-21 12:09:26 UTC
+Color: R=0.22 G=0.00 B=0.56
+Cosmetics: None

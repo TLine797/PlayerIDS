@@ -1,0 +1,7 @@
+Name: IDONTCARE
+ActorNumber: 25
+PlayerID: F0DC65E1C09E3362
+Platform: Unknown
+AccountCreationDate: 2024-12-31 23:02:44 UTC
+Color: R=0.00 G=0.56 B=1.00
+Cosmetics: None

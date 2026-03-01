@@ -1,0 +1,7 @@
+Name: JAYDES
+ActorNumber: 41
+PlayerID: AE7694BA778784BB
+Platform: Unknown
+AccountCreationDate: 2023-02-02 02:58:42 UTC
+Color: R=0.33 G=0.67 B=0.00
+Cosmetics: None

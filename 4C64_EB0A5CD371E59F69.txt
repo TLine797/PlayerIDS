@@ -1,0 +1,7 @@
+Name: BRITISH
+ActorNumber: 19
+PlayerID: EB0A5CD371E59F69
+Platform: Standalone
+AccountCreationDate: 2025-02-18 19:26:14 UTC
+Color: R=0.44 G=0.44 B=0.44
+Cosmetics: None

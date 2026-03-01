@@ -1,0 +1,7 @@
+Name: MEFLORA
+ActorNumber: 1857
+PlayerID: 118FB47C17F96748
+Platform: Standalone
+AccountCreationDate: 2024-12-25 07:33:22 UTC
+Color: R=0.44 G=0.00 B=0.67
+Cosmetics: None

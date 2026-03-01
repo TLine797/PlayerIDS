@@ -1,0 +1,7 @@
+Name: PLAYBOT
+ActorNumber: 36
+PlayerID: 4AFD169CEE3343D2
+Platform: Standalone
+AccountCreationDate: 2024-03-26 22:37:19 UTC
+Color: R=0.00 G=0.00 B=0.00
+Cosmetics: None

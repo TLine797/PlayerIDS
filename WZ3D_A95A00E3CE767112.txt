@@ -1,0 +1,7 @@
+Name: SPIDERMAN
+ActorNumber: 387
+PlayerID: A95A00E3CE767112
+Platform: Standalone
+AccountCreationDate: 2026-01-06 22:16:29 UTC
+Color: R=0.08 G=0.48 B=0.70
+Cosmetics: None

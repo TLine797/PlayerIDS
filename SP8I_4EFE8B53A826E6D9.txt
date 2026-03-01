@@ -1,0 +1,7 @@
+Name: GTMCMAREW
+ActorNumber: 262
+PlayerID: 4EFE8B53A826E6D9
+Platform: Standalone
+AccountCreationDate: 2023-01-29 19:11:37 UTC
+Color: R=1.00 G=0.89 B=1.00
+Cosmetics: None

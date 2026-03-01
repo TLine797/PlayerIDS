@@ -1,0 +1,7 @@
+Name: VENDETTE
+ActorNumber: 31
+PlayerID: F63B6B67C8A0345F
+Platform: PC
+AccountCreationDate: 2024-02-23 04:11:29 UTC
+Color: R=0.22 G=0.44 B=0.56
+Cosmetics: None

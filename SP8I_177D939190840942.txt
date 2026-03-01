@@ -1,0 +1,7 @@
+Name: DRXO
+ActorNumber: 260
+PlayerID: 177D939190840942
+Platform: Unknown
+AccountCreationDate: 2025-07-01 00:02:08 UTC
+Color: R=0.78 G=0.00 B=0.56
+Cosmetics: None

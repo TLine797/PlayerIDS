@@ -1,0 +1,7 @@
+Name: gorilla1469
+ActorNumber: 22
+PlayerID: 4C0161A48DDD4B19
+Platform: Standalone
+AccountCreationDate: 2025-12-25 16:32:35 UTC
+Color: R=0.89 G=0.00 B=0.00
+Cosmetics: None

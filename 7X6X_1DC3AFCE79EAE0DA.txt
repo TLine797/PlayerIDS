@@ -1,0 +1,7 @@
+Name: VENOM101717
+ActorNumber: 102
+PlayerID: 1DC3AFCE79EAE0DA
+Platform: Standalone
+AccountCreationDate: 2024-12-26 18:18:59 UTC
+Color: R=0.56 G=1.00 B=0.56
+Cosmetics: None

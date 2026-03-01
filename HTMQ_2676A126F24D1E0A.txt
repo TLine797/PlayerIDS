@@ -1,0 +1,7 @@
+Name: BBEANSONN
+ActorNumber: 74
+PlayerID: 2676A126F24D1E0A
+Platform: Standalone
+AccountCreationDate: 2023-07-15 18:07:25 UTC
+Color: R=0.22 G=0.44 B=1.00
+Cosmetics: None

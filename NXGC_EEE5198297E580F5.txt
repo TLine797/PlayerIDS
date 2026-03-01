@@ -1,0 +1,7 @@
+Name: 666
+ActorNumber: 224
+PlayerID: EEE5198297E580F5
+Platform: Standalone
+AccountCreationDate: 2025-05-12 03:42:05 UTC
+Color: R=0.00 G=0.00 B=0.00
+Cosmetics: None

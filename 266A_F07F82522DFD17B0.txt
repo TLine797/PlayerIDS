@@ -1,0 +1,7 @@
+Name: BUFFASIAN
+ActorNumber: 70
+PlayerID: F07F82522DFD17B0
+Platform: Unknown
+AccountCreationDate: 2023-12-25 16:48:10 UTC
+Color: R=0.89 G=1.00 B=0.78
+Cosmetics: None

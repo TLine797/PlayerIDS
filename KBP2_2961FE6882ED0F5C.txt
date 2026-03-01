@@ -1,0 +1,7 @@
+Name: INFINITY888
+ActorNumber: 140
+PlayerID: 2961FE6882ED0F5C
+Platform: Standalone
+AccountCreationDate: 2026-01-03 22:30:34 UTC
+Color: R=0.56 G=0.00 B=0.89
+Cosmetics: None

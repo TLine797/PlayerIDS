@@ -1,0 +1,7 @@
+Name: GORILLA
+ActorNumber: 1892
+PlayerID: 6AE0848CC78BF1D4
+Platform: PC
+AccountCreationDate: 2026-02-24 00:01:02 UTC
+Color: R=0.00 G=0.00 B=0.44
+Cosmetics: None

@@ -1,0 +1,7 @@
+Name: HAILSATAN
+ActorNumber: 673
+PlayerID: 91C518F0312035B9
+Platform: Standalone
+AccountCreationDate: 2025-05-30 03:52:41 UTC
+Color: R=0.00 G=0.00 B=0.00
+Cosmetics: None

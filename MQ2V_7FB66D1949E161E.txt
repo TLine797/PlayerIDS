@@ -1,0 +1,7 @@
+Name: GOOFYGOOBER
+ActorNumber: 184
+PlayerID: 7FB66D1949E161E
+Platform: Standalone
+AccountCreationDate: 2025-04-13 20:06:53 UTC
+Color: R=0.00 G=0.00 B=0.00
+Cosmetics: None

@@ -1,0 +1,7 @@
+Name: XPEEDSTER
+ActorNumber: 98
+PlayerID: 6DE1994040F26F49
+Platform: Unknown
+AccountCreationDate: 2022-09-14 16:05:36 UTC
+Color: R=0.89 G=0.44 B=0.33
+Cosmetics: None

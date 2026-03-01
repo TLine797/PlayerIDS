@@ -1,0 +1,7 @@
+Name: DEEFAN
+ActorNumber: 196
+PlayerID: 7E9CF429F90EB4FE
+Platform: Standalone
+AccountCreationDate: 2024-08-10 19:58:44 UTC
+Color: R=0.44 G=0.00 B=0.78
+Cosmetics: None

@@ -1,0 +1,7 @@
+Name: MOON
+ActorNumber: 280
+PlayerID: B3E97489F1FDE06B
+Platform: Unknown
+AccountCreationDate: 2022-12-27 07:03:05 UTC
+Color: R=0.44 G=0.00 B=0.78
+Cosmetics: None

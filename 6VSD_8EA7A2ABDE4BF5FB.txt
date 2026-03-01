@@ -1,0 +1,7 @@
+Name: LLDSCRIM
+ActorNumber: 453
+PlayerID: 8EA7A2ABDE4BF5FB
+Platform: Standalone
+AccountCreationDate: 2024-01-16 16:07:56 UTC
+Color: R=0.22 G=0.33 B=0.44
+Cosmetics: None

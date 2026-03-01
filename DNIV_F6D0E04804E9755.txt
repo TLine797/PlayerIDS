@@ -1,0 +1,7 @@
+Name: TTTPIGFAN
+ActorNumber: 20
+PlayerID: F6D0E04804E9755
+Platform: Standalone
+AccountCreationDate: 2025-12-25 09:35:10 UTC
+Color: R=0.44 G=0.00 B=0.78
+Cosmetics: None

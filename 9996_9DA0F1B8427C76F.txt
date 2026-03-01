@@ -1,0 +1,7 @@
+Name: FBBEP
+ActorNumber: 326
+PlayerID: 9DA0F1B8427C76F
+Platform: Standalone
+AccountCreationDate: 2024-11-13 21:07:47 UTC
+Color: R=1.00 G=0.00 B=0.00
+Cosmetics: None

@@ -1,0 +1,7 @@
+Name: SHAYLOL101
+ActorNumber: 3
+PlayerID: 735D6755841F4036
+Platform: Standalone
+AccountCreationDate: 2023-07-08 01:16:05 UTC
+Color: R=0.67 G=0.89 B=1.00
+Cosmetics: None

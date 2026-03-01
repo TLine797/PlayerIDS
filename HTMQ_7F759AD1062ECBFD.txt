@@ -1,0 +1,7 @@
+Name: ZENV0
+ActorNumber: 63
+PlayerID: 7F759AD1062ECBFD
+Platform: Standalone
+AccountCreationDate: 2024-12-01 22:07:11 UTC
+Color: R=0.56 G=1.00 B=0.56
+Cosmetics: None

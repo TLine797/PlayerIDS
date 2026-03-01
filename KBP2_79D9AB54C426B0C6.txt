@@ -1,0 +1,7 @@
+Name: STARZ
+ActorNumber: 149
+PlayerID: 79D9AB54C426B0C6
+Platform: Standalone
+AccountCreationDate: 2023-03-22 01:33:42 UTC
+Color: R=0.22 G=0.33 B=0.67
+Cosmetics: None

@@ -1,0 +1,7 @@
+Name: DINGULNUT
+ActorNumber: 212
+PlayerID: 394FFBCC6B6343E3
+Platform: Unknown
+AccountCreationDate: 2022-03-20 13:39:02 UTC
+Color: R=0.44 G=0.33 B=0.44
+Cosmetics: None

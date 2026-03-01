@@ -1,0 +1,7 @@
+Name: MLKASPARAGUS
+ActorNumber: 30
+PlayerID: 24CB2BFE6442BC55
+Platform: Standalone
+AccountCreationDate: 2025-11-30 15:55:06 UTC
+Color: R=0.89 G=0.44 B=0.00
+Cosmetics: None

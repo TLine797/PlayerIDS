@@ -1,0 +1,7 @@
+Name: STINKYMONKE
+ActorNumber: 177
+PlayerID: 848F82A5B347A117
+Platform: Standalone
+AccountCreationDate: 2024-12-28 17:01:04 UTC
+Color: R=0.67 G=0.56 B=0.44
+Cosmetics: None

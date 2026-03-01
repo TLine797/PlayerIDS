@@ -1,0 +1,7 @@
+Name: COMP
+ActorNumber: 63
+PlayerID: E86E4E56122B684F
+Platform: Standalone
+AccountCreationDate: 2026-01-20 10:25:39 UTC
+Color: R=0.00 G=0.78 B=1.00
+Cosmetics: None

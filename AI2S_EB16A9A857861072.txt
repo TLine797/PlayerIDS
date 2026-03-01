@@ -1,0 +1,7 @@
+Name: ACESON
+ActorNumber: 220
+PlayerID: EB16A9A857861072
+Platform: Standalone
+AccountCreationDate: 2025-12-10 15:51:46 UTC
+Color: R=0.22 G=0.44 B=0.22
+Cosmetics: None

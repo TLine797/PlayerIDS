@@ -1,0 +1,7 @@
+Name: BTDJACOBUS
+ActorNumber: 3043
+PlayerID: C38CA83E76929193
+Platform: Standalone
+AccountCreationDate: 2024-05-13 09:02:13 UTC
+Color: R=0.56 G=0.44 B=1.00
+Cosmetics: None

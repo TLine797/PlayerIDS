@@ -1,0 +1,7 @@
+Name: LUCID
+ActorNumber: 460
+PlayerID: 875B77363D7BAA91
+Platform: Standalone
+AccountCreationDate: 2025-12-26 20:44:24 UTC
+Color: R=0.44 G=0.00 B=1.00
+Cosmetics: None

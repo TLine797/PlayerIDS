@@ -1,0 +1,7 @@
+Name: ANTGMAN21
+ActorNumber: 133
+PlayerID: 10512C1CE6D29648
+Platform: Standalone
+AccountCreationDate: 2025-08-20 23:03:08 UTC
+Color: R=0.00 G=0.00 B=1.00
+Cosmetics: None

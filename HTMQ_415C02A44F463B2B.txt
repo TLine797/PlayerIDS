@@ -1,0 +1,7 @@
+Name: CASHVR
+ActorNumber: 60
+PlayerID: 415C02A44F463B2B
+Platform: Standalone
+AccountCreationDate: 2025-12-25 13:05:39 UTC
+Color: R=0.44 G=0.00 B=0.78
+Cosmetics: None

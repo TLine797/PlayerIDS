@@ -1,0 +1,7 @@
+Name: LIME
+ActorNumber: 82
+PlayerID: E0A9139E92578913
+Platform: Standalone
+AccountCreationDate: 2024-12-30 17:33:00 UTC
+Color: R=0.22 G=0.22 B=0.22
+Cosmetics: None

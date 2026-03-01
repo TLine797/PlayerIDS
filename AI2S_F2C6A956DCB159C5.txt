@@ -1,0 +1,7 @@
+Name: ANGEL
+ActorNumber: 43
+PlayerID: F2C6A956DCB159C5
+Platform: Standalone
+AccountCreationDate: 2024-12-30 15:41:40 UTC
+Color: R=0.56 G=0.11 B=0.11
+Cosmetics: None

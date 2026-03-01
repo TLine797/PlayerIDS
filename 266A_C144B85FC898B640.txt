@@ -1,0 +1,7 @@
+Name: 3BMDASHER
+ActorNumber: 49
+PlayerID: C144B85FC898B640
+Platform: Standalone
+AccountCreationDate: 2026-01-31 00:18:17 UTC
+Color: R=0.44 G=0.00 B=0.78
+Cosmetics: None

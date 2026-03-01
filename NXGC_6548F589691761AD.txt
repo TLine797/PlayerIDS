@@ -1,0 +1,7 @@
+Name: DANBOUY
+ActorNumber: 218
+PlayerID: 6548F589691761AD
+Platform: Unknown
+AccountCreationDate: 2022-04-05 03:15:45 UTC
+Color: R=0.67 G=0.78 B=1.00
+Cosmetics: None

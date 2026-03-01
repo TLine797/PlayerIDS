@@ -1,0 +1,7 @@
+Name: SWET1
+ActorNumber: 111
+PlayerID: 58A2040D7C6814CE
+Platform: Unknown
+AccountCreationDate: 2021-09-15 04:18:30 UTC
+Color: R=0.56 G=0.56 B=0.56
+Cosmetics: None

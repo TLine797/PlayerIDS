@@ -1,0 +1,7 @@
+Name: PUPGXT
+ActorNumber: 75
+PlayerID: 4860443B2DED655C
+Platform: PC
+AccountCreationDate: 2025-02-12 00:46:26 UTC
+Color: R=0.00 G=0.44 B=0.67
+Cosmetics: None

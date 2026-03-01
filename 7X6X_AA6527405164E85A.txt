@@ -1,0 +1,7 @@
+Name: BABYBOO
+ActorNumber: 93
+PlayerID: AA6527405164E85A
+Platform: Standalone
+AccountCreationDate: 2025-10-23 00:51:09 UTC
+Color: R=0.33 G=0.22 B=0.22
+Cosmetics: None

@@ -1,0 +1,7 @@
+Name: NOTH
+ActorNumber: 631
+PlayerID: EDE2A9D6A8ADB400
+Platform: Standalone
+AccountCreationDate: 2025-01-13 22:58:34 UTC
+Color: R=1.00 G=0.22 B=0.11
+Cosmetics: None

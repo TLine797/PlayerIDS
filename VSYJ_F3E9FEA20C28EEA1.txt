@@ -1,0 +1,7 @@
+Name: LOL
+ActorNumber: 458
+PlayerID: F3E9FEA20C28EEA1
+Platform: Standalone
+AccountCreationDate: 2023-02-10 02:44:50 UTC
+Color: R=0.22 G=0.11 B=0.44
+Cosmetics: None

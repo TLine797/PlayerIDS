@@ -1,0 +1,7 @@
+Name: SEASON2
+ActorNumber: 18
+PlayerID: 62732663687D3776
+Platform: Unknown
+AccountCreationDate: 2021-11-10 19:50:48 UTC
+Color: R=0.89 G=0.67 B=0.44
+Cosmetics: None

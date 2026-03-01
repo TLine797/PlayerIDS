@@ -1,0 +1,7 @@
+Name: SJT
+ActorNumber: 457
+PlayerID: 3A9909B243016DD
+Platform: Standalone
+AccountCreationDate: 2025-10-22 20:24:47 UTC
+Color: R=0.00 G=0.67 B=1.00
+Cosmetics: None

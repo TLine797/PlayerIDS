@@ -1,0 +1,7 @@
+Name: RBBJELLY
+ActorNumber: 767
+PlayerID: 454FFB887DDC753C
+Platform: Standalone
+AccountCreationDate: 2023-06-03 02:19:21 UTC
+Color: R=0.22 G=0.00 B=0.22
+Cosmetics: None

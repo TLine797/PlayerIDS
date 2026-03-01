@@ -1,0 +1,7 @@
+Name: JACKB
+ActorNumber: 6
+PlayerID: 7453F3A08FE0AC07
+Platform: Standalone
+AccountCreationDate: 2025-04-30 23:42:57 UTC
+Color: R=0.22 G=0.00 B=0.67
+Cosmetics: None

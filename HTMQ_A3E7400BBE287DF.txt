@@ -1,0 +1,7 @@
+Name: gorilla
+ActorNumber: 77
+PlayerID: A3E7400BBE287DF
+Platform: Standalone
+AccountCreationDate: 2023-12-25 17:25:06 UTC
+Color: R=0.44 G=0.67 B=0.67
+Cosmetics: None

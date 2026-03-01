@@ -1,0 +1,7 @@
+Name: TRIXIE
+ActorNumber: 817
+PlayerID: 815B3B4A5551CF1D
+Platform: Standalone
+AccountCreationDate: 2026-02-28 12:55:57 UTC
+Color: R=0.44 G=0.44 B=0.44
+Cosmetics: None

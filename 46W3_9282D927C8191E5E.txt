@@ -1,0 +1,7 @@
+Name: ASTRO
+ActorNumber: 2987
+PlayerID: 9282D927C8191E5E
+Platform: PC
+AccountCreationDate: 2024-05-23 00:00:57 UTC
+Color: R=0.22 G=0.00 B=0.44
+Cosmetics: None

@@ -1,0 +1,7 @@
+Name: JACOBZZ
+ActorNumber: 67
+PlayerID: 2EA7B682D45D05FD
+Platform: Standalone
+AccountCreationDate: 2024-08-01 15:23:51 UTC
+Color: R=0.22 G=0.22 B=0.22
+Cosmetics: None

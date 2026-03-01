@@ -1,0 +1,7 @@
+Name: EJCVR
+ActorNumber: 1877
+PlayerID: 5DFEA4C438C56F8F
+Platform: Standalone
+AccountCreationDate: 2024-03-16 00:34:38 UTC
+Color: R=0.22 G=0.22 B=0.22
+Cosmetics: None

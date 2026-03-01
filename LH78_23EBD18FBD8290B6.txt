@@ -1,0 +1,7 @@
+Name: EEEBLOSSOM
+ActorNumber: 404
+PlayerID: 23EBD18FBD8290B6
+Platform: Standalone
+AccountCreationDate: 2024-11-08 21:24:16 UTC
+Color: R=0.22 G=0.00 B=0.67
+Cosmetics: None

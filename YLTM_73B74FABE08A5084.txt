@@ -1,0 +1,7 @@
+Name: XAVET
+ActorNumber: 172
+PlayerID: 73B74FABE08A5084
+Platform: Standalone
+AccountCreationDate: 2024-12-26 21:12:54 UTC
+Color: R=1.00 G=0.67 B=1.00
+Cosmetics: None

@@ -1,0 +1,7 @@
+Name: 6HUH
+ActorNumber: 218
+PlayerID: 908094E8FABC161
+Platform: Standalone
+AccountCreationDate: 2024-09-07 22:22:00 UTC
+Color: R=0.56 G=0.11 B=0.78
+Cosmetics: None

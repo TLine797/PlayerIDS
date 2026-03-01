@@ -1,0 +1,7 @@
+Name: gorilla6247
+ActorNumber: 25
+PlayerID: 4EF7C31AD3D76D4B
+Platform: Standalone
+AccountCreationDate: 2025-10-07 20:50:44 UTC
+Color: R=1.00 G=0.33 B=0.67
+Cosmetics: None

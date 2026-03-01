@@ -1,0 +1,7 @@
+Name: ODNA
+ActorNumber: 143
+PlayerID: FD096E384F79528E
+Platform: Standalone
+AccountCreationDate: 2024-07-17 00:18:18 UTC
+Color: R=0.00 G=0.00 B=0.56
+Cosmetics: None

@@ -1,0 +1,7 @@
+Name: ILOVEANAKIN
+ActorNumber: 629
+PlayerID: E0167F48E546BA93
+Platform: Standalone
+AccountCreationDate: 2024-01-06 22:15:29 UTC
+Color: R=0.00 G=0.00 B=0.00
+Cosmetics: None

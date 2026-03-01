@@ -1,0 +1,7 @@
+Name: ZODD
+ActorNumber: 2974
+PlayerID: E3E416F5C042997
+Platform: Standalone
+AccountCreationDate: 2024-01-19 03:48:52 UTC
+Color: R=0.00 G=0.00 B=0.33
+Cosmetics: None

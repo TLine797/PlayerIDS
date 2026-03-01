@@ -1,0 +1,7 @@
+Name: DAWN
+ActorNumber: 37
+PlayerID: 5AD95C7D1A563B30
+Platform: Standalone
+AccountCreationDate: 2025-05-07 00:56:26 UTC
+Color: R=0.22 G=0.00 B=0.67
+Cosmetics: None

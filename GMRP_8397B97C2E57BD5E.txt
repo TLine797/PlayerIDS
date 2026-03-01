@@ -1,0 +1,7 @@
+Name: ACES
+ActorNumber: 385
+PlayerID: 8397B97C2E57BD5E
+Platform: Standalone
+AccountCreationDate: 2025-07-02 23:50:22 UTC
+Color: R=1.00 G=1.00 B=1.00
+Cosmetics: None

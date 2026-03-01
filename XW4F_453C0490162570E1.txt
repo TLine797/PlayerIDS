@@ -1,0 +1,7 @@
+Name: IFHNEBULA
+ActorNumber: 601
+PlayerID: 453C0490162570E1
+Platform: PC
+AccountCreationDate: 2025-01-15 16:44:47 UTC
+Color: R=0.67 G=0.67 B=0.67
+Cosmetics: None

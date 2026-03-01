@@ -1,0 +1,7 @@
+Name: NOXOL222
+ActorNumber: 204
+PlayerID: A56D921FF6B187C9
+Platform: Standalone
+AccountCreationDate: 2025-10-31 01:32:31 UTC
+Color: R=0.33 G=0.00 B=0.56
+Cosmetics: None

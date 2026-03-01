@@ -1,0 +1,7 @@
+Name: 3JOHN16
+ActorNumber: 149
+PlayerID: 27CB6C0F4C84D2B9
+Platform: Standalone
+AccountCreationDate: 2024-06-27 23:38:20 UTC
+Color: R=0.44 G=0.00 B=0.78
+Cosmetics: None

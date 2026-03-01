@@ -1,0 +1,7 @@
+Name: R
+ActorNumber: 252
+PlayerID: 82A6BFE326176770
+Platform: Standalone
+AccountCreationDate: 2023-07-27 12:12:55 UTC
+Color: R=0.00 G=0.89 B=0.00
+Cosmetics: None

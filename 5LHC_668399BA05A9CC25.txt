@@ -1,0 +1,7 @@
+Name: SLEEPY
+ActorNumber: 511
+PlayerID: 668399BA05A9CC25
+Platform: Unknown
+AccountCreationDate: 2022-02-05 15:18:42 UTC
+Color: R=0.33 G=0.33 B=0.56
+Cosmetics: None

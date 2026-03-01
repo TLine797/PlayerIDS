@@ -1,0 +1,7 @@
+Name: RUSTY
+ActorNumber: 62
+PlayerID: 8EACB7BEECA1DB88
+Platform: PC
+AccountCreationDate: 2023-01-21 22:33:37 UTC
+Color: R=1.00 G=1.00 B=1.00
+Cosmetics: None

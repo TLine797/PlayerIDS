@@ -1,0 +1,7 @@
+Name: HAZELNUT
+ActorNumber: 3352
+PlayerID: 93145A36982DCF7D
+Platform: Standalone
+AccountCreationDate: 2023-12-24 21:44:25 UTC
+Color: R=1.00 G=0.78 B=0.89
+Cosmetics: None

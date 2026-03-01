@@ -1,0 +1,7 @@
+Name: COOLSUN
+ActorNumber: 285
+PlayerID: 7597FB2B1BEBC3FE
+Platform: Standalone
+AccountCreationDate: 2023-03-03 22:14:29 UTC
+Color: R=0.00 G=1.00 B=1.00
+Cosmetics: None

@@ -1,0 +1,7 @@
+Name: GRILLR45678
+ActorNumber: 384
+PlayerID: 43C2699B901CB9BB
+Platform: Standalone
+AccountCreationDate: 2025-12-25 08:04:20 UTC
+Color: R=1.00 G=0.33 B=1.00
+Cosmetics: None

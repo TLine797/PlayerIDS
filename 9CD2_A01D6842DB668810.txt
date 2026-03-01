@@ -1,0 +1,7 @@
+Name: MONKEH
+ActorNumber: 773
+PlayerID: A01D6842DB668810
+Platform: Unknown
+AccountCreationDate: 2022-06-27 01:33:27 UTC
+Color: R=0.78 G=0.67 B=0.56
+Cosmetics: None

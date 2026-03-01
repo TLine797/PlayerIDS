@@ -1,0 +1,7 @@
+Name: STARBURST
+ActorNumber: 447
+PlayerID: 796CF9FB472BF041
+Platform: Standalone
+AccountCreationDate: 2024-12-25 15:36:05 UTC
+Color: R=1.00 G=0.67 B=1.00
+Cosmetics: None

@@ -1,0 +1,7 @@
+Name: LEPLOYD
+ActorNumber: 2972
+PlayerID: 1724769F6412FD93
+Platform: Standalone
+AccountCreationDate: 2025-03-09 19:28:33 UTC
+Color: R=0.44 G=0.89 B=0.44
+Cosmetics: None

@@ -1,0 +1,7 @@
+Name: IWANTAINDEX
+ActorNumber: 390
+PlayerID: CE016526C7261BFE
+Platform: Standalone
+AccountCreationDate: 2025-07-29 04:08:47 UTC
+Color: R=1.00 G=0.44 B=0.00
+Cosmetics: None

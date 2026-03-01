@@ -1,0 +1,7 @@
+Name: NH
+ActorNumber: 77
+PlayerID: A7816C419A227EF5
+Platform: Standalone
+AccountCreationDate: 2023-06-07 23:47:05 UTC
+Color: R=0.00 G=0.22 B=0.11
+Cosmetics: None

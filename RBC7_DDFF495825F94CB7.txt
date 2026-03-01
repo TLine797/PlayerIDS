@@ -1,0 +1,7 @@
+Name: WYATTPIPHE
+ActorNumber: 609
+PlayerID: DDFF495825F94CB7
+Platform: Unknown
+AccountCreationDate: 2022-06-29 20:05:43 UTC
+Color: R=0.00 G=0.00 B=0.00
+Cosmetics: None

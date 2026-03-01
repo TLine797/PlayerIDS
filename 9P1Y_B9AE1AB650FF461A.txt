@@ -1,0 +1,7 @@
+Name: SKZOO
+ActorNumber: 400
+PlayerID: B9AE1AB650FF461A
+Platform: Standalone
+AccountCreationDate: 2023-04-01 16:58:36 UTC
+Color: R=0.00 G=0.22 B=0.33
+Cosmetics: None

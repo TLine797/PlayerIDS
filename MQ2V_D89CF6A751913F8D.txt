@@ -1,0 +1,7 @@
+Name: TRGOUTLAW
+ActorNumber: 114
+PlayerID: D89CF6A751913F8D
+Platform: Standalone
+AccountCreationDate: 2023-12-14 22:27:04 UTC
+Color: R=0.00 G=0.44 B=0.00
+Cosmetics: None

@@ -1,0 +1,7 @@
+Name: PENTO
+ActorNumber: 378
+PlayerID: AE0A4209F44D0201
+Platform: Standalone
+AccountCreationDate: 2024-07-22 19:16:54 UTC
+Color: R=1.00 G=0.00 B=0.00
+Cosmetics: None

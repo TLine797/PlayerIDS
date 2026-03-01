@@ -1,0 +1,7 @@
+Name: BLEEDER
+ActorNumber: 12
+PlayerID: E0652A71A0205262
+Platform: Standalone
+AccountCreationDate: 2024-10-19 19:21:43 UTC
+Color: R=0.00 G=0.22 B=0.33
+Cosmetics: None

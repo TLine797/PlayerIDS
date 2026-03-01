@@ -1,0 +1,7 @@
+Name: DAISYO9
+ActorNumber: 74
+PlayerID: 8DA96F06DFC4362A
+Platform: Standalone
+AccountCreationDate: 2025-12-27 12:39:16 UTC
+Color: R=1.00 G=0.00 B=1.00
+Cosmetics: None

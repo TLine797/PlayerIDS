@@ -1,0 +1,7 @@
+Name: WIRPLER
+ActorNumber: 112
+PlayerID: 505A08DECF7AC8D9
+Platform: Standalone
+AccountCreationDate: 2025-04-02 20:41:57 UTC
+Color: R=0.67 G=0.22 B=0.56
+Cosmetics: None

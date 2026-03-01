@@ -1,0 +1,7 @@
+Name: LLUCASISMYPO
+ActorNumber: 203
+PlayerID: 5EC543E6E1695075
+Platform: Standalone
+AccountCreationDate: 2025-11-09 15:50:16 UTC
+Color: R=0.44 G=0.00 B=1.00
+Cosmetics: None

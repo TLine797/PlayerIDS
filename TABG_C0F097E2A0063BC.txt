@@ -1,0 +1,7 @@
+Name: BANANNA91
+ActorNumber: 1884
+PlayerID: C0F097E2A0063BC
+Platform: Standalone
+AccountCreationDate: 2026-01-17 17:13:03 UTC
+Color: R=0.00 G=0.78 B=0.89
+Cosmetics: None

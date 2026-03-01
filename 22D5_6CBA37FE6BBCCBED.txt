@@ -1,0 +1,7 @@
+Name: OWEN
+ActorNumber: 147
+PlayerID: 6CBA37FE6BBCCBED
+Platform: PC
+AccountCreationDate: 2022-11-29 21:34:38 UTC
+Color: R=0.22 G=0.22 B=0.22
+Cosmetics: None

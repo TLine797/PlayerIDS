@@ -1,0 +1,7 @@
+Name: DEMONLABUBU
+ActorNumber: 219
+PlayerID: E77B92614CF2E935
+Platform: Standalone
+AccountCreationDate: 2024-11-02 23:07:43 UTC
+Color: R=1.00 G=1.00 B=0.00
+Cosmetics: None

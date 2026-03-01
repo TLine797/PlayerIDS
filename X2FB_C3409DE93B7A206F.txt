@@ -1,0 +1,7 @@
+Name: THEMAGADON
+ActorNumber: 97
+PlayerID: C3409DE93B7A206F
+Platform: Standalone
+AccountCreationDate: 2025-12-25 18:48:37 UTC
+Color: R=0.00 G=0.00 B=1.00
+Cosmetics: None

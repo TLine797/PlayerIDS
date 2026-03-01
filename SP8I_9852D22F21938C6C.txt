@@ -1,0 +1,7 @@
+Name: PSLAMS1I2
+ActorNumber: 316
+PlayerID: 9852D22F21938C6C
+Platform: Unknown
+AccountCreationDate: 2023-01-22 22:22:52 UTC
+Color: R=0.56 G=0.44 B=0.44
+Cosmetics: None

@@ -1,0 +1,7 @@
+Name: THEBRAVEONE
+ActorNumber: 446
+PlayerID: BDF3921F319EE24E
+Platform: Standalone
+AccountCreationDate: 2025-02-08 03:12:30 UTC
+Color: R=0.56 G=0.33 B=0.67
+Cosmetics: None

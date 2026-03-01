@@ -1,0 +1,7 @@
+Name: LILTIMMY
+ActorNumber: 3007
+PlayerID: E4473A18F53251EB
+Platform: Standalone
+AccountCreationDate: 2025-10-20 09:14:45 UTC
+Color: R=1.00 G=1.00 B=1.00
+Cosmetics: None

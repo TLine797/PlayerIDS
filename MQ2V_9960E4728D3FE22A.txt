@@ -1,0 +1,7 @@
+Name: GGVGYGVGYYTV
+ActorNumber: 98
+PlayerID: 9960E4728D3FE22A
+Platform: Standalone
+AccountCreationDate: 2026-01-14 00:50:01 UTC
+Color: R=0.56 G=0.00 B=0.78
+Cosmetics: None

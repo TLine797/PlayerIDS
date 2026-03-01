@@ -1,0 +1,7 @@
+Name: VEXURA
+ActorNumber: 341
+PlayerID: 9BE4975040831B27
+Platform: Unknown
+AccountCreationDate: 2022-12-25 15:19:18 UTC
+Color: R=0.44 G=0.00 B=0.33
+Cosmetics: None

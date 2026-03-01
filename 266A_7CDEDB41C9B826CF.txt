@@ -1,0 +1,7 @@
+Name: MRCANDY554
+ActorNumber: 64
+PlayerID: 7CDEDB41C9B826CF
+Platform: Standalone
+AccountCreationDate: 2025-12-26 02:53:25 UTC
+Color: R=0.56 G=0.11 B=0.33
+Cosmetics: None

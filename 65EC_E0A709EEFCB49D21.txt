@@ -1,0 +1,7 @@
+Name: EMILY
+ActorNumber: 1639
+PlayerID: E0A709EEFCB49D21
+Platform: Standalone
+AccountCreationDate: 2025-06-27 17:15:50 UTC
+Color: R=0.00 G=0.89 B=0.00
+Cosmetics: None

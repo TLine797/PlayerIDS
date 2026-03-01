@@ -1,0 +1,7 @@
+Name: POTATATATATO
+ActorNumber: 234
+PlayerID: B4C1FE0AF897B006
+Platform: Unknown
+AccountCreationDate: 2023-12-27 01:38:04 UTC
+Color: R=0.00 G=0.56 B=0.00
+Cosmetics: None

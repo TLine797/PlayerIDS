@@ -1,0 +1,7 @@
+Name: HAILSATAN
+ActorNumber: 307
+PlayerID: 98F8C923FF293075
+Platform: Unknown
+AccountCreationDate: 2026-02-18 02:27:36 UTC
+Color: R=0.00 G=0.00 B=0.00
+Cosmetics: None

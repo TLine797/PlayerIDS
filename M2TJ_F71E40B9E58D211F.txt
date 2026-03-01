@@ -1,0 +1,7 @@
+Name: COCONUT
+ActorNumber: 639
+PlayerID: F71E40B9E58D211F
+Platform: Unknown
+AccountCreationDate: 2023-01-28 20:54:13 UTC
+Color: R=0.44 G=0.56 B=0.89
+Cosmetics: None

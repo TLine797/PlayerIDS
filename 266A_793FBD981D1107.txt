@@ -1,0 +1,7 @@
+Name: ZYPER
+ActorNumber: 9
+PlayerID: 793FBD981D1107
+Platform: Standalone
+AccountCreationDate: 2024-05-01 23:11:53 UTC
+Color: R=1.00 G=1.00 B=1.00
+Cosmetics: None

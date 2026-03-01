@@ -1,0 +1,7 @@
+Name: PENGUFAN
+ActorNumber: 195
+PlayerID: D62E7FD78407D8AF
+Platform: Unknown
+AccountCreationDate: 2023-03-09 03:39:54 UTC
+Color: R=0.56 G=0.00 B=1.00
+Cosmetics: None

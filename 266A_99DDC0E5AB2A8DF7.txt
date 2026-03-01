@@ -1,0 +1,7 @@
+Name: 0000
+ActorNumber: 15
+PlayerID: 99DDC0E5AB2A8DF7
+Platform: PC
+AccountCreationDate: 2025-04-05 18:05:02 UTC
+Color: R=0.44 G=0.00 B=1.00
+Cosmetics: None

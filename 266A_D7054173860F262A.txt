@@ -1,0 +1,7 @@
+Name: JJ1115
+ActorNumber: 23
+PlayerID: D7054173860F262A
+Platform: Standalone
+AccountCreationDate: 2025-11-23 01:22:52 UTC
+Color: R=0.22 G=0.00 B=0.44
+Cosmetics: None

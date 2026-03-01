@@ -1,0 +1,7 @@
+Name: VVVSTUFF
+ActorNumber: 172
+PlayerID: 4D4320C0C7C519C3
+Platform: Standalone
+AccountCreationDate: 2025-03-27 00:47:15 UTC
+Color: R=0.44 G=0.78 B=0.00
+Cosmetics: None

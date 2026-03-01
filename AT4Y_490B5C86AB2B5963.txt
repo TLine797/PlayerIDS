@@ -1,0 +1,7 @@
+Name: TYVR
+ActorNumber: 536
+PlayerID: 490B5C86AB2B5963
+Platform: Standalone
+AccountCreationDate: 2025-01-11 23:51:41 UTC
+Color: R=0.56 G=0.33 B=0.89
+Cosmetics: None

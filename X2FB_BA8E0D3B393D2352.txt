@@ -1,0 +1,7 @@
+Name: JAZ
+ActorNumber: 105
+PlayerID: BA8E0D3B393D2352
+Platform: Standalone
+AccountCreationDate: 2023-03-08 23:38:38 UTC
+Color: R=0.67 G=0.22 B=0.22
+Cosmetics: None

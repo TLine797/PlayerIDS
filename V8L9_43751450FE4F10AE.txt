@@ -1,0 +1,7 @@
+Name: WEBBY
+ActorNumber: 143
+PlayerID: 43751450FE4F10AE
+Platform: Unknown
+AccountCreationDate: 2022-01-17 14:25:22 UTC
+Color: R=0.44 G=0.33 B=0.22
+Cosmetics: None

@@ -1,0 +1,7 @@
+Name: H
+ActorNumber: 7
+PlayerID: F0B2DEBFA3AA533C
+Platform: Standalone
+AccountCreationDate: 2025-02-08 09:49:40 UTC
+Color: R=0.00 G=0.56 B=1.00
+Cosmetics: None

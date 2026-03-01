@@ -1,0 +1,7 @@
+Name: TBTNPC
+ActorNumber: 526
+PlayerID: 2113DFDCCF16F0B0
+Platform: Standalone
+AccountCreationDate: 2026-02-25 01:36:59 UTC
+Color: R=0.67 G=0.89 B=1.00
+Cosmetics: None

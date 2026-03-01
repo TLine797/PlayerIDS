@@ -1,0 +1,7 @@
+Name: INDIAN
+ActorNumber: 627
+PlayerID: 67192206A5FA4297
+Platform: Standalone
+AccountCreationDate: 2024-11-17 06:38:25 UTC
+Color: R=0.00 G=1.00 B=0.07
+Cosmetics: None

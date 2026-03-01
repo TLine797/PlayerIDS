@@ -1,0 +1,7 @@
+Name: GAXXY
+ActorNumber: 110
+PlayerID: 88643A79E5A2E8B9
+Platform: Standalone
+AccountCreationDate: 2025-12-25 15:13:21 UTC
+Color: R=0.00 G=0.00 B=0.00
+Cosmetics: None

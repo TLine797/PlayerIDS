@@ -1,0 +1,7 @@
+Name: B
+ActorNumber: 17
+PlayerID: ADFBA1755D0963DA
+Platform: Standalone
+AccountCreationDate: 2025-12-26 11:58:29 UTC
+Color: R=0.67 G=0.00 B=1.00
+Cosmetics: None

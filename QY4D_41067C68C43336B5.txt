@@ -1,0 +1,7 @@
+Name: CURLY
+ActorNumber: 635
+PlayerID: 41067C68C43336B5
+Platform: Standalone
+AccountCreationDate: 2025-12-27 03:32:05 UTC
+Color: R=0.56 G=0.11 B=1.00
+Cosmetics: None

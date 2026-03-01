@@ -1,0 +1,7 @@
+Name: DEEGAN
+ActorNumber: 4
+PlayerID: 5CF0730838CB71C6
+Platform: Standalone
+AccountCreationDate: 2025-06-25 16:05:02 UTC
+Color: R=0.00 G=0.44 B=0.89
+Cosmetics: None

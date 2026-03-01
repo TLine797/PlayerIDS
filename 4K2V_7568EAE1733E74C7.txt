@@ -1,0 +1,7 @@
+Name: DYLAN
+ActorNumber: 199
+PlayerID: 7568EAE1733E74C7
+Platform: Standalone
+AccountCreationDate: 2023-11-24 02:59:37 UTC
+Color: R=1.00 G=0.00 B=0.00
+Cosmetics: None

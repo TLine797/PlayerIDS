@@ -1,0 +1,7 @@
+Name: QUESTCORP
+ActorNumber: 22
+PlayerID: 71EA007E5724A165
+Platform: Unknown
+AccountCreationDate: 2022-12-25 16:56:42 UTC
+Color: R=1.00 G=0.89 B=0.33
+Cosmetics: None

@@ -1,0 +1,7 @@
+Name: 2HAWAIIGT
+ActorNumber: 687
+PlayerID: CEAB3A372DBCCF
+Platform: Standalone
+AccountCreationDate: 2024-04-12 01:03:01 UTC
+Color: R=0.00 G=1.00 B=0.67
+Cosmetics: None

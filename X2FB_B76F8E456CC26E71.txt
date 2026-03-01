@@ -1,0 +1,7 @@
+Name: ECHO
+ActorNumber: 114
+PlayerID: B76F8E456CC26E71
+Platform: Unknown
+AccountCreationDate: 2023-12-30 01:05:44 UTC
+Color: R=0.44 G=0.00 B=0.78
+Cosmetics: None

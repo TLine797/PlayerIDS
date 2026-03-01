@@ -1,0 +1,7 @@
+Name: HEISGOOD
+ActorNumber: 212
+PlayerID: D8357F3E9D202EF5
+Platform: Standalone
+AccountCreationDate: 2025-12-25 18:38:16 UTC
+Color: R=0.00 G=0.00 B=0.00
+Cosmetics: None

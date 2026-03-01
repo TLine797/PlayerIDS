@@ -1,0 +1,7 @@
+Name: EGGISHA
+ActorNumber: 690
+PlayerID: A38509E16FC4DC31
+Platform: Unknown
+AccountCreationDate: 2021-12-30 19:00:01 UTC
+Color: R=0.44 G=0.67 B=1.00
+Cosmetics: None

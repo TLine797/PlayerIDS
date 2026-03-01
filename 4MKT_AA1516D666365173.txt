@@ -1,0 +1,7 @@
+Name: JOHNWICK
+ActorNumber: 636
+PlayerID: AA1516D666365173
+Platform: Standalone
+AccountCreationDate: 2023-11-29 00:38:11 UTC
+Color: R=0.00 G=0.22 B=1.00
+Cosmetics: None

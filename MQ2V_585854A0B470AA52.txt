@@ -1,0 +1,7 @@
+Name: MONKEY
+ActorNumber: 106
+PlayerID: 585854A0B470AA52
+Platform: Standalone
+AccountCreationDate: 2023-07-09 17:58:05 UTC
+Color: R=1.00 G=0.00 B=0.00
+Cosmetics: None

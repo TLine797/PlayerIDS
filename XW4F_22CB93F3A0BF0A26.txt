@@ -1,0 +1,7 @@
+Name: ALEX
+ActorNumber: 687
+PlayerID: 22CB93F3A0BF0A26
+Platform: Standalone
+AccountCreationDate: 2024-12-26 20:26:32 UTC
+Color: R=1.00 G=0.00 B=0.89
+Cosmetics: None

@@ -1,0 +1,7 @@
+Name: VPOM3NA
+ActorNumber: 388
+PlayerID: FC17A27573AEF14B
+Platform: Standalone
+AccountCreationDate: 2026-02-15 15:28:54 UTC
+Color: R=1.00 G=0.78 B=0.89
+Cosmetics: None

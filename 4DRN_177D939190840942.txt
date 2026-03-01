@@ -1,0 +1,7 @@
+Name: VHQZZ
+ActorNumber: 14
+PlayerID: 177D939190840942
+Platform: Standalone
+AccountCreationDate: 2025-07-01 00:02:08 UTC
+Color: R=0.67 G=1.00 B=0.00
+Cosmetics: None

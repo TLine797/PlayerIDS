@@ -1,0 +1,7 @@
+Name: LUCY
+ActorNumber: 670
+PlayerID: 9D5DCE421D2ED1B6
+Platform: Standalone
+AccountCreationDate: 2025-12-25 08:20:42 UTC
+Color: R=0.56 G=0.44 B=0.67
+Cosmetics: None

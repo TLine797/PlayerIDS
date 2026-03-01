@@ -1,0 +1,7 @@
+Name: M2
+ActorNumber: 680
+PlayerID: 59185B0F0E1C4E3B
+Platform: Standalone
+AccountCreationDate: 2025-02-03 14:10:33 UTC
+Color: R=0.33 G=0.33 B=0.67
+Cosmetics: None

@@ -1,0 +1,7 @@
+Name: SLIPKNOT
+ActorNumber: 478
+PlayerID: 2389EE9E99A38376
+Platform: Unknown
+AccountCreationDate: 2022-02-27 10:28:06 UTC
+Color: R=0.00 G=0.00 B=0.00
+Cosmetics: None

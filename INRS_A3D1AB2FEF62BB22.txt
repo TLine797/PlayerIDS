@@ -1,0 +1,7 @@
+Name: ADLEY
+ActorNumber: 220
+PlayerID: A3D1AB2FEF62BB22
+Platform: Unknown
+AccountCreationDate: 2022-12-25 22:14:12 UTC
+Color: R=1.00 G=1.00 B=0.56
+Cosmetics: None

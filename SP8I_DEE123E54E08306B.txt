@@ -1,0 +1,7 @@
+Name: BOMBACLAT
+ActorNumber: 182
+PlayerID: DEE123E54E08306B
+Platform: Unknown
+AccountCreationDate: 2022-11-26 00:19:58 UTC
+Color: R=1.00 G=1.00 B=0.00
+Cosmetics: None

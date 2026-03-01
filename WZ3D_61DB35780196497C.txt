@@ -1,0 +1,7 @@
+Name: PEPPER
+ActorNumber: 389
+PlayerID: 61DB35780196497C
+Platform: Standalone
+AccountCreationDate: 2022-01-15 21:22:01 UTC
+Color: R=0.44 G=0.00 B=0.78
+Cosmetics: None

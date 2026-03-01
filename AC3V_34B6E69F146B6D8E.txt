@@ -1,0 +1,7 @@
+Name: TMN
+ActorNumber: 264
+PlayerID: 34B6E69F146B6D8E
+Platform: Standalone
+AccountCreationDate: 2025-10-18 23:23:23 UTC
+Color: R=0.44 G=0.33 B=0.89
+Cosmetics: None

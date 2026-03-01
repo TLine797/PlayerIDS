@@ -1,0 +1,7 @@
+Name: BLUEAV
+ActorNumber: 191
+PlayerID: 9D0759532054D4A3
+Platform: Standalone
+AccountCreationDate: 2026-01-05 10:27:01 UTC
+Color: R=0.11 G=0.00 B=0.44
+Cosmetics: None

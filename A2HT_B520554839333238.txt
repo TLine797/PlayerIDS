@@ -1,0 +1,7 @@
+Name: MACI
+ActorNumber: 320
+PlayerID: B520554839333238
+Platform: Standalone
+AccountCreationDate: 2025-02-14 00:28:17 UTC
+Color: R=0.22 G=0.67 B=1.00
+Cosmetics: None

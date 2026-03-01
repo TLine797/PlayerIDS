@@ -1,0 +1,7 @@
+Name: STARVR
+ActorNumber: 87
+PlayerID: A772528820185005
+Platform: Unknown
+AccountCreationDate: 2022-12-25 15:49:51 UTC
+Color: R=0.33 G=0.11 B=0.67
+Cosmetics: None

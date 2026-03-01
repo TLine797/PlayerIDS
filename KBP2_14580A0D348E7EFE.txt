@@ -1,0 +1,7 @@
+Name: SALTY
+ActorNumber: 152
+PlayerID: 14580A0D348E7EFE
+Platform: Standalone
+AccountCreationDate: 2023-12-27 23:41:05 UTC
+Color: R=0.56 G=0.56 B=0.56
+Cosmetics: None

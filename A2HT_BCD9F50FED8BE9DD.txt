@@ -1,0 +1,7 @@
+Name: JIMMY
+ActorNumber: 313
+PlayerID: BCD9F50FED8BE9DD
+Platform: Unknown
+AccountCreationDate: 2022-12-21 00:23:40 UTC
+Color: R=0.44 G=0.00 B=0.78
+Cosmetics: None

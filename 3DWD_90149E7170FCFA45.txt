@@ -1,0 +1,7 @@
+Name: HAILY
+ActorNumber: 967
+PlayerID: 90149E7170FCFA45
+Platform: Standalone
+AccountCreationDate: 2025-06-08 19:22:58 UTC
+Color: R=0.89 G=0.67 B=0.78
+Cosmetics: None

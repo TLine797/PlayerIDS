@@ -1,0 +1,7 @@
+Name: LORDFARQUAD
+ActorNumber: 770
+PlayerID: 362DE313AD3AE4C8
+Platform: Standalone
+AccountCreationDate: 2024-12-31 00:19:38 UTC
+Color: R=1.00 G=0.00 B=0.33
+Cosmetics: None

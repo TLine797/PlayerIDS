@@ -1,0 +1,7 @@
+Name: HBFHF
+ActorNumber: 18
+PlayerID: 40ADE36CF6C668D7
+Platform: Standalone
+AccountCreationDate: 2024-08-09 20:11:49 UTC
+Color: R=0.11 G=0.00 B=0.56
+Cosmetics: None

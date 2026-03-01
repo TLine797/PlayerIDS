@@ -1,0 +1,7 @@
+Name: gorilla
+ActorNumber: 391
+PlayerID: 2C40CD461CF804EF
+Platform: Standalone
+AccountCreationDate: 2025-12-25 15:40:50 UTC
+Color: R=0.00 G=0.44 B=0.22
+Cosmetics: None

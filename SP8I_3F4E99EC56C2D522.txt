@@ -1,0 +1,7 @@
+Name: EXP0
+ActorNumber: 308
+PlayerID: 3F4E99EC56C2D522
+Platform: Standalone
+AccountCreationDate: 2025-12-25 16:10:31 UTC
+Color: R=0.56 G=0.56 B=0.56
+Cosmetics: None

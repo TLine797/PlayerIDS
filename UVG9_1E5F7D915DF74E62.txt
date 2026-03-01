@@ -1,0 +1,7 @@
+Name: MAKYLA
+ActorNumber: 91
+PlayerID: 1E5F7D915DF74E62
+Platform: Standalone
+AccountCreationDate: 2025-03-15 19:32:09 UTC
+Color: R=1.00 G=0.89 B=0.78
+Cosmetics: None

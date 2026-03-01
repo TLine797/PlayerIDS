@@ -1,0 +1,7 @@
+Name: gorilla0281
+ActorNumber: 84
+PlayerID: 912B2F9A56A606D0
+Platform: Standalone
+AccountCreationDate: 2025-01-12 19:03:07 UTC
+Color: R=0.44 G=0.00 B=0.89
+Cosmetics: None

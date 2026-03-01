@@ -1,0 +1,7 @@
+Name: TTTSMILEY
+ActorNumber: 37
+PlayerID: EE0CC262A9ABE7CB
+Platform: Standalone
+AccountCreationDate: 2025-12-11 06:20:04 UTC
+Color: R=0.56 G=0.00 B=1.00
+Cosmetics: None

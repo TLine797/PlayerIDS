@@ -1,0 +1,7 @@
+Name: SADNESS
+ActorNumber: 151
+PlayerID: 6A9CDB502DAACC41
+Platform: Standalone
+AccountCreationDate: 2024-02-12 01:18:30 UTC
+Color: R=0.44 G=0.22 B=0.56
+Cosmetics: None

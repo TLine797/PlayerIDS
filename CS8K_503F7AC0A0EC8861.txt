@@ -1,0 +1,7 @@
+Name: DETUG7VRYT
+ActorNumber: 854
+PlayerID: 503F7AC0A0EC8861
+Platform: Unknown
+AccountCreationDate: 2022-12-23 09:46:07 UTC
+Color: R=0.22 G=0.44 B=0.78
+Cosmetics: None

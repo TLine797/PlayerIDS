@@ -1,0 +1,7 @@
+Name: HUSK
+ActorNumber: 60
+PlayerID: 77052F5AA531F2F3
+Platform: Unknown
+AccountCreationDate: 2022-12-30 22:46:30 UTC
+Color: R=0.00 G=1.00 B=0.56
+Cosmetics: None

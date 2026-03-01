@@ -1,0 +1,7 @@
+Name: ROMANVR
+ActorNumber: 676
+PlayerID: 4398D07B2B7D792E
+Platform: Standalone
+AccountCreationDate: 2025-12-26 00:49:10 UTC
+Color: R=1.00 G=0.00 B=0.00
+Cosmetics: None

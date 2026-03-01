@@ -1,0 +1,7 @@
+Name: GORILLA5854
+ActorNumber: 180
+PlayerID: FC3C445C08AD10CB
+Platform: Standalone
+AccountCreationDate: 2025-01-26 19:36:10 UTC
+Color: R=1.00 G=0.22 B=1.00
+Cosmetics: None

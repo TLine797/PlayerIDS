@@ -1,0 +1,7 @@
+Name: GORILLA5643
+ActorNumber: 54
+PlayerID: 3EB7A8E2F70A395
+Platform: Standalone
+AccountCreationDate: 2025-12-25 03:52:33 UTC
+Color: R=1.00 G=1.00 B=0.00
+Cosmetics: None

@@ -1,0 +1,7 @@
+Name: PEEMAN
+ActorNumber: 53
+PlayerID: 4122A1B615127606
+Platform: Standalone
+AccountCreationDate: 2025-02-23 19:38:05 UTC
+Color: R=1.00 G=0.89 B=0.22
+Cosmetics: None

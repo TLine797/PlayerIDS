@@ -1,0 +1,7 @@
+Name: IDK
+ActorNumber: 674
+PlayerID: 11CD9B17553B41C8
+Platform: Unknown
+AccountCreationDate: 2022-12-25 17:54:35 UTC
+Color: R=1.00 G=1.00 B=1.00
+Cosmetics: None

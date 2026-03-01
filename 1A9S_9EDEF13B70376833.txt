@@ -1,0 +1,7 @@
+Name: TTMSAUSAGE
+ActorNumber: 127
+PlayerID: 9EDEF13B70376833
+Platform: Unknown
+AccountCreationDate: 2023-01-26 00:40:05 UTC
+Color: R=1.00 G=1.00 B=0.00
+Cosmetics: None

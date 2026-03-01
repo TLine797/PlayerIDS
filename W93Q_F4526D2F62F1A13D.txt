@@ -1,0 +1,7 @@
+Name: PICO9
+ActorNumber: 153
+PlayerID: F4526D2F62F1A13D
+Platform: Standalone
+AccountCreationDate: 2025-10-06 19:54:51 UTC
+Color: R=0.00 G=0.00 B=0.33
+Cosmetics: None

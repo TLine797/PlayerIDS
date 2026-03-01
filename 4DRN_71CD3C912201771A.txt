@@ -1,0 +1,7 @@
+Name: TGGJEWEL
+ActorNumber: 30
+PlayerID: 71CD3C912201771A
+Platform: Standalone
+AccountCreationDate: 2025-12-25 20:37:46 UTC
+Color: R=1.00 G=1.00 B=0.67
+Cosmetics: None

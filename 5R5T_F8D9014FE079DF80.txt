@@ -1,0 +1,7 @@
+Name: OREAO
+ActorNumber: 55
+PlayerID: F8D9014FE079DF80
+Platform: Unknown
+AccountCreationDate: 2023-01-28 15:41:41 UTC
+Color: R=1.00 G=1.00 B=0.89
+Cosmetics: None

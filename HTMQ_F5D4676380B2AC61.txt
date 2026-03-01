@@ -1,0 +1,7 @@
+Name: OINK
+ActorNumber: 62
+PlayerID: F5D4676380B2AC61
+Platform: Unknown
+AccountCreationDate: 2021-12-25 13:30:35 UTC
+Color: R=0.44 G=0.00 B=0.78
+Cosmetics: None

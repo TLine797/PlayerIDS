@@ -1,0 +1,7 @@
+Name: gorilla8549
+ActorNumber: 3345
+PlayerID: E06B35DBB8A6E8EC
+Platform: Standalone
+AccountCreationDate: 2026-01-20 21:58:05 UTC
+Color: R=0.56 G=0.56 B=0.56
+Cosmetics: None

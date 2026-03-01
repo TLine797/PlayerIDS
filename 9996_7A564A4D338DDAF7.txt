@@ -1,0 +1,7 @@
+Name: GRIMINTOYKO
+ActorNumber: 383
+PlayerID: 7A564A4D338DDAF7
+Platform: Standalone
+AccountCreationDate: 2025-01-25 20:57:20 UTC
+Color: R=1.00 G=0.00 B=0.00
+Cosmetics: None

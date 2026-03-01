@@ -1,0 +1,7 @@
+Name: FOXY
+ActorNumber: 194
+PlayerID: 683DB3944FD14AA3
+Platform: Standalone
+AccountCreationDate: 2024-12-29 19:18:39 UTC
+Color: R=0.00 G=0.00 B=0.00
+Cosmetics: None

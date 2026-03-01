@@ -1,0 +1,7 @@
+Name: BANANA
+ActorNumber: 805
+PlayerID: D3F57F45BB0794A9
+Platform: Standalone
+AccountCreationDate: 2025-11-03 17:24:20 UTC
+Color: R=1.00 G=1.00 B=0.00
+Cosmetics: None

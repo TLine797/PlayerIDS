@@ -1,0 +1,7 @@
+Name: DOIDABOIVR
+ActorNumber: 86
+PlayerID: 12824817FEA62394
+Platform: Standalone
+AccountCreationDate: 2025-06-14 03:17:07 UTC
+Color: R=0.67 G=0.00 B=1.00
+Cosmetics: None

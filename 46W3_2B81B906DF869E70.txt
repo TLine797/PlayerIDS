@@ -1,0 +1,7 @@
+Name: ROFUS
+ActorNumber: 3055
+PlayerID: 2B81B906DF869E70
+Platform: Standalone
+AccountCreationDate: 2021-07-02 18:16:47 UTC
+Color: R=0.44 G=0.44 B=0.44
+Cosmetics: None

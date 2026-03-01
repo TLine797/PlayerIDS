@@ -1,0 +1,7 @@
+Name: FROH
+ActorNumber: 690
+PlayerID: D799C4EBD47BCDCF
+Platform: Standalone
+AccountCreationDate: 2023-05-08 21:10:11 UTC
+Color: R=0.33 G=0.33 B=1.00
+Cosmetics: None

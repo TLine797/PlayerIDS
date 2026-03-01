@@ -1,0 +1,7 @@
+Name: SALMON
+ActorNumber: 692
+PlayerID: 83631E58DC9856D5
+Platform: Standalone
+AccountCreationDate: 2024-12-25 11:33:36 UTC
+Color: R=0.22 G=0.44 B=1.00
+Cosmetics: None

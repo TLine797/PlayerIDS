@@ -1,0 +1,7 @@
+Name: DIETCOKE
+ActorNumber: 25
+PlayerID: C6FBF1BF0AF8FE49
+Platform: Standalone
+AccountCreationDate: 2024-09-20 22:12:23 UTC
+Color: R=0.22 G=0.00 B=0.00
+Cosmetics: None

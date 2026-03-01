@@ -1,0 +1,7 @@
+Name: FISSO
+ActorNumber: 28
+PlayerID: D67BB81AC2BCE83A
+Platform: Standalone
+AccountCreationDate: 2025-10-20 01:27:23 UTC
+Color: R=0.00 G=0.44 B=1.00
+Cosmetics: None

@@ -1,0 +1,7 @@
+Name: DIH
+ActorNumber: 63
+PlayerID: FBB6BC28E622DFD9
+Platform: Standalone
+AccountCreationDate: 2026-02-03 18:23:45 UTC
+Color: R=1.00 G=1.00 B=0.00
+Cosmetics: None

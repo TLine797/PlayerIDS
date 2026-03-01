@@ -1,0 +1,7 @@
+Name: CODFISHVR
+ActorNumber: 3095
+PlayerID: 13E753F741193388
+Platform: Unknown
+AccountCreationDate: 2025-08-25 10:22:18 UTC
+Color: R=0.44 G=0.33 B=1.00
+Cosmetics: None

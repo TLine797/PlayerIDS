@@ -1,0 +1,7 @@
+Name: FEMBOYFYS
+ActorNumber: 91
+PlayerID: A6F5008D6CED1B81
+Platform: Unknown
+AccountCreationDate: 2022-12-06 16:56:54 UTC
+Color: R=0.85 G=0.03 B=0.61
+Cosmetics: None

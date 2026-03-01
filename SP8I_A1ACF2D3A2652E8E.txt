@@ -1,0 +1,7 @@
+Name: IVAN
+ActorNumber: 278
+PlayerID: A1ACF2D3A2652E8E
+Platform: Standalone
+AccountCreationDate: 2024-04-08 22:28:51 UTC
+Color: R=0.67 G=0.78 B=1.00
+Cosmetics: None

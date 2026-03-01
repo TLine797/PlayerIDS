@@ -1,0 +1,7 @@
+Name: DMHAKARI
+ActorNumber: 30
+PlayerID: 4545534EEC2E9A64
+Platform: Standalone
+AccountCreationDate: 2024-09-20 01:05:33 UTC
+Color: R=0.00 G=0.89 B=0.00
+Cosmetics: None

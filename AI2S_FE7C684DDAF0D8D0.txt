@@ -1,0 +1,7 @@
+Name: WAVEGT
+ActorNumber: 45
+PlayerID: FE7C684DDAF0D8D0
+Platform: Standalone
+AccountCreationDate: 2025-08-31 19:46:37 UTC
+Color: R=0.56 G=0.33 B=1.00
+Cosmetics: None

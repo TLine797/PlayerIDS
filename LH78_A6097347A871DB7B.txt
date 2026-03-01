@@ -1,0 +1,7 @@
+Name: BIGDEWYT
+ActorNumber: 390
+PlayerID: A6097347A871DB7B
+Platform: Standalone
+AccountCreationDate: 2025-12-06 23:22:54 UTC
+Color: R=0.44 G=0.00 B=0.78
+Cosmetics: None

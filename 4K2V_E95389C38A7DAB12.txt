@@ -1,0 +1,7 @@
+Name: UNCOOKEDBEAN
+ActorNumber: 218
+PlayerID: E95389C38A7DAB12
+Platform: Standalone
+AccountCreationDate: 2023-08-06 21:15:10 UTC
+Color: R=0.78 G=0.11 B=0.11
+Cosmetics: None

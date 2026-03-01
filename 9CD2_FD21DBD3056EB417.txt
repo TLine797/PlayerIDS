@@ -1,0 +1,7 @@
+Name: ASUKA
+ActorNumber: 751
+PlayerID: FD21DBD3056EB417
+Platform: Standalone
+AccountCreationDate: 2026-02-24 19:17:24 UTC
+Color: R=0.67 G=0.33 B=0.22
+Cosmetics: None

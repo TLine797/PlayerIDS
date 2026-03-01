@@ -1,0 +1,7 @@
+Name: AMELIA
+ActorNumber: 215
+PlayerID: A38D9358C030DA1A
+Platform: Standalone
+AccountCreationDate: 2024-12-05 15:53:44 UTC
+Color: R=0.78 G=0.56 B=0.56
+Cosmetics: None

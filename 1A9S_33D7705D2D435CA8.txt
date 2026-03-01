@@ -1,0 +1,7 @@
+Name: I
+ActorNumber: 141
+PlayerID: 33D7705D2D435CA8
+Platform: Standalone
+AccountCreationDate: 2025-03-24 18:48:02 UTC
+Color: R=0.00 G=0.11 B=1.00
+Cosmetics: None

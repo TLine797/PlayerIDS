@@ -1,0 +1,7 @@
+Name: RIPREAPER
+ActorNumber: 966
+PlayerID: 9707E44C60E1AC62
+Platform: Unknown
+AccountCreationDate: 2022-12-17 22:22:08 UTC
+Color: R=1.00 G=0.00 B=0.67
+Cosmetics: None

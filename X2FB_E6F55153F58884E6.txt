@@ -1,0 +1,7 @@
+Name: BONNIEVR
+ActorNumber: 49
+PlayerID: E6F55153F58884E6
+Platform: Standalone
+AccountCreationDate: 2026-02-10 00:26:46 UTC
+Color: R=0.00 G=0.11 B=0.89
+Cosmetics: None

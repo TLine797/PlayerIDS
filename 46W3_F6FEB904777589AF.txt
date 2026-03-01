@@ -1,0 +1,7 @@
+Name: PRO
+ActorNumber: 3015
+PlayerID: F6FEB904777589AF
+Platform: Standalone
+AccountCreationDate: 2024-12-16 04:09:01 UTC
+Color: R=0.89 G=0.89 B=1.00
+Cosmetics: None

@@ -1,0 +1,7 @@
+Name: FEATHERS3
+ActorNumber: 107
+PlayerID: 42EA68299235F676
+Platform: Standalone
+AccountCreationDate: 2024-10-03 02:02:33 UTC
+Color: R=0.00 G=0.67 B=1.00
+Cosmetics: None

@@ -1,0 +1,7 @@
+Name: H3AVEN
+ActorNumber: 742
+PlayerID: E709C48DF5DE7027
+Platform: Standalone
+AccountCreationDate: 2023-12-25 12:53:23 UTC
+Color: R=1.00 G=1.00 B=0.44
+Cosmetics: None

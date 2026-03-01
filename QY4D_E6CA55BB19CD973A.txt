@@ -1,0 +1,7 @@
+Name: GORILLACOP
+ActorNumber: 639
+PlayerID: E6CA55BB19CD973A
+Platform: Unknown
+AccountCreationDate: 2022-04-30 19:45:47 UTC
+Color: R=0.44 G=0.56 B=0.78
+Cosmetics: None

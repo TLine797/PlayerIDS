@@ -1,0 +1,7 @@
+Name: 00
+ActorNumber: 127
+PlayerID: B8B962D67C81E78D
+Platform: Unknown
+AccountCreationDate: 2022-10-09 12:50:18 UTC
+Color: R=0.00 G=0.56 B=1.00
+Cosmetics: None

@@ -1,0 +1,7 @@
+Name: BFFMCJHDZSET
+ActorNumber: 112
+PlayerID: C5E0A597D022956A
+Platform: Standalone
+AccountCreationDate: 2025-10-26 03:42:54 UTC
+Color: R=0.89 G=0.00 B=0.00
+Cosmetics: None

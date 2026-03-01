@@ -1,0 +1,7 @@
+Name: 038
+ActorNumber: 45
+PlayerID: 19365F92C0D8F77C
+Platform: Standalone
+AccountCreationDate: 2025-05-31 22:05:11 UTC
+Color: R=0.11 G=0.00 B=0.33
+Cosmetics: None

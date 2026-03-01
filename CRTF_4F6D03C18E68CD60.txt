@@ -1,0 +1,7 @@
+Name: L
+ActorNumber: 368
+PlayerID: 4F6D03C18E68CD60
+Platform: Standalone
+AccountCreationDate: 2025-02-18 21:30:22 UTC
+Color: R=0.00 G=0.00 B=0.89
+Cosmetics: None

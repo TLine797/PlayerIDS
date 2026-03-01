@@ -1,0 +1,7 @@
+Name: SKITLES
+ActorNumber: 417
+PlayerID: 84FDA5F6B23B022F
+Platform: Standalone
+AccountCreationDate: 2024-12-28 04:46:58 UTC
+Color: R=0.67 G=1.00 B=0.78
+Cosmetics: None

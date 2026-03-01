@@ -1,0 +1,7 @@
+Name: MELLY
+ActorNumber: 1016
+PlayerID: 159E093445D510F7
+Platform: PC
+AccountCreationDate: 2023-12-20 01:34:05 UTC
+Color: R=1.00 G=0.56 B=0.89
+Cosmetics: None

@@ -1,0 +1,7 @@
+Name: HAUNTED
+ActorNumber: 288
+PlayerID: 23B0AD449DE4231F
+Platform: Unknown
+AccountCreationDate: 2022-07-11 13:29:29 UTC
+Color: R=0.00 G=0.33 B=1.00
+Cosmetics: None

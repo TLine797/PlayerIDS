@@ -1,0 +1,7 @@
+Name: ICOVR
+ActorNumber: 1878
+PlayerID: B02583310F7D1426
+Platform: Standalone
+AccountCreationDate: 2023-11-02 03:53:09 UTC
+Color: R=0.33 G=0.44 B=0.56
+Cosmetics: None

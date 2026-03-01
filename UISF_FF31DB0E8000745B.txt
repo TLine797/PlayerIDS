@@ -1,0 +1,7 @@
+Name: go0TOP1
+ActorNumber: 26
+PlayerID: FF31DB0E8000745B
+Platform: Standalone
+AccountCreationDate: 2022-10-22 19:49:19 UTC
+Color: R=1.00 G=1.00 B=1.00
+Cosmetics: None

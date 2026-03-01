@@ -1,0 +1,7 @@
+Name: 1
+ActorNumber: 633
+PlayerID: 8C0AA791A9B06C5C
+Platform: Standalone
+AccountCreationDate: 2025-09-27 04:03:54 UTC
+Color: R=0.56 G=0.00 B=1.00
+Cosmetics: None

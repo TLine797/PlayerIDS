@@ -1,0 +1,7 @@
+Name: CHODENVR
+ActorNumber: 134
+PlayerID: A1F0A36E0E9FB65
+Platform: Standalone
+AccountCreationDate: 2024-08-11 00:59:06 UTC
+Color: R=0.33 G=0.00 B=0.56
+Cosmetics: None

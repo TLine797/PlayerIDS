@@ -1,0 +1,7 @@
+Name: MOCK10
+ActorNumber: 35
+PlayerID: 65A6013ABCBAF1D4
+Platform: Standalone
+AccountCreationDate: 2023-05-09 21:07:17 UTC
+Color: R=0.44 G=0.00 B=1.00
+Cosmetics: None

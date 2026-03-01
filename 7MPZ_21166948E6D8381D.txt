@@ -1,0 +1,7 @@
+Name: MINYGAMESKID
+ActorNumber: 46
+PlayerID: 21166948E6D8381D
+Platform: Standalone
+AccountCreationDate: 2024-12-25 18:40:03 UTC
+Color: R=0.00 G=1.00 B=1.00
+Cosmetics: None

@@ -1,0 +1,7 @@
+Name: MYBABYBOO
+ActorNumber: 84
+PlayerID: EF790D447884FDD7
+Platform: Standalone
+AccountCreationDate: 2025-06-05 23:28:50 UTC
+Color: R=0.22 G=0.22 B=0.22
+Cosmetics: None

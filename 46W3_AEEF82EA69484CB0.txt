@@ -1,0 +1,7 @@
+Name: GORILLA4620
+ActorNumber: 2973
+PlayerID: AEEF82EA69484CB0
+Platform: PC
+AccountCreationDate: 2024-10-11 18:56:38 UTC
+Color: R=0.44 G=0.67 B=0.56
+Cosmetics: None

@@ -1,0 +1,7 @@
+Name: CATBOY
+ActorNumber: 61
+PlayerID: 93A8EB741C01BC25
+Platform: Standalone
+AccountCreationDate: 2024-07-19 21:22:06 UTC
+Color: R=1.00 G=0.11 B=0.56
+Cosmetics: None

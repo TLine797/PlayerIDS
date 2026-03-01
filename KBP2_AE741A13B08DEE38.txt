@@ -1,0 +1,7 @@
+Name: JULIN
+ActorNumber: 164
+PlayerID: AE741A13B08DEE38
+Platform: Standalone
+AccountCreationDate: 2023-02-15 22:56:10 UTC
+Color: R=1.00 G=0.78 B=1.00
+Cosmetics: None

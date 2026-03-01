@@ -1,0 +1,7 @@
+Name: THATONESTEAM
+ActorNumber: 52
+PlayerID: 9E64F2D3829F4E47
+Platform: Standalone
+AccountCreationDate: 2025-12-25 03:24:56 UTC
+Color: R=1.00 G=0.78 B=0.56
+Cosmetics: None

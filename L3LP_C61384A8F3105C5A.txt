@@ -1,0 +1,7 @@
+Name: TPCBLU3
+ActorNumber: 286
+PlayerID: C61384A8F3105C5A
+Platform: PC
+AccountCreationDate: 2024-02-16 20:36:27 UTC
+Color: R=0.67 G=0.44 B=0.67
+Cosmetics: None

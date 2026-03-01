@@ -1,0 +1,7 @@
+Name: GORILLA2389
+ActorNumber: 420
+PlayerID: 1DCB0D5230ADBF64
+Platform: Standalone
+AccountCreationDate: 2024-11-29 21:47:47 UTC
+Color: R=0.33 G=0.00 B=0.56
+Cosmetics: None

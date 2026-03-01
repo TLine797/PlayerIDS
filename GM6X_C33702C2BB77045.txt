@@ -1,0 +1,7 @@
+Name: NAS
+ActorNumber: 448
+PlayerID: C33702C2BB77045
+Platform: Standalone
+AccountCreationDate: 2023-10-10 17:32:33 UTC
+Color: R=1.00 G=0.78 B=0.33
+Cosmetics: None

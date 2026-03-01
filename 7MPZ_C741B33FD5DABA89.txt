@@ -1,0 +1,7 @@
+Name: DYLTER
+ActorNumber: 34
+PlayerID: C741B33FD5DABA89
+Platform: Unknown
+AccountCreationDate: 2023-01-07 04:37:49 UTC
+Color: R=0.67 G=0.22 B=0.22
+Cosmetics: None

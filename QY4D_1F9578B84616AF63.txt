@@ -1,0 +1,7 @@
+Name: GORILLA1258
+ActorNumber: 414
+PlayerID: 1F9578B84616AF63
+Platform: Standalone
+AccountCreationDate: 2025-12-25 15:48:22 UTC
+Color: R=0.00 G=0.00 B=0.00
+Cosmetics: None

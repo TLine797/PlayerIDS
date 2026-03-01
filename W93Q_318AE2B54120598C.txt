@@ -1,0 +1,7 @@
+Name: STEW
+ActorNumber: 695
+PlayerID: 318AE2B54120598C
+Platform: Unknown
+AccountCreationDate: 2022-01-04 19:39:00 UTC
+Color: R=0.33 G=0.00 B=0.33
+Cosmetics: None

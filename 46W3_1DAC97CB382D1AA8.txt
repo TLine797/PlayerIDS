@@ -1,0 +1,7 @@
+Name: PTN
+ActorNumber: 2950
+PlayerID: 1DAC97CB382D1AA8
+Platform: Standalone
+AccountCreationDate: 2024-03-20 23:13:42 UTC
+Color: R=0.00 G=0.00 B=0.00
+Cosmetics: None

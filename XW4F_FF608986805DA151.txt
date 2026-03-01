@@ -1,0 +1,7 @@
+Name: TTDWING
+ActorNumber: 678
+PlayerID: FF608986805DA151
+Platform: Standalone
+AccountCreationDate: 2024-12-25 17:23:02 UTC
+Color: R=0.44 G=0.11 B=0.78
+Cosmetics: None

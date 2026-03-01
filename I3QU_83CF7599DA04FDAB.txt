@@ -1,0 +1,7 @@
+Name: 3AM
+ActorNumber: 28
+PlayerID: 83CF7599DA04FDAB
+Platform: Standalone
+AccountCreationDate: 2025-03-23 01:48:54 UTC
+Color: R=0.22 G=0.89 B=0.67
+Cosmetics: None

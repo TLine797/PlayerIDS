@@ -1,0 +1,7 @@
+Name: W
+ActorNumber: 108
+PlayerID: EFE7A00787B07D34
+Platform: Unknown
+AccountCreationDate: 2022-01-01 03:02:36 UTC
+Color: R=1.00 G=0.44 B=0.89
+Cosmetics: None

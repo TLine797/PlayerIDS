@@ -1,0 +1,7 @@
+Name: SWEBROTHERS
+ActorNumber: 2997
+PlayerID: EDFC38481D7A668F
+Platform: Standalone
+AccountCreationDate: 2025-12-21 20:13:01 UTC
+Color: R=0.67 G=0.00 B=0.00
+Cosmetics: None
