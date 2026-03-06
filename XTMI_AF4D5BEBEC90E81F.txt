@@ -1,0 +1,7 @@
+Name: PROWLER
+ActorNumber: 587
+PlayerID: AF4D5BEBEC90E81F
+Platform: Standalone
+AccountCreationDate: 2025-02-23 01:26:09 UTC
+Color: R=0.00 G=0.00 B=0.00
+Cosmetics: None

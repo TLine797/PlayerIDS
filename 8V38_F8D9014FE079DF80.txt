@@ -1,0 +1,7 @@
+Name: CCORG
+ActorNumber: 710
+PlayerID: F8D9014FE079DF80
+Platform: Unknown
+AccountCreationDate: 2023-01-28 15:41:41 UTC
+Color: R=0.56 G=0.22 B=0.22
+Cosmetics: None

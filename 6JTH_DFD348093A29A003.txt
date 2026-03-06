@@ -1,0 +1,7 @@
+Name: CHACHAYT
+ActorNumber: 167
+PlayerID: DFD348093A29A003
+Platform: PC
+AccountCreationDate: 2026-02-01 18:59:27 UTC
+Color: R=0.33 G=0.44 B=0.56
+Cosmetics: None

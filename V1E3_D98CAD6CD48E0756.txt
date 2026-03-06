@@ -1,0 +1,7 @@
+Name: EMMA
+ActorNumber: 316
+PlayerID: D98CAD6CD48E0756
+Platform: Standalone
+AccountCreationDate: 2025-12-25 17:27:52 UTC
+Color: R=0.11 G=0.89 B=1.00
+Cosmetics: None

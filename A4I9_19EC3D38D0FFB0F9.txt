@@ -1,0 +1,7 @@
+Name: kkll
+ActorNumber: 1363
+PlayerID: 19EC3D38D0FFB0F9
+Platform: Standalone
+AccountCreationDate: 2026-01-03 22:58:14 UTC
+Color: R=1.00 G=0.22 B=0.44
+Cosmetics: None

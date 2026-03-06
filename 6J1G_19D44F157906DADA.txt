@@ -1,0 +1,7 @@
+Name: BANANAVR
+ActorNumber: 441
+PlayerID: 19D44F157906DADA
+Platform: Standalone
+AccountCreationDate: 2025-07-03 07:05:21 UTC
+Color: R=1.00 G=1.00 B=0.00
+Cosmetics: None

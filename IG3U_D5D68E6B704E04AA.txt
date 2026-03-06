@@ -1,0 +1,7 @@
+Name: WHITETOES
+ActorNumber: 963
+PlayerID: D5D68E6B704E04AA
+Platform: Standalone
+AccountCreationDate: 2023-11-25 19:37:05 UTC
+Color: R=1.00 G=0.00 B=0.56
+Cosmetics: None

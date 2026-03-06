@@ -1,0 +1,7 @@
+Name: gorilla5492
+ActorNumber: 460
+PlayerID: 1858880A147FE275
+Platform: Standalone
+AccountCreationDate: 2026-01-02 06:52:46 UTC
+Color: R=0.33 G=0.44 B=1.00
+Cosmetics: None

@@ -1,0 +1,7 @@
+Name: 77VUKO
+ActorNumber: 76
+PlayerID: 964AD81770D882E9
+Platform: Standalone
+AccountCreationDate: 2024-06-18 22:40:15 UTC
+Color: R=1.00 G=0.00 B=0.89
+Cosmetics: None

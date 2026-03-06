@@ -1,0 +1,7 @@
+Name: TV
+ActorNumber: 8
+PlayerID: D513D3579F1E3D58
+Platform: Standalone
+AccountCreationDate: 2025-12-28 22:33:30 UTC
+Color: R=0.11 G=0.00 B=1.00
+Cosmetics: None

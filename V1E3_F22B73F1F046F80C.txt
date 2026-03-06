@@ -1,0 +1,7 @@
+Name: gorilla
+ActorNumber: 367
+PlayerID: F22B73F1F046F80C
+Platform: Standalone
+AccountCreationDate: 2025-12-25 00:17:14 UTC
+Color: R=0.00 G=0.00 B=0.00
+Cosmetics: None

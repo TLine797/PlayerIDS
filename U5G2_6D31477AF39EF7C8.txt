@@ -1,0 +1,7 @@
+Name: JACOBGAMES
+ActorNumber: 66
+PlayerID: 6D31477AF39EF7C8
+Platform: Standalone
+AccountCreationDate: 2025-12-26 01:16:02 UTC
+Color: R=0.11 G=0.67 B=1.00
+Cosmetics: None

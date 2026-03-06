@@ -1,0 +1,7 @@
+Name: MRLONGHORN
+ActorNumber: 28
+PlayerID: 8C825A9E994EA794
+Platform: Standalone
+AccountCreationDate: 2024-12-25 20:52:49 UTC
+Color: R=0.22 G=0.56 B=0.78
+Cosmetics: None

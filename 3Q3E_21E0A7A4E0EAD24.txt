@@ -1,0 +1,7 @@
+Name: TGHPIXIE
+ActorNumber: 608
+PlayerID: 21E0A7A4E0EAD24
+Platform: PC
+AccountCreationDate: 2025-03-24 22:46:19 UTC
+Color: R=0.44 G=0.22 B=0.11
+Cosmetics: None

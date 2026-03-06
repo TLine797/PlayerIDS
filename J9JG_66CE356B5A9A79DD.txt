@@ -1,0 +1,7 @@
+Name: HILLBILLY
+ActorNumber: 1067
+PlayerID: 66CE356B5A9A79DD
+Platform: Unknown
+AccountCreationDate: 2022-05-29 22:56:33 UTC
+Color: R=1.00 G=1.00 B=1.00
+Cosmetics: None

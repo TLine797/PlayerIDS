@@ -1,0 +1,7 @@
+Name: FBGMFAZER
+ActorNumber: 883
+PlayerID: 12743133BB5F2ADC
+Platform: Standalone
+AccountCreationDate: 2026-01-01 07:45:50 UTC
+Color: R=0.00 G=0.00 B=0.00
+Cosmetics: None

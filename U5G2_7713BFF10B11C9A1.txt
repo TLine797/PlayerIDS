@@ -1,0 +1,7 @@
+Name: TTTDEOIMMONM
+ActorNumber: 61
+PlayerID: 7713BFF10B11C9A1
+Platform: Standalone
+AccountCreationDate: 2024-04-13 22:26:52 UTC
+Color: R=0.33 G=0.89 B=0.33
+Cosmetics: None

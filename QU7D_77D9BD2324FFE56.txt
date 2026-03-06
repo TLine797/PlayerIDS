@@ -1,0 +1,7 @@
+Name: MENBIGBBG
+ActorNumber: 492
+PlayerID: 77D9BD2324FFE56
+Platform: Standalone
+AccountCreationDate: 2025-12-25 20:44:33 UTC
+Color: R=0.00 G=0.00 B=0.00
+Cosmetics: None

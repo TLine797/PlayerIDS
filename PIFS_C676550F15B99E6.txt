@@ -1,0 +1,7 @@
+Name: IMONSTANDY
+ActorNumber: 487
+PlayerID: C676550F15B99E6
+Platform: Standalone
+AccountCreationDate: 2023-02-22 21:24:01 UTC
+Color: R=1.00 G=0.67 B=0.33
+Cosmetics: None

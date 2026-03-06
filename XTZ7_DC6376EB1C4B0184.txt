@@ -1,0 +1,7 @@
+Name: COCORICO
+ActorNumber: 257
+PlayerID: DC6376EB1C4B0184
+Platform: Standalone
+AccountCreationDate: 2024-12-21 01:15:20 UTC
+Color: R=0.89 G=1.00 B=0.89
+Cosmetics: None

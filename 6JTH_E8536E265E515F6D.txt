@@ -1,0 +1,7 @@
+Name: SAM
+ActorNumber: 163
+PlayerID: E8536E265E515F6D
+Platform: Unknown
+AccountCreationDate: 2023-12-25 19:07:06 UTC
+Color: R=1.00 G=0.67 B=0.67
+Cosmetics: None

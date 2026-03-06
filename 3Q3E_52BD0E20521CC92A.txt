@@ -1,0 +1,7 @@
+Name: ARIA
+ActorNumber: 605
+PlayerID: 52BD0E20521CC92A
+Platform: Standalone
+AccountCreationDate: 2025-12-27 00:47:07 UTC
+Color: R=0.67 G=0.78 B=1.00
+Cosmetics: None

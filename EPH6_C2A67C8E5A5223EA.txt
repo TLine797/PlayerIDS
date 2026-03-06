@@ -1,0 +1,7 @@
+Name: FUNMONK
+ActorNumber: 334
+PlayerID: C2A67C8E5A5223EA
+Platform: Standalone
+AccountCreationDate: 2026-02-27 22:12:26 UTC
+Color: R=0.67 G=0.11 B=1.00
+Cosmetics: None

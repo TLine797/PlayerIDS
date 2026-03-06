@@ -1,0 +1,7 @@
+Name: FRENCHY
+ActorNumber: 52
+PlayerID: CEC25D77700079FE
+Platform: Unknown
+AccountCreationDate: 2023-01-02 00:44:07 UTC
+Color: R=1.00 G=1.00 B=0.56
+Cosmetics: None

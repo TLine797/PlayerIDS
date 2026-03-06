@@ -1,0 +1,7 @@
+Name: BIGBEN
+ActorNumber: 870
+PlayerID: 9CF4F3419FE03990
+Platform: Standalone
+AccountCreationDate: 2025-12-21 16:15:10 UTC
+Color: R=0.56 G=0.33 B=0.00
+Cosmetics: None

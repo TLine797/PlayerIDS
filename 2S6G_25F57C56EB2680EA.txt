@@ -1,0 +1,7 @@
+Name: ROLLDROP
+ActorNumber: 900
+PlayerID: 25F57C56EB2680EA
+Platform: Standalone
+AccountCreationDate: 2023-06-28 20:52:19 UTC
+Color: R=0.44 G=0.44 B=0.56
+Cosmetics: None

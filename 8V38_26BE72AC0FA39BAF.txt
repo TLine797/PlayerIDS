@@ -1,0 +1,7 @@
+Name: TTLUCA
+ActorNumber: 701
+PlayerID: 26BE72AC0FA39BAF
+Platform: Standalone
+AccountCreationDate: 2024-04-02 11:42:07 UTC
+Color: R=0.56 G=0.00 B=0.78
+Cosmetics: None

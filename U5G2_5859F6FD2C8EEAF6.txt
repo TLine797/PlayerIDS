@@ -1,0 +1,7 @@
+Name: gorilla8557
+ActorNumber: 67
+PlayerID: 5859F6FD2C8EEAF6
+Platform: Standalone
+AccountCreationDate: 2026-03-02 22:29:00 UTC
+Color: R=0.67 G=0.78 B=0.56
+Cosmetics: None

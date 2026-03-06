@@ -1,0 +1,7 @@
+Name: NOTH
+ActorNumber: 601
+PlayerID: 7CD5D17879525583
+Platform: Standalone
+AccountCreationDate: 2025-09-13 16:16:26 UTC
+Color: R=0.89 G=0.11 B=0.00
+Cosmetics: None

@@ -1,0 +1,7 @@
+Name: ELJAY
+ActorNumber: 113
+PlayerID: 7CAA58910910D3F5
+Platform: Standalone
+AccountCreationDate: 2025-11-08 23:08:33 UTC
+Color: R=0.00 G=0.00 B=0.00
+Cosmetics: None

@@ -1,0 +1,7 @@
+Name: TLLCOSMIK
+ActorNumber: 447
+PlayerID: 34AC021A07AC4C5C
+Platform: Standalone
+AccountCreationDate: 2023-03-03 17:29:54 UTC
+Color: R=0.11 G=0.22 B=1.00
+Cosmetics: None

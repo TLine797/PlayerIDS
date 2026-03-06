@@ -1,0 +1,7 @@
+Name: ICEOGKID
+ActorNumber: 495
+PlayerID: FF07532A27584B61
+Platform: Standalone
+AccountCreationDate: 2025-12-25 19:32:54 UTC
+Color: R=0.67 G=0.89 B=1.00
+Cosmetics: None

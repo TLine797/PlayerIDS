@@ -1,0 +1,7 @@
+Name: SN1PEZ
+ActorNumber: 143
+PlayerID: 9AC19286F4D37B91
+Platform: Standalone
+AccountCreationDate: 2026-01-15 18:47:29 UTC
+Color: R=0.33 G=0.00 B=0.78
+Cosmetics: None

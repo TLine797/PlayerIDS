@@ -1,0 +1,7 @@
+Name: GOATY67
+ActorNumber: 376
+PlayerID: 1E0C26237EA48BF5
+Platform: Standalone
+AccountCreationDate: 2023-12-25 17:23:59 UTC
+Color: R=0.00 G=0.00 B=0.00
+Cosmetics: None

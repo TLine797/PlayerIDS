@@ -1,0 +1,7 @@
+Name: gorilla3019
+ActorNumber: 590
+PlayerID: C0BAD3BCB13898F0
+Platform: Standalone
+AccountCreationDate: 2025-01-02 00:00:48 UTC
+Color: R=1.00 G=0.00 B=0.67
+Cosmetics: None

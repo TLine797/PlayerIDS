@@ -1,0 +1,7 @@
+Name: FATRUFUS
+ActorNumber: 101
+PlayerID: 5F650BBA5702AA61
+Platform: Standalone
+AccountCreationDate: 2025-09-25 18:38:19 UTC
+Color: R=1.00 G=1.00 B=1.00
+Cosmetics: None

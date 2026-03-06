@@ -1,0 +1,7 @@
+Name: HI
+ActorNumber: 254
+PlayerID: 3EF6BBDBACB7762E
+Platform: Standalone
+AccountCreationDate: 2026-03-01 05:43:50 UTC
+Color: R=0.00 G=0.00 B=0.00
+Cosmetics: None

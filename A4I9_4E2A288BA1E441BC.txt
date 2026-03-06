@@ -1,0 +1,7 @@
+Name: GOOFY
+ActorNumber: 1336
+PlayerID: 4E2A288BA1E441BC
+Platform: Standalone
+AccountCreationDate: 2025-01-01 19:51:33 UTC
+Color: R=0.56 G=1.00 B=0.56
+Cosmetics: None

@@ -1,0 +1,7 @@
+Name: GORILLA1423
+ActorNumber: 60
+PlayerID: B0E70ECE5AF20A3B
+Platform: Standalone
+AccountCreationDate: 2026-01-01 18:53:46 UTC
+Color: R=0.11 G=1.00 B=0.22
+Cosmetics: None

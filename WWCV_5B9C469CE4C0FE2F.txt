@@ -1,0 +1,7 @@
+Name: PIBBLE
+ActorNumber: 1234
+PlayerID: 5B9C469CE4C0FE2F
+Platform: Standalone
+AccountCreationDate: 2025-12-16 23:04:16 UTC
+Color: R=0.56 G=0.00 B=1.00
+Cosmetics: None

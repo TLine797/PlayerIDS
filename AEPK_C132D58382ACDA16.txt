@@ -1,0 +1,7 @@
+Name: NOGF
+ActorNumber: 133
+PlayerID: C132D58382ACDA16
+Platform: Standalone
+AccountCreationDate: 2025-09-02 00:06:33 UTC
+Color: R=0.44 G=0.00 B=0.89
+Cosmetics: None

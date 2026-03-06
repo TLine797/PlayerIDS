@@ -1,0 +1,7 @@
+Name: LEGEND3473
+ActorNumber: 565
+PlayerID: FB0EFD4265349445
+Platform: Standalone
+AccountCreationDate: 2025-07-05 01:29:04 UTC
+Color: R=0.00 G=1.00 B=1.00
+Cosmetics: None

@@ -1,0 +1,7 @@
+Name: GORILLA6597
+ActorNumber: 234
+PlayerID: B055B9608BC53517
+Platform: Standalone
+AccountCreationDate: 2025-11-28 06:35:41 UTC
+Color: R=0.44 G=0.33 B=0.22
+Cosmetics: None

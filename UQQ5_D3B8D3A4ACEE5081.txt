@@ -1,0 +1,7 @@
+Name: MAX
+ActorNumber: 313
+PlayerID: D3B8D3A4ACEE5081
+Platform: Standalone
+AccountCreationDate: 2025-12-25 18:20:23 UTC
+Color: R=0.00 G=0.00 B=0.00
+Cosmetics: None

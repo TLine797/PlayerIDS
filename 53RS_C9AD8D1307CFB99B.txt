@@ -1,0 +1,7 @@
+Name: gorilla1801S
+ActorNumber: 1020
+PlayerID: C9AD8D1307CFB99B
+Platform: Standalone
+AccountCreationDate: 2025-12-26 21:50:11 UTC
+Color: R=0.56 G=0.22 B=0.33
+Cosmetics: None

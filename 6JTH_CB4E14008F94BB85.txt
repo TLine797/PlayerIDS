@@ -1,0 +1,7 @@
+Name: GORRILA1867
+ActorNumber: 161
+PlayerID: CB4E14008F94BB85
+Platform: Standalone
+AccountCreationDate: 2025-12-26 22:35:54 UTC
+Color: R=0.00 G=0.00 B=0.00
+Cosmetics: None

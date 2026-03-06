@@ -1,0 +1,7 @@
+Name: COOLMONKIE
+ActorNumber: 182
+PlayerID: 78D4AB750C257F9
+Platform: Standalone
+AccountCreationDate: 2025-02-14 21:13:49 UTC
+Color: R=0.00 G=0.78 B=1.00
+Cosmetics: None

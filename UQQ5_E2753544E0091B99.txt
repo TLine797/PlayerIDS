@@ -1,0 +1,7 @@
+Name: COOLGORILA67
+ActorNumber: 299
+PlayerID: E2753544E0091B99
+Platform: Standalone
+AccountCreationDate: 2026-02-20 19:55:56 UTC
+Color: R=1.00 G=1.00 B=1.00
+Cosmetics: None

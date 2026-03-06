@@ -1,0 +1,7 @@
+Name: RFXZURK
+ActorNumber: 163
+PlayerID: 1B5E577A6FFD50D6
+Platform: Standalone
+AccountCreationDate: 2025-12-24 21:09:52 UTC
+Color: R=0.00 G=1.00 B=0.00
+Cosmetics: None

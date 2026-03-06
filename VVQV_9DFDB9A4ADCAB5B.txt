@@ -1,0 +1,7 @@
+Name: BIGGIE
+ActorNumber: 15
+PlayerID: 9DFDB9A4ADCAB5B
+Platform: Standalone
+AccountCreationDate: 2025-12-25 15:18:09 UTC
+Color: R=0.67 G=0.00 B=0.00
+Cosmetics: None

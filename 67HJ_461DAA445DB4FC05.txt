@@ -1,0 +1,7 @@
+Name: JEFFLTR
+ActorNumber: 56
+PlayerID: 461DAA445DB4FC05
+Platform: Standalone
+AccountCreationDate: 2025-01-20 21:02:23 UTC
+Color: R=0.81 G=0.19 B=0.10
+Cosmetics: None

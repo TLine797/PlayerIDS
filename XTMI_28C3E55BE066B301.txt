@@ -1,0 +1,7 @@
+Name: KIRKY
+ActorNumber: 608
+PlayerID: 28C3E55BE066B301
+Platform: Standalone
+AccountCreationDate: 2023-12-25 22:37:32 UTC
+Color: R=1.00 G=0.00 B=0.00
+Cosmetics: None

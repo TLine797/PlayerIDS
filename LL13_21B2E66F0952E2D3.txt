@@ -1,0 +1,7 @@
+Name: GOONER1
+ActorNumber: 435
+PlayerID: 21B2E66F0952E2D3
+Platform: Standalone
+AccountCreationDate: 2025-12-25 14:02:12 UTC
+Color: R=0.89 G=0.67 B=0.78
+Cosmetics: None

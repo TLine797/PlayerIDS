@@ -1,0 +1,7 @@
+Name: KILLUA
+ActorNumber: 459
+PlayerID: 70361C963177CB27
+Platform: Standalone
+AccountCreationDate: 2026-02-25 21:29:48 UTC
+Color: R=0.22 G=0.44 B=0.78
+Cosmetics: None

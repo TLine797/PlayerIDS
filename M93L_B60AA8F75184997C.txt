@@ -1,0 +1,7 @@
+Name: gorilla
+ActorNumber: 139
+PlayerID: B60AA8F75184997C
+Platform: Standalone
+AccountCreationDate: 2025-12-26 00:07:22 UTC
+Color: R=0.00 G=0.00 B=0.56
+Cosmetics: None

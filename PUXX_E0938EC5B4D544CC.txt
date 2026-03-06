@@ -1,0 +1,7 @@
+Name: BUCK
+ActorNumber: 176
+PlayerID: E0938EC5B4D544CC
+Platform: Standalone
+AccountCreationDate: 2025-01-29 00:08:30 UTC
+Color: R=0.67 G=0.22 B=1.00
+Cosmetics: None

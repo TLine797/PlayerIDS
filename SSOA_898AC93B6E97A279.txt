@@ -1,0 +1,7 @@
+Name: SP1DER
+ActorNumber: 5
+PlayerID: 898AC93B6E97A279
+Platform: Standalone
+AccountCreationDate: 2025-06-29 03:05:23 UTC
+Color: R=0.22 G=0.44 B=1.00
+Cosmetics: None

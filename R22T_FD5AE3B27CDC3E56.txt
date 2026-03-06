@@ -1,0 +1,7 @@
+Name: HJP
+ActorNumber: 7
+PlayerID: FD5AE3B27CDC3E56
+Platform: Unknown
+AccountCreationDate: 2023-01-13 00:40:11 UTC
+Color: R=0.67 G=0.44 B=0.44
+Cosmetics: None

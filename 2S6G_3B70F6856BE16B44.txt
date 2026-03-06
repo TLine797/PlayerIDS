@@ -1,0 +1,7 @@
+Name: BACON
+ActorNumber: 917
+PlayerID: 3B70F6856BE16B44
+Platform: Standalone
+AccountCreationDate: 2025-12-25 14:37:26 UTC
+Color: R=0.22 G=0.22 B=0.22
+Cosmetics: None

@@ -1,0 +1,7 @@
+Name: VIXEDITSTT
+ActorNumber: 364
+PlayerID: F65514EFC7E43FFD
+Platform: Standalone
+AccountCreationDate: 2025-07-26 10:25:06 UTC
+Color: R=0.67 G=0.78 B=0.33
+Cosmetics: None

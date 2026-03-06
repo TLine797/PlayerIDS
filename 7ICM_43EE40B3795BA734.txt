@@ -1,0 +1,7 @@
+Name: EZ
+ActorNumber: 477
+PlayerID: 43EE40B3795BA734
+Platform: Standalone
+AccountCreationDate: 2025-12-26 12:34:43 UTC
+Color: R=0.00 G=0.00 B=0.00
+Cosmetics: None

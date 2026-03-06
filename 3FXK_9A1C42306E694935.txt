@@ -1,0 +1,7 @@
+Name: REWRITE
+ActorNumber: 1402
+PlayerID: 9A1C42306E694935
+Platform: Standalone
+AccountCreationDate: 2024-06-05 16:47:10 UTC
+Color: R=0.33 G=0.00 B=0.00
+Cosmetics: None

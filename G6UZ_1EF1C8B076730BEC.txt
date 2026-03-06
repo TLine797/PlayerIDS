@@ -1,0 +1,7 @@
+Name: THEO9
+ActorNumber: 2267
+PlayerID: 1EF1C8B076730BEC
+Platform: Unknown
+AccountCreationDate: 2022-01-16 13:24:18 UTC
+Color: R=1.00 G=1.00 B=0.00
+Cosmetics: None

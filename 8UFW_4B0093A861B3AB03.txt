@@ -1,0 +1,7 @@
+Name: PITTSBURGH02
+ActorNumber: 1261
+PlayerID: 4B0093A861B3AB03
+Platform: Unknown
+AccountCreationDate: 2022-09-02 08:23:22 UTC
+Color: R=1.00 G=1.00 B=0.00
+Cosmetics: None

@@ -1,0 +1,7 @@
+Name: TDMHUNT444
+ActorNumber: 309
+PlayerID: FF48EBA58CAB12AF
+Platform: Standalone
+AccountCreationDate: 2024-03-27 21:46:06 UTC
+Color: R=0.22 G=0.00 B=0.67
+Cosmetics: None

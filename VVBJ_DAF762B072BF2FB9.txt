@@ -1,0 +1,7 @@
+Name: KAYLEA
+ActorNumber: 35
+PlayerID: DAF762B072BF2FB9
+Platform: Standalone
+AccountCreationDate: 2025-12-25 15:28:00 UTC
+Color: R=0.00 G=0.78 B=1.00
+Cosmetics: None

@@ -1,0 +1,7 @@
+Name: gorilla
+ActorNumber: 134
+PlayerID: 2A5D2B111A638179
+Platform: Standalone
+AccountCreationDate: 2026-03-02 22:38:13 UTC
+Color: R=0.00 G=0.00 B=0.00
+Cosmetics: None

@@ -1,0 +1,7 @@
+Name: GRAYD
+ActorNumber: 319
+PlayerID: 93354B1D3B0342D8
+Platform: Standalone
+AccountCreationDate: 2025-06-24 22:09:26 UTC
+Color: R=0.00 G=0.00 B=0.00
+Cosmetics: None

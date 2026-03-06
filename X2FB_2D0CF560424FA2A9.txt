@@ -1,0 +1,7 @@
+Name: FEMBOY
+ActorNumber: 695
+PlayerID: 2D0CF560424FA2A9
+Platform: Unknown
+AccountCreationDate: 2022-10-28 10:41:37 UTC
+Color: R=1.00 G=1.00 B=1.00
+Cosmetics: None

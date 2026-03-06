@@ -1,0 +1,7 @@
+Name: MASKEDKILLA
+ActorNumber: 1351
+PlayerID: D61B947263FAE36
+Platform: Unknown
+AccountCreationDate: 2022-01-25 21:59:57 UTC
+Color: R=0.44 G=0.00 B=0.00
+Cosmetics: None

@@ -1,0 +1,7 @@
+Name: NOG
+ActorNumber: 568
+PlayerID: 9B512B98F1ADD594
+Platform: Standalone
+AccountCreationDate: 2025-08-20 21:13:24 UTC
+Color: R=0.22 G=0.00 B=0.67
+Cosmetics: None

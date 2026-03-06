@@ -1,0 +1,7 @@
+Name: 72HRZ
+ActorNumber: 168
+PlayerID: 1CBE69AB03F55304
+Platform: Standalone
+AccountCreationDate: 2022-03-19 23:39:25 UTC
+Color: R=0.22 G=0.00 B=0.22
+Cosmetics: None

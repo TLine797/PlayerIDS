@@ -1,0 +1,7 @@
+Name: C
+ActorNumber: 146
+PlayerID: CC5E3935C3423FA2
+Platform: Standalone
+AccountCreationDate: 2024-03-23 20:39:35 UTC
+Color: R=0.00 G=0.33 B=0.33
+Cosmetics: None

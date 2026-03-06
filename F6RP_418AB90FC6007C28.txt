@@ -1,0 +1,7 @@
+Name: GORILLA3832
+ActorNumber: 107
+PlayerID: 418AB90FC6007C28
+Platform: Standalone
+AccountCreationDate: 2025-12-25 19:26:43 UTC
+Color: R=1.00 G=0.00 B=0.00
+Cosmetics: None

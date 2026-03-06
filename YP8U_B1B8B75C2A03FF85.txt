@@ -1,0 +1,7 @@
+Name: ROOTBEER
+ActorNumber: 81
+PlayerID: B1B8B75C2A03FF85
+Platform: Unknown
+AccountCreationDate: 2022-10-02 23:19:32 UTC
+Color: R=1.00 G=0.44 B=0.22
+Cosmetics: None

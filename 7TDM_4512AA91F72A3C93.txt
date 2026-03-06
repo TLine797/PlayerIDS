@@ -1,0 +1,7 @@
+Name: LUMINECSENT
+ActorNumber: 103
+PlayerID: 4512AA91F72A3C93
+Platform: Unknown
+AccountCreationDate: 2023-02-01 15:27:08 UTC
+Color: R=0.33 G=0.44 B=1.00
+Cosmetics: None

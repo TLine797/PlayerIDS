@@ -1,0 +1,7 @@
+Name: ATLAS
+ActorNumber: 258
+PlayerID: 9ED4397C34D226DE
+Platform: Standalone
+AccountCreationDate: 2025-08-29 23:08:31 UTC
+Color: R=0.00 G=0.11 B=0.33
+Cosmetics: None

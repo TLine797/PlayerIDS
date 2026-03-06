@@ -1,0 +1,7 @@
+Name: TAMBRVRE
+ActorNumber: 433
+PlayerID: 59D737B151CECFAC
+Platform: Standalone
+AccountCreationDate: 2024-07-28 17:45:39 UTC
+Color: R=0.44 G=0.00 B=0.78
+Cosmetics: None

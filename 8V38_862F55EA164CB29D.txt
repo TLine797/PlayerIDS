@@ -1,0 +1,7 @@
+Name: ROSE
+ActorNumber: 677
+PlayerID: 862F55EA164CB29D
+Platform: Standalone
+AccountCreationDate: 2025-12-26 04:37:44 UTC
+Color: R=0.78 G=0.44 B=0.56
+Cosmetics: None

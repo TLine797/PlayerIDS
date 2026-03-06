@@ -1,0 +1,7 @@
+Name: GUSRED
+ActorNumber: 50
+PlayerID: 58808E92DDAC0855
+Platform: Standalone
+AccountCreationDate: 2024-10-09 00:41:19 UTC
+Color: R=0.00 G=0.11 B=1.00
+Cosmetics: None

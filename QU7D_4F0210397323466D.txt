@@ -1,0 +1,7 @@
+Name: 1GGW
+ActorNumber: 499
+PlayerID: 4F0210397323466D
+Platform: Standalone
+AccountCreationDate: 2022-09-04 01:59:16 UTC
+Color: R=0.00 G=1.00 B=1.00
+Cosmetics: None

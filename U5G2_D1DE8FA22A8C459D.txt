@@ -1,0 +1,7 @@
+Name: OLIVER
+ActorNumber: 42
+PlayerID: D1DE8FA22A8C459D
+Platform: Standalone
+AccountCreationDate: 2025-04-04 19:38:26 UTC
+Color: R=0.00 G=0.67 B=0.67
+Cosmetics: None

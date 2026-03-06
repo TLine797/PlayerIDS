@@ -1,0 +1,7 @@
+Name: gorilla
+ActorNumber: 829
+PlayerID: F54913E036659A67
+Platform: Standalone
+AccountCreationDate: 2026-02-10 22:55:01 UTC
+Color: R=0.22 G=0.44 B=0.78
+Cosmetics: None

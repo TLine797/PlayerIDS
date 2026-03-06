@@ -1,0 +1,7 @@
+Name: gorilla
+ActorNumber: 447
+PlayerID: 7AE3126D0A944517
+Platform: Standalone
+AccountCreationDate: 2025-07-10 19:54:12 UTC
+Color: R=1.00 G=0.00 B=0.22
+Cosmetics: None

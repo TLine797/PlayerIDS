@@ -1,0 +1,7 @@
+Name: PROGRAM15233
+ActorNumber: 838
+PlayerID: 9880D05D04E4180E
+Platform: Standalone
+AccountCreationDate: 2023-03-27 01:08:22 UTC
+Color: R=1.00 G=0.22 B=0.22
+Cosmetics: None

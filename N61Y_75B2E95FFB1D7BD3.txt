@@ -1,0 +1,7 @@
+Name: MOE
+ActorNumber: 1024
+PlayerID: 75B2E95FFB1D7BD3
+Platform: PC
+AccountCreationDate: 2024-12-30 02:44:11 UTC
+Color: R=0.11 G=1.00 B=0.22
+Cosmetics: None

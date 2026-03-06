@@ -1,0 +1,7 @@
+Name: DEFORM
+ActorNumber: 883
+PlayerID: 99D0F01EAC3136C6
+Platform: Unknown
+AccountCreationDate: 2022-06-09 17:15:15 UTC
+Color: R=0.44 G=0.00 B=0.33
+Cosmetics: None

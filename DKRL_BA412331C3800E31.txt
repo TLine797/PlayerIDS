@@ -1,0 +1,7 @@
+Name: BLNKHLEGTAG
+ActorNumber: 87
+PlayerID: BA412331C3800E31
+Platform: Standalone
+AccountCreationDate: 2025-12-25 15:40:42 UTC
+Color: R=0.33 G=0.00 B=0.67
+Cosmetics: None

@@ -1,0 +1,7 @@
+Name: SONIC
+ActorNumber: 128
+PlayerID: 484057000C4DDEC
+Platform: Standalone
+AccountCreationDate: 2025-12-01 22:58:59 UTC
+Color: R=0.00 G=0.00 B=1.00
+Cosmetics: None

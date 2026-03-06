@@ -1,0 +1,7 @@
+Name: HOLYMOLY
+ActorNumber: 268
+PlayerID: 22622C1F12C3E83A
+Platform: Standalone
+AccountCreationDate: 2024-01-05 17:57:44 UTC
+Color: R=0.22 G=0.33 B=0.56
+Cosmetics: None

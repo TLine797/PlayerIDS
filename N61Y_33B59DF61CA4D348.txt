@@ -1,0 +1,7 @@
+Name: M5
+ActorNumber: 1043
+PlayerID: 33B59DF61CA4D348
+Platform: Standalone
+AccountCreationDate: 2023-12-23 02:10:03 UTC
+Color: R=0.22 G=0.00 B=0.67
+Cosmetics: None

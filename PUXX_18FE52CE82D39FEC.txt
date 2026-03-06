@@ -1,0 +1,7 @@
+Name: JET
+ActorNumber: 180
+PlayerID: 18FE52CE82D39FEC
+Platform: Standalone
+AccountCreationDate: 2025-11-19 00:07:14 UTC
+Color: R=0.00 G=0.00 B=0.00
+Cosmetics: None

@@ -1,0 +1,7 @@
+Name: JIMMY
+ActorNumber: 1263
+PlayerID: BC42CBE2586886AC
+Platform: Standalone
+AccountCreationDate: 2025-12-25 19:06:45 UTC
+Color: R=0.00 G=1.00 B=0.00
+Cosmetics: None

@@ -1,0 +1,7 @@
+Name: DINGLENUT
+ActorNumber: 1311
+PlayerID: D7CF11063A740F6E
+Platform: Standalone
+AccountCreationDate: 2024-12-25 22:10:58 UTC
+Color: R=1.00 G=0.44 B=0.22
+Cosmetics: None

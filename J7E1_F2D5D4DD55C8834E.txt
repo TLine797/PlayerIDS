@@ -1,0 +1,7 @@
+Name: ECHO
+ActorNumber: 288
+PlayerID: F2D5D4DD55C8834E
+Platform: Standalone
+AccountCreationDate: 2023-07-16 20:58:15 UTC
+Color: R=0.00 G=1.00 B=1.00
+Cosmetics: None

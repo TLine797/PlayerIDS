@@ -1,0 +1,7 @@
+Name: BRAYDENZZ
+ActorNumber: 289
+PlayerID: 681E1E530A284F40
+Platform: Unknown
+AccountCreationDate: 2022-06-25 02:33:52 UTC
+Color: R=1.00 G=0.44 B=0.44
+Cosmetics: None

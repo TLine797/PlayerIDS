@@ -1,0 +1,7 @@
+Name: 67KID2
+ActorNumber: 70
+PlayerID: 700CBA99DAF9BA31
+Platform: Standalone
+AccountCreationDate: 2023-10-26 20:30:57 UTC
+Color: R=0.33 G=1.00 B=0.00
+Cosmetics: None

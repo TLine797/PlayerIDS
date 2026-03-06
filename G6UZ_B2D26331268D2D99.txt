@@ -1,0 +1,7 @@
+Name: FORGOTTEN
+ActorNumber: 2259
+PlayerID: B2D26331268D2D99
+Platform: Standalone
+AccountCreationDate: 2026-01-11 11:29:20 UTC
+Color: R=0.00 G=0.11 B=0.22
+Cosmetics: None

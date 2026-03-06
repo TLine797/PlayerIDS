@@ -1,0 +1,7 @@
+Name: GEORG
+ActorNumber: 1356
+PlayerID: C7A4EE89A980876A
+Platform: Standalone
+AccountCreationDate: 2023-08-01 14:15:42 UTC
+Color: R=1.00 G=1.00 B=1.00
+Cosmetics: None

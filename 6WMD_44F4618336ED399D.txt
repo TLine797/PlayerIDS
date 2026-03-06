@@ -1,0 +1,7 @@
+Name: RANGER4AA
+ActorNumber: 5
+PlayerID: 44F4618336ED399D
+Platform: Standalone
+AccountCreationDate: 2023-12-24 16:10:03 UTC
+Color: R=0.22 G=0.11 B=1.00
+Cosmetics: None

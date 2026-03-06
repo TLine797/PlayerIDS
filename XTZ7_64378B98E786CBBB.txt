@@ -1,0 +1,7 @@
+Name: TOUTHGRASS
+ActorNumber: 266
+PlayerID: 64378B98E786CBBB
+Platform: Standalone
+AccountCreationDate: 2026-01-14 03:13:07 UTC
+Color: R=0.11 G=0.78 B=1.00
+Cosmetics: None

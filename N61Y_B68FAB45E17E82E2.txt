@@ -1,0 +1,7 @@
+Name: JKVR
+ActorNumber: 1033
+PlayerID: B68FAB45E17E82E2
+Platform: Standalone
+AccountCreationDate: 2025-12-23 14:00:50 UTC
+Color: R=1.00 G=1.00 B=1.00
+Cosmetics: None

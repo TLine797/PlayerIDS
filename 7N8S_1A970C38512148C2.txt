@@ -1,0 +1,7 @@
+Name: gorilla3665
+ActorNumber: 1185
+PlayerID: 1A970C38512148C2
+Platform: Standalone
+AccountCreationDate: 2024-12-25 17:59:00 UTC
+Color: R=0.33 G=0.22 B=0.56
+Cosmetics: None

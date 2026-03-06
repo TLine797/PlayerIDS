@@ -1,0 +1,7 @@
+Name: MARINNA
+ActorNumber: 165
+PlayerID: 3AD2835E7423CFB6
+Platform: Standalone
+AccountCreationDate: 2025-01-31 03:07:27 UTC
+Color: R=0.22 G=0.78 B=1.00
+Cosmetics: None

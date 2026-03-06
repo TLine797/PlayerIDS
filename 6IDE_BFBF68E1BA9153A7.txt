@@ -1,0 +1,7 @@
+Name: FEAR
+ActorNumber: 1007
+PlayerID: BFBF68E1BA9153A7
+Platform: Standalone
+AccountCreationDate: 2025-07-22 01:19:32 UTC
+Color: R=0.22 G=0.00 B=0.00
+Cosmetics: None

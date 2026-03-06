@@ -1,0 +1,7 @@
+Name: SOCRATESGT
+ActorNumber: 481
+PlayerID: 4BAA32AC78B58A84
+Platform: Standalone
+AccountCreationDate: 2025-07-25 07:35:02 UTC
+Color: R=1.00 G=0.78 B=0.56
+Cosmetics: None

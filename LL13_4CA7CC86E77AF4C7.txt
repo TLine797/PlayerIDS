@@ -1,0 +1,7 @@
+Name: DEEP
+ActorNumber: 486
+PlayerID: 4CA7CC86E77AF4C7
+Platform: Standalone
+AccountCreationDate: 2026-01-09 14:12:56 UTC
+Color: R=1.00 G=0.44 B=1.00
+Cosmetics: None

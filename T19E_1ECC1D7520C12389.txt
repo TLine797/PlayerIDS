@@ -1,0 +1,7 @@
+Name: TAPUVR1331
+ActorNumber: 214
+PlayerID: 1ECC1D7520C12389
+Platform: Standalone
+AccountCreationDate: 2024-01-07 21:07:29 UTC
+Color: R=0.89 G=0.89 B=0.00
+Cosmetics: None

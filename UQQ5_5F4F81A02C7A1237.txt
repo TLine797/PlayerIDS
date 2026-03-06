@@ -1,0 +1,7 @@
+Name: GGTV3
+ActorNumber: 314
+PlayerID: 5F4F81A02C7A1237
+Platform: Unknown
+AccountCreationDate: 2023-12-30 20:52:47 UTC
+Color: R=0.22 G=0.11 B=0.00
+Cosmetics: None

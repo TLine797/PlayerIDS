@@ -1,0 +1,7 @@
+Name: gorilla2040
+ActorNumber: 430
+PlayerID: 4E330966E7BDB1D3
+Platform: Standalone
+AccountCreationDate: 2025-12-19 17:39:49 UTC
+Color: R=0.00 G=1.00 B=1.00
+Cosmetics: None

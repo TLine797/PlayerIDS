@@ -1,0 +1,7 @@
+Name: RESKYISBETTE
+ActorNumber: 6
+PlayerID: C1AA3C03742DB58D
+Platform: PC
+AccountCreationDate: 2024-01-30 01:27:23 UTC
+Color: R=0.33 G=0.33 B=0.78
+Cosmetics: None

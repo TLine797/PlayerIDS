@@ -1,0 +1,7 @@
+Name: MELON
+ActorNumber: 441
+PlayerID: CF53969DB44F4BC0
+Platform: Standalone
+AccountCreationDate: 2024-12-25 17:01:32 UTC
+Color: R=1.00 G=0.56 B=0.89
+Cosmetics: None

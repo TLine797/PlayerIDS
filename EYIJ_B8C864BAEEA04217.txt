@@ -1,0 +1,7 @@
+Name: JMVR
+ActorNumber: 27
+PlayerID: B8C864BAEEA04217
+Platform: Standalone
+AccountCreationDate: 2025-07-07 21:36:30 UTC
+Color: R=0.33 G=0.56 B=0.67
+Cosmetics: None

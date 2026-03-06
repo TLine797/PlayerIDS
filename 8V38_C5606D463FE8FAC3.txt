@@ -1,0 +1,7 @@
+Name: RAINBOW
+ActorNumber: 671
+PlayerID: C5606D463FE8FAC3
+Platform: Standalone
+AccountCreationDate: 2024-12-25 13:36:22 UTC
+Color: R=0.22 G=0.33 B=0.78
+Cosmetics: None

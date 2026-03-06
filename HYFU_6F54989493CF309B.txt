@@ -1,0 +1,7 @@
+Name: ERIC
+ActorNumber: 1426
+PlayerID: 6F54989493CF309B
+Platform: Standalone
+AccountCreationDate: 2025-12-25 14:25:34 UTC
+Color: R=0.67 G=0.67 B=0.67
+Cosmetics: None

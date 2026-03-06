@@ -1,0 +1,7 @@
+Name: gorilla8047
+ActorNumber: 108
+PlayerID: BA4F2108103B9873
+Platform: Standalone
+AccountCreationDate: 2025-12-27 23:44:43 UTC
+Color: R=1.00 G=1.00 B=1.00
+Cosmetics: None

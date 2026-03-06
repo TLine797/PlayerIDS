@@ -1,0 +1,7 @@
+Name: BABYBOO
+ActorNumber: 878
+PlayerID: DF6FEEA59825B6A7
+Platform: Standalone
+AccountCreationDate: 2024-07-24 05:13:45 UTC
+Color: R=1.00 G=0.67 B=0.78
+Cosmetics: None

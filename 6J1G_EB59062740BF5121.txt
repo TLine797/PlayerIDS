@@ -1,0 +1,7 @@
+Name: MASON
+ActorNumber: 434
+PlayerID: EB59062740BF5121
+Platform: Standalone
+AccountCreationDate: 2025-07-20 22:56:43 UTC
+Color: R=1.00 G=1.00 B=0.00
+Cosmetics: None

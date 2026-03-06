@@ -1,0 +1,7 @@
+Name: DAVE
+ActorNumber: 1673
+PlayerID: FA8A0B9140E098B7
+Platform: Standalone
+AccountCreationDate: 2024-07-27 21:23:36 UTC
+Color: R=0.00 G=0.00 B=0.00
+Cosmetics: None

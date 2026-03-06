@@ -1,0 +1,7 @@
+Name: WAIT
+ActorNumber: 559
+PlayerID: A9E985084D017426
+Platform: Unknown
+AccountCreationDate: 2022-12-26 11:14:34 UTC
+Color: R=0.67 G=0.00 B=1.00
+Cosmetics: None

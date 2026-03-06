@@ -1,0 +1,7 @@
+Name: UNKOWNALT
+ActorNumber: 1360
+PlayerID: 16D302AA247812CB
+Platform: Standalone
+AccountCreationDate: 2025-08-06 14:29:43 UTC
+Color: R=0.43 G=0.87 B=0.94
+Cosmetics: None

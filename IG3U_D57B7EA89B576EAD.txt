@@ -1,0 +1,7 @@
+Name: ARFROSTY
+ActorNumber: 952
+PlayerID: D57B7EA89B576EAD
+Platform: Standalone
+AccountCreationDate: 2024-02-11 09:22:44 UTC
+Color: R=0.00 G=0.00 B=0.00
+Cosmetics: None

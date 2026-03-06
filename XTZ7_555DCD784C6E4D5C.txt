@@ -1,0 +1,7 @@
+Name: PARTYMANKEY
+ActorNumber: 214
+PlayerID: 555DCD784C6E4D5C
+Platform: Standalone
+AccountCreationDate: 2025-12-29 00:55:51 UTC
+Color: R=0.67 G=0.78 B=0.89
+Cosmetics: None

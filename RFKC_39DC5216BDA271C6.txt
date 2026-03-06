@@ -1,0 +1,7 @@
+Name: NOOB
+ActorNumber: 465
+PlayerID: 39DC5216BDA271C6
+Platform: Standalone
+AccountCreationDate: 2023-07-23 03:32:07 UTC
+Color: R=0.00 G=0.00 B=0.00
+Cosmetics: None

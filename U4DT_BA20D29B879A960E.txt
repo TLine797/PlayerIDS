@@ -1,0 +1,7 @@
+Name: 67NO89
+ActorNumber: 301
+PlayerID: BA20D29B879A960E
+Platform: Standalone
+AccountCreationDate: 2025-12-20 01:08:24 UTC
+Color: R=0.00 G=0.44 B=1.00
+Cosmetics: None

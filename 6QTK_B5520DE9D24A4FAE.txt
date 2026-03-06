@@ -1,0 +1,7 @@
+Name: G7Y
+ActorNumber: 578
+PlayerID: B5520DE9D24A4FAE
+Platform: Standalone
+AccountCreationDate: 2025-06-22 16:05:13 UTC
+Color: R=0.00 G=0.00 B=0.00
+Cosmetics: None

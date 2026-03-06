@@ -1,0 +1,7 @@
+Name: COMPKAP
+ActorNumber: 229
+PlayerID: 7C241D1884DE7D8A
+Platform: Standalone
+AccountCreationDate: 2025-04-19 23:29:28 UTC
+Color: R=0.44 G=0.00 B=1.00
+Cosmetics: None

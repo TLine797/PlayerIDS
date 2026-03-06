@@ -1,0 +1,7 @@
+Name: CORY
+ActorNumber: 3645
+PlayerID: BC4095306345AA6A
+Platform: Unknown
+AccountCreationDate: 2021-12-24 05:33:13 UTC
+Color: R=0.00 G=1.00 B=0.00
+Cosmetics: None

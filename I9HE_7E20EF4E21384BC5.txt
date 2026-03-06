@@ -1,0 +1,7 @@
+Name: TTTMEGUSTAA
+ActorNumber: 342
+PlayerID: 7E20EF4E21384BC5
+Platform: Standalone
+AccountCreationDate: 2024-10-27 01:13:07 UTC
+Color: R=0.56 G=0.33 B=0.78
+Cosmetics: None

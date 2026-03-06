@@ -1,0 +1,7 @@
+Name: LUCY
+ActorNumber: 315
+PlayerID: 4098DE777EEC03E1
+Platform: Unknown
+AccountCreationDate: 2024-12-15 19:50:57 UTC
+Color: R=0.67 G=1.00 B=1.00
+Cosmetics: None

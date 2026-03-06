@@ -1,0 +1,7 @@
+Name: NAR
+ActorNumber: 472
+PlayerID: 6FD8E145CF2F9E23
+Platform: Standalone
+AccountCreationDate: 2025-12-05 15:19:10 UTC
+Color: R=0.22 G=0.11 B=0.22
+Cosmetics: None

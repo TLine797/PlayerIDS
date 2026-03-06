@@ -1,0 +1,7 @@
+Name: ASHX
+ActorNumber: 536
+PlayerID: D75CF0145D25F4C
+Platform: Standalone
+AccountCreationDate: 2025-12-26 17:58:03 UTC
+Color: R=1.00 G=1.00 B=1.00
+Cosmetics: None

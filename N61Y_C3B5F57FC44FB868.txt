@@ -1,0 +1,7 @@
+Name: BUTTER
+ActorNumber: 830
+PlayerID: C3B5F57FC44FB868
+Platform: Standalone
+AccountCreationDate: 2025-03-30 18:46:50 UTC
+Color: R=0.00 G=1.00 B=0.56
+Cosmetics: None

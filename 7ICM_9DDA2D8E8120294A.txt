@@ -1,0 +1,7 @@
+Name: WASHEDANDBAD
+ActorNumber: 834
+PlayerID: 9DDA2D8E8120294A
+Platform: Standalone
+AccountCreationDate: 2025-06-24 22:52:16 UTC
+Color: R=1.00 G=1.00 B=1.00
+Cosmetics: None

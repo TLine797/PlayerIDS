@@ -1,0 +1,7 @@
+Name: GBWCYAN
+ActorNumber: 124
+PlayerID: CCA828EC0FA0A52C
+Platform: Standalone
+AccountCreationDate: 2023-02-19 23:11:21 UTC
+Color: R=0.33 G=0.33 B=1.00
+Cosmetics: None

@@ -1,0 +1,7 @@
+Name: JERK4KIRK
+ActorNumber: 561
+PlayerID: 352B2E68CF24CB09
+Platform: Standalone
+AccountCreationDate: 2023-09-20 19:59:38 UTC
+Color: R=0.44 G=0.00 B=1.00
+Cosmetics: None

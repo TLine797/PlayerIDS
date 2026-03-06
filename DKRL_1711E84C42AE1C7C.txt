@@ -1,0 +1,7 @@
+Name: ACEMISHA
+ActorNumber: 76
+PlayerID: 1711E84C42AE1C7C
+Platform: Unknown
+AccountCreationDate: 2025-08-05 00:17:12 UTC
+Color: R=0.00 G=0.89 B=0.22
+Cosmetics: None

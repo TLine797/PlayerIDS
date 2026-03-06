@@ -1,0 +1,7 @@
+Name: HITMAN
+ActorNumber: 156
+PlayerID: B8B8C147D6CEFCEF
+Platform: Standalone
+AccountCreationDate: 2023-06-05 02:21:04 UTC
+Color: R=0.11 G=0.00 B=0.33
+Cosmetics: None

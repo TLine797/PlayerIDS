@@ -1,0 +1,7 @@
+Name: TIMMY67
+ActorNumber: 65
+PlayerID: D73F98400BF076F5
+Platform: Standalone
+AccountCreationDate: 2025-05-07 21:17:11 UTC
+Color: R=0.33 G=0.11 B=0.78
+Cosmetics: None

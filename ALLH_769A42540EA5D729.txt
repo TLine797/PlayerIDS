@@ -1,0 +1,7 @@
+Name: UNKNOWN
+ActorNumber: 241
+PlayerID: 769A42540EA5D729
+Platform: Standalone
+AccountCreationDate: 2024-01-19 18:05:57 UTC
+Color: R=1.00 G=0.11 B=0.56
+Cosmetics: None

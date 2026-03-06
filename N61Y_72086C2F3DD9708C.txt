@@ -1,0 +1,7 @@
+Name: MAYBECHEETO
+ActorNumber: 1042
+PlayerID: 72086C2F3DD9708C
+Platform: Standalone
+AccountCreationDate: 2025-12-27 18:34:05 UTC
+Color: R=0.33 G=0.44 B=1.00
+Cosmetics: None

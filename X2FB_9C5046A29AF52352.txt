@@ -1,0 +1,7 @@
+Name: TAMPOLU
+ActorNumber: 674
+PlayerID: 9C5046A29AF52352
+Platform: Standalone
+AccountCreationDate: 2023-05-13 14:19:00 UTC
+Color: R=0.33 G=0.67 B=0.44
+Cosmetics: None

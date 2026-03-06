@@ -1,0 +1,7 @@
+Name: TLBJAX
+ActorNumber: 162
+PlayerID: 528D0DCD05896539
+Platform: Standalone
+AccountCreationDate: 2024-12-28 21:02:07 UTC
+Color: R=0.33 G=0.00 B=0.67
+Cosmetics: None

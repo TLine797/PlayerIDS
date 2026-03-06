@@ -1,0 +1,7 @@
+Name: CREAMYBUMBUM
+ActorNumber: 420
+PlayerID: AA2769DAE8A9DC8B
+Platform: Standalone
+AccountCreationDate: 2024-12-25 19:34:12 UTC
+Color: R=1.00 G=0.44 B=0.67
+Cosmetics: None

@@ -1,0 +1,7 @@
+Name: YOURBOYSHANE
+ActorNumber: 278
+PlayerID: 6083FD14BEA3C331
+Platform: Standalone
+AccountCreationDate: 2025-01-09 05:39:10 UTC
+Color: R=1.00 G=0.44 B=0.56
+Cosmetics: None

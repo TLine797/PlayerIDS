@@ -1,0 +1,7 @@
+Name: P3RS0N
+ActorNumber: 160
+PlayerID: 452C9D5558C8F56E
+Platform: Standalone
+AccountCreationDate: 2023-03-13 21:39:18 UTC
+Color: R=1.00 G=0.67 B=0.78
+Cosmetics: None

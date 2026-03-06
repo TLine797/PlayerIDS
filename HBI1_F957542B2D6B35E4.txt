@@ -1,0 +1,7 @@
+Name: AQUA
+ActorNumber: 951
+PlayerID: F957542B2D6B35E4
+Platform: Standalone
+AccountCreationDate: 2024-12-25 17:07:33 UTC
+Color: R=1.00 G=0.00 B=1.00
+Cosmetics: None

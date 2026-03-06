@@ -1,0 +1,7 @@
+Name: FREAKYAUTISM
+ActorNumber: 37
+PlayerID: B0D6530A55780E84
+Platform: Standalone
+AccountCreationDate: 2025-12-25 16:41:39 UTC
+Color: R=0.44 G=0.67 B=0.56
+Cosmetics: None

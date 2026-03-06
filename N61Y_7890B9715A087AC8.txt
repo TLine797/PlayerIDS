@@ -1,0 +1,7 @@
+Name: IMSICKAF
+ActorNumber: 1036
+PlayerID: 7890B9715A087AC8
+Platform: PC
+AccountCreationDate: 2024-12-21 00:38:21 UTC
+Color: R=0.33 G=0.44 B=0.33
+Cosmetics: None

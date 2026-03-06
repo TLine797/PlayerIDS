@@ -1,0 +1,7 @@
+Name: PARTYMONKEVR
+ActorNumber: 52
+PlayerID: 572ADEC5597EB004
+Platform: Standalone
+AccountCreationDate: 2025-12-25 18:53:10 UTC
+Color: R=0.56 G=0.44 B=0.89
+Cosmetics: None

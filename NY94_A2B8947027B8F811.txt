@@ -1,0 +1,7 @@
+Name: MINIGAMESKID
+ActorNumber: 189
+PlayerID: A2B8947027B8F811
+Platform: Standalone
+AccountCreationDate: 2024-12-25 21:30:50 UTC
+Color: R=0.00 G=0.00 B=0.00
+Cosmetics: None

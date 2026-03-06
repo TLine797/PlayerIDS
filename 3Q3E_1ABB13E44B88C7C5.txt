@@ -1,0 +1,7 @@
+Name: SNOWMAN
+ActorNumber: 599
+PlayerID: 1ABB13E44B88C7C5
+Platform: Unknown
+AccountCreationDate: 2023-04-06 05:48:09 UTC
+Color: R=1.00 G=1.00 B=1.00
+Cosmetics: None

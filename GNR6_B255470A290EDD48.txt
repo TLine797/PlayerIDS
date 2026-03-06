@@ -1,0 +1,7 @@
+Name: EASASSASSVR
+ActorNumber: 285
+PlayerID: B255470A290EDD48
+Platform: Standalone
+AccountCreationDate: 2024-03-03 18:40:07 UTC
+Color: R=0.00 G=0.89 B=0.00
+Cosmetics: None

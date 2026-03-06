@@ -1,0 +1,7 @@
+Name: PEREZOSO
+ActorNumber: 613
+PlayerID: CE0C3B527B0314DC
+Platform: Standalone
+AccountCreationDate: 2023-05-15 11:32:31 UTC
+Color: R=0.89 G=0.78 B=1.00
+Cosmetics: None

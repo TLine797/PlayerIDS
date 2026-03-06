@@ -1,0 +1,7 @@
+Name: POTATO
+ActorNumber: 2
+PlayerID: 2B53D5C4899C6FD
+Platform: PC
+AccountCreationDate: 2024-04-29 12:43:54 UTC
+Color: R=0.56 G=0.78 B=1.00
+Cosmetics: None

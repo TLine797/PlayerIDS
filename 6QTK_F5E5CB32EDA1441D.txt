@@ -1,0 +1,7 @@
+Name: LIMEAPPLE
+ActorNumber: 560
+PlayerID: F5E5CB32EDA1441D
+Platform: Standalone
+AccountCreationDate: 2023-12-08 18:35:17 UTC
+Color: R=0.44 G=0.89 B=0.22
+Cosmetics: None

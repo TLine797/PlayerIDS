@@ -1,0 +1,7 @@
+Name: JOEY
+ActorNumber: 1368
+PlayerID: 1626AE0A1D21C4A7
+Platform: Unknown
+AccountCreationDate: 2024-01-21 23:17:20 UTC
+Color: R=0.56 G=0.33 B=0.78
+Cosmetics: None

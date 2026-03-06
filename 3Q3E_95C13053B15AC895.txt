@@ -1,0 +1,7 @@
+Name: APACHE
+ActorNumber: 588
+PlayerID: 95C13053B15AC895
+Platform: Standalone
+AccountCreationDate: 2025-07-28 20:13:33 UTC
+Color: R=0.22 G=0.22 B=0.22
+Cosmetics: None

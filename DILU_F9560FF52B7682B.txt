@@ -1,0 +1,7 @@
+Name: ROXIEVR
+ActorNumber: 1154
+PlayerID: F9560FF52B7682B
+Platform: Standalone
+AccountCreationDate: 2025-12-09 00:04:56 UTC
+Color: R=1.00 G=0.67 B=0.78
+Cosmetics: None

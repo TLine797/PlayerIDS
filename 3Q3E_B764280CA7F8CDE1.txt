@@ -1,0 +1,7 @@
+Name: FROSTY211
+ActorNumber: 595
+PlayerID: B764280CA7F8CDE1
+Platform: Standalone
+AccountCreationDate: 2026-02-04 22:44:58 UTC
+Color: R=0.00 G=0.00 B=0.00
+Cosmetics: None

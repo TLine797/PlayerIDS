@@ -1,0 +1,7 @@
+Name: MUSHROOMYT
+ActorNumber: 271
+PlayerID: B54C03277EEF67CB
+Platform: Standalone
+AccountCreationDate: 2024-08-23 21:46:28 UTC
+Color: R=0.78 G=0.78 B=0.67
+Cosmetics: None

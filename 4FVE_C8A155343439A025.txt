@@ -1,0 +1,7 @@
+Name: HOPPER
+ActorNumber: 1312
+PlayerID: C8A155343439A025
+Platform: Standalone
+AccountCreationDate: 2025-12-29 15:35:49 UTC
+Color: R=0.89 G=0.67 B=0.56
+Cosmetics: None

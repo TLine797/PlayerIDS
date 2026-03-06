@@ -1,0 +1,7 @@
+Name: VR
+ActorNumber: 2
+PlayerID: A0B5DA0863289099
+Platform: Standalone
+AccountCreationDate: 2024-11-03 14:53:04 UTC
+Color: R=0.67 G=0.00 B=1.00
+Cosmetics: None

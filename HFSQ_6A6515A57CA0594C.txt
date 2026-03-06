@@ -1,0 +1,7 @@
+Name: ANONYMOUS
+ActorNumber: 107
+PlayerID: 6A6515A57CA0594C
+Platform: Standalone
+AccountCreationDate: 2026-01-12 02:23:11 UTC
+Color: R=0.33 G=0.11 B=0.67
+Cosmetics: None

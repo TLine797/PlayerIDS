@@ -1,0 +1,7 @@
+Name: ROOFUSDOOFUS
+ActorNumber: 604
+PlayerID: 685D8996542B856A
+Platform: Standalone
+AccountCreationDate: 2023-08-01 23:44:32 UTC
+Color: R=0.00 G=1.00 B=0.00
+Cosmetics: None

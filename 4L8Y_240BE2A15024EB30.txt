@@ -1,0 +1,7 @@
+Name: STEREO
+ActorNumber: 3633
+PlayerID: 240BE2A15024EB30
+Platform: Standalone
+AccountCreationDate: 2025-11-03 23:43:37 UTC
+Color: R=0.00 G=0.89 B=0.89
+Cosmetics: None

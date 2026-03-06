@@ -1,0 +1,7 @@
+Name: gorilla2010
+ActorNumber: 30
+PlayerID: 9F8D5930451F58B5
+Platform: Standalone
+AccountCreationDate: 2025-12-25 17:46:26 UTC
+Color: R=1.00 G=0.67 B=0.89
+Cosmetics: None

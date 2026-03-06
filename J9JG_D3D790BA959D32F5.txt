@@ -1,0 +1,7 @@
+Name: BROK3N
+ActorNumber: 1086
+PlayerID: D3D790BA959D32F5
+Platform: Standalone
+AccountCreationDate: 2025-12-22 02:49:58 UTC
+Color: R=0.44 G=0.00 B=0.78
+Cosmetics: None

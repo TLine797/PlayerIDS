@@ -1,0 +1,7 @@
+Name: 0RB1TGT
+ActorNumber: 348
+PlayerID: C8000DCE2A025248
+Platform: Standalone
+AccountCreationDate: 2025-12-25 01:51:25 UTC
+Color: R=0.00 G=0.33 B=0.89
+Cosmetics: None

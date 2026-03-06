@@ -1,0 +1,7 @@
+Name: JAKE
+ActorNumber: 12
+PlayerID: 92B14B67A51F172C
+Platform: Standalone
+AccountCreationDate: 2025-12-22 14:21:26 UTC
+Color: R=1.00 G=0.89 B=0.67
+Cosmetics: None

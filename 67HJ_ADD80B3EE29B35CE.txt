@@ -1,0 +1,7 @@
+Name: RUFUSS
+ActorNumber: 71
+PlayerID: ADD80B3EE29B35CE
+Platform: Standalone
+AccountCreationDate: 2025-12-25 15:13:19 UTC
+Color: R=0.44 G=0.44 B=0.44
+Cosmetics: None

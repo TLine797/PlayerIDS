@@ -1,0 +1,7 @@
+Name: LILLY
+ActorNumber: 826
+PlayerID: D8DB5FF4CA5F038D
+Platform: Standalone
+AccountCreationDate: 2025-12-26 15:20:16 UTC
+Color: R=0.22 G=0.11 B=0.33
+Cosmetics: None

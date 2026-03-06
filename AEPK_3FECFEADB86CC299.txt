@@ -1,0 +1,7 @@
+Name: BLAKE
+ActorNumber: 112
+PlayerID: 3FECFEADB86CC299
+Platform: Standalone
+AccountCreationDate: 2024-12-25 14:14:47 UTC
+Color: R=1.00 G=0.33 B=0.00
+Cosmetics: None

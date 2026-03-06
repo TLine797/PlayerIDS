@@ -1,0 +1,7 @@
+Name: ILOVEBOBETTE
+ActorNumber: 95
+PlayerID: C7DFB63738BD1EDF
+Platform: Standalone
+AccountCreationDate: 2024-12-25 11:45:16 UTC
+Color: R=0.22 G=0.22 B=0.33
+Cosmetics: None

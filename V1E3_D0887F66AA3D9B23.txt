@@ -1,0 +1,7 @@
+Name: JK
+ActorNumber: 253
+PlayerID: D0887F66AA3D9B23
+Platform: Standalone
+AccountCreationDate: 2025-12-02 16:42:52 UTC
+Color: R=0.00 G=0.00 B=0.00
+Cosmetics: None

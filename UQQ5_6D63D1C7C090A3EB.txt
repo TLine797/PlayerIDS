@@ -1,0 +1,7 @@
+Name: JOHN
+ActorNumber: 311
+PlayerID: 6D63D1C7C090A3EB
+Platform: Standalone
+AccountCreationDate: 2025-02-26 04:04:00 UTC
+Color: R=0.56 G=0.33 B=0.78
+Cosmetics: None

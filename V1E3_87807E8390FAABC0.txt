@@ -1,0 +1,7 @@
+Name: ODO
+ActorNumber: 298
+PlayerID: 87807E8390FAABC0
+Platform: Standalone
+AccountCreationDate: 2026-01-03 20:27:03 UTC
+Color: R=0.00 G=0.00 B=0.00
+Cosmetics: None

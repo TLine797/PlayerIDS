@@ -1,0 +1,7 @@
+Name: P
+ActorNumber: 73
+PlayerID: 8BD0EE811FD56B9
+Platform: Standalone
+AccountCreationDate: 2025-12-22 11:33:57 UTC
+Color: R=0.33 G=0.22 B=0.11
+Cosmetics: None

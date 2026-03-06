@@ -1,0 +1,7 @@
+Name: KAMI
+ActorNumber: 167
+PlayerID: FC11DDECA211CCF0
+Platform: Standalone
+AccountCreationDate: 2024-02-22 05:47:14 UTC
+Color: R=0.89 G=0.67 B=0.89
+Cosmetics: None

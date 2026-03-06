@@ -1,0 +1,7 @@
+Name: ROADRUNNER
+ActorNumber: 77
+PlayerID: 8225B03EBFF02C46
+Platform: Standalone
+AccountCreationDate: 2024-10-10 01:31:27 UTC
+Color: R=0.67 G=0.89 B=1.00
+Cosmetics: None

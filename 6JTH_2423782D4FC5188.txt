@@ -1,0 +1,7 @@
+Name: COOLMONKEY
+ActorNumber: 170
+PlayerID: 2423782D4FC5188
+Platform: Standalone
+AccountCreationDate: 2022-01-12 23:40:03 UTC
+Color: R=0.67 G=0.00 B=0.00
+Cosmetics: None

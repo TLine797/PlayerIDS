@@ -1,0 +1,7 @@
+Name: SWAGSTAR
+ActorNumber: 473
+PlayerID: CBA6F0E052FDCC16
+Platform: Standalone
+AccountCreationDate: 2023-09-04 16:17:18 UTC
+Color: R=0.00 G=0.00 B=0.00
+Cosmetics: None

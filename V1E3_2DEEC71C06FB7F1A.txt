@@ -1,0 +1,7 @@
+Name: DINGUS
+ActorNumber: 238
+PlayerID: 2DEEC71C06FB7F1A
+Platform: Standalone
+AccountCreationDate: 2024-05-06 11:37:32 UTC
+Color: R=0.00 G=0.00 B=0.00
+Cosmetics: None

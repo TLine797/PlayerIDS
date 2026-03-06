@@ -1,0 +1,7 @@
+Name: VOID
+ActorNumber: 303
+PlayerID: 5DEE7197325CF17E
+Platform: Standalone
+AccountCreationDate: 2025-06-18 20:23:11 UTC
+Color: R=0.44 G=0.00 B=1.00
+Cosmetics: None

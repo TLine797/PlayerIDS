@@ -1,0 +1,7 @@
+Name: TMMCHASE
+ActorNumber: 596
+PlayerID: 9753D27349F5A3AE
+Platform: Standalone
+AccountCreationDate: 2025-01-07 20:53:11 UTC
+Color: R=0.22 G=0.44 B=1.00
+Cosmetics: None

@@ -1,0 +1,7 @@
+Name: TROG
+ActorNumber: 1331
+PlayerID: 421603279537AD00
+Platform: Standalone
+AccountCreationDate: 2025-04-24 00:29:41 UTC
+Color: R=0.67 G=0.56 B=0.78
+Cosmetics: None

@@ -1,0 +1,7 @@
+Name: BASHVR
+ActorNumber: 264
+PlayerID: 22D843429FFD1F32
+Platform: Unknown
+AccountCreationDate: 2025-07-12 22:20:45 UTC
+Color: R=0.22 G=0.33 B=0.00
+Cosmetics: None

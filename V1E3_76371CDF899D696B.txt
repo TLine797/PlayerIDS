@@ -1,0 +1,7 @@
+Name: gorilla
+ActorNumber: 305
+PlayerID: 76371CDF899D696B
+Platform: Standalone
+AccountCreationDate: 2025-12-25 21:14:01 UTC
+Color: R=1.00 G=0.00 B=0.56
+Cosmetics: None

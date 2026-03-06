@@ -1,0 +1,7 @@
+Name: LEIGHTON
+ActorNumber: 977
+PlayerID: 98B6AFE06F75EE8F
+Platform: Standalone
+AccountCreationDate: 2024-03-27 18:13:28 UTC
+Color: R=0.22 G=0.44 B=0.67
+Cosmetics: None

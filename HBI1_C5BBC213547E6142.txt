@@ -1,0 +1,7 @@
+Name: BEANS
+ActorNumber: 984
+PlayerID: C5BBC213547E6142
+Platform: Standalone
+AccountCreationDate: 2023-03-18 19:11:59 UTC
+Color: R=0.44 G=0.00 B=0.78
+Cosmetics: None

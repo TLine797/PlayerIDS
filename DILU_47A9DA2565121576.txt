@@ -1,0 +1,7 @@
+Name: gorilla3862
+ActorNumber: 1157
+PlayerID: 47A9DA2565121576
+Platform: Standalone
+AccountCreationDate: 2025-07-04 06:57:19 UTC
+Color: R=0.00 G=0.22 B=0.67
+Cosmetics: None

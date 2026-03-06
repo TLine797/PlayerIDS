@@ -1,0 +1,7 @@
+Name: BLUEBERRY
+ActorNumber: 456
+PlayerID: CC59A60221BD2B79
+Platform: Standalone
+AccountCreationDate: 2025-04-13 14:37:05 UTC
+Color: R=0.00 G=0.00 B=1.00
+Cosmetics: None

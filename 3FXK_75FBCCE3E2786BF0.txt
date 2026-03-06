@@ -1,0 +1,7 @@
+Name: BOB
+ActorNumber: 1407
+PlayerID: 75FBCCE3E2786BF0
+Platform: Standalone
+AccountCreationDate: 2024-01-13 20:36:29 UTC
+Color: R=0.00 G=0.67 B=0.78
+Cosmetics: None

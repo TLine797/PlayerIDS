@@ -1,0 +1,7 @@
+Name: BIGH
+ActorNumber: 472
+PlayerID: 8EA192A1E68DC523
+Platform: Standalone
+AccountCreationDate: 2025-02-16 16:03:20 UTC
+Color: R=0.44 G=0.11 B=0.22
+Cosmetics: None

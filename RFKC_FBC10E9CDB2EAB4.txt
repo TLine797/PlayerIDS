@@ -1,0 +1,7 @@
+Name: IC3GTAG
+ActorNumber: 507
+PlayerID: FBC10E9CDB2EAB4
+Platform: Standalone
+AccountCreationDate: 2024-03-04 22:29:33 UTC
+Color: R=0.22 G=0.44 B=1.00
+Cosmetics: None

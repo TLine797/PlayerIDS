@@ -1,0 +1,7 @@
+Name: DRIPSOCLEAN
+ActorNumber: 275
+PlayerID: B9159CCFF7D35368
+Platform: Standalone
+AccountCreationDate: 2026-01-20 23:40:29 UTC
+Color: R=1.00 G=0.33 B=1.00
+Cosmetics: None

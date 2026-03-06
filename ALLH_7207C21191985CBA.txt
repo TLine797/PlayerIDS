@@ -1,0 +1,7 @@
+Name: SAGITARIUS
+ActorNumber: 282
+PlayerID: 7207C21191985CBA
+Platform: Standalone
+AccountCreationDate: 2023-12-27 19:00:49 UTC
+Color: R=0.00 G=0.89 B=1.00
+Cosmetics: None

@@ -1,0 +1,7 @@
+Name: KAMBIN
+ActorNumber: 102
+PlayerID: 88DCD30003DB6DD2
+Platform: Unknown
+AccountCreationDate: 2022-12-24 15:38:35 UTC
+Color: R=0.67 G=0.00 B=1.00
+Cosmetics: None

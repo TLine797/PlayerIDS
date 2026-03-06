@@ -1,0 +1,7 @@
+Name: IMSICKAF
+ActorNumber: 790
+PlayerID: 7890B9715A087AC8
+Platform: PC
+AccountCreationDate: 2024-12-21 00:38:21 UTC
+Color: R=1.00 G=0.56 B=0.89
+Cosmetics: None

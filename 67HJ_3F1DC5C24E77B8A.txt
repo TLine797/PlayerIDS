@@ -1,0 +1,7 @@
+Name: gorilla0446
+ActorNumber: 63
+PlayerID: 3F1DC5C24E77B8A
+Platform: Standalone
+AccountCreationDate: 2025-12-25 15:27:28 UTC
+Color: R=1.00 G=0.00 B=0.00
+Cosmetics: None

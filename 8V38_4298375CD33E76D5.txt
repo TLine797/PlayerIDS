@@ -1,0 +1,7 @@
+Name: SPONGEBOBVR
+ActorNumber: 676
+PlayerID: 4298375CD33E76D5
+Platform: Standalone
+AccountCreationDate: 2025-12-25 15:14:48 UTC
+Color: R=0.56 G=0.00 B=1.00
+Cosmetics: None

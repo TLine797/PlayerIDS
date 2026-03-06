@@ -1,0 +1,7 @@
+Name: STE4MY
+ActorNumber: 1188
+PlayerID: 204A41F17F6AB8D2
+Platform: Standalone
+AccountCreationDate: 2024-03-06 00:28:18 UTC
+Color: R=0.00 G=0.22 B=0.00
+Cosmetics: None

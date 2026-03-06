@@ -1,0 +1,7 @@
+Name: gorilla7835
+ActorNumber: 1189
+PlayerID: EAE118E27C758B4A
+Platform: Standalone
+AccountCreationDate: 2025-12-25 12:37:22 UTC
+Color: R=0.44 G=0.00 B=1.00
+Cosmetics: None

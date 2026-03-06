@@ -1,0 +1,7 @@
+Name: EMILY
+ActorNumber: 3299
+PlayerID: 6E93636CFCBF5F33
+Platform: Standalone
+AccountCreationDate: 2023-11-01 22:54:13 UTC
+Color: R=0.33 G=0.44 B=0.56
+Cosmetics: None

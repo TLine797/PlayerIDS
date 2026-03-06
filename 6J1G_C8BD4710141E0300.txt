@@ -1,0 +1,7 @@
+Name: KITT
+ActorNumber: 451
+PlayerID: C8BD4710141E0300
+Platform: Standalone
+AccountCreationDate: 2026-01-12 02:07:48 UTC
+Color: R=0.33 G=0.33 B=0.33
+Cosmetics: None

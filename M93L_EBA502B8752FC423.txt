@@ -1,0 +1,7 @@
+Name: DUCKDUCKDUKE
+ActorNumber: 164
+PlayerID: EBA502B8752FC423
+Platform: Standalone
+AccountCreationDate: 2025-12-25 20:45:07 UTC
+Color: R=0.22 G=0.44 B=0.56
+Cosmetics: None

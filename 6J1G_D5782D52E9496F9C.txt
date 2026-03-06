@@ -1,0 +1,7 @@
+Name: OOFIETHEDO
+ActorNumber: 412
+PlayerID: D5782D52E9496F9C
+Platform: Standalone
+AccountCreationDate: 2024-04-06 16:00:35 UTC
+Color: R=0.00 G=0.00 B=1.00
+Cosmetics: None

@@ -1,0 +1,7 @@
+Name: SLOTHY
+ActorNumber: 108
+PlayerID: 1D21C3D8830FFBBA
+Platform: Standalone
+AccountCreationDate: 2025-10-05 15:53:20 UTC
+Color: R=0.00 G=0.11 B=0.67
+Cosmetics: None

@@ -1,0 +1,7 @@
+Name: ROCK
+ActorNumber: 3650
+PlayerID: 3DE7F87896964F4E
+Platform: Standalone
+AccountCreationDate: 2025-12-05 18:31:58 UTC
+Color: R=0.56 G=0.44 B=0.33
+Cosmetics: None

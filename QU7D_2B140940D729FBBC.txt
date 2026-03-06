@@ -1,0 +1,7 @@
+Name: SEVOID
+ActorNumber: 477
+PlayerID: 2B140940D729FBBC
+Platform: Standalone
+AccountCreationDate: 2025-11-29 19:39:58 UTC
+Color: R=0.00 G=0.00 B=0.00
+Cosmetics: None

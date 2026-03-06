@@ -1,0 +1,7 @@
+Name: TGGKANEVR
+ActorNumber: 617
+PlayerID: 9C8525FE4B748CDC
+Platform: Standalone
+AccountCreationDate: 2024-12-25 11:15:08 UTC
+Color: R=0.44 G=0.00 B=0.78
+Cosmetics: None

@@ -1,0 +1,7 @@
+Name: GORILLA41242
+ActorNumber: 768
+PlayerID: B93DF9A827B088C1
+Platform: Standalone
+AccountCreationDate: 2025-12-25 17:45:10 UTC
+Color: R=1.00 G=1.00 B=1.00
+Cosmetics: None

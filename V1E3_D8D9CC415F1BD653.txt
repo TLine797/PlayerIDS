@@ -1,0 +1,7 @@
+Name: PXNCAKE
+ActorNumber: 299
+PlayerID: D8D9CC415F1BD653
+Platform: Standalone
+AccountCreationDate: 2025-12-25 13:38:00 UTC
+Color: R=0.00 G=0.00 B=0.00
+Cosmetics: None

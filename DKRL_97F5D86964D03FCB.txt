@@ -1,0 +1,7 @@
+Name: W4TRR
+ActorNumber: 89
+PlayerID: 97F5D86964D03FCB
+Platform: Standalone
+AccountCreationDate: 2022-12-06 12:48:39 UTC
+Color: R=0.00 G=1.00 B=1.00
+Cosmetics: None

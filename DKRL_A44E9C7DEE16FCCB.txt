@@ -1,0 +1,7 @@
+Name: RETROGAMER
+ActorNumber: 71
+PlayerID: A44E9C7DEE16FCCB
+Platform: Standalone
+AccountCreationDate: 2024-11-29 15:27:04 UTC
+Color: R=1.00 G=0.00 B=0.89
+Cosmetics: None

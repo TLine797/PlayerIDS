@@ -1,0 +1,7 @@
+Name: KIM
+ActorNumber: 355
+PlayerID: AD25EAB7FA533390
+Platform: Unknown
+AccountCreationDate: 2022-10-31 01:54:45 UTC
+Color: R=0.89 G=0.00 B=0.00
+Cosmetics: None

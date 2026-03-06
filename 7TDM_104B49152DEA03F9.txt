@@ -1,0 +1,7 @@
+Name: YOUMOM
+ActorNumber: 111
+PlayerID: 104B49152DEA03F9
+Platform: Standalone
+AccountCreationDate: 2025-12-13 02:00:00 UTC
+Color: R=0.56 G=0.78 B=1.00
+Cosmetics: None

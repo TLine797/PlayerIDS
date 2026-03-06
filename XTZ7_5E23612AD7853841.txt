@@ -1,0 +1,7 @@
+Name: CREEPER15
+ActorNumber: 273
+PlayerID: 5E23612AD7853841
+Platform: Unknown
+AccountCreationDate: 2025-12-25 22:13:00 UTC
+Color: R=0.89 G=0.00 B=0.78
+Cosmetics: None

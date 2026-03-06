@@ -1,0 +1,7 @@
+Name: ECL1PSE
+ActorNumber: 534
+PlayerID: D26AC1FA301A934F
+Platform: Standalone
+AccountCreationDate: 2024-12-25 19:30:03 UTC
+Color: R=0.33 G=0.33 B=0.56
+Cosmetics: None

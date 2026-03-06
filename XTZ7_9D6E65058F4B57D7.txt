@@ -1,0 +1,7 @@
+Name: THECTZONE
+ActorNumber: 218
+PlayerID: 9D6E65058F4B57D7
+Platform: Unknown
+AccountCreationDate: 2025-01-05 23:20:09 UTC
+Color: R=0.89 G=0.44 B=0.78
+Cosmetics: None

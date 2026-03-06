@@ -1,0 +1,7 @@
+Name: GWBSILLY
+ActorNumber: 91
+PlayerID: 9808BD4830F6AAEF
+Platform: Unknown
+AccountCreationDate: 2022-02-19 00:00:45 UTC
+Color: R=0.00 G=0.00 B=1.00
+Cosmetics: None

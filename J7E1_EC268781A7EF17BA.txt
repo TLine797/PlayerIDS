@@ -1,0 +1,7 @@
+Name: VEYNXFOR200
+ActorNumber: 277
+PlayerID: EC268781A7EF17BA
+Platform: Standalone
+AccountCreationDate: 2025-12-15 02:12:35 UTC
+Color: R=0.56 G=0.00 B=0.89
+Cosmetics: None

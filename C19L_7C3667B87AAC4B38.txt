@@ -1,0 +1,7 @@
+Name: BORDERHOPPER
+ActorNumber: 1127
+PlayerID: 7C3667B87AAC4B38
+Platform: Standalone
+AccountCreationDate: 2024-12-25 17:06:35 UTC
+Color: R=0.56 G=0.00 B=0.00
+Cosmetics: None

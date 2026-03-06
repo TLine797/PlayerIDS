@@ -1,0 +1,7 @@
+Name: HORNYHUBERT
+ActorNumber: 290
+PlayerID: 4D83110E8CB47FE7
+Platform: Standalone
+AccountCreationDate: 2025-12-25 18:31:38 UTC
+Color: R=0.00 G=0.33 B=0.44
+Cosmetics: None

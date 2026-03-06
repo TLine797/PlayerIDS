@@ -1,0 +1,7 @@
+Name: CLAWZ
+ActorNumber: 306
+PlayerID: B9C55EB32BA5DD2F
+Platform: Standalone
+AccountCreationDate: 2025-08-15 18:02:42 UTC
+Color: R=1.00 G=0.44 B=0.00
+Cosmetics: None

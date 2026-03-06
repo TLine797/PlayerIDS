@@ -1,0 +1,7 @@
+Name: PINKGUY
+ActorNumber: 244
+PlayerID: 19C0484C06D7EE4F
+Platform: Standalone
+AccountCreationDate: 2021-08-02 23:57:42 UTC
+Color: R=1.00 G=0.56 B=0.78
+Cosmetics: None

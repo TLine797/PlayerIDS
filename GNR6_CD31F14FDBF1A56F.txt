@@ -1,0 +1,7 @@
+Name: CAPYBARA
+ActorNumber: 289
+PlayerID: CD31F14FDBF1A56F
+Platform: Standalone
+AccountCreationDate: 2025-04-10 03:13:06 UTC
+Color: R=0.56 G=0.44 B=0.22
+Cosmetics: None

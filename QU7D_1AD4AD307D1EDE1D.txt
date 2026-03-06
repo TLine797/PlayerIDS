@@ -1,0 +1,7 @@
+Name: FIRECAT
+ActorNumber: 468
+PlayerID: 1AD4AD307D1EDE1D
+Platform: Unknown
+AccountCreationDate: 2022-02-27 18:29:13 UTC
+Color: R=0.00 G=0.00 B=0.00
+Cosmetics: None

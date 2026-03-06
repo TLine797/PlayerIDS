@@ -1,0 +1,7 @@
+Name: BAXTER
+ActorNumber: 100
+PlayerID: 9423AEA123260765
+Platform: PC
+AccountCreationDate: 2025-12-31 07:34:49 UTC
+Color: R=0.00 G=0.00 B=0.00
+Cosmetics: None

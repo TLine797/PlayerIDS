@@ -1,0 +1,7 @@
+Name: GORILLAO754
+ActorNumber: 248
+PlayerID: 114C8E3F922372EC
+Platform: Standalone
+AccountCreationDate: 2025-03-27 20:47:50 UTC
+Color: R=0.22 G=0.44 B=0.56
+Cosmetics: None

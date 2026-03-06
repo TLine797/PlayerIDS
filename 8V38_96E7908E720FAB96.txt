@@ -1,0 +1,7 @@
+Name: BABAGOWE
+ActorNumber: 1319
+PlayerID: 96E7908E720FAB96
+Platform: Unknown
+AccountCreationDate: 2021-12-27 16:38:50 UTC
+Color: R=0.56 G=0.11 B=1.00
+Cosmetics: None

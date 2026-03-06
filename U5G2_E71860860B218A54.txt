@@ -1,0 +1,7 @@
+Name: TER
+ActorNumber: 64
+PlayerID: E71860860B218A54
+Platform: Standalone
+AccountCreationDate: 2024-12-25 15:52:52 UTC
+Color: R=1.00 G=0.00 B=0.00
+Cosmetics: None

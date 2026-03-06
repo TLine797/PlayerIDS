@@ -1,0 +1,7 @@
+Name: BUBBA
+ActorNumber: 1186
+PlayerID: 232330B0B2800CFF
+Platform: Unknown
+AccountCreationDate: 2025-12-25 16:24:59 UTC
+Color: R=0.67 G=0.44 B=0.22
+Cosmetics: None

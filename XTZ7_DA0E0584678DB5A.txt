@@ -1,0 +1,7 @@
+Name: GTPSKY
+ActorNumber: 232
+PlayerID: DA0E0584678DB5A
+Platform: Unknown
+AccountCreationDate: 2026-02-06 13:15:27 UTC
+Color: R=0.00 G=0.00 B=0.22
+Cosmetics: None

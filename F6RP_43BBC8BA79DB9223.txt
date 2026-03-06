@@ -1,0 +1,7 @@
+Name: TWGWOLF
+ActorNumber: 129
+PlayerID: 43BBC8BA79DB9223
+Platform: Standalone
+AccountCreationDate: 2023-07-05 02:08:56 UTC
+Color: R=0.44 G=0.11 B=1.00
+Cosmetics: None

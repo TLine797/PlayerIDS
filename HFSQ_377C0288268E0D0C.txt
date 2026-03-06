@@ -1,0 +1,7 @@
+Name: PO
+ActorNumber: 96
+PlayerID: 377C0288268E0D0C
+Platform: PC
+AccountCreationDate: 2024-07-18 03:20:18 UTC
+Color: R=0.00 G=0.56 B=0.78
+Cosmetics: None

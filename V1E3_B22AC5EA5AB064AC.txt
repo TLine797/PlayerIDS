@@ -1,0 +1,7 @@
+Name: CABE
+ActorNumber: 368
+PlayerID: B22AC5EA5AB064AC
+Platform: Standalone
+AccountCreationDate: 2025-03-17 11:26:34 UTC
+Color: R=0.00 G=0.89 B=1.00
+Cosmetics: None

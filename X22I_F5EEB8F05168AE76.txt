@@ -1,0 +1,7 @@
+Name: F0RREST
+ActorNumber: 499
+PlayerID: F5EEB8F05168AE76
+Platform: Standalone
+AccountCreationDate: 2023-09-13 12:00:04 UTC
+Color: R=0.89 G=1.00 B=0.78
+Cosmetics: None

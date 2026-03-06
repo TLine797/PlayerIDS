@@ -1,0 +1,7 @@
+Name: SLEEPY
+ActorNumber: 525
+PlayerID: 64CB689026A2D426
+Platform: Standalone
+AccountCreationDate: 2025-12-27 12:50:32 UTC
+Color: R=0.78 G=0.78 B=1.00
+Cosmetics: None

@@ -1,0 +1,7 @@
+Name: 50K
+ActorNumber: 853
+PlayerID: DA44350B948ADC09
+Platform: Standalone
+AccountCreationDate: 2025-07-21 00:07:51 UTC
+Color: R=0.56 G=0.44 B=0.33
+Cosmetics: None

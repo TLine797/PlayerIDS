@@ -1,0 +1,7 @@
+Name: GARILLA
+ActorNumber: 338
+PlayerID: 54E3A03B9AD510F0
+Platform: Standalone
+AccountCreationDate: 2025-01-23 04:21:45 UTC
+Color: R=0.00 G=1.00 B=0.00
+Cosmetics: None

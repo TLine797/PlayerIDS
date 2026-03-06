@@ -1,0 +1,7 @@
+Name: DICKHEAD
+ActorNumber: 255
+PlayerID: 63CED91F092FA07
+Platform: Standalone
+AccountCreationDate: 2025-04-02 18:30:39 UTC
+Color: R=0.22 G=0.22 B=0.33
+Cosmetics: None

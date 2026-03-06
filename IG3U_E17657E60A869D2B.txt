@@ -1,0 +1,7 @@
+Name: ZIGZX
+ActorNumber: 553
+PlayerID: E17657E60A869D2B
+Platform: Unknown
+AccountCreationDate: 2023-01-25 17:42:38 UTC
+Color: R=0.22 G=0.67 B=0.33
+Cosmetics: None

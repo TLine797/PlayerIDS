@@ -1,0 +1,7 @@
+Name: TBBFORSTFIRE
+ActorNumber: 7
+PlayerID: 9DB1AB9A15FC7BE3
+Platform: Standalone
+AccountCreationDate: 2024-07-24 20:45:45 UTC
+Color: R=1.00 G=0.78 B=0.00
+Cosmetics: None

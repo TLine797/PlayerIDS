@@ -1,0 +1,7 @@
+Name: MASTERWU
+ActorNumber: 94
+PlayerID: D6C4B9E393D9258A
+Platform: Standalone
+AccountCreationDate: 2025-11-09 02:53:24 UTC
+Color: R=1.00 G=0.67 B=0.89
+Cosmetics: None

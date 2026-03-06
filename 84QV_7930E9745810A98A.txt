@@ -1,0 +1,7 @@
+Name: GORILLA1639
+ActorNumber: 1345
+PlayerID: 7930E9745810A98A
+Platform: Standalone
+AccountCreationDate: 2025-12-25 03:52:06 UTC
+Color: R=0.33 G=0.00 B=0.00
+Cosmetics: None

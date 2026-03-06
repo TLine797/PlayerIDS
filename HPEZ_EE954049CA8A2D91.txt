@@ -1,0 +1,7 @@
+Name: TBGTREE
+ActorNumber: 1677
+PlayerID: EE954049CA8A2D91
+Platform: Standalone
+AccountCreationDate: 2025-12-25 06:50:18 UTC
+Color: R=0.00 G=0.33 B=0.00
+Cosmetics: None

@@ -1,0 +1,7 @@
+Name: LIMILEEMOON
+ActorNumber: 247
+PlayerID: 20B5923CE9364AB5
+Platform: Standalone
+AccountCreationDate: 2023-12-15 21:54:31 UTC
+Color: R=1.00 G=0.44 B=1.00
+Cosmetics: None

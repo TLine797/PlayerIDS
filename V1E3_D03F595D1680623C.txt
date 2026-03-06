@@ -1,0 +1,7 @@
+Name: MRCHIEF
+ActorNumber: 370
+PlayerID: D03F595D1680623C
+Platform: Unknown
+AccountCreationDate: 2025-12-26 02:39:05 UTC
+Color: R=0.00 G=0.00 B=1.00
+Cosmetics: None

@@ -1,0 +1,7 @@
+Name: gorilla4569
+ActorNumber: 129
+PlayerID: C66DBA9769D9DFB3
+Platform: Standalone
+AccountCreationDate: 2025-03-21 19:20:46 UTC
+Color: R=0.56 G=0.78 B=1.00
+Cosmetics: None

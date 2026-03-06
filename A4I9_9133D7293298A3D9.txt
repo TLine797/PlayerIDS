@@ -1,0 +1,7 @@
+Name: JUJUVR
+ActorNumber: 1371
+PlayerID: 9133D7293298A3D9
+Platform: Standalone
+AccountCreationDate: 2023-12-25 16:09:17 UTC
+Color: R=0.00 G=0.56 B=0.78
+Cosmetics: None

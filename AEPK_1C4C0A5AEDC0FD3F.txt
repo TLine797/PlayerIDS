@@ -1,0 +1,7 @@
+Name: CORNFLAKE
+ActorNumber: 139
+PlayerID: 1C4C0A5AEDC0FD3F
+Platform: Standalone
+AccountCreationDate: 2026-01-07 19:48:54 UTC
+Color: R=0.00 G=0.33 B=0.22
+Cosmetics: None

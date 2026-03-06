@@ -1,0 +1,7 @@
+Name: CHEESEBURGER
+ActorNumber: 458
+PlayerID: 274DF897661DAA7F
+Platform: Standalone
+AccountCreationDate: 2025-03-15 04:35:11 UTC
+Color: R=1.00 G=1.00 B=1.00
+Cosmetics: None

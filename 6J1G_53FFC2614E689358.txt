@@ -1,0 +1,7 @@
+Name: ROOTGT
+ActorNumber: 431
+PlayerID: 53FFC2614E689358
+Platform: Unknown
+AccountCreationDate: 2021-11-22 20:00:37 UTC
+Color: R=0.44 G=0.00 B=1.00
+Cosmetics: None

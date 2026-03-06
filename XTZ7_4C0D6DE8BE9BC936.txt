@@ -1,0 +1,7 @@
+Name: EXPIE
+ActorNumber: 251
+PlayerID: 4C0D6DE8BE9BC936
+Platform: Standalone
+AccountCreationDate: 2025-12-26 22:02:26 UTC
+Color: R=0.11 G=0.11 B=0.00
+Cosmetics: None

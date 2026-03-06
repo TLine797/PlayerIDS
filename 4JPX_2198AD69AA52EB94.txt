@@ -1,0 +1,7 @@
+Name: GODSPEED
+ActorNumber: 164
+PlayerID: 2198AD69AA52EB94
+Platform: Unknown
+AccountCreationDate: 2022-01-04 06:41:33 UTC
+Color: R=0.44 G=0.00 B=1.00
+Cosmetics: None

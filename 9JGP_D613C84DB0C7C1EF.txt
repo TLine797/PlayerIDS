@@ -1,0 +1,7 @@
+Name: OAKVR
+ActorNumber: 108
+PlayerID: D613C84DB0C7C1EF
+Platform: Standalone
+AccountCreationDate: 2025-03-07 13:40:35 UTC
+Color: R=0.78 G=0.11 B=0.22
+Cosmetics: None

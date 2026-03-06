@@ -1,0 +1,7 @@
+Name: TTMDUCKSMART
+ActorNumber: 1176
+PlayerID: 14AA729281734807
+Platform: Standalone
+AccountCreationDate: 2025-12-25 18:24:25 UTC
+Color: R=0.67 G=0.78 B=1.00
+Cosmetics: None

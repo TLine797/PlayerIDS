@@ -1,0 +1,7 @@
+Name: PSALM3124
+ActorNumber: 150
+PlayerID: DBA35E6C657F6D16
+Platform: Unknown
+AccountCreationDate: 2022-10-16 19:29:37 UTC
+Color: R=0.44 G=0.00 B=1.00
+Cosmetics: None

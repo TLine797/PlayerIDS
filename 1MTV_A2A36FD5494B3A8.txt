@@ -1,0 +1,7 @@
+Name: 000
+ActorNumber: 30
+PlayerID: A2A36FD5494B3A8
+Platform: Standalone
+AccountCreationDate: 2025-12-28 01:30:33 UTC
+Color: R=0.33 G=0.00 B=0.00
+Cosmetics: None

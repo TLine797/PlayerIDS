@@ -1,0 +1,7 @@
+Name: JUICY
+ActorNumber: 208
+PlayerID: 9CFEF81D81AB6615
+Platform: Standalone
+AccountCreationDate: 2025-08-17 17:22:59 UTC
+Color: R=0.44 G=0.00 B=0.78
+Cosmetics: None

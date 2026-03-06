@@ -1,0 +1,7 @@
+Name: ITSSLAINXX
+ActorNumber: 119
+PlayerID: A57F368BF2637C92
+Platform: Standalone
+AccountCreationDate: 2025-12-19 19:24:08 UTC
+Color: R=0.33 G=0.44 B=0.56
+Cosmetics: None

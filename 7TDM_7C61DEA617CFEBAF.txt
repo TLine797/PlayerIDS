@@ -1,0 +1,7 @@
+Name: BEE17
+ActorNumber: 86
+PlayerID: 7C61DEA617CFEBAF
+Platform: Standalone
+AccountCreationDate: 2025-06-19 00:39:38 UTC
+Color: R=0.00 G=0.00 B=0.00
+Cosmetics: None

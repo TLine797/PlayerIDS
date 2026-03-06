@@ -1,0 +1,7 @@
+Name: TSMBEAR
+ActorNumber: 1167
+PlayerID: A5948B67CDF20F7F
+Platform: Standalone
+AccountCreationDate: 2024-06-06 19:23:15 UTC
+Color: R=0.89 G=0.00 B=0.00
+Cosmetics: None

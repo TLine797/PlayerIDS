@@ -1,0 +1,7 @@
+Name: JACOOOB
+ActorNumber: 101
+PlayerID: 898BD29EDFE214E6
+Platform: Unknown
+AccountCreationDate: 2023-01-22 00:49:49 UTC
+Color: R=0.44 G=0.22 B=0.89
+Cosmetics: None

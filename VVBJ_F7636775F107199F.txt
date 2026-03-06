@@ -1,0 +1,7 @@
+Name: gorilla5646
+ActorNumber: 50
+PlayerID: F7636775F107199F
+Platform: Standalone
+AccountCreationDate: 2025-12-25 14:25:38 UTC
+Color: R=1.00 G=1.00 B=1.00
+Cosmetics: None

@@ -1,0 +1,7 @@
+Name: gorilla
+ActorNumber: 595
+PlayerID: CAB3040B8A6CD0DB
+Platform: Standalone
+AccountCreationDate: 2026-02-28 03:56:09 UTC
+Color: R=0.22 G=0.00 B=0.44
+Cosmetics: None

@@ -1,0 +1,7 @@
+Name: AUDIWITDA5
+ActorNumber: 600
+PlayerID: D17F5EE1561808F0
+Platform: Standalone
+AccountCreationDate: 2025-12-27 15:51:25 UTC
+Color: R=0.11 G=0.22 B=0.33
+Cosmetics: None

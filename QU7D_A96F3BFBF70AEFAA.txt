@@ -1,0 +1,7 @@
+Name: BRI
+ActorNumber: 445
+PlayerID: A96F3BFBF70AEFAA
+Platform: Unknown
+AccountCreationDate: 2022-07-07 20:03:45 UTC
+Color: R=0.22 G=0.33 B=0.44
+Cosmetics: None

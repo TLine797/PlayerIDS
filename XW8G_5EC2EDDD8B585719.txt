@@ -1,0 +1,7 @@
+Name: SKULLYVR
+ActorNumber: 217
+PlayerID: 5EC2EDDD8B585719
+Platform: Standalone
+AccountCreationDate: 2025-12-25 23:47:16 UTC
+Color: R=0.78 G=0.78 B=1.00
+Cosmetics: None

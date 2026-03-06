@@ -1,0 +1,7 @@
+Name: NOTDAWN
+ActorNumber: 1337
+PlayerID: 368664AE9F8C1C26
+Platform: Standalone
+AccountCreationDate: 2026-02-15 00:19:55 UTC
+Color: R=0.56 G=0.11 B=0.44
+Cosmetics: None

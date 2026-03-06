@@ -1,0 +1,7 @@
+Name: COLDTR1NITY
+ActorNumber: 3648
+PlayerID: F941ECBCB439C765
+Platform: Standalone
+AccountCreationDate: 2025-12-26 03:59:22 UTC
+Color: R=0.00 G=0.67 B=1.00
+Cosmetics: None

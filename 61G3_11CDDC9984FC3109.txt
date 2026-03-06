@@ -1,0 +1,7 @@
+Name: BE3NVR
+ActorNumber: 3300
+PlayerID: 11CDDC9984FC3109
+Platform: Standalone
+AccountCreationDate: 2025-12-25 15:09:48 UTC
+Color: R=1.00 G=0.56 B=0.22
+Cosmetics: None

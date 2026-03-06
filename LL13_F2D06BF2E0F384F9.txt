@@ -1,0 +1,7 @@
+Name: DABIGWISE
+ActorNumber: 460
+PlayerID: F2D06BF2E0F384F9
+Platform: Unknown
+AccountCreationDate: 2023-01-01 23:21:34 UTC
+Color: R=0.56 G=0.00 B=1.00
+Cosmetics: None

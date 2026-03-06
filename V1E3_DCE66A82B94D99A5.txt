@@ -1,0 +1,7 @@
+Name: COWBOYVR
+ActorNumber: 325
+PlayerID: DCE66A82B94D99A5
+Platform: Standalone
+AccountCreationDate: 2024-12-26 16:32:41 UTC
+Color: R=0.44 G=0.00 B=0.00
+Cosmetics: None

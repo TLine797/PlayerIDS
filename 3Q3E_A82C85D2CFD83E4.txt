@@ -1,0 +1,7 @@
+Name: BENNE
+ActorNumber: 612
+PlayerID: A82C85D2CFD83E4
+Platform: Unknown
+AccountCreationDate: 2021-11-18 12:46:05 UTC
+Color: R=0.00 G=0.11 B=0.22
+Cosmetics: None

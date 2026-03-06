@@ -1,0 +1,7 @@
+Name: SWAMPBOBJR
+ActorNumber: 550
+PlayerID: 2F571225FA75B46F
+Platform: Standalone
+AccountCreationDate: 2024-02-27 10:28:22 UTC
+Color: R=0.67 G=0.67 B=0.67
+Cosmetics: None

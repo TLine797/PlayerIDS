@@ -1,0 +1,7 @@
+Name: HDOG
+ActorNumber: 443
+PlayerID: 42FC7F553A723CBE
+Platform: Standalone
+AccountCreationDate: 2026-01-19 06:23:13 UTC
+Color: R=0.44 G=1.00 B=0.67
+Cosmetics: None

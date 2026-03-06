@@ -1,0 +1,7 @@
+Name: HAPPYSMILE
+ActorNumber: 145
+PlayerID: 61CFBE8B25688045
+Platform: Standalone
+AccountCreationDate: 2023-07-01 01:00:13 UTC
+Color: R=0.22 G=1.00 B=1.00
+Cosmetics: None

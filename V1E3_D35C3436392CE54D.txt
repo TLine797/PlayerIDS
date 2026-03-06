@@ -1,0 +1,7 @@
+Name: STRAWBERRY
+ActorNumber: 326
+PlayerID: D35C3436392CE54D
+Platform: Standalone
+AccountCreationDate: 2025-10-13 22:39:41 UTC
+Color: R=1.00 G=0.56 B=0.56
+Cosmetics: None

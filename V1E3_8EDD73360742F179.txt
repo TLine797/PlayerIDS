@@ -1,0 +1,7 @@
+Name: gorilla
+ActorNumber: 374
+PlayerID: 8EDD73360742F179
+Platform: Standalone
+AccountCreationDate: 2026-03-05 22:32:46 UTC
+Color: R=0.67 G=0.76 B=0.30
+Cosmetics: None

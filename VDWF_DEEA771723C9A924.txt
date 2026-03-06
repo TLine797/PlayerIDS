@@ -1,0 +1,7 @@
+Name: FANTA
+ActorNumber: 31
+PlayerID: DEEA771723C9A924
+Platform: Unknown
+AccountCreationDate: 2021-05-02 16:14:17 UTC
+Color: R=1.00 G=0.56 B=0.11
+Cosmetics: None

@@ -1,0 +1,7 @@
+Name: ALAN
+ActorNumber: 1643
+PlayerID: 84D2D28519ACE9FE
+Platform: Standalone
+AccountCreationDate: 2025-12-25 17:27:14 UTC
+Color: R=0.00 G=0.00 B=0.00
+Cosmetics: None

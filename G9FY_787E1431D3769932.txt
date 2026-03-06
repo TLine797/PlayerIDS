@@ -1,0 +1,7 @@
+Name: LILLOOP
+ActorNumber: 839
+PlayerID: 787E1431D3769932
+Platform: Standalone
+AccountCreationDate: 2025-12-25 20:32:41 UTC
+Color: R=0.89 G=1.00 B=1.00
+Cosmetics: None

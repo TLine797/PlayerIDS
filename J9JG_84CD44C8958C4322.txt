@@ -1,0 +1,7 @@
+Name: ITZELITE
+ActorNumber: 1080
+PlayerID: 84CD44C8958C4322
+Platform: Standalone
+AccountCreationDate: 2024-12-30 01:41:13 UTC
+Color: R=0.00 G=0.00 B=1.00
+Cosmetics: None

@@ -1,0 +1,7 @@
+Name: JHGC
+ActorNumber: 50
+PlayerID: 50B35E2430A8330E
+Platform: Unknown
+AccountCreationDate: 2022-03-27 13:15:49 UTC
+Color: R=1.00 G=0.00 B=0.00
+Cosmetics: None

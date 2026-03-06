@@ -1,0 +1,7 @@
+Name: MAXPLO
+ActorNumber: 293
+PlayerID: 4817A5DDDC081D7B
+Platform: Standalone
+AccountCreationDate: 2026-02-19 22:51:47 UTC
+Color: R=0.00 G=0.89 B=0.56
+Cosmetics: None

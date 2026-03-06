@@ -1,0 +1,7 @@
+Name: COOKIE
+ActorNumber: 1234
+PlayerID: 20DFA9B0BE117723
+Platform: Standalone
+AccountCreationDate: 2024-06-19 23:53:45 UTC
+Color: R=0.56 G=0.78 B=0.89
+Cosmetics: None

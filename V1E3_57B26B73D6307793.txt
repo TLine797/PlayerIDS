@@ -1,0 +1,7 @@
+Name: NOAH
+ActorNumber: 378
+PlayerID: 57B26B73D6307793
+Platform: Standalone
+AccountCreationDate: 2023-12-25 13:38:26 UTC
+Color: R=0.00 G=0.00 B=0.00
+Cosmetics: None

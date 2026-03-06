@@ -1,0 +1,7 @@
+Name: DAISY09
+ActorNumber: 470
+PlayerID: 673A519CDB0432BE
+Platform: Standalone
+AccountCreationDate: 2024-04-18 01:47:04 UTC
+Color: R=0.89 G=0.44 B=0.78
+Cosmetics: None

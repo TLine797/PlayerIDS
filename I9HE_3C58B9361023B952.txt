@@ -1,0 +1,7 @@
+Name: PERMAFROST
+ActorNumber: 361
+PlayerID: 3C58B9361023B952
+Platform: Standalone
+AccountCreationDate: 2023-11-22 14:04:19 UTC
+Color: R=0.00 G=0.67 B=1.00
+Cosmetics: None

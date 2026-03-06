@@ -1,0 +1,7 @@
+Name: JEW
+ActorNumber: 719
+PlayerID: E03872B23BF15E53
+Platform: Unknown
+AccountCreationDate: 2022-12-06 18:35:50 UTC
+Color: R=0.56 G=0.78 B=0.89
+Cosmetics: None

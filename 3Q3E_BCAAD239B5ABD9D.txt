@@ -1,0 +1,7 @@
+Name: XD
+ActorNumber: 589
+PlayerID: BCAAD239B5ABD9D
+Platform: Standalone
+AccountCreationDate: 2022-12-25 20:06:47 UTC
+Color: R=0.00 G=0.00 B=0.56
+Cosmetics: None

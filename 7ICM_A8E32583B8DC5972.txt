@@ -1,0 +1,7 @@
+Name: SURIO
+ActorNumber: 508
+PlayerID: A8E32583B8DC5972
+Platform: Standalone
+AccountCreationDate: 2023-07-23 20:24:26 UTC
+Color: R=0.22 G=0.33 B=0.78
+Cosmetics: None

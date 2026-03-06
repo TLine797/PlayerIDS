@@ -1,0 +1,7 @@
+Name: TGRYETI
+ActorNumber: 850
+PlayerID: B2CE89F9F242FBB9
+Platform: Standalone
+AccountCreationDate: 2025-11-18 00:04:28 UTC
+Color: R=1.00 G=1.00 B=1.00
+Cosmetics: None

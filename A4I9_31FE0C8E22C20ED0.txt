@@ -1,0 +1,7 @@
+Name: NNDFNNFNC
+ActorNumber: 1348
+PlayerID: 31FE0C8E22C20ED0
+Platform: Unknown
+AccountCreationDate: 2022-05-07 09:50:04 UTC
+Color: R=0.33 G=0.33 B=1.00
+Cosmetics: None

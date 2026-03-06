@@ -1,0 +1,7 @@
+Name: DISCORD
+ActorNumber: 306
+PlayerID: B6584AC952C22F86
+Platform: Standalone
+AccountCreationDate: 2025-12-28 08:42:51 UTC
+Color: R=1.00 G=0.00 B=0.22
+Cosmetics: None

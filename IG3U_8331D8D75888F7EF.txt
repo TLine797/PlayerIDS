@@ -1,0 +1,7 @@
+Name: 1V1
+ActorNumber: 875
+PlayerID: 8331D8D75888F7EF
+Platform: Standalone
+AccountCreationDate: 2026-02-14 02:56:57 UTC
+Color: R=1.00 G=0.11 B=0.11
+Cosmetics: None

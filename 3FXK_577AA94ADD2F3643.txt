@@ -1,0 +1,7 @@
+Name: WQYZ
+ActorNumber: 1406
+PlayerID: 577AA94ADD2F3643
+Platform: Standalone
+AccountCreationDate: 2025-12-23 00:48:19 UTC
+Color: R=0.78 G=0.11 B=0.33
+Cosmetics: None

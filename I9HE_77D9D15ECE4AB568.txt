@@ -1,0 +1,7 @@
+Name: AB
+ActorNumber: 347
+PlayerID: 77D9D15ECE4AB568
+Platform: Standalone
+AccountCreationDate: 2026-01-31 00:35:20 UTC
+Color: R=0.67 G=1.00 B=1.00
+Cosmetics: None

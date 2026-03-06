@@ -1,0 +1,7 @@
+Name: SKY
+ActorNumber: 7
+PlayerID: 333061B7DD5E3EAD
+Platform: Standalone
+AccountCreationDate: 2024-11-16 00:10:48 UTC
+Color: R=0.33 G=0.33 B=0.78
+Cosmetics: None

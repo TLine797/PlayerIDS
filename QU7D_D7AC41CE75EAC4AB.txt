@@ -1,0 +1,7 @@
+Name: FAST
+ActorNumber: 489
+PlayerID: D7AC41CE75EAC4AB
+Platform: Standalone
+AccountCreationDate: 2026-01-02 03:52:37 UTC
+Color: R=1.00 G=0.32 B=0.91
+Cosmetics: None

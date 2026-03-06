@@ -1,0 +1,7 @@
+Name: WAFFLE
+ActorNumber: 1273
+PlayerID: 1C0D30A2D01C302F
+Platform: Standalone
+AccountCreationDate: 2026-01-10 02:34:06 UTC
+Color: R=0.22 G=0.00 B=0.00
+Cosmetics: None

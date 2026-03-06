@@ -1,0 +1,7 @@
+Name: XPIGEONX
+ActorNumber: 734
+PlayerID: CB32A45AEF8FF2C7
+Platform: Standalone
+AccountCreationDate: 2026-01-31 10:55:56 UTC
+Color: R=0.56 G=0.00 B=1.00
+Cosmetics: None

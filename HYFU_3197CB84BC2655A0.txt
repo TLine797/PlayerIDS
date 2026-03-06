@@ -1,0 +1,7 @@
+Name: JAY
+ActorNumber: 1409
+PlayerID: 3197CB84BC2655A0
+Platform: Standalone
+AccountCreationDate: 2025-12-25 14:09:53 UTC
+Color: R=0.00 G=0.33 B=0.00
+Cosmetics: None

@@ -1,0 +1,7 @@
+Name: RUSTYVMMM
+ActorNumber: 115
+PlayerID: 1936F7C23C82A0E6
+Platform: Unknown
+AccountCreationDate: 2023-01-01 00:59:15 UTC
+Color: R=0.56 G=0.44 B=1.00
+Cosmetics: None

@@ -1,0 +1,7 @@
+Name: FUNKYVR
+ActorNumber: 1034
+PlayerID: 4DDCE90F331C37B
+Platform: Standalone
+AccountCreationDate: 2023-10-15 22:13:54 UTC
+Color: R=1.00 G=0.00 B=0.00
+Cosmetics: None

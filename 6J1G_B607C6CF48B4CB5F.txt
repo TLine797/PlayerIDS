@@ -1,0 +1,7 @@
+Name: A
+ActorNumber: 430
+PlayerID: B607C6CF48B4CB5F
+Platform: Standalone
+AccountCreationDate: 2025-01-14 03:18:38 UTC
+Color: R=1.00 G=0.67 B=0.89
+Cosmetics: None

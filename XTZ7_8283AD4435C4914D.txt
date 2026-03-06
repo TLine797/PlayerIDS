@@ -1,0 +1,7 @@
+Name: JESUSLOVESU
+ActorNumber: 199
+PlayerID: 8283AD4435C4914D
+Platform: Standalone
+AccountCreationDate: 2025-12-26 23:42:32 UTC
+Color: R=0.00 G=0.00 B=0.00
+Cosmetics: None

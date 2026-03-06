@@ -1,0 +1,7 @@
+Name: TSRGOBLEN
+ActorNumber: 217
+PlayerID: C398483415DC3C59
+Platform: Standalone
+AccountCreationDate: 2026-02-28 22:55:11 UTC
+Color: R=0.00 G=0.00 B=0.00
+Cosmetics: None

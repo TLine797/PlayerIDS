@@ -1,0 +1,7 @@
+Name: YOOIK
+ActorNumber: 1347
+PlayerID: 67132135819A8D95
+Platform: Unknown
+AccountCreationDate: 2022-12-22 22:41:36 UTC
+Color: R=0.00 G=0.00 B=0.00
+Cosmetics: None

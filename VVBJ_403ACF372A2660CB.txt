@@ -1,0 +1,7 @@
+Name: DFDVR640SUBS
+ActorNumber: 49
+PlayerID: 403ACF372A2660CB
+Platform: Standalone
+AccountCreationDate: 2024-11-16 17:41:39 UTC
+Color: R=1.00 G=0.00 B=0.00
+Cosmetics: None

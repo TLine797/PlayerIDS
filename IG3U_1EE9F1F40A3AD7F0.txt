@@ -1,0 +1,7 @@
+Name: MILLY
+ActorNumber: 974
+PlayerID: 1EE9F1F40A3AD7F0
+Platform: Standalone
+AccountCreationDate: 2025-12-25 14:55:36 UTC
+Color: R=0.67 G=0.67 B=0.67
+Cosmetics: None

@@ -1,0 +1,7 @@
+Name: FD442
+ActorNumber: 339
+PlayerID: 45BC7C4820557F78
+Platform: Standalone
+AccountCreationDate: 2024-01-07 02:43:39 UTC
+Color: R=0.33 G=0.44 B=0.56
+Cosmetics: None

@@ -1,0 +1,7 @@
+Name: GORILLA
+ActorNumber: 924
+PlayerID: D73B2EFEF70CF2D3
+Platform: Standalone
+AccountCreationDate: 2023-12-07 00:51:03 UTC
+Color: R=0.00 G=0.00 B=0.00
+Cosmetics: None

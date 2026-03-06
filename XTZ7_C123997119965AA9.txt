@@ -1,0 +1,7 @@
+Name: MONKEY
+ActorNumber: 127
+PlayerID: C123997119965AA9
+Platform: Unknown
+AccountCreationDate: 2021-12-24 00:59:39 UTC
+Color: R=0.33 G=0.00 B=0.00
+Cosmetics: None

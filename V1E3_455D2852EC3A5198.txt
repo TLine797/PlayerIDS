@@ -1,0 +1,7 @@
+Name: ORCA
+ActorNumber: 347
+PlayerID: 455D2852EC3A5198
+Platform: Standalone
+AccountCreationDate: 2023-12-09 22:52:33 UTC
+Color: R=0.00 G=0.00 B=1.00
+Cosmetics: None

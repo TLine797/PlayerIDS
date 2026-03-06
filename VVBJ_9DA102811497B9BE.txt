@@ -1,0 +1,7 @@
+Name: H3X
+ActorNumber: 32
+PlayerID: 9DA102811497B9BE
+Platform: Standalone
+AccountCreationDate: 2025-09-06 02:40:16 UTC
+Color: R=0.78 G=0.00 B=0.11
+Cosmetics: None

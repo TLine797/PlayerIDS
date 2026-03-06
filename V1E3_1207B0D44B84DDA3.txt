@@ -1,0 +1,7 @@
+Name: gorilla2624
+ActorNumber: 322
+PlayerID: 1207B0D44B84DDA3
+Platform: Standalone
+AccountCreationDate: 2025-12-25 15:08:26 UTC
+Color: R=0.44 G=0.00 B=1.00
+Cosmetics: None

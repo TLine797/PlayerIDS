@@ -1,0 +1,7 @@
+Name: BNANARIPBLIC
+ActorNumber: 495
+PlayerID: 7720DAD02F43C7D3
+Platform: Standalone
+AccountCreationDate: 2023-03-04 16:03:32 UTC
+Color: R=0.89 G=0.89 B=0.00
+Cosmetics: None

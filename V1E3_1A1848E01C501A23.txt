@@ -1,0 +1,7 @@
+Name: PULL
+ActorNumber: 362
+PlayerID: 1A1848E01C501A23
+Platform: Standalone
+AccountCreationDate: 2025-05-21 22:20:57 UTC
+Color: R=0.00 G=0.00 B=0.56
+Cosmetics: None

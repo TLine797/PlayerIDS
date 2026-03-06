@@ -1,0 +1,7 @@
+Name: APRIL
+ActorNumber: 1160
+PlayerID: 271328798249B2D1
+Platform: Standalone
+AccountCreationDate: 2024-07-02 20:49:10 UTC
+Color: R=1.00 G=0.67 B=1.00
+Cosmetics: None

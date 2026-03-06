@@ -1,0 +1,7 @@
+Name: DEX
+ActorNumber: 117
+PlayerID: 79F1028A1899CBC4
+Platform: Standalone
+AccountCreationDate: 2025-11-08 15:44:18 UTC
+Color: R=0.00 G=1.00 B=0.00
+Cosmetics: None

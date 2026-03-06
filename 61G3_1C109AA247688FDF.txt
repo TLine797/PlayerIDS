@@ -1,0 +1,7 @@
+Name: IRLLYDK
+ActorNumber: 3304
+PlayerID: 1C109AA247688FDF
+Platform: Standalone
+AccountCreationDate: 2025-01-30 22:08:55 UTC
+Color: R=0.44 G=0.00 B=1.00
+Cosmetics: None

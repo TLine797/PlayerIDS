@@ -1,0 +1,7 @@
+Name: KNOXY
+ActorNumber: 331
+PlayerID: 9CD97BFB16E2AF28
+Platform: Standalone
+AccountCreationDate: 2026-01-10 19:58:13 UTC
+Color: R=0.44 G=0.00 B=0.89
+Cosmetics: None

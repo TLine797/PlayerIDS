@@ -1,0 +1,7 @@
+Name: SUGMA
+ActorNumber: 77
+PlayerID: 6733FD6371CCE550
+Platform: Unknown
+AccountCreationDate: 2021-05-02 15:39:23 UTC
+Color: R=0.22 G=0.00 B=0.67
+Cosmetics: None

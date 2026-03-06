@@ -1,0 +1,7 @@
+Name: BROOKVR
+ActorNumber: 196
+PlayerID: CAF0B40A71208A2B
+Platform: Standalone
+AccountCreationDate: 2025-12-25 14:54:01 UTC
+Color: R=0.33 G=0.33 B=0.33
+Cosmetics: None

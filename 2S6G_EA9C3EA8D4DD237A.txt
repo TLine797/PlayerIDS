@@ -1,0 +1,7 @@
+Name: BEN
+ActorNumber: 855
+PlayerID: EA9C3EA8D4DD237A
+Platform: Standalone
+AccountCreationDate: 2025-12-24 23:45:50 UTC
+Color: R=0.00 G=0.00 B=1.00
+Cosmetics: None

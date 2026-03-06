@@ -1,0 +1,7 @@
+Name: BANANNA
+ActorNumber: 609
+PlayerID: 8B0D1C301DEE17E4
+Platform: Standalone
+AccountCreationDate: 2025-12-24 22:55:43 UTC
+Color: R=0.44 G=0.00 B=0.89
+Cosmetics: None

@@ -1,0 +1,7 @@
+Name: TFGMONKKE
+ActorNumber: 839
+PlayerID: B5FB667A57B2B919
+Platform: Standalone
+AccountCreationDate: 2026-01-01 22:51:55 UTC
+Color: R=0.83 G=0.16 B=0.93
+Cosmetics: None

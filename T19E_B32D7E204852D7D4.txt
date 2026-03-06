@@ -1,0 +1,7 @@
+Name: SHELUVSI4
+ActorNumber: 173
+PlayerID: B32D7E204852D7D4
+Platform: Standalone
+AccountCreationDate: 2026-01-24 22:34:30 UTC
+Color: R=0.89 G=0.78 B=0.56
+Cosmetics: None

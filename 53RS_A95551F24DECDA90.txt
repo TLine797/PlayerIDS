@@ -1,0 +1,7 @@
+Name: ARTIC
+ActorNumber: 1037
+PlayerID: A95551F24DECDA90
+Platform: Standalone
+AccountCreationDate: 2026-01-25 01:36:36 UTC
+Color: R=0.00 G=0.00 B=0.00
+Cosmetics: None

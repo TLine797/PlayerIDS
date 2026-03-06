@@ -1,0 +1,7 @@
+Name: GREYSONVR
+ActorNumber: 274
+PlayerID: D3E8BF04B9403599
+Platform: Standalone
+AccountCreationDate: 2025-12-25 15:19:34 UTC
+Color: R=1.00 G=0.56 B=0.00
+Cosmetics: None

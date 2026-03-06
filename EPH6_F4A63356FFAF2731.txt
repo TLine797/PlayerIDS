@@ -1,0 +1,7 @@
+Name: SIKE
+ActorNumber: 344
+PlayerID: F4A63356FFAF2731
+Platform: Standalone
+AccountCreationDate: 2025-12-25 17:14:13 UTC
+Color: R=1.00 G=0.11 B=0.00
+Cosmetics: None

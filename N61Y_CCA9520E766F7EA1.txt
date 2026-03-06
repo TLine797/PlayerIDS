@@ -1,0 +1,7 @@
+Name: TAYK
+ActorNumber: 851
+PlayerID: CCA9520E766F7EA1
+Platform: Standalone
+AccountCreationDate: 2026-01-18 18:39:04 UTC
+Color: R=0.33 G=0.00 B=0.67
+Cosmetics: None

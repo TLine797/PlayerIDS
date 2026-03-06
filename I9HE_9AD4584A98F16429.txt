@@ -1,0 +1,7 @@
+Name: PLASTIC
+ActorNumber: 198
+PlayerID: 9AD4584A98F16429
+Platform: Standalone
+AccountCreationDate: 2025-01-21 18:10:47 UTC
+Color: R=0.89 G=0.67 B=0.78
+Cosmetics: None

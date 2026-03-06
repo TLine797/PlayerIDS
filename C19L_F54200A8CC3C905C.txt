@@ -1,0 +1,7 @@
+Name: LEXI
+ActorNumber: 1159
+PlayerID: F54200A8CC3C905C
+Platform: Standalone
+AccountCreationDate: 2024-02-13 23:16:39 UTC
+Color: R=0.00 G=0.00 B=0.00
+Cosmetics: None

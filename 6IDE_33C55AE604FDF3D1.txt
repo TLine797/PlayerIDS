@@ -1,0 +1,7 @@
+Name: gorilla
+ActorNumber: 1004
+PlayerID: 33C55AE604FDF3D1
+Platform: Standalone
+AccountCreationDate: 2026-02-28 18:43:49 UTC
+Color: R=0.11 G=1.00 B=0.33
+Cosmetics: None

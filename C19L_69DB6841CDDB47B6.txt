@@ -1,0 +1,7 @@
+Name: THRAGG
+ActorNumber: 1168
+PlayerID: 69DB6841CDDB47B6
+Platform: Standalone
+AccountCreationDate: 2024-12-27 08:05:04 UTC
+Color: R=0.56 G=0.00 B=0.00
+Cosmetics: None

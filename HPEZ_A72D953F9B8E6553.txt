@@ -1,0 +1,7 @@
+Name: QUIDZY
+ActorNumber: 1680
+PlayerID: A72D953F9B8E6553
+Platform: Standalone
+AccountCreationDate: 2023-10-09 01:43:49 UTC
+Color: R=0.67 G=1.00 B=0.44
+Cosmetics: None

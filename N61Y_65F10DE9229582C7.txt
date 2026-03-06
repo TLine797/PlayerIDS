@@ -1,0 +1,7 @@
+Name: TGBGHOSTYY
+ActorNumber: 1040
+PlayerID: 65F10DE9229582C7
+Platform: Standalone
+AccountCreationDate: 2025-11-14 22:00:54 UTC
+Color: R=0.44 G=0.00 B=0.78
+Cosmetics: None

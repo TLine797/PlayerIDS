@@ -1,0 +1,7 @@
+Name: STANDALONE
+ActorNumber: 528
+PlayerID: E76A1C3F9AD76180
+Platform: Standalone
+AccountCreationDate: 2024-11-28 17:23:20 UTC
+Color: R=0.33 G=0.22 B=0.44
+Cosmetics: None

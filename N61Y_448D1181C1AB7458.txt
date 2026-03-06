@@ -1,0 +1,7 @@
+Name: SCOTTISHDEEE
+ActorNumber: 832
+PlayerID: 448D1181C1AB7458
+Platform: Unknown
+AccountCreationDate: 2022-12-31 19:18:14 UTC
+Color: R=1.00 G=0.33 B=1.00
+Cosmetics: None

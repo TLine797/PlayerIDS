@@ -1,0 +1,7 @@
+Name: ACHILLGUY
+ActorNumber: 336
+PlayerID: 6214F550FDDCD8CB
+Platform: Standalone
+AccountCreationDate: 2025-12-21 04:08:23 UTC
+Color: R=1.00 G=1.00 B=1.00
+Cosmetics: None

@@ -1,0 +1,7 @@
+Name: DZIK
+ActorNumber: 27
+PlayerID: 4DCB788CCA35A3F8
+Platform: Standalone
+AccountCreationDate: 2024-11-26 15:13:50 UTC
+Color: R=0.22 G=0.11 B=0.00
+Cosmetics: None

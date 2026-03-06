@@ -1,0 +1,7 @@
+Name: MRSAVAGE
+ActorNumber: 298
+PlayerID: 44A96C5878BA9C9B
+Platform: Unknown
+AccountCreationDate: 2021-08-27 22:09:28 UTC
+Color: R=1.00 G=0.78 B=0.56
+Cosmetics: None

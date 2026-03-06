@@ -1,0 +1,7 @@
+Name: JBLITZ
+ActorNumber: 686
+PlayerID: E2A3A6A9799E2C5E
+Platform: Standalone
+AccountCreationDate: 2025-04-01 21:44:27 UTC
+Color: R=0.00 G=0.00 B=0.00
+Cosmetics: None

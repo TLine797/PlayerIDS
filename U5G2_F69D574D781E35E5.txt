@@ -1,0 +1,7 @@
+Name: ILOVEFINESHT
+ActorNumber: 75
+PlayerID: F69D574D781E35E5
+Platform: Unknown
+AccountCreationDate: 2025-12-28 02:53:51 UTC
+Color: R=1.00 G=1.00 B=0.00
+Cosmetics: None

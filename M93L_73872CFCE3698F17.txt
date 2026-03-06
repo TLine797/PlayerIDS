@@ -1,0 +1,7 @@
+Name: gorilla8776
+ActorNumber: 136
+PlayerID: 73872CFCE3698F17
+Platform: PC
+AccountCreationDate: 2026-02-08 15:29:24 UTC
+Color: R=1.00 G=0.00 B=0.00
+Cosmetics: None

@@ -1,0 +1,7 @@
+Name: IPOOPMYPANTS
+ActorNumber: 516
+PlayerID: 2D04E5D7E97890E0
+Platform: Unknown
+AccountCreationDate: 2022-04-08 02:02:08 UTC
+Color: R=1.00 G=0.78 B=1.00
+Cosmetics: None

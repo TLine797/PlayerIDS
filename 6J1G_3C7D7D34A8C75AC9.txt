@@ -1,0 +1,7 @@
+Name: S1LY
+ActorNumber: 438
+PlayerID: 3C7D7D34A8C75AC9
+Platform: Standalone
+AccountCreationDate: 2025-12-26 05:02:39 UTC
+Color: R=1.00 G=0.44 B=0.00
+Cosmetics: None

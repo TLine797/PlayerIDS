@@ -1,0 +1,7 @@
+Name: APXTYLR
+ActorNumber: 37
+PlayerID: 1B9ACE353E59AEDA
+Platform: Standalone
+AccountCreationDate: 2024-01-28 21:06:50 UTC
+Color: R=1.00 G=0.00 B=1.00
+Cosmetics: None

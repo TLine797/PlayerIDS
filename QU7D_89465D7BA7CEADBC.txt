@@ -1,0 +1,7 @@
+Name: COOKIE
+ActorNumber: 472
+PlayerID: 89465D7BA7CEADBC
+Platform: Standalone
+AccountCreationDate: 2022-01-23 04:06:55 UTC
+Color: R=1.00 G=1.00 B=1.00
+Cosmetics: None

@@ -1,0 +1,7 @@
+Name: CHESEBURGERT
+ActorNumber: 354
+PlayerID: 8A30C0B2FE83E6DB
+Platform: Standalone
+AccountCreationDate: 2025-12-27 13:26:52 UTC
+Color: R=0.00 G=0.00 B=0.00
+Cosmetics: None

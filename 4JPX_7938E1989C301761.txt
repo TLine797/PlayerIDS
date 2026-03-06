@@ -1,0 +1,7 @@
+Name: ARMANI
+ActorNumber: 161
+PlayerID: 7938E1989C301761
+Platform: Standalone
+AccountCreationDate: 2025-12-26 14:16:51 UTC
+Color: R=0.00 G=0.00 B=1.00
+Cosmetics: None

@@ -1,0 +1,7 @@
+Name: gorilla0627
+ActorNumber: 1247
+PlayerID: BFCC9BA72DF36E58
+Platform: Standalone
+AccountCreationDate: 2023-12-25 17:13:56 UTC
+Color: R=0.33 G=0.22 B=0.67
+Cosmetics: None

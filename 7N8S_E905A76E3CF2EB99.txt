@@ -1,0 +1,7 @@
+Name: GAARA
+ActorNumber: 1178
+PlayerID: E905A76E3CF2EB99
+Platform: Standalone
+AccountCreationDate: 2025-12-26 17:09:42 UTC
+Color: R=0.78 G=0.67 B=0.56
+Cosmetics: None

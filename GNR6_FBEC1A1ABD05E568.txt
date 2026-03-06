@@ -1,0 +1,7 @@
+Name: CURS3D
+ActorNumber: 353
+PlayerID: FBEC1A1ABD05E568
+Platform: Standalone
+AccountCreationDate: 2025-12-25 22:41:16 UTC
+Color: R=0.00 G=0.00 B=0.00
+Cosmetics: None

@@ -1,0 +1,7 @@
+Name: DADDYGOJO
+ActorNumber: 613
+PlayerID: 16CAAA2F475DF903
+Platform: Standalone
+AccountCreationDate: 2025-12-25 17:48:09 UTC
+Color: R=0.00 G=0.00 B=0.00
+Cosmetics: None

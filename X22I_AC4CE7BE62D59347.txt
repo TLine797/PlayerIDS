@@ -1,0 +1,7 @@
+Name: DAVID
+ActorNumber: 516
+PlayerID: AC4CE7BE62D59347
+Platform: Standalone
+AccountCreationDate: 2024-12-25 15:57:01 UTC
+Color: R=0.00 G=0.00 B=1.00
+Cosmetics: None

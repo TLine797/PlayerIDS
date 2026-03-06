@@ -1,0 +1,7 @@
+Name: DOEY
+ActorNumber: 70
+PlayerID: 50A13613DF8A6C1F
+Platform: Standalone
+AccountCreationDate: 2025-03-01 22:05:18 UTC
+Color: R=0.00 G=0.11 B=0.56
+Cosmetics: None

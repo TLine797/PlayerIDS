@@ -1,0 +1,7 @@
+Name: GUY
+ActorNumber: 610
+PlayerID: 3056C72A10CD48E
+Platform: Standalone
+AccountCreationDate: 2025-12-25 16:31:46 UTC
+Color: R=0.78 G=0.78 B=0.78
+Cosmetics: None

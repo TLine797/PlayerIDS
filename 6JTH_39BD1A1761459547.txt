@@ -1,0 +1,7 @@
+Name: KD
+ActorNumber: 138
+PlayerID: 39BD1A1761459547
+Platform: Standalone
+AccountCreationDate: 2023-12-24 22:49:00 UTC
+Color: R=0.00 G=0.00 B=1.00
+Cosmetics: None

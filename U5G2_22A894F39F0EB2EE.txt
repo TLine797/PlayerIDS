@@ -1,0 +1,7 @@
+Name: SLAYQUEEN112
+ActorNumber: 46
+PlayerID: 22A894F39F0EB2EE
+Platform: Standalone
+AccountCreationDate: 2025-12-25 13:28:35 UTC
+Color: R=0.78 G=0.78 B=0.56
+Cosmetics: None

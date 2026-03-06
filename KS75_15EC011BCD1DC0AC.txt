@@ -1,0 +1,7 @@
+Name: BILLYBOB3612
+ActorNumber: 890
+PlayerID: 15EC011BCD1DC0AC
+Platform: Standalone
+AccountCreationDate: 2025-03-07 04:52:09 UTC
+Color: R=0.00 G=0.00 B=1.00
+Cosmetics: None

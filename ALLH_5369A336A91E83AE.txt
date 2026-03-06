@@ -1,0 +1,7 @@
+Name: KAIBEN
+ActorNumber: 285
+PlayerID: 5369A336A91E83AE
+Platform: Unknown
+AccountCreationDate: 2022-01-01 19:20:21 UTC
+Color: R=0.00 G=0.00 B=0.00
+Cosmetics: None

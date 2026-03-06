@@ -1,0 +1,7 @@
+Name: TOT
+ActorNumber: 547
+PlayerID: 1ACD0B2CDFBA359E
+Platform: Unknown
+AccountCreationDate: 2022-08-15 02:37:27 UTC
+Color: R=0.11 G=0.11 B=0.44
+Cosmetics: None

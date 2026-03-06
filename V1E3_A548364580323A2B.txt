@@ -1,0 +1,7 @@
+Name: JUSTAMONKE
+ActorNumber: 311
+PlayerID: A548364580323A2B
+Platform: Standalone
+AccountCreationDate: 2025-01-03 01:00:56 UTC
+Color: R=0.00 G=0.56 B=1.00
+Cosmetics: None

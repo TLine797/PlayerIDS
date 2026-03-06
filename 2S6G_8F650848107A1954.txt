@@ -1,0 +1,7 @@
+Name: DREDDY
+ActorNumber: 932
+PlayerID: 8F650848107A1954
+Platform: Unknown
+AccountCreationDate: 2022-02-17 00:22:43 UTC
+Color: R=1.00 G=1.00 B=1.00
+Cosmetics: None

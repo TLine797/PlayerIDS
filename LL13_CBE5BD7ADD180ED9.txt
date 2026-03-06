@@ -1,0 +1,7 @@
+Name: gorilla9370
+ActorNumber: 468
+PlayerID: CBE5BD7ADD180ED9
+Platform: Standalone
+AccountCreationDate: 2025-02-05 20:18:55 UTC
+Color: R=0.56 G=0.00 B=1.00
+Cosmetics: None

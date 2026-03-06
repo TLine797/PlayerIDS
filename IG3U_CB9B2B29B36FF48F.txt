@@ -1,0 +1,7 @@
+Name: LEMMY
+ActorNumber: 782
+PlayerID: CB9B2B29B36FF48F
+Platform: Standalone
+AccountCreationDate: 2024-10-26 09:59:06 UTC
+Color: R=0.00 G=0.00 B=0.44
+Cosmetics: None

@@ -1,0 +1,7 @@
+Name: REX
+ActorNumber: 65
+PlayerID: 4E500E0D5BEBA43C
+Platform: Standalone
+AccountCreationDate: 2023-12-28 22:59:54 UTC
+Color: R=0.67 G=0.00 B=0.00
+Cosmetics: None

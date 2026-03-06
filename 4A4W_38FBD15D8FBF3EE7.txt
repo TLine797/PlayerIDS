@@ -1,0 +1,7 @@
+Name: MOM
+ActorNumber: 399
+PlayerID: 38FBD15D8FBF3EE7
+Platform: Standalone
+AccountCreationDate: 2024-10-26 19:10:07 UTC
+Color: R=0.78 G=0.67 B=0.78
+Cosmetics: None

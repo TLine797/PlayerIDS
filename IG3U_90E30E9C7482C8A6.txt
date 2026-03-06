@@ -1,0 +1,7 @@
+Name: TGLJA
+ActorNumber: 743
+PlayerID: 90E30E9C7482C8A6
+Platform: Standalone
+AccountCreationDate: 2026-01-02 01:41:26 UTC
+Color: R=1.00 G=0.44 B=0.00
+Cosmetics: None

@@ -1,0 +1,7 @@
+Name: HULKIEWULKIE
+ActorNumber: 614
+PlayerID: 3751DC859AABEB0C
+Platform: Standalone
+AccountCreationDate: 2022-10-11 15:07:53 UTC
+Color: R=0.00 G=0.33 B=0.00
+Cosmetics: None

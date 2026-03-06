@@ -1,0 +1,7 @@
+Name: FGWDEMON
+ActorNumber: 498
+PlayerID: E4CC7309F456A35D
+Platform: Standalone
+AccountCreationDate: 2023-05-06 23:11:21 UTC
+Color: R=0.44 G=0.00 B=0.78
+Cosmetics: None

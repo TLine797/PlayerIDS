@@ -1,0 +1,7 @@
+Name: ORANGEJUICE
+ActorNumber: 316
+PlayerID: 513C1D0EDC2F6342
+Platform: Standalone
+AccountCreationDate: 2023-12-20 20:26:24 UTC
+Color: R=1.00 G=0.44 B=0.22
+Cosmetics: None

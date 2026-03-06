@@ -1,0 +1,7 @@
+Name: gorilla4860
+ActorNumber: 69
+PlayerID: CAAC67C759D67FD0
+Platform: Standalone
+AccountCreationDate: 2025-11-16 02:26:20 UTC
+Color: R=0.00 G=0.00 B=0.78
+Cosmetics: None

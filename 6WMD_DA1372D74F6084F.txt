@@ -1,0 +1,7 @@
+Name: SSSTORMZ
+ActorNumber: 14
+PlayerID: DA1372D74F6084F
+Platform: Standalone
+AccountCreationDate: 2024-11-03 23:47:43 UTC
+Color: R=0.33 G=0.00 B=0.67
+Cosmetics: None

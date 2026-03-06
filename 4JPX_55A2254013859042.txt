@@ -1,0 +1,7 @@
+Name: T
+ActorNumber: 152
+PlayerID: 55A2254013859042
+Platform: Standalone
+AccountCreationDate: 2025-12-26 05:31:36 UTC
+Color: R=0.44 G=0.44 B=0.67
+Cosmetics: None

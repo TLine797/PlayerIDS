@@ -1,0 +1,7 @@
+Name: ARMENDVR
+ActorNumber: 474
+PlayerID: 6C52ADBF294672E0
+Platform: Standalone
+AccountCreationDate: 2024-08-04 02:35:40 UTC
+Color: R=0.56 G=1.00 B=1.00
+Cosmetics: None

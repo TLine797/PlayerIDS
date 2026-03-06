@@ -1,0 +1,7 @@
+Name: AFTON
+ActorNumber: 336
+PlayerID: 3246AAEF33761A74
+Platform: Unknown
+AccountCreationDate: 2022-01-16 06:26:29 UTC
+Color: R=0.67 G=0.11 B=1.00
+Cosmetics: None

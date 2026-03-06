@@ -1,0 +1,7 @@
+Name: SAUL
+ActorNumber: 741
+PlayerID: BD87E073477425FA
+Platform: Unknown
+AccountCreationDate: 2022-01-02 17:14:57 UTC
+Color: R=0.00 G=0.44 B=1.00
+Cosmetics: None

@@ -1,0 +1,7 @@
+Name: HUH55
+ActorNumber: 94
+PlayerID: 8943E8A589C3E2BB
+Platform: Standalone
+AccountCreationDate: 2026-01-21 00:00:56 UTC
+Color: R=1.00 G=0.56 B=0.67
+Cosmetics: None

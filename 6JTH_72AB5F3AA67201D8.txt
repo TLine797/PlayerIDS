@@ -1,0 +1,7 @@
+Name: TPS
+ActorNumber: 159
+PlayerID: 72AB5F3AA67201D8
+Platform: Standalone
+AccountCreationDate: 2025-12-25 18:25:52 UTC
+Color: R=0.67 G=0.00 B=0.00
+Cosmetics: None

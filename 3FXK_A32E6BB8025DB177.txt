@@ -1,0 +1,7 @@
+Name: XYSTR
+ActorNumber: 1378
+PlayerID: A32E6BB8025DB177
+Platform: Standalone
+AccountCreationDate: 2025-08-15 23:12:37 UTC
+Color: R=1.00 G=0.78 B=0.78
+Cosmetics: None

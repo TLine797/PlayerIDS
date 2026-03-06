@@ -1,0 +1,7 @@
+Name: TBMTVK
+ActorNumber: 316
+PlayerID: D1C6A87C784D2289
+Platform: Standalone
+AccountCreationDate: 2025-12-25 20:41:23 UTC
+Color: R=0.56 G=0.00 B=0.00
+Cosmetics: None

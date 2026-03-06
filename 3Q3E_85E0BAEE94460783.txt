@@ -1,0 +1,7 @@
+Name: QUINN
+ActorNumber: 579
+PlayerID: 85E0BAEE94460783
+Platform: Standalone
+AccountCreationDate: 2026-01-31 21:15:43 UTC
+Color: R=0.78 G=1.00 B=1.00
+Cosmetics: None

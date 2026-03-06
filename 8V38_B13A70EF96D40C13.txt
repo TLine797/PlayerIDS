@@ -1,0 +1,7 @@
+Name: FLYINGSLUG
+ActorNumber: 672
+PlayerID: B13A70EF96D40C13
+Platform: Unknown
+AccountCreationDate: 2023-01-05 17:20:42 UTC
+Color: R=0.22 G=0.67 B=0.33
+Cosmetics: None

@@ -1,0 +1,7 @@
+Name: TTTEVOLIVEE
+ActorNumber: 477
+PlayerID: C254BCFBAE1F963
+Platform: Standalone
+AccountCreationDate: 2025-10-19 03:30:39 UTC
+Color: R=0.44 G=0.00 B=0.78
+Cosmetics: None

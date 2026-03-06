@@ -1,0 +1,7 @@
+Name: DAVEGT
+ActorNumber: 4
+PlayerID: 7F1E538BCBA88325
+Platform: Standalone
+AccountCreationDate: 2025-12-22 20:03:17 UTC
+Color: R=0.33 G=0.22 B=0.89
+Cosmetics: None

@@ -1,0 +1,7 @@
+Name: 14
+ActorNumber: 1305
+PlayerID: 3E139AD6295D9851
+Platform: Standalone
+AccountCreationDate: 2025-07-14 15:28:17 UTC
+Color: R=0.56 G=0.33 B=0.11
+Cosmetics: None

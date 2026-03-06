@@ -1,0 +1,7 @@
+Name: HINO
+ActorNumber: 106
+PlayerID: B6FCB62BDE09EB03
+Platform: Standalone
+AccountCreationDate: 2025-02-27 00:27:20 UTC
+Color: R=0.00 G=0.00 B=0.89
+Cosmetics: None

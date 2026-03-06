@@ -1,0 +1,7 @@
+Name: COOKIEGT
+ActorNumber: 1172
+PlayerID: F36C4B57D441AE0F
+Platform: Standalone
+AccountCreationDate: 2024-03-21 00:21:37 UTC
+Color: R=0.44 G=0.00 B=0.78
+Cosmetics: None

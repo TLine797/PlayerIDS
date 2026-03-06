@@ -1,0 +1,7 @@
+Name: PBBU
+ActorNumber: 295
+PlayerID: C2DBCED4F5851CED
+Platform: Standalone
+AccountCreationDate: 2025-12-25 21:31:00 UTC
+Color: R=1.00 G=0.89 B=0.00
+Cosmetics: None

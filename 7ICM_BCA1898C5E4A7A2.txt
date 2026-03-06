@@ -1,0 +1,7 @@
+Name: NIKO
+ActorNumber: 491
+PlayerID: BCA1898C5E4A7A2
+Platform: Standalone
+AccountCreationDate: 2025-12-25 18:30:22 UTC
+Color: R=0.00 G=0.00 B=0.00
+Cosmetics: None

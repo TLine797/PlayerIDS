@@ -1,0 +1,7 @@
+Name: H4KPY
+ActorNumber: 468
+PlayerID: 62CA79824CD5A079
+Platform: Standalone
+AccountCreationDate: 2026-02-21 00:35:48 UTC
+Color: R=0.78 G=0.00 B=0.11
+Cosmetics: None

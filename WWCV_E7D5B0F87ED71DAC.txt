@@ -1,0 +1,7 @@
+Name: HI
+ActorNumber: 1237
+PlayerID: E7D5B0F87ED71DAC
+Platform: Standalone
+AccountCreationDate: 2025-12-25 17:15:41 UTC
+Color: R=0.00 G=0.00 B=0.00
+Cosmetics: None

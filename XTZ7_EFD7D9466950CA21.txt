@@ -1,0 +1,7 @@
+Name: LOVELY
+ActorNumber: 260
+PlayerID: EFD7D9466950CA21
+Platform: Standalone
+AccountCreationDate: 2026-01-01 04:48:29 UTC
+Color: R=0.89 G=0.44 B=0.89
+Cosmetics: None

@@ -1,0 +1,7 @@
+Name: HUNTER
+ActorNumber: 486
+PlayerID: FBF348530D21DBF0
+Platform: Standalone
+AccountCreationDate: 2025-12-25 16:40:28 UTC
+Color: R=0.00 G=0.00 B=1.00
+Cosmetics: None

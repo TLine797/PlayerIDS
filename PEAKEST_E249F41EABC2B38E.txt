@@ -1,5 +1,5 @@
 Name: KORMAKUR
-ActorNumber: 2
+ActorNumber: 18
 PlayerID: E249F41EABC2B38E
 Platform: PC
 AccountCreationDate: 2024-01-29 17:39:05 UTC

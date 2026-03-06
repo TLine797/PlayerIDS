@@ -1,0 +1,7 @@
+Name: KJLM
+ActorNumber: 31
+PlayerID: 3537E082881074A9
+Platform: Standalone
+AccountCreationDate: 2025-12-19 21:16:14 UTC
+Color: R=0.00 G=1.00 B=1.00
+Cosmetics: None

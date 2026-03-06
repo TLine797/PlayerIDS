@@ -1,0 +1,7 @@
+Name: JAY41
+ActorNumber: 364
+PlayerID: D8E34FD8F37ED1F
+Platform: Standalone
+AccountCreationDate: 2023-12-29 04:09:20 UTC
+Color: R=0.67 G=0.00 B=1.00
+Cosmetics: None

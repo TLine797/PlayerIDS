@@ -1,0 +1,7 @@
+Name: KIWI
+ActorNumber: 936
+PlayerID: C04112A6BA22691C
+Platform: Unknown
+AccountCreationDate: 2025-08-16 22:51:02 UTC
+Color: R=0.44 G=0.67 B=0.33
+Cosmetics: None

@@ -1,0 +1,7 @@
+Name: REVOR
+ActorNumber: 364
+PlayerID: CC1F2928824ADA0A
+Platform: Standalone
+AccountCreationDate: 2023-07-13 16:26:14 UTC
+Color: R=0.56 G=0.44 B=0.89
+Cosmetics: None

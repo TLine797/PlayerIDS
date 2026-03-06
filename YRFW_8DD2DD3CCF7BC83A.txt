@@ -1,0 +1,7 @@
+Name: gorilla
+ActorNumber: 300
+PlayerID: 8DD2DD3CCF7BC83A
+Platform: Standalone
+AccountCreationDate: 2026-01-11 06:18:54 UTC
+Color: R=0.67 G=0.00 B=1.00
+Cosmetics: None

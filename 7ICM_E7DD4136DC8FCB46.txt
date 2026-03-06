@@ -1,0 +1,7 @@
+Name: D4RT
+ActorNumber: 493
+PlayerID: E7DD4136DC8FCB46
+Platform: Standalone
+AccountCreationDate: 2025-12-25 14:29:02 UTC
+Color: R=0.22 G=0.33 B=0.44
+Cosmetics: None

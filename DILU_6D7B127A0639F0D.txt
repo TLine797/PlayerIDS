@@ -1,0 +1,7 @@
+Name: BAGABLAST
+ActorNumber: 1139
+PlayerID: 6D7B127A0639F0D
+Platform: Standalone
+AccountCreationDate: 2025-09-22 23:13:45 UTC
+Color: R=1.00 G=0.33 B=0.33
+Cosmetics: None

@@ -1,0 +1,7 @@
+Name: CHIPPP
+ActorNumber: 32
+PlayerID: F6F3D6A6AE6A33FC
+Platform: Standalone
+AccountCreationDate: 2024-07-26 00:13:51 UTC
+Color: R=0.22 G=0.22 B=0.22
+Cosmetics: None

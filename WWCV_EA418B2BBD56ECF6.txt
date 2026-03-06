@@ -1,0 +1,7 @@
+Name: SYDNEY
+ActorNumber: 1239
+PlayerID: EA418B2BBD56ECF6
+Platform: Unknown
+AccountCreationDate: 2021-08-04 03:53:55 UTC
+Color: R=1.00 G=0.67 B=0.78
+Cosmetics: None

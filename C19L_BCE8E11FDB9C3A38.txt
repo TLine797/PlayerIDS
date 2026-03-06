@@ -1,0 +1,7 @@
+Name: BEANIEGT
+ActorNumber: 1179
+PlayerID: BCE8E11FDB9C3A38
+Platform: Standalone
+AccountCreationDate: 2023-04-09 18:33:54 UTC
+Color: R=1.00 G=0.00 B=0.00
+Cosmetics: None

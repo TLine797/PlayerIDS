@@ -1,0 +1,7 @@
+Name: SHAGGY
+ActorNumber: 393
+PlayerID: 9FAFE5F0A22FB79E
+Platform: Standalone
+AccountCreationDate: 2025-12-02 18:10:00 UTC
+Color: R=0.00 G=0.00 B=0.00
+Cosmetics: None

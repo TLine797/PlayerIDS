@@ -1,0 +1,7 @@
+Name: NROPAGGINYAG
+ActorNumber: 1437
+PlayerID: 57936D0C72B77BFA
+Platform: Standalone
+AccountCreationDate: 2025-01-18 03:29:51 UTC
+Color: R=0.00 G=0.00 B=0.00
+Cosmetics: None

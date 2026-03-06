@@ -1,0 +1,7 @@
+Name: REAL
+ActorNumber: 937
+PlayerID: A9895C769E10B181
+Platform: Standalone
+AccountCreationDate: 2024-06-29 18:11:12 UTC
+Color: R=1.00 G=0.00 B=1.00
+Cosmetics: None

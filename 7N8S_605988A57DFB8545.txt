@@ -1,0 +1,7 @@
+Name: SIENNA
+ActorNumber: 1182
+PlayerID: 605988A57DFB8545
+Platform: Standalone
+AccountCreationDate: 2024-12-25 18:35:33 UTC
+Color: R=0.89 G=0.78 B=0.00
+Cosmetics: None

@@ -1,0 +1,7 @@
+Name: GBOY
+ActorNumber: 302
+PlayerID: FDF68611F980D30
+Platform: Standalone
+AccountCreationDate: 2025-12-25 20:05:28 UTC
+Color: R=0.00 G=0.00 B=1.00
+Cosmetics: None

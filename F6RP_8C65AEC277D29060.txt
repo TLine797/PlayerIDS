@@ -1,0 +1,7 @@
+Name: UNCSAVA
+ActorNumber: 147
+PlayerID: 8C65AEC277D29060
+Platform: Standalone
+AccountCreationDate: 2024-12-29 19:52:41 UTC
+Color: R=0.56 G=0.00 B=1.00
+Cosmetics: None

@@ -1,0 +1,7 @@
+Name: TGGCARTER
+ActorNumber: 1041
+PlayerID: FA0C57C5B9CE60AB
+Platform: Standalone
+AccountCreationDate: 2024-12-25 18:31:30 UTC
+Color: R=0.00 G=0.00 B=1.00
+Cosmetics: None

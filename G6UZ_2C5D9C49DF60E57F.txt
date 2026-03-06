@@ -1,0 +1,7 @@
+Name: NOTELLIOT
+ActorNumber: 2263
+PlayerID: 2C5D9C49DF60E57F
+Platform: Standalone
+AccountCreationDate: 2025-12-26 02:07:57 UTC
+Color: R=0.67 G=0.67 B=0.67
+Cosmetics: None

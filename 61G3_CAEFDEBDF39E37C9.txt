@@ -1,0 +1,7 @@
+Name: CARTIRE
+ActorNumber: 3034
+PlayerID: CAEFDEBDF39E37C9
+Platform: Standalone
+AccountCreationDate: 2025-12-26 17:16:45 UTC
+Color: R=0.00 G=0.00 B=0.78
+Cosmetics: None

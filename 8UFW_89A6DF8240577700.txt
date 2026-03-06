@@ -1,0 +1,7 @@
+Name: SHINOBI
+ActorNumber: 1266
+PlayerID: 89A6DF8240577700
+Platform: Standalone
+AccountCreationDate: 2025-05-27 03:00:32 UTC
+Color: R=1.00 G=0.00 B=0.00
+Cosmetics: None

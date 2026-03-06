@@ -1,0 +1,7 @@
+Name: WALLMRTJR
+ActorNumber: 444
+PlayerID: 2987538A507C7600
+Platform: Standalone
+AccountCreationDate: 2023-08-21 23:31:02 UTC
+Color: R=0.11 G=0.78 B=0.33
+Cosmetics: None

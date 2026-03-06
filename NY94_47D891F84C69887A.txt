@@ -1,0 +1,7 @@
+Name: TBBMELLO
+ActorNumber: 207
+PlayerID: 47D891F84C69887A
+Platform: Standalone
+AccountCreationDate: 2024-12-24 22:03:11 UTC
+Color: R=0.22 G=0.00 B=0.78
+Cosmetics: None

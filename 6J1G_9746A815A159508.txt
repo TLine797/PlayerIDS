@@ -1,0 +1,7 @@
+Name: ICEEY
+ActorNumber: 436
+PlayerID: 9746A815A159508
+Platform: Unknown
+AccountCreationDate: 2022-02-21 15:11:17 UTC
+Color: R=0.89 G=0.67 B=0.89
+Cosmetics: None

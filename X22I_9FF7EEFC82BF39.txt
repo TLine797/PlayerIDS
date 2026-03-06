@@ -1,0 +1,7 @@
+Name: TIPTOE
+ActorNumber: 524
+PlayerID: 9FF7EEFC82BF39
+Platform: Standalone
+AccountCreationDate: 2025-12-19 22:52:55 UTC
+Color: R=0.00 G=0.00 B=0.00
+Cosmetics: None

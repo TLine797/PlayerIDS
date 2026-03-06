@@ -1,0 +1,7 @@
+Name: TURBO
+ActorNumber: 603
+PlayerID: 2FD89ECF103670F1
+Platform: Standalone
+AccountCreationDate: 2023-09-04 13:44:38 UTC
+Color: R=0.33 G=0.00 B=0.89
+Cosmetics: None

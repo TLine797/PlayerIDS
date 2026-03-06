@@ -1,0 +1,7 @@
+Name: TITANVMT567
+ActorNumber: 139
+PlayerID: 7ECAC57239E404BF
+Platform: Standalone
+AccountCreationDate: 2024-03-09 00:01:56 UTC
+Color: R=0.44 G=0.33 B=0.56
+Cosmetics: None

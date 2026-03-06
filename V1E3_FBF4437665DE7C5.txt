@@ -1,0 +1,7 @@
+Name: PEACE
+ActorNumber: 358
+PlayerID: FBF4437665DE7C5
+Platform: Unknown
+AccountCreationDate: 2025-06-10 21:55:24 UTC
+Color: R=0.00 G=0.78 B=1.00
+Cosmetics: None

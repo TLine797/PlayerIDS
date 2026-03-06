@@ -1,0 +1,7 @@
+Name: NEZUKO
+ActorNumber: 588
+PlayerID: 4A5DDC9CA20E2AF0
+Platform: Standalone
+AccountCreationDate: 2023-03-22 13:02:03 UTC
+Color: R=1.00 G=0.78 B=1.00
+Cosmetics: None

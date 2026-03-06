@@ -1,0 +1,7 @@
+Name: COOKIEMONSTE
+ActorNumber: 604
+PlayerID: 49E3514CBDA38744
+Platform: Standalone
+AccountCreationDate: 2025-02-04 00:55:47 UTC
+Color: R=0.11 G=0.33 B=0.78
+Cosmetics: None

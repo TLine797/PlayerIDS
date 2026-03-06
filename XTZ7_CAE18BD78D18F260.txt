@@ -1,0 +1,7 @@
+Name: TTTSANTA
+ActorNumber: 262
+PlayerID: CAE18BD78D18F260
+Platform: Standalone
+AccountCreationDate: 2023-05-06 16:26:56 UTC
+Color: R=0.44 G=0.00 B=0.78
+Cosmetics: None

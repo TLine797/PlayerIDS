@@ -1,0 +1,7 @@
+Name: BGDHDNDFBB
+ActorNumber: 535
+PlayerID: F579D294B2D2AB46
+Platform: Standalone
+AccountCreationDate: 2026-02-23 23:10:01 UTC
+Color: R=0.56 G=0.00 B=0.00
+Cosmetics: None

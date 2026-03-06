@@ -1,0 +1,7 @@
+Name: BOBBY
+ActorNumber: 1187
+PlayerID: 9B9FFD2DCE72BE21
+Platform: Standalone
+AccountCreationDate: 2025-12-25 18:08:39 UTC
+Color: R=0.00 G=0.44 B=1.00
+Cosmetics: None

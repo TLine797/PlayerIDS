@@ -1,0 +1,7 @@
+Name: CASONDOG555
+ActorNumber: 265
+PlayerID: 50C5A6CCFE0EBBB9
+Platform: Standalone
+AccountCreationDate: 2024-12-21 03:59:11 UTC
+Color: R=0.00 G=0.00 B=0.00
+Cosmetics: None

@@ -1,0 +1,7 @@
+Name: UZI
+ActorNumber: 301
+PlayerID: E6BB2F7D25E207FD
+Platform: Standalone
+AccountCreationDate: 2024-11-16 20:54:13 UTC
+Color: R=0.67 G=0.00 B=0.67
+Cosmetics: None

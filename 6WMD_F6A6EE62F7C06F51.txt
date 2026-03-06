@@ -1,0 +1,7 @@
+Name: BEAR
+ActorNumber: 16
+PlayerID: F6A6EE62F7C06F51
+Platform: Standalone
+AccountCreationDate: 2024-03-15 23:37:18 UTC
+Color: R=0.22 G=1.00 B=0.67
+Cosmetics: None

@@ -1,0 +1,7 @@
+Name: CROCKS
+ActorNumber: 356
+PlayerID: 92A0E1A23E6EBC27
+Platform: Standalone
+AccountCreationDate: 2025-04-21 12:06:22 UTC
+Color: R=0.11 G=0.44 B=0.78
+Cosmetics: None

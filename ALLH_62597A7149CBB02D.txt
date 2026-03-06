@@ -1,0 +1,7 @@
+Name: WINDEX
+ActorNumber: 284
+PlayerID: 62597A7149CBB02D
+Platform: Unknown
+AccountCreationDate: 2022-12-25 14:17:24 UTC
+Color: R=0.00 G=0.00 B=0.22
+Cosmetics: None

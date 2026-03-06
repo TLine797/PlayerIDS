@@ -1,0 +1,7 @@
+Name: TEEQZZZ
+ActorNumber: 289
+PlayerID: 7AAD1EBD1EF7C3A2
+Platform: Standalone
+AccountCreationDate: 2025-07-09 19:03:54 UTC
+Color: R=0.67 G=0.78 B=1.00
+Cosmetics: None

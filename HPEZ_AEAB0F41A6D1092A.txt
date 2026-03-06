@@ -1,0 +1,7 @@
+Name: ANNIEE
+ActorNumber: 1337
+PlayerID: AEAB0F41A6D1092A
+Platform: Standalone
+AccountCreationDate: 2023-12-27 18:12:50 UTC
+Color: R=0.89 G=0.78 B=1.00
+Cosmetics: None

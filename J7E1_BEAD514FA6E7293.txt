@@ -1,0 +1,7 @@
+Name: gorilla1148
+ActorNumber: 281
+PlayerID: BEAD514FA6E7293
+Platform: Standalone
+AccountCreationDate: 2025-03-31 23:46:12 UTC
+Color: R=0.22 G=0.00 B=0.67
+Cosmetics: None

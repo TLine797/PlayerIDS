@@ -1,0 +1,7 @@
+Name: PINK
+ActorNumber: 313
+PlayerID: DFB6FA28F5A47907
+Platform: Standalone
+AccountCreationDate: 2024-07-07 19:45:44 UTC
+Color: R=1.00 G=0.78 B=1.00
+Cosmetics: None

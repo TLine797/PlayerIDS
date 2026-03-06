@@ -1,0 +1,7 @@
+Name: gorilla
+ActorNumber: 163
+PlayerID: 7160957F6136579A
+Platform: Standalone
+AccountCreationDate: 2026-02-19 01:33:16 UTC
+Color: R=0.44 G=0.78 B=0.89
+Cosmetics: None

@@ -1,0 +1,7 @@
+Name: GHOST224
+ActorNumber: 1169
+PlayerID: D839839FE2850547
+Platform: Standalone
+AccountCreationDate: 2025-12-25 04:17:23 UTC
+Color: R=1.00 G=0.44 B=0.67
+Cosmetics: None

@@ -1,0 +1,7 @@
+Name: PEPPER
+ActorNumber: 590
+PlayerID: 61DB35780196497C
+Platform: Unknown
+AccountCreationDate: 2022-01-15 21:22:01 UTC
+Color: R=1.00 G=0.67 B=0.67
+Cosmetics: None

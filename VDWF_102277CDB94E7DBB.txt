@@ -1,0 +1,7 @@
+Name: TTSBEASTMODE
+ActorNumber: 39
+PlayerID: 102277CDB94E7DBB
+Platform: Standalone
+AccountCreationDate: 2023-11-15 15:49:06 UTC
+Color: R=0.56 G=0.11 B=1.00
+Cosmetics: None

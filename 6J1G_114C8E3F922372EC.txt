@@ -1,0 +1,7 @@
+Name: ICEBOYVR
+ActorNumber: 459
+PlayerID: 114C8E3F922372EC
+Platform: Standalone
+AccountCreationDate: 2025-03-27 20:47:50 UTC
+Color: R=0.44 G=0.00 B=1.00
+Cosmetics: None

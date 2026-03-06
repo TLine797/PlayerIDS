@@ -1,0 +1,7 @@
+Name: BR33ZLY
+ActorNumber: 245
+PlayerID: 1ACB2F1F691E357A
+Platform: Standalone
+AccountCreationDate: 2025-06-13 22:24:54 UTC
+Color: R=0.11 G=0.78 B=1.00
+Cosmetics: None

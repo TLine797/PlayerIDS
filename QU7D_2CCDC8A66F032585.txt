@@ -1,0 +1,7 @@
+Name: BABY
+ActorNumber: 481
+PlayerID: 2CCDC8A66F032585
+Platform: Standalone
+AccountCreationDate: 2025-12-25 18:22:17 UTC
+Color: R=0.00 G=0.78 B=1.00
+Cosmetics: None

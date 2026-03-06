@@ -1,0 +1,7 @@
+Name: PRO
+ActorNumber: 288
+PlayerID: 700A8C115CA0A4BC
+Platform: Standalone
+AccountCreationDate: 2025-04-01 23:18:54 UTC
+Color: R=0.00 G=0.00 B=0.00
+Cosmetics: None

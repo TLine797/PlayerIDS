@@ -1,0 +1,7 @@
+Name: MONKEY
+ActorNumber: 1216
+PlayerID: 7CEFAC437203CB16
+Platform: Unknown
+AccountCreationDate: 2021-12-26 16:16:22 UTC
+Color: R=0.00 G=0.00 B=0.00
+Cosmetics: None

@@ -1,0 +1,7 @@
+Name: COLORFULMONK
+ActorNumber: 202
+PlayerID: 344BDEA7DB862FA7
+Platform: Standalone
+AccountCreationDate: 2025-01-18 02:38:07 UTC
+Color: R=0.44 G=0.78 B=1.00
+Cosmetics: None

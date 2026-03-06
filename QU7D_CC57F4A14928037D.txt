@@ -1,0 +1,7 @@
+Name: HF
+ActorNumber: 454
+PlayerID: CC57F4A14928037D
+Platform: Standalone
+AccountCreationDate: 2023-08-16 00:08:50 UTC
+Color: R=0.00 G=0.67 B=1.00
+Cosmetics: None

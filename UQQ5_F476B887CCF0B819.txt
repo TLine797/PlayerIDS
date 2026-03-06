@@ -1,0 +1,7 @@
+Name: BRAEDEN
+ActorNumber: 304
+PlayerID: F476B887CCF0B819
+Platform: Standalone
+AccountCreationDate: 2025-12-27 13:26:39 UTC
+Color: R=0.00 G=0.89 B=1.00
+Cosmetics: None

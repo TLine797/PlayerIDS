@@ -1,0 +1,7 @@
+Name: UNC
+ActorNumber: 56
+PlayerID: EBA393D6957934C0
+Platform: Unknown
+AccountCreationDate: 2022-09-14 00:11:45 UTC
+Color: R=0.44 G=0.00 B=1.00
+Cosmetics: None

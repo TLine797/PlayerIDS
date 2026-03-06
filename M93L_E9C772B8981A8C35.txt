@@ -1,0 +1,7 @@
+Name: GORILLA1625
+ActorNumber: 157
+PlayerID: E9C772B8981A8C35
+Platform: Unknown
+AccountCreationDate: 2025-12-30 19:22:20 UTC
+Color: R=0.56 G=0.00 B=1.00
+Cosmetics: None

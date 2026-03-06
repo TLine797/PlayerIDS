@@ -1,0 +1,7 @@
+Name: JOZU
+ActorNumber: 1045
+PlayerID: B630F871A28DF6CE
+Platform: Standalone
+AccountCreationDate: 2025-04-20 16:01:49 UTC
+Color: R=1.00 G=0.89 B=1.00
+Cosmetics: None

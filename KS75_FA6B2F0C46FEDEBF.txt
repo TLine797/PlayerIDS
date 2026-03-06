@@ -1,0 +1,7 @@
+Name: LEOGOAT
+ActorNumber: 865
+PlayerID: FA6B2F0C46FEDEBF
+Platform: Standalone
+AccountCreationDate: 2025-12-24 16:07:28 UTC
+Color: R=0.00 G=0.33 B=1.00
+Cosmetics: None

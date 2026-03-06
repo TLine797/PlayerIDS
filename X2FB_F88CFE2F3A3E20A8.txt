@@ -1,0 +1,7 @@
+Name: APPLE
+ActorNumber: 681
+PlayerID: F88CFE2F3A3E20A8
+Platform: Unknown
+AccountCreationDate: 2021-08-27 18:48:25 UTC
+Color: R=0.22 G=0.00 B=0.56
+Cosmetics: None

@@ -1,0 +1,7 @@
+Name: CANYOUTEACHM
+ActorNumber: 263
+PlayerID: D46C186EBBED8B97
+Platform: Standalone
+AccountCreationDate: 2026-01-17 19:23:29 UTC
+Color: R=0.00 G=0.67 B=1.00
+Cosmetics: None

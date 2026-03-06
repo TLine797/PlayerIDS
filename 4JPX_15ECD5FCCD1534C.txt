@@ -1,0 +1,7 @@
+Name: MRMARS
+ActorNumber: 170
+PlayerID: 15ECD5FCCD1534C
+Platform: Standalone
+AccountCreationDate: 2024-01-05 18:11:55 UTC
+Color: R=0.00 G=0.00 B=0.22
+Cosmetics: None

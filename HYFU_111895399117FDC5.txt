@@ -1,0 +1,7 @@
+Name: JAAJAJAJAJAJ
+ActorNumber: 1425
+PlayerID: 111895399117FDC5
+Platform: Standalone
+AccountCreationDate: 2026-02-07 01:22:24 UTC
+Color: R=0.56 G=0.44 B=1.00
+Cosmetics: None

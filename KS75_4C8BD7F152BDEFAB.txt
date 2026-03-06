@@ -1,0 +1,7 @@
+Name: BOY2
+ActorNumber: 871
+PlayerID: 4C8BD7F152BDEFAB
+Platform: Standalone
+AccountCreationDate: 2026-02-21 21:47:28 UTC
+Color: R=0.56 G=1.00 B=0.67
+Cosmetics: None

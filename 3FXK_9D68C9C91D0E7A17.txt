@@ -1,0 +1,7 @@
+Name: JCJJHI
+ActorNumber: 1373
+PlayerID: 9D68C9C91D0E7A17
+Platform: Standalone
+AccountCreationDate: 2025-01-09 21:43:12 UTC
+Color: R=0.00 G=0.00 B=1.00
+Cosmetics: None

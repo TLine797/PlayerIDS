@@ -1,0 +1,7 @@
+Name: SNOW
+ActorNumber: 898
+PlayerID: 43A3D0033FDD7CC1
+Platform: Standalone
+AccountCreationDate: 2023-12-25 21:15:24 UTC
+Color: R=0.00 G=0.78 B=1.00
+Cosmetics: None

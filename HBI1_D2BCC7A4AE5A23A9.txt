@@ -1,0 +1,7 @@
+Name: TWPCOOKIES
+ActorNumber: 981
+PlayerID: D2BCC7A4AE5A23A9
+Platform: Standalone
+AccountCreationDate: 2025-12-26 02:34:25 UTC
+Color: R=0.44 G=0.11 B=0.78
+Cosmetics: None

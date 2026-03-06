@@ -1,0 +1,7 @@
+Name: SKY
+ActorNumber: 281
+PlayerID: 4C286975BECEF65D
+Platform: Standalone
+AccountCreationDate: 2023-03-25 00:47:57 UTC
+Color: R=0.44 G=0.00 B=0.00
+Cosmetics: None

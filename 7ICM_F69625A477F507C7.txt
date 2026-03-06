@@ -1,0 +1,7 @@
+Name: AVA
+ActorNumber: 837
+PlayerID: F69625A477F507C7
+Platform: Standalone
+AccountCreationDate: 2025-04-07 00:23:34 UTC
+Color: R=1.00 G=1.00 B=1.00
+Cosmetics: None

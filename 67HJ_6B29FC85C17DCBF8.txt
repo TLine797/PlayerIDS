@@ -1,0 +1,7 @@
+Name: SUPERSTUNT
+ActorNumber: 67
+PlayerID: 6B29FC85C17DCBF8
+Platform: Standalone
+AccountCreationDate: 2026-01-08 21:43:13 UTC
+Color: R=1.00 G=0.67 B=0.00
+Cosmetics: None

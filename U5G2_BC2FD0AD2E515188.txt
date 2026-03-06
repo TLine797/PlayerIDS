@@ -1,0 +1,7 @@
+Name: TTTTBATMAN
+ActorNumber: 73
+PlayerID: BC2FD0AD2E515188
+Platform: Standalone
+AccountCreationDate: 2025-01-26 23:25:17 UTC
+Color: R=0.00 G=0.00 B=0.00
+Cosmetics: None

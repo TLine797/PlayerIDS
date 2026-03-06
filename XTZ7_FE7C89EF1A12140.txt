@@ -1,0 +1,7 @@
+Name: JHYU
+ActorNumber: 252
+PlayerID: FE7C89EF1A12140
+Platform: Standalone
+AccountCreationDate: 2025-12-25 14:51:52 UTC
+Color: R=0.33 G=0.00 B=0.00
+Cosmetics: None

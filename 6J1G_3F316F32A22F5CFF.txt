@@ -1,0 +1,7 @@
+Name: JOHN1030
+ActorNumber: 455
+PlayerID: 3F316F32A22F5CFF
+Platform: Standalone
+AccountCreationDate: 2022-07-02 23:55:44 UTC
+Color: R=1.00 G=1.00 B=1.00
+Cosmetics: None

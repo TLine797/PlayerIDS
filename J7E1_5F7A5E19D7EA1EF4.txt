@@ -1,0 +1,7 @@
+Name: HOTPOTATO
+ActorNumber: 284
+PlayerID: 5F7A5E19D7EA1EF4
+Platform: Standalone
+AccountCreationDate: 2026-01-01 16:20:47 UTC
+Color: R=0.11 G=0.78 B=0.78
+Cosmetics: None

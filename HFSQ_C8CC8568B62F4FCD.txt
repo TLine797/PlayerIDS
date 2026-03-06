@@ -1,0 +1,7 @@
+Name: N4KPY
+ActorNumber: 112
+PlayerID: C8CC8568B62F4FCD
+Platform: Standalone
+AccountCreationDate: 2024-09-15 14:51:02 UTC
+Color: R=0.89 G=0.00 B=0.89
+Cosmetics: None

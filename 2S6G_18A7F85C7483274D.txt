@@ -1,0 +1,7 @@
+Name: CHWH
+ActorNumber: 919
+PlayerID: 18A7F85C7483274D
+Platform: Unknown
+AccountCreationDate: 2022-11-12 01:28:32 UTC
+Color: R=0.00 G=1.00 B=0.00
+Cosmetics: None

@@ -1,0 +1,7 @@
+Name: DAYY
+ActorNumber: 1664
+PlayerID: A449CC0B441DA43
+Platform: Standalone
+AccountCreationDate: 2024-01-26 22:46:55 UTC
+Color: R=0.44 G=0.22 B=0.78
+Cosmetics: None

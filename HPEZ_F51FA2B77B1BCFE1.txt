@@ -1,0 +1,7 @@
+Name: SRELTNA
+ActorNumber: 1324
+PlayerID: F51FA2B77B1BCFE1
+Platform: Unknown
+AccountCreationDate: 2022-02-24 03:34:34 UTC
+Color: R=0.56 G=0.22 B=1.00
+Cosmetics: None

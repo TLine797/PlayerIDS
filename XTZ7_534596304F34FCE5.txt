@@ -1,0 +1,7 @@
+Name: HAPPYKID
+ActorNumber: 165
+PlayerID: 534596304F34FCE5
+Platform: Standalone
+AccountCreationDate: 2024-12-25 15:12:18 UTC
+Color: R=1.00 G=0.00 B=0.00
+Cosmetics: None

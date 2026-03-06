@@ -1,0 +1,7 @@
+Name: RARSYVR
+ActorNumber: 529
+PlayerID: D21F926F52F11319
+Platform: PC
+AccountCreationDate: 2026-02-21 03:09:34 UTC
+Color: R=0.56 G=0.44 B=1.00
+Cosmetics: None

@@ -1,0 +1,7 @@
+Name: ME
+ActorNumber: 1000
+PlayerID: FF1F5CE7417E3A22
+Platform: Standalone
+AccountCreationDate: 2023-12-25 14:20:27 UTC
+Color: R=1.00 G=1.00 B=1.00
+Cosmetics: None

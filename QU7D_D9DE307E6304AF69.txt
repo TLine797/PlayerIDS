@@ -1,0 +1,7 @@
+Name: HOLA
+ActorNumber: 483
+PlayerID: D9DE307E6304AF69
+Platform: Standalone
+AccountCreationDate: 2026-03-02 01:23:00 UTC
+Color: R=1.00 G=0.44 B=0.67
+Cosmetics: None

@@ -1,0 +1,7 @@
+Name: GZ
+ActorNumber: 308
+PlayerID: 9E2B1AF48A94EB44
+Platform: Unknown
+AccountCreationDate: 2022-04-04 20:58:40 UTC
+Color: R=0.00 G=0.00 B=1.00
+Cosmetics: None

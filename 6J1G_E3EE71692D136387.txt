@@ -1,0 +1,7 @@
+Name: FRED
+ActorNumber: 428
+PlayerID: E3EE71692D136387
+Platform: Standalone
+AccountCreationDate: 2025-11-16 22:06:40 UTC
+Color: R=1.00 G=0.56 B=0.00
+Cosmetics: None

@@ -1,0 +1,7 @@
+Name: AMIGOOD101
+ActorNumber: 110
+PlayerID: 3BF58000CB70B036
+Platform: Unknown
+AccountCreationDate: 2022-01-13 02:19:51 UTC
+Color: R=1.00 G=1.00 B=1.00
+Cosmetics: None

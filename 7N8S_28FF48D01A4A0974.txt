@@ -1,0 +1,7 @@
+Name: WE1RD
+ActorNumber: 1173
+PlayerID: 28FF48D01A4A0974
+Platform: Standalone
+AccountCreationDate: 2025-12-27 03:03:10 UTC
+Color: R=0.89 G=0.89 B=0.89
+Cosmetics: None

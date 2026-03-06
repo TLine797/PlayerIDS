@@ -1,0 +1,7 @@
+Name: WEEBENJAMIN
+ActorNumber: 2262
+PlayerID: 64B3E4BBA456EC7A
+Platform: Standalone
+AccountCreationDate: 2024-10-28 18:51:28 UTC
+Color: R=0.67 G=0.78 B=1.00
+Cosmetics: None

@@ -1,0 +1,7 @@
+Name: gorilla5127
+ActorNumber: 521
+PlayerID: 577C1F1274E7C60F
+Platform: Standalone
+AccountCreationDate: 2026-01-01 20:46:37 UTC
+Color: R=1.00 G=1.00 B=1.00
+Cosmetics: None

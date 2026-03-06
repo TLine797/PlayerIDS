@@ -1,0 +1,7 @@
+Name: BORDER
+ActorNumber: 823
+PlayerID: 3032ED0814444787
+Platform: Standalone
+AccountCreationDate: 2024-02-29 23:01:11 UTC
+Color: R=0.89 G=0.44 B=0.22
+Cosmetics: None

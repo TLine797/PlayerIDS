@@ -1,0 +1,7 @@
+Name: NOTGOOD
+ActorNumber: 484
+PlayerID: 2931B6481A9DDE68
+Platform: Standalone
+AccountCreationDate: 2024-05-10 23:07:23 UTC
+Color: R=0.22 G=0.22 B=0.44
+Cosmetics: None

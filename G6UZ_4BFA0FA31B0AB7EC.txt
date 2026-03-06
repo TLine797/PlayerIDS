@@ -1,0 +1,7 @@
+Name: MANNDO
+ActorNumber: 2268
+PlayerID: 4BFA0FA31B0AB7EC
+Platform: Unknown
+AccountCreationDate: 2022-04-25 22:43:37 UTC
+Color: R=1.00 G=0.00 B=0.00
+Cosmetics: None

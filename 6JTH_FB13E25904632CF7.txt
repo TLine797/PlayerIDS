@@ -1,0 +1,7 @@
+Name: JMANCVRLY
+ActorNumber: 165
+PlayerID: FB13E25904632CF7
+Platform: Standalone
+AccountCreationDate: 2026-01-17 00:56:49 UTC
+Color: R=0.00 G=0.89 B=1.00
+Cosmetics: None

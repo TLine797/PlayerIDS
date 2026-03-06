@@ -1,0 +1,7 @@
+Name: SPEKO
+ActorNumber: 979
+PlayerID: 21531F557E3F9B54
+Platform: Standalone
+AccountCreationDate: 2024-04-12 16:34:55 UTC
+Color: R=0.56 G=0.00 B=1.00
+Cosmetics: None

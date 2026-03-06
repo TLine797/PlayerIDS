@@ -1,0 +1,7 @@
+Name: TCGBABYBOOOO
+ActorNumber: 760
+PlayerID: A627F6F108C633FF
+Platform: Standalone
+AccountCreationDate: 2024-11-03 23:00:01 UTC
+Color: R=1.00 G=1.00 B=0.00
+Cosmetics: None

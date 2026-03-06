@@ -1,0 +1,7 @@
+Name: KATE
+ActorNumber: 1405
+PlayerID: EBC0D506A16A61D8
+Platform: Standalone
+AccountCreationDate: 2023-12-25 14:11:24 UTC
+Color: R=0.44 G=0.11 B=0.22
+Cosmetics: None

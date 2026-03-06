@@ -1,0 +1,7 @@
+Name: gorilla2163
+ActorNumber: 923
+PlayerID: 4AC56272E1F61C6F
+Platform: Standalone
+AccountCreationDate: 2025-12-26 07:03:47 UTC
+Color: R=0.00 G=1.00 B=1.00
+Cosmetics: None

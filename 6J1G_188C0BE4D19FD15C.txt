@@ -1,0 +1,7 @@
+Name: AWKNHAMBURG
+ActorNumber: 448
+PlayerID: 188C0BE4D19FD15C
+Platform: Standalone
+AccountCreationDate: 2023-01-14 05:25:09 UTC
+Color: R=0.22 G=0.00 B=0.89
+Cosmetics: None

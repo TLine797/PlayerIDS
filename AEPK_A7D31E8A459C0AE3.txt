@@ -1,0 +1,7 @@
+Name: W
+ActorNumber: 137
+PlayerID: A7D31E8A459C0AE3
+Platform: PC
+AccountCreationDate: 2022-01-09 00:30:40 UTC
+Color: R=0.67 G=1.00 B=0.56
+Cosmetics: None

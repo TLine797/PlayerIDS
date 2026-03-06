@@ -1,0 +1,7 @@
+Name: OUTLAW
+ActorNumber: 483
+PlayerID: 5AF554932ECA2B89
+Platform: Standalone
+AccountCreationDate: 2025-12-12 15:47:11 UTC
+Color: R=0.11 G=1.00 B=0.44
+Cosmetics: None

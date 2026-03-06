@@ -1,0 +1,7 @@
+Name: RHENIUM
+ActorNumber: 929
+PlayerID: C6CFC6B7C34AB479
+Platform: Unknown
+AccountCreationDate: 2022-01-18 22:45:07 UTC
+Color: R=0.67 G=0.00 B=1.00
+Cosmetics: None

@@ -1,0 +1,7 @@
+Name: LEANN
+ActorNumber: 1308
+PlayerID: 830D39E141A57463
+Platform: Unknown
+AccountCreationDate: 2021-06-29 15:49:29 UTC
+Color: R=1.00 G=0.56 B=0.56
+Cosmetics: None

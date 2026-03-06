@@ -1,0 +1,7 @@
+Name: PHILP
+ActorNumber: 338
+PlayerID: 1D0485E8A032B1E2
+Platform: Standalone
+AccountCreationDate: 2025-04-24 19:45:56 UTC
+Color: R=0.33 G=0.44 B=0.56
+Cosmetics: None

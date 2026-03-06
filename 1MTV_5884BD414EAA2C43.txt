@@ -1,0 +1,7 @@
+Name: H9LL0
+ActorNumber: 79
+PlayerID: 5884BD414EAA2C43
+Platform: Standalone
+AccountCreationDate: 2023-03-08 22:43:41 UTC
+Color: R=0.22 G=0.11 B=0.00
+Cosmetics: None

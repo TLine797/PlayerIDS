@@ -1,0 +1,7 @@
+Name: TTTROSE
+ActorNumber: 540
+PlayerID: 2EEF259C0917C677
+Platform: Standalone
+AccountCreationDate: 2024-05-29 00:58:17 UTC
+Color: R=0.44 G=0.00 B=0.78
+Cosmetics: None

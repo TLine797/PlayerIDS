@@ -1,0 +1,7 @@
+Name: FL4M3FR4GS
+ActorNumber: 2270
+PlayerID: EA32B03AB048EBA5
+Platform: Standalone
+AccountCreationDate: 2024-03-27 00:42:14 UTC
+Color: R=0.44 G=0.00 B=0.00
+Cosmetics: None

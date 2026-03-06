@@ -1,0 +1,7 @@
+Name: YELLOWMONKEY
+ActorNumber: 19
+PlayerID: 11070E730D5361CB
+Platform: Standalone
+AccountCreationDate: 2024-12-25 18:03:43 UTC
+Color: R=1.00 G=1.00 B=0.00
+Cosmetics: None

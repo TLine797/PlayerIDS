@@ -1,0 +1,7 @@
+Name: GILBERT
+ActorNumber: 333
+PlayerID: 79F467020B2CA592
+Platform: Standalone
+AccountCreationDate: 2024-12-26 01:08:42 UTC
+Color: R=0.67 G=0.33 B=1.00
+Cosmetics: None

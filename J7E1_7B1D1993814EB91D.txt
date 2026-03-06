@@ -1,0 +1,7 @@
+Name: FLOX
+ActorNumber: 205
+PlayerID: 7B1D1993814EB91D
+Platform: Standalone
+AccountCreationDate: 2025-05-26 03:05:29 UTC
+Color: R=0.00 G=0.33 B=0.33
+Cosmetics: None

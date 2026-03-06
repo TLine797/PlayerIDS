@@ -1,0 +1,7 @@
+Name: TKKBANANER
+ActorNumber: 145
+PlayerID: BD0E7E2E4CDB40B
+Platform: Unknown
+AccountCreationDate: 2025-10-08 00:11:58 UTC
+Color: R=1.00 G=0.67 B=1.00
+Cosmetics: None

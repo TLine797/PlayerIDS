@@ -1,0 +1,7 @@
+Name: CH1LL
+ActorNumber: 1082
+PlayerID: 70940CFC0CDA8B51
+Platform: Standalone
+AccountCreationDate: 2024-01-03 04:14:00 UTC
+Color: R=0.33 G=0.00 B=0.67
+Cosmetics: None

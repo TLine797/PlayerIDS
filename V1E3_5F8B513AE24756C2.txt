@@ -1,0 +1,7 @@
+Name: FREAKBOBBY
+ActorNumber: 330
+PlayerID: 5F8B513AE24756C2
+Platform: Unknown
+AccountCreationDate: 2025-08-17 05:31:39 UTC
+Color: R=1.00 G=0.00 B=0.78
+Cosmetics: None

@@ -1,0 +1,7 @@
+Name: GG
+ActorNumber: 80
+PlayerID: 9658BEDE05D898C7
+Platform: Standalone
+AccountCreationDate: 2026-01-09 02:20:05 UTC
+Color: R=0.00 G=0.00 B=0.00
+Cosmetics: None

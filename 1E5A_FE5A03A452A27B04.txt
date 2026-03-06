@@ -1,0 +1,7 @@
+Name: PPPTIG
+ActorNumber: 580
+PlayerID: FE5A03A452A27B04
+Platform: Unknown
+AccountCreationDate: 2022-10-24 01:07:37 UTC
+Color: R=0.44 G=0.00 B=0.78
+Cosmetics: None

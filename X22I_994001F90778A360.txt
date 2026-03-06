@@ -1,0 +1,7 @@
+Name: VINEGHOSTVR
+ActorNumber: 501
+PlayerID: 994001F90778A360
+Platform: Standalone
+AccountCreationDate: 2024-10-16 21:41:22 UTC
+Color: R=0.56 G=0.00 B=1.00
+Cosmetics: None

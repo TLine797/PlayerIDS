@@ -1,0 +1,7 @@
+Name: TWCGODLIKE
+ActorNumber: 607
+PlayerID: 61EFCD3853CD527D
+Platform: Standalone
+AccountCreationDate: 2025-02-26 20:10:06 UTC
+Color: R=1.00 G=0.00 B=0.89
+Cosmetics: None

@@ -1,0 +1,7 @@
+Name: THETOEGURT
+ActorNumber: 496
+PlayerID: 150416C7D2EA568
+Platform: Standalone
+AccountCreationDate: 2023-03-28 09:58:01 UTC
+Color: R=0.89 G=0.00 B=0.33
+Cosmetics: None

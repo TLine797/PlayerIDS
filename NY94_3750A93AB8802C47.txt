@@ -1,0 +1,7 @@
+Name: ZAZAVR
+ActorNumber: 187
+PlayerID: 3750A93AB8802C47
+Platform: Standalone
+AccountCreationDate: 2025-09-17 21:54:45 UTC
+Color: R=0.00 G=0.67 B=1.00
+Cosmetics: None

@@ -1,0 +1,7 @@
+Name: DONALDUCK
+ActorNumber: 576
+PlayerID: 74C8A44488049E9E
+Platform: Standalone
+AccountCreationDate: 2025-12-25 09:26:06 UTC
+Color: R=0.00 G=0.67 B=0.11
+Cosmetics: None

@@ -1,0 +1,7 @@
+Name: DASIY09
+ActorNumber: 205
+PlayerID: 12448D281A5B3CBF
+Platform: Standalone
+AccountCreationDate: 2026-01-27 19:48:20 UTC
+Color: R=0.00 G=0.89 B=1.00
+Cosmetics: None

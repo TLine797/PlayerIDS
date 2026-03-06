@@ -1,0 +1,7 @@
+Name: GRAVY
+ActorNumber: 101
+PlayerID: 63DA02CAE4555DA8
+Platform: Unknown
+AccountCreationDate: 2023-01-07 14:05:02 UTC
+Color: R=1.00 G=0.00 B=0.00
+Cosmetics: None

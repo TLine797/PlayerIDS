@@ -1,0 +1,7 @@
+Name: TIMMY
+ActorNumber: 191
+PlayerID: 7A6F6A2A8BDDF08D
+Platform: Standalone
+AccountCreationDate: 2024-09-02 08:38:49 UTC
+Color: R=0.00 G=0.89 B=1.00
+Cosmetics: None

@@ -1,0 +1,7 @@
+Name: JUDEX
+ActorNumber: 243
+PlayerID: 864DFE05423A1DD9
+Platform: Unknown
+AccountCreationDate: 2024-08-31 17:09:17 UTC
+Color: R=0.44 G=0.00 B=0.78
+Cosmetics: None

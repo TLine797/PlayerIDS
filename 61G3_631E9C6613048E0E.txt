@@ -1,0 +1,7 @@
+Name: DARXGT
+ActorNumber: 3296
+PlayerID: 631E9C6613048E0E
+Platform: Standalone
+AccountCreationDate: 2024-12-26 21:40:06 UTC
+Color: R=0.00 G=0.00 B=0.00
+Cosmetics: None

@@ -1,0 +1,7 @@
+Name: GORILLA4443
+ActorNumber: 143
+PlayerID: A578E79E04CA93BF
+Platform: Standalone
+AccountCreationDate: 2024-08-05 18:50:11 UTC
+Color: R=0.00 G=0.44 B=0.89
+Cosmetics: None

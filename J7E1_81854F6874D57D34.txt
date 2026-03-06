@@ -1,0 +1,7 @@
+Name: JCRAZIE
+ActorNumber: 280
+PlayerID: 81854F6874D57D34
+Platform: Standalone
+AccountCreationDate: 2025-07-12 18:43:47 UTC
+Color: R=0.33 G=0.00 B=1.00
+Cosmetics: None

@@ -1,0 +1,7 @@
+Name: PLAYER
+ActorNumber: 219
+PlayerID: 72D6A8A3301F686C
+Platform: PC
+AccountCreationDate: 2024-12-26 15:52:42 UTC
+Color: R=1.00 G=1.00 B=1.00
+Cosmetics: None

@@ -1,0 +1,7 @@
+Name: MADDIEE
+ActorNumber: 241
+PlayerID: B07AAACCB7B731B8
+Platform: Standalone
+AccountCreationDate: 2025-08-25 19:54:35 UTC
+Color: R=0.00 G=0.00 B=0.33
+Cosmetics: None

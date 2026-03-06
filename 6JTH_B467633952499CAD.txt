@@ -1,0 +1,7 @@
+Name: MISTER
+ActorNumber: 169
+PlayerID: B467633952499CAD
+Platform: Standalone
+AccountCreationDate: 2025-08-07 02:29:04 UTC
+Color: R=1.00 G=0.78 B=0.67
+Cosmetics: None

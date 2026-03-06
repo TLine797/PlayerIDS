@@ -1,0 +1,7 @@
+Name: TFGSAM
+ActorNumber: 925
+PlayerID: A6F0755C2DF2B73A
+Platform: Unknown
+AccountCreationDate: 2023-01-17 20:39:39 UTC
+Color: R=1.00 G=0.56 B=0.00
+Cosmetics: None

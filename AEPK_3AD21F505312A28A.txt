@@ -1,0 +1,7 @@
+Name: gorilla
+ActorNumber: 120
+PlayerID: 3AD21F505312A28A
+Platform: Unknown
+AccountCreationDate: 2022-01-25 03:50:17 UTC
+Color: R=0.33 G=0.00 B=0.33
+Cosmetics: None

@@ -1,0 +1,7 @@
+Name: MAY
+ActorNumber: 239
+PlayerID: 28D491B2609576A2
+Platform: Standalone
+AccountCreationDate: 2025-02-21 00:36:16 UTC
+Color: R=0.56 G=0.67 B=0.78
+Cosmetics: None

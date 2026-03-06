@@ -1,0 +1,7 @@
+Name: TGGALAXY
+ActorNumber: 117
+PlayerID: EC6B3AA7195E9EB7
+Platform: Standalone
+AccountCreationDate: 2024-12-25 14:18:55 UTC
+Color: R=1.00 G=0.22 B=0.00
+Cosmetics: None

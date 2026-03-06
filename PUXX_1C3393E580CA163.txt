@@ -1,0 +1,7 @@
+Name: BOO
+ActorNumber: 184
+PlayerID: 1C3393E580CA163
+Platform: Standalone
+AccountCreationDate: 2025-06-15 02:12:22 UTC
+Color: R=0.44 G=0.89 B=1.00
+Cosmetics: None

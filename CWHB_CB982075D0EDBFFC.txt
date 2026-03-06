@@ -1,0 +1,7 @@
+Name: JEZZ
+ActorNumber: 1296
+PlayerID: CB982075D0EDBFFC
+Platform: Standalone
+AccountCreationDate: 2025-12-25 21:05:32 UTC
+Color: R=0.56 G=0.78 B=0.89
+Cosmetics: None

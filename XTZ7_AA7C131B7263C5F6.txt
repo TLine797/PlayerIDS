@@ -1,0 +1,7 @@
+Name: STALKER
+ActorNumber: 242
+PlayerID: AA7C131B7263C5F6
+Platform: Standalone
+AccountCreationDate: 2021-12-23 18:55:49 UTC
+Color: R=0.22 G=1.00 B=0.89
+Cosmetics: None

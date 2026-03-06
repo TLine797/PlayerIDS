@@ -1,0 +1,7 @@
+Name: WYGAROUTTE67
+ActorNumber: 476
+PlayerID: AA4FECE3AA03C78A
+Platform: Standalone
+AccountCreationDate: 2024-12-25 18:48:40 UTC
+Color: R=1.00 G=0.00 B=0.00
+Cosmetics: None

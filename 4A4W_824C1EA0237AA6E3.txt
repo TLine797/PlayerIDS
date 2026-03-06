@@ -1,0 +1,7 @@
+Name: waterisbad
+ActorNumber: 401
+PlayerID: 824C1EA0237AA6E3
+Platform: Standalone
+AccountCreationDate: 2026-03-01 05:51:57 UTC
+Color: R=1.00 G=0.00 B=0.56
+Cosmetics: None

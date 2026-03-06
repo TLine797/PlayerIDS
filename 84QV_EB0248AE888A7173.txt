@@ -1,0 +1,7 @@
+Name: SHARPIE
+ActorNumber: 1359
+PlayerID: EB0248AE888A7173
+Platform: Unknown
+AccountCreationDate: 2022-11-30 02:52:35 UTC
+Color: R=0.44 G=0.00 B=0.00
+Cosmetics: None

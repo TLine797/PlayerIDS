@@ -1,0 +1,7 @@
+Name: LEGACY
+ActorNumber: 1633
+PlayerID: CB56B02C30AAFF11
+Platform: Standalone
+AccountCreationDate: 2025-04-05 16:57:41 UTC
+Color: R=0.44 G=0.00 B=0.78
+Cosmetics: None

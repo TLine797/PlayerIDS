@@ -1,0 +1,7 @@
+Name: TONSILSVR
+ActorNumber: 1017
+PlayerID: 93D89A1CBF82D800
+Platform: PC
+AccountCreationDate: 2022-12-05 23:35:17 UTC
+Color: R=0.22 G=0.00 B=0.22
+Cosmetics: None

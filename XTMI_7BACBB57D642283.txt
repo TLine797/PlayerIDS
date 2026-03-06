@@ -1,0 +1,7 @@
+Name: L
+ActorNumber: 581
+PlayerID: 7BACBB57D642283
+Platform: Standalone
+AccountCreationDate: 2025-10-03 22:33:57 UTC
+Color: R=0.44 G=0.44 B=1.00
+Cosmetics: None

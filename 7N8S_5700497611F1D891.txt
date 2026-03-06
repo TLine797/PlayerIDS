@@ -1,0 +1,7 @@
+Name: XXXSDD
+ActorNumber: 1162
+PlayerID: 5700497611F1D891
+Platform: Standalone
+AccountCreationDate: 2026-01-21 06:12:46 UTC
+Color: R=0.44 G=0.00 B=1.00
+Cosmetics: None

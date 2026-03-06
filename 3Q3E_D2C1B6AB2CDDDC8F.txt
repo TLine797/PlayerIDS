@@ -1,0 +1,7 @@
+Name: SBEPIGFAN
+ActorNumber: 626
+PlayerID: D2C1B6AB2CDDDC8F
+Platform: Standalone
+AccountCreationDate: 2025-12-25 19:23:57 UTC
+Color: R=0.67 G=0.56 B=0.89
+Cosmetics: None

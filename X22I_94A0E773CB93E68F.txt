@@ -1,0 +1,7 @@
+Name: TTT
+ActorNumber: 525
+PlayerID: 94A0E773CB93E68F
+Platform: PC
+AccountCreationDate: 2022-10-02 14:20:59 UTC
+Color: R=0.44 G=0.00 B=0.78
+Cosmetics: None

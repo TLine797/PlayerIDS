@@ -1,0 +1,7 @@
+Name: L
+ActorNumber: 1180
+PlayerID: 5B4ACA2FB4035678
+Platform: Unknown
+AccountCreationDate: 2021-09-22 03:53:51 UTC
+Color: R=0.33 G=0.67 B=0.33
+Cosmetics: None

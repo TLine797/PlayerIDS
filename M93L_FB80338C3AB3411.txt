@@ -1,0 +1,7 @@
+Name: HELIX
+ActorNumber: 159
+PlayerID: FB80338C3AB3411
+Platform: Standalone
+AccountCreationDate: 2025-06-25 17:30:10 UTC
+Color: R=0.67 G=0.00 B=1.00
+Cosmetics: None

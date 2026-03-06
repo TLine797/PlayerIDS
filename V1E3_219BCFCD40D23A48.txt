@@ -1,0 +1,7 @@
+Name: TBGBANBANVR
+ActorNumber: 344
+PlayerID: 219BCFCD40D23A48
+Platform: Standalone
+AccountCreationDate: 2024-12-25 15:05:15 UTC
+Color: R=0.44 G=0.33 B=0.67
+Cosmetics: None

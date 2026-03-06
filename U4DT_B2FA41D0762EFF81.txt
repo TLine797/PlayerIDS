@@ -1,0 +1,7 @@
+Name: LUNIX
+ActorNumber: 300
+PlayerID: B2FA41D0762EFF81
+Platform: Unknown
+AccountCreationDate: 2022-02-11 00:06:33 UTC
+Color: R=0.44 G=0.78 B=1.00
+Cosmetics: None

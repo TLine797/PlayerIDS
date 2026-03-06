@@ -1,0 +1,7 @@
+Name: CAILEY
+ActorNumber: 510
+PlayerID: 34C2BBAB25490381
+Platform: Standalone
+AccountCreationDate: 2025-01-13 02:35:01 UTC
+Color: R=0.44 G=0.11 B=0.67
+Cosmetics: None

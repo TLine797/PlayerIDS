@@ -1,0 +1,7 @@
+Name: HORIZON
+ActorNumber: 926
+PlayerID: A7D8FA146E6E2636
+Platform: Standalone
+AccountCreationDate: 2023-06-14 00:37:33 UTC
+Color: R=1.00 G=0.67 B=0.00
+Cosmetics: None

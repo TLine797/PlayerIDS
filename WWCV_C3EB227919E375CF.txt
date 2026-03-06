@@ -1,0 +1,7 @@
+Name: NOOB
+ActorNumber: 1246
+PlayerID: C3EB227919E375CF
+Platform: Standalone
+AccountCreationDate: 2025-02-27 06:18:15 UTC
+Color: R=0.00 G=0.22 B=0.00
+Cosmetics: None

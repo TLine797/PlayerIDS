@@ -1,0 +1,7 @@
+Name: PINKY
+ActorNumber: 478
+PlayerID: 60966C2ED3B1705A
+Platform: Standalone
+AccountCreationDate: 2025-06-21 23:23:14 UTC
+Color: R=1.00 G=0.56 B=0.67
+Cosmetics: None

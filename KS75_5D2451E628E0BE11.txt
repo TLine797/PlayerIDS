@@ -1,0 +1,7 @@
+Name: TIMMYCUTE
+ActorNumber: 897
+PlayerID: 5D2451E628E0BE11
+Platform: Standalone
+AccountCreationDate: 2025-10-04 01:34:36 UTC
+Color: R=1.00 G=0.56 B=1.00
+Cosmetics: None

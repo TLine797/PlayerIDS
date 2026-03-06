@@ -1,0 +1,7 @@
+Name: RUFIS
+ActorNumber: 55
+PlayerID: 538DFDC38A0A2710
+Platform: Standalone
+AccountCreationDate: 2025-12-20 21:04:30 UTC
+Color: R=0.44 G=0.00 B=0.89
+Cosmetics: None

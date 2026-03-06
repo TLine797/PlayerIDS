@@ -1,0 +1,7 @@
+Name: TSRLEVIATHAN
+ActorNumber: 379
+PlayerID: C7EBFF155D577A84
+Platform: Standalone
+AccountCreationDate: 2026-01-23 02:49:10 UTC
+Color: R=0.44 G=0.11 B=0.78
+Cosmetics: None

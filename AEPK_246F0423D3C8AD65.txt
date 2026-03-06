@@ -1,0 +1,7 @@
+Name: GABBY
+ActorNumber: 121
+PlayerID: 246F0423D3C8AD65
+Platform: Standalone
+AccountCreationDate: 2024-12-20 15:34:38 UTC
+Color: R=1.00 G=0.44 B=0.00
+Cosmetics: None

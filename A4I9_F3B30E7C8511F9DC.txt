@@ -1,0 +1,7 @@
+Name: CYPHER
+ActorNumber: 1325
+PlayerID: F3B30E7C8511F9DC
+Platform: Standalone
+AccountCreationDate: 2023-12-30 20:14:52 UTC
+Color: R=0.11 G=0.11 B=0.22
+Cosmetics: None

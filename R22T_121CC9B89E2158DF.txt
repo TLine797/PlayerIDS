@@ -1,0 +1,7 @@
+Name: THUKUNA
+ActorNumber: 6
+PlayerID: 121CC9B89E2158DF
+Platform: Standalone
+AccountCreationDate: 2024-03-10 15:49:34 UTC
+Color: R=0.56 G=0.00 B=0.11
+Cosmetics: None

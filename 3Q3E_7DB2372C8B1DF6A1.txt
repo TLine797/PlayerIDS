@@ -1,0 +1,7 @@
+Name: CUTE
+ActorNumber: 582
+PlayerID: 7DB2372C8B1DF6A1
+Platform: Standalone
+AccountCreationDate: 2024-12-25 15:16:59 UTC
+Color: R=0.44 G=0.67 B=0.67
+Cosmetics: None

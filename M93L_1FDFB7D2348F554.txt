@@ -1,0 +1,7 @@
+Name: JJG
+ActorNumber: 144
+PlayerID: 1FDFB7D2348F554
+Platform: Standalone
+AccountCreationDate: 2023-09-14 20:56:46 UTC
+Color: R=0.00 G=0.00 B=1.00
+Cosmetics: None

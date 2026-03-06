@@ -1,0 +1,7 @@
+Name: MVP
+ActorNumber: 565
+PlayerID: FF638F2C3EB56EBA
+Platform: Standalone
+AccountCreationDate: 2024-06-29 11:36:28 UTC
+Color: R=1.00 G=0.11 B=0.11
+Cosmetics: None

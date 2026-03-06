@@ -1,0 +1,7 @@
+Name: JUKES
+ActorNumber: 625
+PlayerID: 10E4DCA5608DCF66
+Platform: Unknown
+AccountCreationDate: 2022-12-25 01:04:59 UTC
+Color: R=1.00 G=0.00 B=1.00
+Cosmetics: None

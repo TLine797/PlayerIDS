@@ -1,0 +1,7 @@
+Name: ENCE
+ActorNumber: 549
+PlayerID: F244363B28F98127
+Platform: Unknown
+AccountCreationDate: 2022-12-01 21:16:31 UTC
+Color: R=0.67 G=0.67 B=1.00
+Cosmetics: None

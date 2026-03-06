@@ -1,0 +1,7 @@
+Name: C0SM0
+ActorNumber: 47
+PlayerID: 2AD958550E7B9FF9
+Platform: Standalone
+AccountCreationDate: 2023-12-18 14:02:45 UTC
+Color: R=0.56 G=0.44 B=0.33
+Cosmetics: None

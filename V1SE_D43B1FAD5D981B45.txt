@@ -1,0 +1,7 @@
+Name: SHUNN
+ActorNumber: 1078
+PlayerID: D43B1FAD5D981B45
+Platform: Standalone
+AccountCreationDate: 2025-12-26 06:46:11 UTC
+Color: R=0.00 G=0.11 B=0.78
+Cosmetics: None

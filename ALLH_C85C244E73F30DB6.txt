@@ -1,0 +1,7 @@
+Name: gorilla5717
+ActorNumber: 294
+PlayerID: C85C244E73F30DB6
+Platform: Standalone
+AccountCreationDate: 2025-12-24 16:01:09 UTC
+Color: R=1.00 G=1.00 B=1.00
+Cosmetics: None

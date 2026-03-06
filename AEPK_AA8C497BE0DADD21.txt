@@ -1,0 +1,7 @@
+Name: WARRIORTBJ
+ActorNumber: 132
+PlayerID: AA8C497BE0DADD21
+Platform: Standalone
+AccountCreationDate: 2025-02-27 17:00:21 UTC
+Color: R=0.44 G=0.44 B=1.00
+Cosmetics: None

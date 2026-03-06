@@ -1,0 +1,7 @@
+Name: MOON
+ActorNumber: 540
+PlayerID: 755766DC706B264A
+Platform: PC
+AccountCreationDate: 2025-09-09 00:21:52 UTC
+Color: R=1.00 G=0.78 B=1.00
+Cosmetics: None

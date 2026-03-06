@@ -1,0 +1,7 @@
+Name: 2KI4G
+ActorNumber: 1169
+PlayerID: DD44091BFBF1866B
+Platform: Standalone
+AccountCreationDate: 2026-02-02 21:44:47 UTC
+Color: R=0.00 G=0.00 B=0.00
+Cosmetics: None

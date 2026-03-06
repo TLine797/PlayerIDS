@@ -1,0 +1,7 @@
+Name: ELIVR
+ActorNumber: 1272
+PlayerID: FA38F7E1041FE689
+Platform: Standalone
+AccountCreationDate: 2024-03-10 13:32:18 UTC
+Color: R=0.33 G=0.22 B=1.00
+Cosmetics: None

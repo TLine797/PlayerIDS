@@ -1,0 +1,7 @@
+Name: PEBBLE
+ActorNumber: 279
+PlayerID: C30EE7832D6CFCE1
+Platform: Standalone
+AccountCreationDate: 2023-10-24 23:30:50 UTC
+Color: R=0.33 G=0.33 B=0.33
+Cosmetics: None

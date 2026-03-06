@@ -1,0 +1,7 @@
+Name: REYWAS
+ActorNumber: 82
+PlayerID: 1D10D91E1DAEE091
+Platform: Standalone
+AccountCreationDate: 2025-12-25 14:54:03 UTC
+Color: R=1.00 G=0.67 B=0.78
+Cosmetics: None

@@ -1,0 +1,7 @@
+Name: WEEE
+ActorNumber: 1245
+PlayerID: 914353811F0FD1
+Platform: Standalone
+AccountCreationDate: 2023-12-08 00:53:02 UTC
+Color: R=0.00 G=1.00 B=0.00
+Cosmetics: None

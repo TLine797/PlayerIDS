@@ -1,0 +1,7 @@
+Name: TBBEG
+ActorNumber: 178
+PlayerID: 4F7E87D01706775B
+Platform: Unknown
+AccountCreationDate: 2021-12-24 14:54:03 UTC
+Color: R=0.56 G=0.78 B=0.89
+Cosmetics: None

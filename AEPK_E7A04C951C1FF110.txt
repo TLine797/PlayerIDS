@@ -1,0 +1,7 @@
+Name: GERMAN
+ActorNumber: 95
+PlayerID: E7A04C951C1FF110
+Platform: Unknown
+AccountCreationDate: 2022-12-27 00:06:57 UTC
+Color: R=1.00 G=0.78 B=0.44
+Cosmetics: None

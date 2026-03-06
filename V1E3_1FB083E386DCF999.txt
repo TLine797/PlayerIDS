@@ -1,0 +1,7 @@
+Name: CROXI
+ActorNumber: 320
+PlayerID: 1FB083E386DCF999
+Platform: Standalone
+AccountCreationDate: 2023-07-31 18:00:01 UTC
+Color: R=0.44 G=0.00 B=0.78
+Cosmetics: None

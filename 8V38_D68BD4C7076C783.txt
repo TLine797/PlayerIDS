@@ -1,0 +1,7 @@
+Name: BEANZ
+ActorNumber: 1363
+PlayerID: D68BD4C7076C783
+Platform: Standalone
+AccountCreationDate: 2023-08-30 01:25:27 UTC
+Color: R=0.00 G=0.67 B=1.00
+Cosmetics: None

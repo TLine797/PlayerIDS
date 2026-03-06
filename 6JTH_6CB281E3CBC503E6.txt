@@ -1,0 +1,7 @@
+Name: TTTELDER
+ActorNumber: 154
+PlayerID: 6CB281E3CBC503E6
+Platform: Standalone
+AccountCreationDate: 2024-05-25 09:41:00 UTC
+Color: R=0.44 G=0.00 B=0.56
+Cosmetics: None

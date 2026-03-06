@@ -1,0 +1,7 @@
+Name: COOKIE
+ActorNumber: 56
+PlayerID: 8EF672594D3976E2
+Platform: Standalone
+AccountCreationDate: 2026-01-11 03:19:13 UTC
+Color: R=0.00 G=0.00 B=0.00
+Cosmetics: None

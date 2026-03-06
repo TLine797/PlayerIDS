@@ -1,0 +1,7 @@
+Name: ASHLY
+ActorNumber: 1161
+PlayerID: 97DB0B29FEAC5456
+Platform: Standalone
+AccountCreationDate: 2025-12-25 14:54:38 UTC
+Color: R=0.00 G=0.00 B=0.00
+Cosmetics: None

@@ -1,0 +1,7 @@
+Name: PURPLE
+ActorNumber: 136
+PlayerID: 27C37F6F673BEFA3
+Platform: Unknown
+AccountCreationDate: 2024-01-17 22:48:50 UTC
+Color: R=0.44 G=0.00 B=1.00
+Cosmetics: None

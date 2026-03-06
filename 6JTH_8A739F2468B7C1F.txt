@@ -1,0 +1,7 @@
+Name: MURICHIO
+ActorNumber: 152
+PlayerID: 8A739F2468B7C1F
+Platform: Standalone
+AccountCreationDate: 2025-05-04 14:05:33 UTC
+Color: R=0.67 G=1.00 B=0.67
+Cosmetics: None

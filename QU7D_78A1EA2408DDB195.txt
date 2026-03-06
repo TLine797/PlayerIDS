@@ -1,0 +1,7 @@
+Name: PURPLE
+ActorNumber: 466
+PlayerID: 78A1EA2408DDB195
+Platform: Standalone
+AccountCreationDate: 2024-06-14 13:56:24 UTC
+Color: R=0.67 G=0.56 B=1.00
+Cosmetics: None

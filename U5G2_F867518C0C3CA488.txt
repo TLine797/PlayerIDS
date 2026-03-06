@@ -1,0 +1,7 @@
+Name: BLUEMONKEY
+ActorNumber: 48
+PlayerID: F867518C0C3CA488
+Platform: Standalone
+AccountCreationDate: 2025-12-26 03:41:58 UTC
+Color: R=0.00 G=0.44 B=1.00
+Cosmetics: None

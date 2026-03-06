@@ -1,0 +1,7 @@
+Name: gorilla
+ActorNumber: 591
+PlayerID: 1A04C153C8988486
+Platform: Standalone
+AccountCreationDate: 2025-07-14 23:00:51 UTC
+Color: R=0.00 G=0.78 B=1.00
+Cosmetics: None

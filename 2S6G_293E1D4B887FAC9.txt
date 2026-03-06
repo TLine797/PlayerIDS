@@ -1,0 +1,7 @@
+Name: GIZMO
+ActorNumber: 892
+PlayerID: 293E1D4B887FAC9
+Platform: Unknown
+AccountCreationDate: 2022-12-28 01:37:20 UTC
+Color: R=1.00 G=0.78 B=0.89
+Cosmetics: None

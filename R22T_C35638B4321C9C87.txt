@@ -1,0 +1,7 @@
+Name: SNOWY
+ActorNumber: 9
+PlayerID: C35638B4321C9C87
+Platform: Standalone
+AccountCreationDate: 2023-06-01 20:44:09 UTC
+Color: R=1.00 G=1.00 B=1.00
+Cosmetics: None

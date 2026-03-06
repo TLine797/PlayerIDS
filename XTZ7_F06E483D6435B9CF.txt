@@ -1,0 +1,7 @@
+Name: DAISYO9
+ActorNumber: 249
+PlayerID: F06E483D6435B9CF
+Platform: Unknown
+AccountCreationDate: 2026-01-08 23:41:49 UTC
+Color: R=1.00 G=0.56 B=0.67
+Cosmetics: None

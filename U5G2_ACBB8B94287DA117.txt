@@ -1,0 +1,7 @@
+Name: YCTLUKEY
+ActorNumber: 53
+PlayerID: ACBB8B94287DA117
+Platform: Standalone
+AccountCreationDate: 2023-12-25 14:08:34 UTC
+Color: R=0.44 G=0.00 B=1.00
+Cosmetics: None

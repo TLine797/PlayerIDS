@@ -1,0 +1,7 @@
+Name: BUGIEBOY
+ActorNumber: 825
+PlayerID: E30AA66593E9ABA5
+Platform: Standalone
+AccountCreationDate: 2025-12-25 16:28:18 UTC
+Color: R=1.00 G=1.00 B=1.00
+Cosmetics: None

@@ -1,0 +1,7 @@
+Name: FEMB
+ActorNumber: 994
+PlayerID: 6E750B5B1B0831F2
+Platform: Unknown
+AccountCreationDate: 2022-01-06 23:06:40 UTC
+Color: R=1.00 G=0.33 B=1.00
+Cosmetics: None

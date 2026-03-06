@@ -1,0 +1,7 @@
+Name: NENZO
+ActorNumber: 583
+PlayerID: 51C0E19933712645
+Platform: PC
+AccountCreationDate: 2023-03-29 19:05:14 UTC
+Color: R=0.00 G=0.33 B=0.56
+Cosmetics: None

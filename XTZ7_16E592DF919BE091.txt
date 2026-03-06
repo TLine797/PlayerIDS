@@ -1,0 +1,7 @@
+Name: GORILLA23114
+ActorNumber: 275
+PlayerID: 16E592DF919BE091
+Platform: Standalone
+AccountCreationDate: 2025-09-22 03:27:54 UTC
+Color: R=0.67 G=0.11 B=0.33
+Cosmetics: None

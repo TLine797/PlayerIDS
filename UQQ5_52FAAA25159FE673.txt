@@ -1,0 +1,7 @@
+Name: NUKEONVR
+ActorNumber: 315
+PlayerID: 52FAAA25159FE673
+Platform: Standalone
+AccountCreationDate: 2025-11-26 02:00:11 UTC
+Color: R=0.33 G=0.00 B=0.56
+Cosmetics: None

@@ -1,0 +1,7 @@
+Name: LKI
+ActorNumber: 1376
+PlayerID: C7221DF1CB26E27B
+Platform: Unknown
+AccountCreationDate: 2022-12-28 02:10:27 UTC
+Color: R=0.67 G=1.00 B=0.56
+Cosmetics: None

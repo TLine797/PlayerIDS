@@ -1,0 +1,7 @@
+Name: BIGMONKEYPRO
+ActorNumber: 1346
+PlayerID: 60C7BCE932FBBF67
+Platform: Standalone
+AccountCreationDate: 2025-12-03 05:43:55 UTC
+Color: R=0.44 G=0.11 B=0.56
+Cosmetics: None

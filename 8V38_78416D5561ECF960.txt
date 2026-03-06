@@ -1,0 +1,7 @@
+Name: DADDY
+ActorNumber: 668
+PlayerID: 78416D5561ECF960
+Platform: Standalone
+AccountCreationDate: 2025-08-31 00:26:51 UTC
+Color: R=0.22 G=0.22 B=0.44
+Cosmetics: None

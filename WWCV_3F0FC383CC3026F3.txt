@@ -1,0 +1,7 @@
+Name: FEMBOY
+ActorNumber: 1211
+PlayerID: 3F0FC383CC3026F3
+Platform: Standalone
+AccountCreationDate: 2025-12-22 21:03:25 UTC
+Color: R=0.89 G=0.00 B=0.89
+Cosmetics: None

@@ -1,0 +1,7 @@
+Name: MRELF
+ActorNumber: 122
+PlayerID: B8A4B53A389B4A53
+Platform: Standalone
+AccountCreationDate: 2024-09-12 01:46:27 UTC
+Color: R=0.44 G=0.00 B=0.78
+Cosmetics: None

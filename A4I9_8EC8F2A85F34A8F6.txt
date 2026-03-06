@@ -1,0 +1,7 @@
+Name: gorilla0719
+ActorNumber: 1335
+PlayerID: 8EC8F2A85F34A8F6
+Platform: Standalone
+AccountCreationDate: 2025-12-28 23:41:03 UTC
+Color: R=0.11 G=0.11 B=0.11
+Cosmetics: None

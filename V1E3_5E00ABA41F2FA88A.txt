@@ -1,0 +1,7 @@
+Name: STEELKING
+ActorNumber: 375
+PlayerID: 5E00ABA41F2FA88A
+Platform: Standalone
+AccountCreationDate: 2026-02-20 23:04:09 UTC
+Color: R=0.00 G=0.00 B=0.00
+Cosmetics: None

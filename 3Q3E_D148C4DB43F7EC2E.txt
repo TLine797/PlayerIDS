@@ -1,0 +1,7 @@
+Name: INVINCIBLE
+ActorNumber: 581
+PlayerID: D148C4DB43F7EC2E
+Platform: Unknown
+AccountCreationDate: 2022-03-16 17:01:03 UTC
+Color: R=1.00 G=1.00 B=0.00
+Cosmetics: None

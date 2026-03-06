@@ -1,0 +1,7 @@
+Name: gorilla7421
+ActorNumber: 394
+PlayerID: 6FFF2F584032A041
+Platform: Standalone
+AccountCreationDate: 2025-06-30 20:17:17 UTC
+Color: R=0.00 G=0.22 B=0.44
+Cosmetics: None

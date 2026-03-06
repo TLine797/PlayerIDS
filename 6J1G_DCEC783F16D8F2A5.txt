@@ -1,0 +1,7 @@
+Name: TBDHOR120N
+ActorNumber: 396
+PlayerID: DCEC783F16D8F2A5
+Platform: Standalone
+AccountCreationDate: 2025-05-08 00:45:40 UTC
+Color: R=0.89 G=0.67 B=0.33
+Cosmetics: None

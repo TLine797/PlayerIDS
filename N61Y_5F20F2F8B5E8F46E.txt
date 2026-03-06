@@ -1,0 +1,7 @@
+Name: JERIMIAN15
+ActorNumber: 848
+PlayerID: 5F20F2F8B5E8F46E
+Platform: Standalone
+AccountCreationDate: 2023-12-12 22:00:15 UTC
+Color: R=0.44 G=0.22 B=1.00
+Cosmetics: None

@@ -1,0 +1,7 @@
+Name: NIKEELOPE
+ActorNumber: 3647
+PlayerID: E411239B935D8EB3
+Platform: PC
+AccountCreationDate: 2024-10-11 23:59:10 UTC
+Color: R=0.78 G=0.67 B=1.00
+Cosmetics: None

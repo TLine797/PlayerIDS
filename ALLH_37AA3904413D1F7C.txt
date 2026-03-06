@@ -1,0 +1,7 @@
+Name: ELLIOT
+ActorNumber: 297
+PlayerID: 37AA3904413D1F7C
+Platform: Standalone
+AccountCreationDate: 2025-12-01 00:01:47 UTC
+Color: R=0.56 G=0.56 B=0.56
+Cosmetics: None

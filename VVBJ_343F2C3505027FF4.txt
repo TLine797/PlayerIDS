@@ -1,0 +1,7 @@
+Name: 
+ActorNumber: 42
+PlayerID: 343F2C3505027FF4
+Platform: Standalone
+AccountCreationDate: 2026-02-28 02:33:00 UTC
+Color: R=0.20 G=0.52 B=0.94
+Cosmetics: None

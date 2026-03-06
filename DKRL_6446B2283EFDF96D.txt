@@ -1,0 +1,7 @@
+Name: HABIBI
+ActorNumber: 84
+PlayerID: 6446B2283EFDF96D
+Platform: Unknown
+AccountCreationDate: 2025-12-25 23:36:04 UTC
+Color: R=0.11 G=0.22 B=0.67
+Cosmetics: None

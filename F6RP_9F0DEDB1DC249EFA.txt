@@ -1,0 +1,7 @@
+Name: STORMSNIPER
+ActorNumber: 123
+PlayerID: 9F0DEDB1DC249EFA
+Platform: Standalone
+AccountCreationDate: 2025-05-17 16:35:19 UTC
+Color: R=0.00 G=0.11 B=1.00
+Cosmetics: None

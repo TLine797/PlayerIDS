@@ -1,0 +1,7 @@
+Name: KILLCOMP
+ActorNumber: 1
+PlayerID: 87B72CACA9CCA161
+Platform: Unknown
+AccountCreationDate: 2022-12-25 16:32:09 UTC
+Color: R=0.00 G=1.00 B=0.00
+Cosmetics: None

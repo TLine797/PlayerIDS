@@ -1,0 +1,7 @@
+Name: MYNTLY
+ActorNumber: 889
+PlayerID: BA1AF770BB9058C0
+Platform: PC
+AccountCreationDate: 2025-07-22 02:42:59 UTC
+Color: R=0.78 G=0.89 B=0.78
+Cosmetics: None

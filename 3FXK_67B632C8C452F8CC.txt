@@ -1,0 +1,7 @@
+Name: JUSTAKID
+ActorNumber: 1354
+PlayerID: 67B632C8C452F8CC
+Platform: Standalone
+AccountCreationDate: 2025-12-26 02:09:37 UTC
+Color: R=1.00 G=0.67 B=0.44
+Cosmetics: None

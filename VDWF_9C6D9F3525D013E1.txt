@@ -1,0 +1,7 @@
+Name: COMPGHOSTYVR
+ActorNumber: 50
+PlayerID: 9C6D9F3525D013E1
+Platform: Standalone
+AccountCreationDate: 2025-09-21 18:15:48 UTC
+Color: R=1.00 G=1.00 B=1.00
+Cosmetics: None

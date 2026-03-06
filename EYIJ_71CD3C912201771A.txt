@@ -1,0 +1,7 @@
+Name: GREENMONKEY
+ActorNumber: 20
+PlayerID: 71CD3C912201771A
+Platform: Standalone
+AccountCreationDate: 2025-12-25 20:37:46 UTC
+Color: R=0.00 G=0.33 B=0.22
+Cosmetics: None

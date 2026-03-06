@@ -1,0 +1,7 @@
+Name: JILLIAN
+ActorNumber: 576
+PlayerID: 6299B01A7AA538D1
+Platform: Standalone
+AccountCreationDate: 2024-12-25 17:22:02 UTC
+Color: R=0.11 G=1.00 B=0.22
+Cosmetics: None

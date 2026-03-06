@@ -1,0 +1,7 @@
+Name: COLDER
+ActorNumber: 349
+PlayerID: FF7485950D3E486B
+Platform: Unknown
+AccountCreationDate: 2021-07-29 19:40:52 UTC
+Color: R=0.22 G=0.44 B=1.00
+Cosmetics: None

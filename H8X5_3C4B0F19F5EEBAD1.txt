@@ -1,0 +1,7 @@
+Name: KENDRA
+ActorNumber: 455
+PlayerID: 3C4B0F19F5EEBAD1
+Platform: Unknown
+AccountCreationDate: 2022-04-21 21:22:47 UTC
+Color: R=0.89 G=0.67 B=0.89
+Cosmetics: None

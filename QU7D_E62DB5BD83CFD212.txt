@@ -1,0 +1,7 @@
+Name: THEGOAT
+ActorNumber: 486
+PlayerID: E62DB5BD83CFD212
+Platform: Standalone
+AccountCreationDate: 2026-01-29 00:36:36 UTC
+Color: R=0.44 G=0.00 B=0.67
+Cosmetics: None

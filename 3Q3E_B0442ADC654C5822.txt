@@ -1,0 +1,7 @@
+Name: gorilla2156
+ActorNumber: 616
+PlayerID: B0442ADC654C5822
+Platform: Standalone
+AccountCreationDate: 2025-12-29 21:40:01 UTC
+Color: R=0.79 G=0.81 B=0.66
+Cosmetics: None

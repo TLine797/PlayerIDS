@@ -1,0 +1,7 @@
+Name: MADDIE
+ActorNumber: 998
+PlayerID: 609F1223F09A35E5
+Platform: Standalone
+AccountCreationDate: 2024-12-25 18:28:56 UTC
+Color: R=0.67 G=0.22 B=0.22
+Cosmetics: None

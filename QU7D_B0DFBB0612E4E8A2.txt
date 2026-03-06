@@ -1,0 +1,7 @@
+Name: JAXJACK
+ActorNumber: 467
+PlayerID: B0DFBB0612E4E8A2
+Platform: Standalone
+AccountCreationDate: 2025-12-26 19:34:48 UTC
+Color: R=1.00 G=0.33 B=0.00
+Cosmetics: None

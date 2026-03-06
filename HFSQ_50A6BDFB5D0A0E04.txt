@@ -1,0 +1,7 @@
+Name: NOTHORIZON
+ActorNumber: 95
+PlayerID: 50A6BDFB5D0A0E04
+Platform: Standalone
+AccountCreationDate: 2024-05-12 23:07:18 UTC
+Color: R=1.00 G=0.44 B=0.00
+Cosmetics: None

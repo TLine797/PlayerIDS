@@ -1,0 +1,7 @@
+Name: TTTBYSTEX
+ActorNumber: 1681
+PlayerID: BF162C9E317AD3DF
+Platform: Standalone
+AccountCreationDate: 2025-12-25 18:13:02 UTC
+Color: R=0.56 G=0.00 B=1.00
+Cosmetics: None

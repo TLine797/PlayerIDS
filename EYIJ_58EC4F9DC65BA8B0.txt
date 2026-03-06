@@ -1,0 +1,7 @@
+Name: LILBOBBYBOO
+ActorNumber: 24
+PlayerID: 58EC4F9DC65BA8B0
+Platform: Standalone
+AccountCreationDate: 2024-12-25 20:17:33 UTC
+Color: R=0.22 G=0.56 B=0.78
+Cosmetics: None

@@ -1,0 +1,7 @@
+Name: YTZEN
+ActorNumber: 73
+PlayerID: 2E3E78FA96F554A5
+Platform: Standalone
+AccountCreationDate: 2024-10-25 18:29:07 UTC
+Color: R=1.00 G=0.67 B=0.00
+Cosmetics: None

@@ -1,0 +1,7 @@
+Name: 47CHROMOSOME
+ActorNumber: 330
+PlayerID: 73CDD3A1F2318294
+Platform: Standalone
+AccountCreationDate: 2025-12-28 19:44:17 UTC
+Color: R=0.11 G=0.11 B=0.11
+Cosmetics: None

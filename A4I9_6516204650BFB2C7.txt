@@ -1,0 +1,7 @@
+Name: CHUD
+ActorNumber: 1365
+PlayerID: 6516204650BFB2C7
+Platform: Unknown
+AccountCreationDate: 2025-12-26 16:39:56 UTC
+Color: R=0.00 G=0.44 B=1.00
+Cosmetics: None

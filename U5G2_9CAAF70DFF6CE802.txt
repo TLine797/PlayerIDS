@@ -1,0 +1,7 @@
+Name: TTT409
+ActorNumber: 57
+PlayerID: 9CAAF70DFF6CE802
+Platform: Standalone
+AccountCreationDate: 2025-12-20 23:49:00 UTC
+Color: R=0.44 G=0.00 B=1.00
+Cosmetics: None

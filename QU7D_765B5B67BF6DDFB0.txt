@@ -1,0 +1,7 @@
+Name: PEPPER
+ActorNumber: 487
+PlayerID: 765B5B67BF6DDFB0
+Platform: Standalone
+AccountCreationDate: 2025-12-25 13:01:01 UTC
+Color: R=0.67 G=0.00 B=0.00
+Cosmetics: None

@@ -1,0 +1,7 @@
+Name: TFGLAXFY
+ActorNumber: 144
+PlayerID: A92EF2C8315BF7CD
+Platform: Standalone
+AccountCreationDate: 2024-01-06 18:37:52 UTC
+Color: R=0.11 G=0.11 B=0.44
+Cosmetics: None

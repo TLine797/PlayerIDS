@@ -1,0 +1,7 @@
+Name: BTTTBILLY
+ActorNumber: 1035
+PlayerID: 26E001A48AC6F523
+Platform: Unknown
+AccountCreationDate: 2023-01-03 00:04:50 UTC
+Color: R=0.00 G=0.89 B=0.56
+Cosmetics: None

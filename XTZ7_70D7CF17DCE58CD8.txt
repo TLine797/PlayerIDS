@@ -1,0 +1,7 @@
+Name: DRPEPPER
+ActorNumber: 261
+PlayerID: 70D7CF17DCE58CD8
+Platform: Unknown
+AccountCreationDate: 2024-12-25 16:59:29 UTC
+Color: R=0.44 G=0.33 B=0.33
+Cosmetics: None

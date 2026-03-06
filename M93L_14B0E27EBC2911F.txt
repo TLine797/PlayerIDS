@@ -1,0 +1,7 @@
+Name: TIPTOE
+ActorNumber: 147
+PlayerID: 14B0E27EBC2911F
+Platform: Standalone
+AccountCreationDate: 2024-12-26 13:19:16 UTC
+Color: R=0.00 G=0.00 B=0.00
+Cosmetics: None

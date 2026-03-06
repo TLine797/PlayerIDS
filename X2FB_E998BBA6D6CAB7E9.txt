@@ -1,0 +1,7 @@
+Name: SKIB67
+ActorNumber: 698
+PlayerID: E998BBA6D6CAB7E9
+Platform: Standalone
+AccountCreationDate: 2024-02-04 21:40:41 UTC
+Color: R=0.11 G=0.89 B=1.00
+Cosmetics: None

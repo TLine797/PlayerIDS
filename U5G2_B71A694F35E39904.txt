@@ -1,0 +1,7 @@
+Name: GHOSTY
+ActorNumber: 68
+PlayerID: B71A694F35E39904
+Platform: Standalone
+AccountCreationDate: 2025-03-22 20:45:36 UTC
+Color: R=0.00 G=0.00 B=0.00
+Cosmetics: None

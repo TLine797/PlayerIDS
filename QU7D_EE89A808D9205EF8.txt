@@ -1,0 +1,7 @@
+Name: CCVELIX
+ActorNumber: 497
+PlayerID: EE89A808D9205EF8
+Platform: Standalone
+AccountCreationDate: 2025-12-25 18:20:08 UTC
+Color: R=0.44 G=0.44 B=0.44
+Cosmetics: None

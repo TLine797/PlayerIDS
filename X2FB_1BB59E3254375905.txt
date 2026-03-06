@@ -1,0 +1,7 @@
+Name: JITKJNB
+ActorNumber: 614
+PlayerID: 1BB59E3254375905
+Platform: PC
+AccountCreationDate: 2025-12-27 15:09:20 UTC
+Color: R=0.44 G=0.56 B=0.22
+Cosmetics: None

@@ -1,0 +1,7 @@
+Name: E7ZACH655
+ActorNumber: 571
+PlayerID: 1EDEE0DD31657D45
+Platform: Standalone
+AccountCreationDate: 2025-12-31 22:01:05 UTC
+Color: R=0.44 G=0.00 B=0.78
+Cosmetics: None

@@ -1,0 +1,7 @@
+Name: BOB1234
+ActorNumber: 453
+PlayerID: CE96C3F7F8AEE707
+Platform: Unknown
+AccountCreationDate: 2025-12-25 18:45:19 UTC
+Color: R=0.89 G=0.89 B=0.89
+Cosmetics: None

@@ -1,0 +1,7 @@
+Name: MARTYR
+ActorNumber: 475
+PlayerID: 34480FDEF9D32BF3
+Platform: Standalone
+AccountCreationDate: 2025-12-25 13:36:07 UTC
+Color: R=0.44 G=0.00 B=1.00
+Cosmetics: None

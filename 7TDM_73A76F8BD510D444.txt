@@ -1,0 +1,7 @@
+Name: IMADIRTBAG
+ActorNumber: 96
+PlayerID: 73A76F8BD510D444
+Platform: Standalone
+AccountCreationDate: 2024-07-23 13:50:03 UTC
+Color: R=0.33 G=1.00 B=0.00
+Cosmetics: None

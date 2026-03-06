@@ -1,0 +1,7 @@
+Name: 
+ActorNumber: 469
+PlayerID: 3A6F9E3D8DDB72C7
+Platform: Standalone
+AccountCreationDate: 2026-03-01 02:29:45 UTC
+Color: R=0.11 G=0.00 B=0.00
+Cosmetics: None

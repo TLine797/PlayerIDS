@@ -1,0 +1,7 @@
+Name: RYAN
+ActorNumber: 530
+PlayerID: E142DC539478B07B
+Platform: Standalone
+AccountCreationDate: 2025-12-07 15:21:59 UTC
+Color: R=0.44 G=0.33 B=0.00
+Cosmetics: None

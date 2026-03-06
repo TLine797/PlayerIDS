@@ -1,0 +1,7 @@
+Name: TRIANGLES1
+ActorNumber: 1191
+PlayerID: B820B728F268C403
+Platform: Standalone
+AccountCreationDate: 2022-06-13 21:26:34 UTC
+Color: R=0.11 G=1.00 B=0.00
+Cosmetics: None

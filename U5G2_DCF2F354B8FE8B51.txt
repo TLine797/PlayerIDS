@@ -1,0 +1,7 @@
+Name: MIGUEL
+ActorNumber: 69
+PlayerID: DCF2F354B8FE8B51
+Platform: Standalone
+AccountCreationDate: 2023-03-13 14:00:05 UTC
+Color: R=1.00 G=0.78 B=0.89
+Cosmetics: None

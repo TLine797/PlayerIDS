@@ -1,0 +1,7 @@
+Name: MONKE
+ActorNumber: 58
+PlayerID: A8312F3D6E1E42BB
+Platform: Standalone
+AccountCreationDate: 2025-12-29 17:47:00 UTC
+Color: R=0.15 G=0.21 B=0.74
+Cosmetics: None

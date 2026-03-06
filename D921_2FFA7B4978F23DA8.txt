@@ -1,0 +1,7 @@
+Name: BOYOGT
+ActorNumber: 7
+PlayerID: 2FFA7B4978F23DA8
+Platform: Standalone
+AccountCreationDate: 2025-12-24 18:31:47 UTC
+Color: R=0.00 G=0.78 B=0.00
+Cosmetics: None

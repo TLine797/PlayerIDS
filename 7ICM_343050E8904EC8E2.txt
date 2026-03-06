@@ -1,0 +1,7 @@
+Name: CUTOFF
+ActorNumber: 836
+PlayerID: 343050E8904EC8E2
+Platform: Unknown
+AccountCreationDate: 2022-01-04 22:32:08 UTC
+Color: R=0.00 G=0.00 B=0.00
+Cosmetics: None

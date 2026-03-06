@@ -1,0 +1,7 @@
+Name: HARLEY
+ActorNumber: 575
+PlayerID: 198316C8E6A2B9FE
+Platform: Standalone
+AccountCreationDate: 2025-12-26 00:31:20 UTC
+Color: R=0.56 G=0.22 B=1.00
+Cosmetics: None

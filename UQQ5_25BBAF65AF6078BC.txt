@@ -1,0 +1,7 @@
+Name: ASWBRANCH
+ActorNumber: 301
+PlayerID: 25BBAF65AF6078BC
+Platform: Standalone
+AccountCreationDate: 2025-07-08 14:45:31 UTC
+Color: R=1.00 G=1.00 B=0.00
+Cosmetics: None

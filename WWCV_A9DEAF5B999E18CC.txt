@@ -1,0 +1,7 @@
+Name: THING1
+ActorNumber: 1206
+PlayerID: A9DEAF5B999E18CC
+Platform: Standalone
+AccountCreationDate: 2024-12-30 18:48:29 UTC
+Color: R=0.33 G=0.00 B=0.00
+Cosmetics: None

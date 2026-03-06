@@ -1,0 +1,7 @@
+Name: gorilla8323
+ActorNumber: 312
+PlayerID: 90A7ED7AF7D10E8C
+Platform: Standalone
+AccountCreationDate: 2025-09-27 00:28:59 UTC
+Color: R=0.11 G=0.09 B=0.42
+Cosmetics: None

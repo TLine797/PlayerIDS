@@ -1,0 +1,7 @@
+Name: CHEKTUTORIAL
+ActorNumber: 165
+PlayerID: E4B6E220B59A5BC
+Platform: Standalone
+AccountCreationDate: 2025-12-26 15:27:24 UTC
+Color: R=0.89 G=0.22 B=0.00
+Cosmetics: None

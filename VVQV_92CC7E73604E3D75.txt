@@ -1,0 +1,7 @@
+Name: gorilla2913
+ActorNumber: 4
+PlayerID: 92CC7E73604E3D75
+Platform: Standalone
+AccountCreationDate: 2025-10-13 02:48:39 UTC
+Color: R=0.00 G=0.00 B=1.00
+Cosmetics: None

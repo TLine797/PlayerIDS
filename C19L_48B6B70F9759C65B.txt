@@ -1,0 +1,7 @@
+Name: NEWPLAYER
+ActorNumber: 1164
+PlayerID: 48B6B70F9759C65B
+Platform: Standalone
+AccountCreationDate: 2026-01-07 01:58:07 UTC
+Color: R=1.00 G=0.00 B=0.00
+Cosmetics: None

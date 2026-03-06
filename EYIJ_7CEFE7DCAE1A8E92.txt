@@ -1,0 +1,7 @@
+Name: gorilla7030
+ActorNumber: 14
+PlayerID: 7CEFE7DCAE1A8E92
+Platform: Standalone
+AccountCreationDate: 2026-01-24 00:57:50 UTC
+Color: R=0.11 G=0.67 B=1.00
+Cosmetics: None

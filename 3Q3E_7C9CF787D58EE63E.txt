@@ -1,0 +1,7 @@
+Name: LEAAH
+ActorNumber: 566
+PlayerID: 7C9CF787D58EE63E
+Platform: Standalone
+AccountCreationDate: 2025-01-17 19:23:24 UTC
+Color: R=1.00 G=0.00 B=0.78
+Cosmetics: None

@@ -1,0 +1,7 @@
+Name: P15CE
+ActorNumber: 567
+PlayerID: FED1FF753F7EA49E
+Platform: PC
+AccountCreationDate: 2025-12-31 18:34:22 UTC
+Color: R=1.00 G=0.33 B=1.00
+Cosmetics: None

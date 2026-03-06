@@ -1,0 +1,7 @@
+Name: 2AMCJ
+ActorNumber: 322
+PlayerID: C67079CD2CFA3618
+Platform: Standalone
+AccountCreationDate: 2025-11-28 22:57:48 UTC
+Color: R=0.00 G=0.00 B=0.89
+Cosmetics: None

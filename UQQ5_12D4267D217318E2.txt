@@ -1,0 +1,7 @@
+Name: COLSONVR
+ActorNumber: 309
+PlayerID: 12D4267D217318E2
+Platform: Standalone
+AccountCreationDate: 2025-02-16 14:55:51 UTC
+Color: R=1.00 G=1.00 B=1.00
+Cosmetics: None

@@ -1,0 +1,7 @@
+Name: SIGMA
+ActorNumber: 53
+PlayerID: 1B9BBEEDF249CB9F
+Platform: Standalone
+AccountCreationDate: 2025-12-26 21:35:37 UTC
+Color: R=0.89 G=0.44 B=0.67
+Cosmetics: None

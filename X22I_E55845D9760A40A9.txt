@@ -1,0 +1,7 @@
+Name: DHNDHX
+ActorNumber: 533
+PlayerID: E55845D9760A40A9
+Platform: Standalone
+AccountCreationDate: 2025-12-25 12:44:27 UTC
+Color: R=0.33 G=1.00 B=0.56
+Cosmetics: None

@@ -1,0 +1,7 @@
+Name: BRNTRIXX
+ActorNumber: 527
+PlayerID: 7FF299CAEDA44618
+Platform: Unknown
+AccountCreationDate: 2022-05-21 20:17:09 UTC
+Color: R=0.44 G=0.67 B=1.00
+Cosmetics: None

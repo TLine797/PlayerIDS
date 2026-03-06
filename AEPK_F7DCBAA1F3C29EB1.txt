@@ -1,0 +1,7 @@
+Name: VIPERROR
+ActorNumber: 142
+PlayerID: F7DCBAA1F3C29EB1
+Platform: Standalone
+AccountCreationDate: 2024-12-27 19:19:34 UTC
+Color: R=0.56 G=0.00 B=1.00
+Cosmetics: None

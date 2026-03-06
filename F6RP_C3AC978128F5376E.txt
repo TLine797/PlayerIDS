@@ -1,0 +1,7 @@
+Name: FORGOTTEN
+ActorNumber: 136
+PlayerID: C3AC978128F5376E
+Platform: Standalone
+AccountCreationDate: 2025-12-25 20:19:40 UTC
+Color: R=0.00 G=0.78 B=1.00
+Cosmetics: None

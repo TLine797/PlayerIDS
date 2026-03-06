@@ -1,0 +1,7 @@
+Name: TTTDAYROS
+ActorNumber: 75
+PlayerID: 3C0360206BE3F24E
+Platform: Standalone
+AccountCreationDate: 2024-01-01 17:59:46 UTC
+Color: R=1.00 G=1.00 B=1.00
+Cosmetics: None

@@ -1,0 +1,7 @@
+Name: MANDDVRAC
+ActorNumber: 79
+PlayerID: CE9188DED92CFC3F
+Platform: Unknown
+AccountCreationDate: 2022-12-26 14:35:03 UTC
+Color: R=1.00 G=1.00 B=1.00
+Cosmetics: None

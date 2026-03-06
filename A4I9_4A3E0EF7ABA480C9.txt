@@ -1,0 +1,7 @@
+Name: gorilla1401
+ActorNumber: 1361
+PlayerID: 4A3E0EF7ABA480C9
+Platform: Standalone
+AccountCreationDate: 2025-12-25 19:43:59 UTC
+Color: R=0.00 G=0.00 B=1.00
+Cosmetics: None

@@ -1,0 +1,7 @@
+Name: MEML
+ActorNumber: 602
+PlayerID: D49D7362AA2F8D24
+Platform: Standalone
+AccountCreationDate: 2026-01-16 15:17:24 UTC
+Color: R=1.00 G=0.44 B=0.00
+Cosmetics: None

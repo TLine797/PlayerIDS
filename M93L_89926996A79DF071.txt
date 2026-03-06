@@ -1,0 +1,7 @@
+Name: TBMYELLOWVR
+ActorNumber: 101
+PlayerID: 89926996A79DF071
+Platform: Standalone
+AccountCreationDate: 2024-02-01 14:13:16 UTC
+Color: R=1.00 G=0.11 B=0.00
+Cosmetics: None

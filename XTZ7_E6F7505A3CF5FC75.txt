@@ -1,0 +1,7 @@
+Name: HHGHHG
+ActorNumber: 256
+PlayerID: E6F7505A3CF5FC75
+Platform: Standalone
+AccountCreationDate: 2024-09-09 22:06:11 UTC
+Color: R=0.67 G=0.22 B=1.00
+Cosmetics: None

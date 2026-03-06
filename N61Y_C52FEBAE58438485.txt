@@ -1,0 +1,7 @@
+Name: YOLANVR
+ActorNumber: 1037
+PlayerID: C52FEBAE58438485
+Platform: Standalone
+AccountCreationDate: 2025-07-28 18:11:40 UTC
+Color: R=0.67 G=0.22 B=0.00
+Cosmetics: None

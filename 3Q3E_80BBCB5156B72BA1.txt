@@ -1,0 +1,7 @@
+Name: LEOVR2
+ActorNumber: 625
+PlayerID: 80BBCB5156B72BA1
+Platform: Standalone
+AccountCreationDate: 2025-12-25 09:39:11 UTC
+Color: R=0.00 G=0.33 B=0.89
+Cosmetics: None

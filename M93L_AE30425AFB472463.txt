@@ -1,0 +1,7 @@
+Name: OREO
+ActorNumber: 154
+PlayerID: AE30425AFB472463
+Platform: Standalone
+AccountCreationDate: 2023-12-22 00:38:35 UTC
+Color: R=0.56 G=0.67 B=1.00
+Cosmetics: None

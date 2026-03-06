@@ -1,0 +1,7 @@
+Name: PLEBSFEMBOY
+ActorNumber: 2242
+PlayerID: 62CA79824CD5A079
+Platform: Standalone
+AccountCreationDate: 2026-02-21 00:35:48 UTC
+Color: R=1.00 G=0.33 B=1.00
+Cosmetics: None

@@ -1,0 +1,7 @@
+Name: XX
+ActorNumber: 140
+PlayerID: B5D24C2A2D2C17B8
+Platform: Standalone
+AccountCreationDate: 2022-03-30 21:01:24 UTC
+Color: R=0.00 G=0.00 B=0.00
+Cosmetics: None

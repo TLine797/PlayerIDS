@@ -1,0 +1,7 @@
+Name: COKE
+ActorNumber: 280
+PlayerID: AD125670C4675795
+Platform: Standalone
+AccountCreationDate: 2024-12-25 19:05:15 UTC
+Color: R=0.56 G=0.33 B=0.22
+Cosmetics: None

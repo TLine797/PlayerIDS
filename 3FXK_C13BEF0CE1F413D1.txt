@@ -1,0 +1,7 @@
+Name: SPIDERMAN
+ActorNumber: 1395
+PlayerID: C13BEF0CE1F413D1
+Platform: Unknown
+AccountCreationDate: 2022-07-07 08:03:09 UTC
+Color: R=0.11 G=0.00 B=0.22
+Cosmetics: None

@@ -1,0 +1,7 @@
+Name: ETERNITY
+ActorNumber: 471
+PlayerID: 2B000D352211228B
+Platform: Standalone
+AccountCreationDate: 2024-07-31 10:40:13 UTC
+Color: R=0.00 G=1.00 B=0.33
+Cosmetics: None

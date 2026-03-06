@@ -1,0 +1,7 @@
+Name: MT89
+ActorNumber: 332
+PlayerID: 407C6A537F7C3892
+Platform: Standalone
+AccountCreationDate: 2025-12-24 22:12:18 UTC
+Color: R=0.00 G=0.89 B=1.00
+Cosmetics: None

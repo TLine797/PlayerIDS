@@ -1,0 +1,7 @@
+Name: BEAT
+ActorNumber: 556
+PlayerID: FA4101598713DB4
+Platform: Standalone
+AccountCreationDate: 2026-01-14 19:21:50 UTC
+Color: R=0.44 G=0.00 B=0.78
+Cosmetics: None

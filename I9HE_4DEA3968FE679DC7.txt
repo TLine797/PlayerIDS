@@ -1,0 +1,7 @@
+Name: PURPLESTORMY
+ActorNumber: 373
+PlayerID: 4DEA3968FE679DC7
+Platform: Standalone
+AccountCreationDate: 2023-12-25 11:49:21 UTC
+Color: R=0.56 G=0.00 B=1.00
+Cosmetics: None

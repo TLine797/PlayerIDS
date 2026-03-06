@@ -1,0 +1,7 @@
+Name: SOBAD
+ActorNumber: 21
+PlayerID: 47E16555E8770669
+Platform: Standalone
+AccountCreationDate: 2025-12-27 04:25:07 UTC
+Color: R=1.00 G=0.78 B=1.00
+Cosmetics: None

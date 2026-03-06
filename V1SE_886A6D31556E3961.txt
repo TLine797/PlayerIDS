@@ -1,0 +1,7 @@
+Name: PARTYMONKEYS
+ActorNumber: 1060
+PlayerID: 886A6D31556E3961
+Platform: Standalone
+AccountCreationDate: 2023-07-25 16:18:15 UTC
+Color: R=0.56 G=0.22 B=1.00
+Cosmetics: None

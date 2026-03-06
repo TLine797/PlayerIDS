@@ -1,0 +1,7 @@
+Name: TFNZOE
+ActorNumber: 461
+PlayerID: 14D5EDBAAB314393
+Platform: Standalone
+AccountCreationDate: 2025-08-22 20:13:18 UTC
+Color: R=0.67 G=0.67 B=0.67
+Cosmetics: None

@@ -1,0 +1,7 @@
+Name: PARKERTTV
+ActorNumber: 335
+PlayerID: 49476E23320F1EDB
+Platform: Standalone
+AccountCreationDate: 2025-01-18 15:35:14 UTC
+Color: R=1.00 G=1.00 B=1.00
+Cosmetics: None

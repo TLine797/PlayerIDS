@@ -1,0 +1,7 @@
+Name: IMMUTEIRL
+ActorNumber: 306
+PlayerID: AA745B47EDDA1461
+Platform: Standalone
+AccountCreationDate: 2025-05-02 01:39:24 UTC
+Color: R=0.67 G=0.67 B=0.67
+Cosmetics: None

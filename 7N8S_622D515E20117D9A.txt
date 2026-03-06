@@ -1,0 +1,7 @@
+Name: BOT
+ActorNumber: 1181
+PlayerID: 622D515E20117D9A
+Platform: Standalone
+AccountCreationDate: 2025-12-04 01:30:54 UTC
+Color: R=0.00 G=0.00 B=0.00
+Cosmetics: None

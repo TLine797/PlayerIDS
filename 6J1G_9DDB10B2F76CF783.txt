@@ -1,0 +1,7 @@
+Name: gorilla
+ActorNumber: 418
+PlayerID: 9DDB10B2F76CF783
+Platform: Standalone
+AccountCreationDate: 2025-12-25 14:08:26 UTC
+Color: R=0.22 G=0.33 B=0.67
+Cosmetics: None

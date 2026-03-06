@@ -1,0 +1,7 @@
+Name: ALKO
+ActorNumber: 592
+PlayerID: 83FD8FAC2ED7AFE9
+Platform: Standalone
+AccountCreationDate: 2023-12-25 17:58:13 UTC
+Color: R=0.22 G=0.44 B=0.33
+Cosmetics: None

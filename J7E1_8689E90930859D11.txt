@@ -1,0 +1,7 @@
+Name: HWMPHEON1XVR
+ActorNumber: 283
+PlayerID: 8689E90930859D11
+Platform: Standalone
+AccountCreationDate: 2024-12-25 11:36:43 UTC
+Color: R=0.22 G=0.00 B=0.78
+Cosmetics: None

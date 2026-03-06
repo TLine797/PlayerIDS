@@ -1,0 +1,7 @@
+Name: BOY
+ActorNumber: 449
+PlayerID: 1B7B77751EC0F64D
+Platform: Standalone
+AccountCreationDate: 2023-12-25 19:10:06 UTC
+Color: R=1.00 G=0.00 B=0.22
+Cosmetics: None

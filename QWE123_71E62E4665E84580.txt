@@ -1,0 +1,7 @@
+Name: 0
+ActorNumber: 6
+PlayerID: 71E62E4665E84580
+Platform: Standalone
+AccountCreationDate: 2025-12-25 19:51:51 UTC
+Color: R=0.44 G=0.00 B=0.78
+Cosmetics: None

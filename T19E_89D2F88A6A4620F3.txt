@@ -1,0 +1,7 @@
+Name: JERRY
+ActorNumber: 219
+PlayerID: 89D2F88A6A4620F3
+Platform: Standalone
+AccountCreationDate: 2026-02-20 13:46:11 UTC
+Color: R=0.78 G=0.00 B=0.11
+Cosmetics: None

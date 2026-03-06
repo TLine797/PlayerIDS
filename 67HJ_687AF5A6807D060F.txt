@@ -1,0 +1,7 @@
+Name: PUNCHY
+ActorNumber: 68
+PlayerID: 687AF5A6807D060F
+Platform: Standalone
+AccountCreationDate: 2024-12-26 13:58:40 UTC
+Color: R=0.44 G=0.00 B=0.78
+Cosmetics: None

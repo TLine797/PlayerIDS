@@ -1,0 +1,7 @@
+Name: TMS
+ActorNumber: 619
+PlayerID: C651039F197CA488
+Platform: Unknown
+AccountCreationDate: 2026-02-13 18:00:38 UTC
+Color: R=0.33 G=0.00 B=0.00
+Cosmetics: None

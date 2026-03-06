@@ -1,0 +1,7 @@
+Name: SSUPERSLADE
+ActorNumber: 316
+PlayerID: F4DAEE403EC8048E
+Platform: Standalone
+AccountCreationDate: 2025-12-25 16:23:13 UTC
+Color: R=1.00 G=0.22 B=0.00
+Cosmetics: None

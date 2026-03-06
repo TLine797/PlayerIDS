@@ -1,0 +1,7 @@
+Name: NO4
+ActorNumber: 462
+PlayerID: 396B05F23D514BF4
+Platform: Standalone
+AccountCreationDate: 2025-02-21 23:42:57 UTC
+Color: R=0.44 G=0.11 B=0.67
+Cosmetics: None

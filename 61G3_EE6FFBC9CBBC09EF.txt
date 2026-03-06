@@ -1,0 +1,7 @@
+Name: PINKYWINKY
+ActorNumber: 3291
+PlayerID: EE6FFBC9CBBC09EF
+Platform: Standalone
+AccountCreationDate: 2026-01-06 01:16:19 UTC
+Color: R=0.78 G=0.33 B=0.67
+Cosmetics: None

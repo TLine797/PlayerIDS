@@ -1,0 +1,7 @@
+Name: QUEST2
+ActorNumber: 532
+PlayerID: 3EF040A5ED81E058
+Platform: Standalone
+AccountCreationDate: 2023-12-22 15:24:16 UTC
+Color: R=0.56 G=0.44 B=1.00
+Cosmetics: None

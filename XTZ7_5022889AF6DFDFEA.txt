@@ -1,0 +1,7 @@
+Name: ROOFA
+ActorNumber: 246
+PlayerID: 5022889AF6DFDFEA
+Platform: Standalone
+AccountCreationDate: 2025-12-26 22:37:02 UTC
+Color: R=0.44 G=0.11 B=0.78
+Cosmetics: None

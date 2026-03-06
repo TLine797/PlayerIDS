@@ -1,0 +1,7 @@
+Name: METABOLIZ
+ActorNumber: 1336
+PlayerID: 8B1638DF5563B3E4
+Platform: Standalone
+AccountCreationDate: 2025-12-25 20:56:21 UTC
+Color: R=0.44 G=0.67 B=0.67
+Cosmetics: None

@@ -1,0 +1,7 @@
+Name: NOOB
+ActorNumber: 483
+PlayerID: 29DD247FEA970E93
+Platform: Standalone
+AccountCreationDate: 2025-12-26 01:08:44 UTC
+Color: R=0.00 G=0.00 B=0.00
+Cosmetics: None

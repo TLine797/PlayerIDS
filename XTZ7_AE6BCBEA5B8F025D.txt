@@ -1,0 +1,7 @@
+Name: BLACK
+ActorNumber: 268
+PlayerID: AE6BCBEA5B8F025D
+Platform: Standalone
+AccountCreationDate: 2025-12-25 02:34:00 UTC
+Color: R=0.00 G=0.00 B=1.00
+Cosmetics: None

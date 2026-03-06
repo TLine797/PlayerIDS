@@ -1,0 +1,7 @@
+Name: RICHWHITE
+ActorNumber: 1029
+PlayerID: 4417B1C77F1DC27D
+Platform: Standalone
+AccountCreationDate: 2025-12-25 14:16:23 UTC
+Color: R=0.33 G=0.22 B=0.00
+Cosmetics: None

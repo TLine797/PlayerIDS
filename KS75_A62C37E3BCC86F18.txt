@@ -1,0 +1,7 @@
+Name: MRGRIM
+ActorNumber: 870
+PlayerID: A62C37E3BCC86F18
+Platform: Unknown
+AccountCreationDate: 2023-01-31 03:41:05 UTC
+Color: R=0.00 G=0.00 B=0.00
+Cosmetics: None

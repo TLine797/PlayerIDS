@@ -1,0 +1,7 @@
+Name: K
+ActorNumber: 290
+PlayerID: 4297BD531C1E65EC
+Platform: Unknown
+AccountCreationDate: 2023-01-14 23:30:26 UTC
+Color: R=0.67 G=0.78 B=1.00
+Cosmetics: None

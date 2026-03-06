@@ -1,0 +1,7 @@
+Name: NOSKILL
+ActorNumber: 511
+PlayerID: F64AB11096BE79F6
+Platform: Standalone
+AccountCreationDate: 2024-12-29 22:48:07 UTC
+Color: R=0.00 G=0.00 B=0.89
+Cosmetics: None

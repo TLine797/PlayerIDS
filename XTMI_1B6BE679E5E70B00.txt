@@ -1,0 +1,7 @@
+Name: PRO1
+ActorNumber: 583
+PlayerID: 1B6BE679E5E70B00
+Platform: Standalone
+AccountCreationDate: 2025-12-25 15:34:03 UTC
+Color: R=1.00 G=0.00 B=0.00
+Cosmetics: None

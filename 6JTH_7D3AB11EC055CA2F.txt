@@ -1,0 +1,7 @@
+Name: GODISPOWER
+ActorNumber: 114
+PlayerID: 7D3AB11EC055CA2F
+Platform: Unknown
+AccountCreationDate: 2022-12-05 23:58:06 UTC
+Color: R=0.00 G=0.00 B=0.00
+Cosmetics: None

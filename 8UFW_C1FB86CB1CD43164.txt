@@ -1,0 +1,7 @@
+Name: gorilla6906
+ActorNumber: 1247
+PlayerID: C1FB86CB1CD43164
+Platform: Standalone
+AccountCreationDate: 2025-06-07 23:43:00 UTC
+Color: R=1.00 G=1.00 B=1.00
+Cosmetics: None

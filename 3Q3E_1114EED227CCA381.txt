@@ -1,0 +1,7 @@
+Name: JOHN424
+ActorNumber: 624
+PlayerID: 1114EED227CCA381
+Platform: Standalone
+AccountCreationDate: 2024-03-06 18:34:47 UTC
+Color: R=0.56 G=0.00 B=1.00
+Cosmetics: None

@@ -1,0 +1,7 @@
+Name: JJA
+ActorNumber: 369
+PlayerID: 90A8144756EAF56
+Platform: Standalone
+AccountCreationDate: 2024-07-12 08:25:18 UTC
+Color: R=0.89 G=0.33 B=0.89
+Cosmetics: None

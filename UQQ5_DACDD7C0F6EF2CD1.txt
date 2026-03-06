@@ -1,0 +1,7 @@
+Name: FETTSVETT1
+ActorNumber: 306
+PlayerID: DACDD7C0F6EF2CD1
+Platform: Standalone
+AccountCreationDate: 2025-12-25 23:16:48 UTC
+Color: R=0.00 G=0.11 B=0.00
+Cosmetics: None

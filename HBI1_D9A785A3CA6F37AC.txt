@@ -1,0 +1,7 @@
+Name: MRCHEESEBALL
+ActorNumber: 992
+PlayerID: D9A785A3CA6F37AC
+Platform: Standalone
+AccountCreationDate: 2025-01-21 15:58:40 UTC
+Color: R=1.00 G=0.44 B=0.22
+Cosmetics: None

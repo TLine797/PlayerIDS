@@ -1,0 +1,7 @@
+Name: KIDTOUCHER
+ActorNumber: 101
+PlayerID: 8E9EAD277282505B
+Platform: Unknown
+AccountCreationDate: 2024-01-18 22:16:13 UTC
+Color: R=0.67 G=0.00 B=1.00
+Cosmetics: None

@@ -1,0 +1,7 @@
+Name: CHERRY
+ActorNumber: 928
+PlayerID: DD05CFFAD057C0CD
+Platform: Standalone
+AccountCreationDate: 2023-12-25 16:29:27 UTC
+Color: R=1.00 G=0.00 B=0.00
+Cosmetics: None

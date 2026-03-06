@@ -1,0 +1,7 @@
+Name: PLKZ
+ActorNumber: 25
+PlayerID: BC1A2D8AE3C6082D
+Platform: Standalone
+AccountCreationDate: 2025-07-31 15:14:37 UTC
+Color: R=0.00 G=0.00 B=0.00
+Cosmetics: None

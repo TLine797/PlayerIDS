@@ -1,0 +1,7 @@
+Name: BOT
+ActorNumber: 77
+PlayerID: 96C08EAEA7CCE2C7
+Platform: Unknown
+AccountCreationDate: 2023-12-25 13:31:30 UTC
+Color: R=0.00 G=0.11 B=1.00
+Cosmetics: None

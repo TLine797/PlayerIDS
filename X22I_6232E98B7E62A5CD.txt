@@ -1,0 +1,7 @@
+Name: GORILLA9264
+ActorNumber: 529
+PlayerID: 6232E98B7E62A5CD
+Platform: Standalone
+AccountCreationDate: 2024-12-25 18:41:25 UTC
+Color: R=0.33 G=1.00 B=0.44
+Cosmetics: None

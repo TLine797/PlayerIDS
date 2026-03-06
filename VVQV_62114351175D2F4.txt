@@ -1,0 +1,7 @@
+Name: OZZYOSCAR1
+ActorNumber: 9
+PlayerID: 62114351175D2F4
+Platform: Unknown
+AccountCreationDate: 2022-07-09 17:40:06 UTC
+Color: R=1.00 G=0.44 B=1.00
+Cosmetics: None

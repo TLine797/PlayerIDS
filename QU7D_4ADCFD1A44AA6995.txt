@@ -1,0 +1,7 @@
+Name: PRO
+ActorNumber: 491
+PlayerID: 4ADCFD1A44AA6995
+Platform: Standalone
+AccountCreationDate: 2024-12-22 19:53:02 UTC
+Color: R=1.00 G=0.00 B=0.00
+Cosmetics: None

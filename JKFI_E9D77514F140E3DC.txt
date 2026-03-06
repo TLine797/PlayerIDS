@@ -1,0 +1,7 @@
+Name: ABPOPTART
+ActorNumber: 1232
+PlayerID: E9D77514F140E3DC
+Platform: Standalone
+AccountCreationDate: 2025-05-18 16:22:35 UTC
+Color: R=1.00 G=0.78 B=1.00
+Cosmetics: None

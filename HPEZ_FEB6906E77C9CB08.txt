@@ -1,0 +1,7 @@
+Name: F
+ActorNumber: 1327
+PlayerID: FEB6906E77C9CB08
+Platform: Unknown
+AccountCreationDate: 2023-01-23 02:00:47 UTC
+Color: R=1.00 G=0.00 B=0.00
+Cosmetics: None

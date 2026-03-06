@@ -1,0 +1,7 @@
+Name: ORANGE
+ActorNumber: 841
+PlayerID: 43A26B212529304C
+Platform: Standalone
+AccountCreationDate: 2024-12-31 03:18:20 UTC
+Color: R=1.00 G=0.56 B=0.00
+Cosmetics: None

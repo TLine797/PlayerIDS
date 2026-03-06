@@ -1,0 +1,7 @@
+Name: FN
+ActorNumber: 584
+PlayerID: 8943E8A589C3E2BB
+Platform: Standalone
+AccountCreationDate: 2026-01-21 00:00:56 UTC
+Color: R=0.56 G=0.67 B=1.00
+Cosmetics: None

@@ -1,0 +1,7 @@
+Name: TFG
+ActorNumber: 161
+PlayerID: 4ECB3754BD243CE9
+Platform: Unknown
+AccountCreationDate: 2025-12-25 12:25:35 UTC
+Color: R=0.44 G=0.00 B=1.00
+Cosmetics: None

@@ -1,0 +1,7 @@
+Name: gorilla
+ActorNumber: 1366
+PlayerID: 4C83DFE39B9E0DC5
+Platform: Unknown
+AccountCreationDate: 2024-12-27 04:33:04 UTC
+Color: R=0.00 G=0.00 B=0.00
+Cosmetics: None

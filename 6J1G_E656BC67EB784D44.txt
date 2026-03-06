@@ -1,0 +1,7 @@
+Name: KORN
+ActorNumber: 458
+PlayerID: E656BC67EB784D44
+Platform: Standalone
+AccountCreationDate: 2025-12-31 22:02:19 UTC
+Color: R=0.00 G=0.00 B=0.22
+Cosmetics: None

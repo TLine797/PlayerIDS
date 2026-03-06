@@ -1,0 +1,7 @@
+Name: KARVR
+ActorNumber: 1678
+PlayerID: B3AFDFD20887F958
+Platform: Standalone
+AccountCreationDate: 2026-01-05 01:59:43 UTC
+Color: R=0.00 G=1.00 B=0.00
+Cosmetics: None

@@ -1,0 +1,7 @@
+Name: RILEY
+ActorNumber: 455
+PlayerID: 627E46E52113CBCC
+Platform: Standalone
+AccountCreationDate: 2025-12-28 12:15:07 UTC
+Color: R=0.00 G=0.00 B=0.00
+Cosmetics: None
