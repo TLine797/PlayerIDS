@@ -1,0 +1,7 @@
+Name: ARI
+ActorNumber: 267
+PlayerID: 13CF95D671B5FEA4
+Platform: Standalone
+AccountCreationDate: 2025-01-03 12:41:06 UTC
+Color: R=1.00 G=1.00 B=1.00
+Cosmetics: None

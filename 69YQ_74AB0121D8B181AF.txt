@@ -1,0 +1,7 @@
+Name: PANCKS
+ActorNumber: 1054
+PlayerID: 74AB0121D8B181AF
+Platform: Standalone
+AccountCreationDate: 2025-07-24 19:04:56 UTC
+Color: R=0.78 G=0.44 B=0.22
+Cosmetics: None

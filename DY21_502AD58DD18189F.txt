@@ -1,0 +1,7 @@
+Name: FFYUFCFTYUX
+ActorNumber: 272
+PlayerID: 502AD58DD18189F
+Platform: Standalone
+AccountCreationDate: 2025-03-23 11:32:20 UTC
+Color: R=0.44 G=0.00 B=0.11
+Cosmetics: None

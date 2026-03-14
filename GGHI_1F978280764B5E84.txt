@@ -1,0 +1,7 @@
+Name: DUCKVR
+ActorNumber: 381
+PlayerID: 1F978280764B5E84
+Platform: Unknown
+AccountCreationDate: 2023-01-05 11:23:54 UTC
+Color: R=1.00 G=0.00 B=0.00
+Cosmetics: None

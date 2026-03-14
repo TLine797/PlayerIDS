@@ -1,0 +1,7 @@
+Name: EAGLE
+ActorNumber: 1317
+PlayerID: EB9F8A8317A283BF
+Platform: Standalone
+AccountCreationDate: 2026-01-23 22:55:54 UTC
+Color: R=1.00 G=0.00 B=0.56
+Cosmetics: None

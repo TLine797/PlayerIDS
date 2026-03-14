@@ -1,0 +1,7 @@
+Name: KCVALUEINDEX
+ActorNumber: 1615
+PlayerID: F39B642E734D0871
+Platform: Standalone
+AccountCreationDate: 2022-01-02 23:19:48 UTC
+Color: R=0.00 G=1.00 B=0.33
+Cosmetics: None

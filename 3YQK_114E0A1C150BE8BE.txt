@@ -1,0 +1,7 @@
+Name: BOB
+ActorNumber: 599
+PlayerID: 114E0A1C150BE8BE
+Platform: Unknown
+AccountCreationDate: 2022-12-25 19:59:23 UTC
+Color: R=0.00 G=0.44 B=0.56
+Cosmetics: None

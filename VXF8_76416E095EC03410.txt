@@ -1,0 +1,7 @@
+Name: GORILLA2398
+ActorNumber: 1207
+PlayerID: 76416E095EC03410
+Platform: Standalone
+AccountCreationDate: 2025-01-05 19:11:31 UTC
+Color: R=0.22 G=0.00 B=0.33
+Cosmetics: None

@@ -1,0 +1,7 @@
+Name: DRAC
+ActorNumber: 560
+PlayerID: 5C027D9617D408D6
+Platform: Unknown
+AccountCreationDate: 2025-12-20 16:36:50 UTC
+Color: R=0.44 G=0.00 B=0.78
+Cosmetics: None

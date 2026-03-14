@@ -1,0 +1,7 @@
+Name: FRED
+ActorNumber: 605
+PlayerID: 7CA1AD4F3A53C38F
+Platform: Standalone
+AccountCreationDate: 2026-03-04 02:39:30 UTC
+Color: R=1.00 G=1.00 B=1.00
+Cosmetics: None

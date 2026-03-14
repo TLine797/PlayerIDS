@@ -1,0 +1,7 @@
+Name: MBTFF5
+ActorNumber: 2
+PlayerID: BB09344BB90F8E4F
+Platform: Standalone
+AccountCreationDate: 2023-05-23 00:07:46 UTC
+Color: R=0.00 G=0.33 B=0.00
+Cosmetics: None

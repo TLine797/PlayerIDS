@@ -1,0 +1,7 @@
+Name: DAISY09
+ActorNumber: 1315
+PlayerID: 2FAFEABB25CBBE0D
+Platform: Standalone
+AccountCreationDate: 2025-12-24 22:21:54 UTC
+Color: R=1.00 G=1.00 B=1.00
+Cosmetics: None

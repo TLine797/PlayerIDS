@@ -1,0 +1,7 @@
+Name: CANNED
+ActorNumber: 147
+PlayerID: 64ACAC1896BAF8F8
+Platform: Standalone
+AccountCreationDate: 2025-05-18 21:45:42 UTC
+Color: R=0.56 G=0.67 B=1.00
+Cosmetics: None

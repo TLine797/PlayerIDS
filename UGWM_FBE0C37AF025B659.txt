@@ -1,0 +1,7 @@
+Name: BREE
+ActorNumber: 71
+PlayerID: FBE0C37AF025B659
+Platform: Standalone
+AccountCreationDate: 2024-08-14 16:53:13 UTC
+Color: R=0.33 G=0.00 B=0.33
+Cosmetics: None

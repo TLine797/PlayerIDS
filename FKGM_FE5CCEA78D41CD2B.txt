@@ -1,0 +1,7 @@
+Name: V1PER
+ActorNumber: 1160
+PlayerID: FE5CCEA78D41CD2B
+Platform: Unknown
+AccountCreationDate: 2024-06-11 01:08:39 UTC
+Color: R=0.78 G=0.22 B=0.22
+Cosmetics: None

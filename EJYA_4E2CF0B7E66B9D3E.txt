@@ -1,0 +1,7 @@
+Name: FQ
+ActorNumber: 564
+PlayerID: 4E2CF0B7E66B9D3E
+Platform: Standalone
+AccountCreationDate: 2025-09-19 05:11:09 UTC
+Color: R=1.00 G=0.44 B=1.00
+Cosmetics: None

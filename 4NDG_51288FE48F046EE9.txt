@@ -1,0 +1,7 @@
+Name: TOP1FURRY
+ActorNumber: 1116
+PlayerID: 51288FE48F046EE9
+Platform: Standalone
+AccountCreationDate: 2025-06-04 21:38:45 UTC
+Color: R=1.00 G=0.00 B=0.00
+Cosmetics: None

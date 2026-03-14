@@ -1,0 +1,7 @@
+Name: BENNY
+ActorNumber: 947
+PlayerID: 3C04EC2AFDD7DFEC
+Platform: Standalone
+AccountCreationDate: 2025-12-25 22:43:10 UTC
+Color: R=0.44 G=0.11 B=1.00
+Cosmetics: None

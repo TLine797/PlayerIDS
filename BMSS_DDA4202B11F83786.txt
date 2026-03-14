@@ -1,0 +1,7 @@
+Name: CAPP
+ActorNumber: 369
+PlayerID: DDA4202B11F83786
+Platform: Standalone
+AccountCreationDate: 2023-12-25 20:20:44 UTC
+Color: R=1.00 G=0.44 B=1.00
+Cosmetics: None

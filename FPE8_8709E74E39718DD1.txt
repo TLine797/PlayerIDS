@@ -1,0 +1,7 @@
+Name: AK47
+ActorNumber: 1198
+PlayerID: 8709E74E39718DD1
+Platform: Standalone
+AccountCreationDate: 2024-09-28 21:39:19 UTC
+Color: R=0.11 G=0.22 B=0.44
+Cosmetics: None

@@ -1,0 +1,7 @@
+Name: BLOCEAN
+ActorNumber: 887
+PlayerID: E198001EC5C5100E
+Platform: Standalone
+AccountCreationDate: 2025-12-17 02:03:03 UTC
+Color: R=0.67 G=0.11 B=0.00
+Cosmetics: None

@@ -1,0 +1,7 @@
+Name: GREENTEA24
+ActorNumber: 198
+PlayerID: F73C0494BE1E935F
+Platform: Standalone
+AccountCreationDate: 2023-12-01 23:40:56 UTC
+Color: R=0.00 G=0.22 B=0.00
+Cosmetics: None

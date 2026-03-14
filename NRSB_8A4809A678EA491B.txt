@@ -1,0 +1,7 @@
+Name: MANIA
+ActorNumber: 205
+PlayerID: 8A4809A678EA491B
+Platform: PC
+AccountCreationDate: 2025-11-16 20:59:55 UTC
+Color: R=0.22 G=0.22 B=0.22
+Cosmetics: None

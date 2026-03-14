@@ -1,0 +1,7 @@
+Name: IZZY
+ActorNumber: 609
+PlayerID: 90752BD58BD05FF8
+Platform: Unknown
+AccountCreationDate: 2022-05-09 00:35:31 UTC
+Color: R=0.67 G=0.44 B=0.78
+Cosmetics: None

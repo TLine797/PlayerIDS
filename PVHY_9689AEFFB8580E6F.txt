@@ -1,0 +1,7 @@
+Name: REXYVR
+ActorNumber: 27
+PlayerID: 9689AEFFB8580E6F
+Platform: Standalone
+AccountCreationDate: 2024-12-23 16:47:36 UTC
+Color: R=1.00 G=1.00 B=0.00
+Cosmetics: None

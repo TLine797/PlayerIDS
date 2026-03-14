@@ -1,0 +1,7 @@
+Name: UPARA
+ActorNumber: 1620
+PlayerID: 954784259B96AC9A
+Platform: Unknown
+AccountCreationDate: 2023-12-25 10:31:41 UTC
+Color: R=0.00 G=0.78 B=0.44
+Cosmetics: None

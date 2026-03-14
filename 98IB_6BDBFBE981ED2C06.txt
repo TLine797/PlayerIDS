@@ -1,0 +1,7 @@
+Name: PLXTO
+ActorNumber: 156
+PlayerID: 6BDBFBE981ED2C06
+Platform: Standalone
+AccountCreationDate: 2025-08-30 23:13:14 UTC
+Color: R=1.00 G=0.67 B=0.00
+Cosmetics: None

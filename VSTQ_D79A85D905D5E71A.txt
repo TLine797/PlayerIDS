@@ -1,0 +1,7 @@
+Name: M3LTVR
+ActorNumber: 533
+PlayerID: D79A85D905D5E71A
+Platform: Standalone
+AccountCreationDate: 2025-12-27 18:52:39 UTC
+Color: R=0.56 G=0.11 B=1.00
+Cosmetics: None

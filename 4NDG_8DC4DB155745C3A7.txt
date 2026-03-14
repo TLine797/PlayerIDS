@@ -1,0 +1,7 @@
+Name: K
+ActorNumber: 1103
+PlayerID: 8DC4DB155745C3A7
+Platform: Standalone
+AccountCreationDate: 2025-04-20 05:15:16 UTC
+Color: R=1.00 G=0.00 B=0.00
+Cosmetics: None

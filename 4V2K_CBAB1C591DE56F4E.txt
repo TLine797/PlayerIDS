@@ -1,0 +1,7 @@
+Name: RISEVIBIN
+ActorNumber: 176
+PlayerID: CBAB1C591DE56F4E
+Platform: Standalone
+AccountCreationDate: 2025-12-25 14:15:31 UTC
+Color: R=1.00 G=0.00 B=0.33
+Cosmetics: None

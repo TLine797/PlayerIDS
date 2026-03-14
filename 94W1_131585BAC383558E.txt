@@ -1,0 +1,7 @@
+Name: CHCHIVR
+ActorNumber: 53
+PlayerID: 131585BAC383558E
+Platform: Standalone
+AccountCreationDate: 2023-12-25 13:41:21 UTC
+Color: R=1.00 G=0.89 B=0.89
+Cosmetics: None

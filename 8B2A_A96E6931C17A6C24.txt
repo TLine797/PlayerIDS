@@ -1,0 +1,7 @@
+Name: ICERVR
+ActorNumber: 632
+PlayerID: A96E6931C17A6C24
+Platform: Standalone
+AccountCreationDate: 2025-08-24 17:18:37 UTC
+Color: R=0.67 G=0.78 B=1.00
+Cosmetics: None

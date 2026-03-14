@@ -1,0 +1,7 @@
+Name: SSILLO
+ActorNumber: 546
+PlayerID: B1D6058DD552D12C
+Platform: Unknown
+AccountCreationDate: 2021-10-01 20:03:01 UTC
+Color: R=0.00 G=0.44 B=0.78
+Cosmetics: None

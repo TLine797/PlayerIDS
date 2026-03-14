@@ -1,0 +1,7 @@
+Name: HI
+ActorNumber: 413
+PlayerID: 19EB7176699942F4
+Platform: Standalone
+AccountCreationDate: 2024-02-24 01:12:03 UTC
+Color: R=1.00 G=0.67 B=1.00
+Cosmetics: None

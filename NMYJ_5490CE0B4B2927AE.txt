@@ -1,0 +1,7 @@
+Name: TECHTONIX
+ActorNumber: 1702
+PlayerID: 5490CE0B4B2927AE
+Platform: Standalone
+AccountCreationDate: 2025-11-04 01:33:13 UTC
+Color: R=1.00 G=0.00 B=0.00
+Cosmetics: None

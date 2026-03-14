@@ -1,0 +1,7 @@
+Name: KINGVON
+ActorNumber: 1206
+PlayerID: 57B20614CB04E996
+Platform: Standalone
+AccountCreationDate: 2026-03-07 18:19:50 UTC
+Color: R=0.56 G=0.00 B=1.00
+Cosmetics: None

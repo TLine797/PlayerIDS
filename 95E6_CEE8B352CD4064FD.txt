@@ -1,0 +1,7 @@
+Name: TROOPEMLLUFF
+ActorNumber: 513
+PlayerID: CEE8B352CD4064FD
+Platform: Unknown
+AccountCreationDate: 2021-12-16 21:32:39 UTC
+Color: R=1.00 G=0.22 B=0.00
+Cosmetics: None

@@ -1,0 +1,7 @@
+Name: DNFVR
+ActorNumber: 743
+PlayerID: 2A6475AE546E775A
+Platform: Unknown
+AccountCreationDate: 2022-06-20 15:29:04 UTC
+Color: R=0.22 G=0.22 B=1.00
+Cosmetics: None

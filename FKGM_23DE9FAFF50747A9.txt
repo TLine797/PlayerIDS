@@ -1,0 +1,7 @@
+Name: BBRTY
+ActorNumber: 1127
+PlayerID: 23DE9FAFF50747A9
+Platform: Standalone
+AccountCreationDate: 2025-12-25 15:12:06 UTC
+Color: R=0.67 G=0.44 B=0.89
+Cosmetics: None

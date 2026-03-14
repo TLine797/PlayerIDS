@@ -1,0 +1,7 @@
+Name: MONST3R
+ActorNumber: 1119
+PlayerID: 407FED6DF3EB43AC
+Platform: Standalone
+AccountCreationDate: 2023-12-25 22:25:58 UTC
+Color: R=0.22 G=0.00 B=0.22
+Cosmetics: None

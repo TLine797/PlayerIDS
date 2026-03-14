@@ -1,0 +1,7 @@
+Name: CLOVER
+ActorNumber: 1601
+PlayerID: C7524A16D120E9EA
+Platform: Standalone
+AccountCreationDate: 2024-12-23 02:58:26 UTC
+Color: R=0.11 G=1.00 B=0.78
+Cosmetics: None

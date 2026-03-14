@@ -1,0 +1,7 @@
+Name: DINGLE
+ActorNumber: 1102
+PlayerID: F07E3B2C5E17BE01
+Platform: Standalone
+AccountCreationDate: 2024-06-29 03:01:22 UTC
+Color: R=0.22 G=0.33 B=0.56
+Cosmetics: None

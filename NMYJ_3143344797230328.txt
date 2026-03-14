@@ -1,0 +1,7 @@
+Name: PERO
+ActorNumber: 1657
+PlayerID: 3143344797230328
+Platform: Standalone
+AccountCreationDate: 2023-10-20 19:08:07 UTC
+Color: R=0.22 G=0.33 B=0.56
+Cosmetics: None

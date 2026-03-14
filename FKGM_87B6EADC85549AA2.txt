@@ -1,0 +1,7 @@
+Name: CHILL
+ActorNumber: 1141
+PlayerID: 87B6EADC85549AA2
+Platform: Unknown
+AccountCreationDate: 2026-01-05 02:57:55 UTC
+Color: R=0.44 G=0.11 B=0.89
+Cosmetics: None

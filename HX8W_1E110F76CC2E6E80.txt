@@ -1,0 +1,7 @@
+Name: TNCWILDOG
+ActorNumber: 1139
+PlayerID: 1E110F76CC2E6E80
+Platform: Standalone
+AccountCreationDate: 2024-02-18 22:19:55 UTC
+Color: R=0.44 G=0.11 B=0.00
+Cosmetics: None

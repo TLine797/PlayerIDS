@@ -1,0 +1,7 @@
+Name: NINJA
+ActorNumber: 397
+PlayerID: 4B04A361A810691D
+Platform: Standalone
+AccountCreationDate: 2025-01-10 23:28:44 UTC
+Color: R=0.11 G=0.11 B=0.11
+Cosmetics: None

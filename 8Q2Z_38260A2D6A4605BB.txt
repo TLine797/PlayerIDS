@@ -1,0 +1,7 @@
+Name: GORILLA5416
+ActorNumber: 655
+PlayerID: 38260A2D6A4605BB
+Platform: Standalone
+AccountCreationDate: 2025-09-06 04:38:05 UTC
+Color: R=1.00 G=0.00 B=1.00
+Cosmetics: None

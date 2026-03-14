@@ -1,0 +1,7 @@
+Name: JIOPSUGER
+ActorNumber: 1135
+PlayerID: 31191A8EDCEA5DBB
+Platform: Unknown
+AccountCreationDate: 2025-12-26 01:56:20 UTC
+Color: R=0.44 G=0.44 B=0.33
+Cosmetics: None

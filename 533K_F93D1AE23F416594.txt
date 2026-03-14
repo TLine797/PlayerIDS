@@ -1,0 +1,7 @@
+Name: ITZKAI
+ActorNumber: 705
+PlayerID: F93D1AE23F416594
+Platform: Standalone
+AccountCreationDate: 2025-02-22 00:34:46 UTC
+Color: R=0.11 G=0.00 B=0.44
+Cosmetics: None

@@ -1,0 +1,7 @@
+Name: ROXY
+ActorNumber: 6
+PlayerID: 2F230C81EEE78BE8
+Platform: Unknown
+AccountCreationDate: 2021-06-22 19:13:22 UTC
+Color: R=0.67 G=0.44 B=1.00
+Cosmetics: None

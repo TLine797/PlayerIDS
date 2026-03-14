@@ -1,0 +1,7 @@
+Name: DEXXY
+ActorNumber: 1097
+PlayerID: C3475DCA25057066
+Platform: Standalone
+AccountCreationDate: 2024-12-14 16:36:23 UTC
+Color: R=1.00 G=0.89 B=0.78
+Cosmetics: None

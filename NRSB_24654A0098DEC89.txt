@@ -1,0 +1,7 @@
+Name: BEN
+ActorNumber: 202
+PlayerID: 24654A0098DEC89
+Platform: PC
+AccountCreationDate: 2024-11-27 14:28:35 UTC
+Color: R=1.00 G=0.78 B=0.67
+Cosmetics: None

@@ -1,0 +1,7 @@
+Name: EOTGIB
+ActorNumber: 29
+PlayerID: 6BF62417475F3655
+Platform: Standalone
+AccountCreationDate: 2024-10-15 05:53:30 UTC
+Color: R=0.00 G=0.67 B=0.56
+Cosmetics: None

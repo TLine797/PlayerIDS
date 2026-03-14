@@ -1,0 +1,7 @@
+Name: BURST
+ActorNumber: 174
+PlayerID: D4A03ED84598D2DA
+Platform: Standalone
+AccountCreationDate: 2025-12-05 16:37:10 UTC
+Color: R=0.44 G=0.00 B=0.78
+Cosmetics: None

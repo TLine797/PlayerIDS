@@ -1,0 +1,7 @@
+Name: TTTNATE
+ActorNumber: 409
+PlayerID: CB7DD2FDC78D3B91
+Platform: PC
+AccountCreationDate: 2024-07-09 01:12:27 UTC
+Color: R=1.00 G=0.78 B=1.00
+Cosmetics: None

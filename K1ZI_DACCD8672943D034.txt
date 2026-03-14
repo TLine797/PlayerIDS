@@ -1,0 +1,7 @@
+Name: OFFICALTROOP
+ActorNumber: 221
+PlayerID: DACCD8672943D034
+Platform: Standalone
+AccountCreationDate: 2023-12-26 00:40:10 UTC
+Color: R=1.00 G=0.11 B=0.00
+Cosmetics: None

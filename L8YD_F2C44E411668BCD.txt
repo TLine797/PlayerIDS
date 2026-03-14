@@ -1,0 +1,7 @@
+Name: gorilla3015
+ActorNumber: 162
+PlayerID: F2C44E411668BCD
+Platform: Standalone
+AccountCreationDate: 2025-12-24 20:47:43 UTC
+Color: R=0.00 G=0.67 B=0.00
+Cosmetics: None

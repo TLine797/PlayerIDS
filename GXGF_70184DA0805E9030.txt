@@ -1,0 +1,7 @@
+Name: CHAMPAIGN
+ActorNumber: 197
+PlayerID: 70184DA0805E9030
+Platform: Standalone
+AccountCreationDate: 2023-05-07 22:05:31 UTC
+Color: R=0.22 G=0.22 B=0.67
+Cosmetics: None

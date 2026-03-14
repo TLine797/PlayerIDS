@@ -1,0 +1,7 @@
+Name: ST4R
+ActorNumber: 343
+PlayerID: 56AFC9C88490063A
+Platform: Standalone
+AccountCreationDate: 2025-12-25 12:41:07 UTC
+Color: R=0.00 G=0.00 B=0.00
+Cosmetics: None

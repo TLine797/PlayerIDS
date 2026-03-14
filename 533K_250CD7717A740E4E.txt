@@ -1,0 +1,7 @@
+Name: ZAINN
+ActorNumber: 695
+PlayerID: 250CD7717A740E4E
+Platform: Unknown
+AccountCreationDate: 2022-05-08 22:52:44 UTC
+Color: R=1.00 G=1.00 B=1.00
+Cosmetics: None

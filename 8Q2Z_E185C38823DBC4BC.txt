@@ -1,0 +1,7 @@
+Name: TIMMY
+ActorNumber: 652
+PlayerID: E185C38823DBC4BC
+Platform: Standalone
+AccountCreationDate: 2023-12-25 23:37:19 UTC
+Color: R=0.67 G=0.67 B=0.67
+Cosmetics: None

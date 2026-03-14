@@ -1,0 +1,7 @@
+Name: LOL
+ActorNumber: 1136
+PlayerID: DFEAAC325D076DBC
+Platform: Standalone
+AccountCreationDate: 2025-10-23 06:10:21 UTC
+Color: R=0.44 G=0.00 B=0.78
+Cosmetics: None

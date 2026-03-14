@@ -1,0 +1,7 @@
+Name: ZAZU
+ActorNumber: 585
+PlayerID: 8CD0C02349643A72
+Platform: Standalone
+AccountCreationDate: 2024-04-26 00:19:03 UTC
+Color: R=1.00 G=1.00 B=1.00
+Cosmetics: None

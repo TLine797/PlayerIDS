@@ -1,0 +1,7 @@
+Name: TOM
+ActorNumber: 652
+PlayerID: C386B90D7CF635C8
+Platform: Standalone
+AccountCreationDate: 2024-02-26 17:23:52 UTC
+Color: R=0.89 G=1.00 B=1.00
+Cosmetics: None

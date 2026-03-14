@@ -1,0 +1,7 @@
+Name: GOOFYGUY2
+ActorNumber: 6
+PlayerID: 8631F1AD01B6522B
+Platform: Unknown
+AccountCreationDate: 2021-07-15 00:54:42 UTC
+Color: R=0.22 G=0.22 B=0.44
+Cosmetics: None

@@ -1,0 +1,7 @@
+Name: KINGVON
+ActorNumber: 708
+PlayerID: EE5FA765FB247855
+Platform: Standalone
+AccountCreationDate: 2025-12-22 19:53:44 UTC
+Color: R=0.00 G=0.33 B=0.00
+Cosmetics: None

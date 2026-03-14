@@ -1,0 +1,7 @@
+Name: ILUVTHIGHS
+ActorNumber: 1157
+PlayerID: D836FA012A7C8B15
+Platform: Unknown
+AccountCreationDate: 2022-12-21 13:54:29 UTC
+Color: R=1.00 G=0.67 B=0.89
+Cosmetics: None

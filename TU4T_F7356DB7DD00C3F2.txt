@@ -1,0 +1,7 @@
+Name: 2
+ActorNumber: 800
+PlayerID: F7356DB7DD00C3F2
+Platform: Standalone
+AccountCreationDate: 2024-02-24 22:15:36 UTC
+Color: R=1.00 G=0.11 B=0.11
+Cosmetics: None

@@ -1,0 +1,7 @@
+Name: NBGG
+ActorNumber: 502
+PlayerID: AB4BDB76475DF335
+Platform: Standalone
+AccountCreationDate: 2025-12-25 17:19:21 UTC
+Color: R=0.00 G=0.00 B=1.00
+Cosmetics: None

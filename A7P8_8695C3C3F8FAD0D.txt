@@ -1,0 +1,7 @@
+Name: TWIG
+ActorNumber: 411
+PlayerID: 8695C3C3F8FAD0D
+Platform: Unknown
+AccountCreationDate: 2022-02-26 13:40:14 UTC
+Color: R=0.44 G=0.00 B=0.78
+Cosmetics: None

@@ -1,0 +1,7 @@
+Name: HAUNTSPEEDY
+ActorNumber: 296
+PlayerID: E66FBBF57970268D
+Platform: Standalone
+AccountCreationDate: 2024-01-28 00:37:39 UTC
+Color: R=0.89 G=0.44 B=0.00
+Cosmetics: None

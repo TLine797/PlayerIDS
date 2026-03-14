@@ -1,0 +1,7 @@
+Name: TTKJ
+ActorNumber: 816
+PlayerID: A262397467826063
+Platform: Standalone
+AccountCreationDate: 2024-11-17 21:49:18 UTC
+Color: R=0.00 G=0.00 B=0.00
+Cosmetics: None

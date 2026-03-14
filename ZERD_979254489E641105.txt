@@ -1,0 +1,7 @@
+Name: BLUEBERRY
+ActorNumber: 511
+PlayerID: 979254489E641105
+Platform: Standalone
+AccountCreationDate: 2025-12-23 00:32:27 UTC
+Color: R=0.33 G=0.00 B=1.00
+Cosmetics: None

@@ -1,0 +1,7 @@
+Name: ITACHI
+ActorNumber: 165
+PlayerID: 65A6013ABCBAF1D4
+Platform: Standalone
+AccountCreationDate: 2023-05-09 21:07:17 UTC
+Color: R=0.89 G=0.44 B=0.00
+Cosmetics: None

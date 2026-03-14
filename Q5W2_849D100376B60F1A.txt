@@ -1,0 +1,7 @@
+Name: N1WER
+ActorNumber: 973
+PlayerID: 849D100376B60F1A
+Platform: Standalone
+AccountCreationDate: 2026-02-18 22:29:23 UTC
+Color: R=1.00 G=0.11 B=1.00
+Cosmetics: None

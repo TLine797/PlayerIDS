@@ -1,0 +1,7 @@
+Name: FROGDOG
+ActorNumber: 247
+PlayerID: 7DEB019C844B49CB
+Platform: Unknown
+AccountCreationDate: 2024-12-24 08:04:22 UTC
+Color: R=0.44 G=0.44 B=1.00
+Cosmetics: None

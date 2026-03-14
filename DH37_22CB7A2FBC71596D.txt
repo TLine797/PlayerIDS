@@ -1,0 +1,7 @@
+Name: REDEAD
+ActorNumber: 411
+PlayerID: 22CB7A2FBC71596D
+Platform: Standalone
+AccountCreationDate: 2025-03-19 02:23:20 UTC
+Color: R=1.00 G=0.11 B=0.11
+Cosmetics: None

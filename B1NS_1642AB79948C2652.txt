@@ -1,0 +1,7 @@
+Name: GORILA15873
+ActorNumber: 646
+PlayerID: 1642AB79948C2652
+Platform: Standalone
+AccountCreationDate: 2025-12-26 22:16:40 UTC
+Color: R=0.00 G=0.00 B=1.00
+Cosmetics: None

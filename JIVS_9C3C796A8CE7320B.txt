@@ -1,0 +1,7 @@
+Name: 67
+ActorNumber: 254
+PlayerID: 9C3C796A8CE7320B
+Platform: Unknown
+AccountCreationDate: 2022-07-19 14:13:29 UTC
+Color: R=0.11 G=0.33 B=1.00
+Cosmetics: None

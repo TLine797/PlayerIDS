@@ -1,0 +1,7 @@
+Name: GLOOM
+ActorNumber: 191
+PlayerID: E3B7F48AA34493B4
+Platform: Standalone
+AccountCreationDate: 2024-02-17 21:14:47 UTC
+Color: R=0.78 G=0.44 B=0.33
+Cosmetics: None

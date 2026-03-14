@@ -1,0 +1,7 @@
+Name: STRAWBERRY
+ActorNumber: 6
+PlayerID: D7F330762256A1B4
+Platform: Standalone
+AccountCreationDate: 2025-12-25 17:23:13 UTC
+Color: R=1.00 G=0.22 B=0.00
+Cosmetics: None

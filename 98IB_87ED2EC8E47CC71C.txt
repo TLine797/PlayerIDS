@@ -1,0 +1,7 @@
+Name: HYPO
+ActorNumber: 175
+PlayerID: 87ED2EC8E47CC71C
+Platform: Standalone
+AccountCreationDate: 2023-01-31 22:23:34 UTC
+Color: R=0.67 G=0.56 B=1.00
+Cosmetics: None

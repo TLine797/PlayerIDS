@@ -1,0 +1,7 @@
+Name: NUTBUSTER
+ActorNumber: 1180
+PlayerID: D75AD8A08F1B0E3C
+Platform: Unknown
+AccountCreationDate: 2022-01-31 02:47:13 UTC
+Color: R=0.56 G=0.00 B=1.00
+Cosmetics: None

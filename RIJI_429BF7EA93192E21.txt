@@ -1,0 +1,7 @@
+Name: IMSEGGY
+ActorNumber: 1239
+PlayerID: 429BF7EA93192E21
+Platform: Unknown
+AccountCreationDate: 2021-11-12 01:48:09 UTC
+Color: R=0.00 G=0.56 B=0.78
+Cosmetics: None

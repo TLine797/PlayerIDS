@@ -1,0 +1,7 @@
+Name: PTNWOF1SD
+ActorNumber: 1155
+PlayerID: 3F1E9AA4B5968573
+Platform: Standalone
+AccountCreationDate: 2021-09-18 22:29:26 UTC
+Color: R=0.44 G=0.00 B=1.00
+Cosmetics: None

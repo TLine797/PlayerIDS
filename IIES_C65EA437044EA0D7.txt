@@ -1,0 +1,7 @@
+Name: gorilla6630
+ActorNumber: 174
+PlayerID: C65EA437044EA0D7
+Platform: Standalone
+AccountCreationDate: 2025-12-25 12:33:44 UTC
+Color: R=1.00 G=0.00 B=0.00
+Cosmetics: None

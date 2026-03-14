@@ -1,0 +1,7 @@
+Name: gorilla
+ActorNumber: 178
+PlayerID: F3339B867104B041
+Platform: Standalone
+AccountCreationDate: 2026-01-08 12:54:02 UTC
+Color: R=0.00 G=0.00 B=0.00
+Cosmetics: None

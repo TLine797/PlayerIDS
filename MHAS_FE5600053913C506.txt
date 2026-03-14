@@ -1,0 +1,7 @@
+Name: MRGOON
+ActorNumber: 1175
+PlayerID: FE5600053913C506
+Platform: Standalone
+AccountCreationDate: 2026-01-17 21:56:50 UTC
+Color: R=0.00 G=0.00 B=0.00
+Cosmetics: None

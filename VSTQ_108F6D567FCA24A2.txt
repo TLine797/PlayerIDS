@@ -1,0 +1,7 @@
+Name: TAY
+ActorNumber: 531
+PlayerID: 108F6D567FCA24A2
+Platform: Standalone
+AccountCreationDate: 2023-07-14 16:09:55 UTC
+Color: R=0.56 G=0.33 B=0.44
+Cosmetics: None

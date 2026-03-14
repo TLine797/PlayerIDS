@@ -1,0 +1,7 @@
+Name: BACONEGG
+ActorNumber: 724
+PlayerID: 82BE9985C24D02DB
+Platform: Standalone
+AccountCreationDate: 2023-10-21 02:13:17 UTC
+Color: R=0.67 G=0.78 B=0.89
+Cosmetics: None

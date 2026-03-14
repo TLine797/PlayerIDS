@@ -1,0 +1,7 @@
+Name: WINDEX
+ActorNumber: 588
+PlayerID: 461E9C391CA89BF8
+Platform: Standalone
+AccountCreationDate: 2023-12-30 00:36:27 UTC
+Color: R=0.22 G=0.22 B=0.22
+Cosmetics: None

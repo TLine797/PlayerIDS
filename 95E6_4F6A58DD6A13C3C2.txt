@@ -1,0 +1,7 @@
+Name: MAYBELEGIT
+ActorNumber: 479
+PlayerID: 4F6A58DD6A13C3C2
+Platform: Unknown
+AccountCreationDate: 2022-03-19 19:24:03 UTC
+Color: R=0.11 G=0.11 B=0.22
+Cosmetics: None

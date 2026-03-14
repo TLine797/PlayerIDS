@@ -1,0 +1,7 @@
+Name: JUAN
+ActorNumber: 192
+PlayerID: 84212F60507E3BA2
+Platform: Standalone
+AccountCreationDate: 2023-09-03 00:27:51 UTC
+Color: R=0.00 G=1.00 B=0.89
+Cosmetics: None

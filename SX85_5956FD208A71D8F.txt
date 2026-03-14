@@ -1,0 +1,7 @@
+Name: PEXX
+ActorNumber: 85
+PlayerID: 5956FD208A71D8F
+Platform: Standalone
+AccountCreationDate: 2025-11-08 21:17:41 UTC
+Color: R=0.22 G=0.00 B=0.44
+Cosmetics: None

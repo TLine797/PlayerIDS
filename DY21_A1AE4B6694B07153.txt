@@ -1,0 +1,7 @@
+Name: ANGY
+ActorNumber: 264
+PlayerID: A1AE4B6694B07153
+Platform: PC
+AccountCreationDate: 2026-02-01 14:51:42 UTC
+Color: R=1.00 G=0.67 B=0.00
+Cosmetics: None

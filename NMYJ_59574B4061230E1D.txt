@@ -1,0 +1,7 @@
+Name: JIMMY
+ActorNumber: 1593
+PlayerID: 59574B4061230E1D
+Platform: Standalone
+AccountCreationDate: 2025-04-12 09:02:28 UTC
+Color: R=1.00 G=0.00 B=0.67
+Cosmetics: None

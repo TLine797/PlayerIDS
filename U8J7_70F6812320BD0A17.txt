@@ -1,0 +1,7 @@
+Name: ADDISON
+ActorNumber: 1508
+PlayerID: 70F6812320BD0A17
+Platform: Unknown
+AccountCreationDate: 2021-08-26 23:53:44 UTC
+Color: R=0.22 G=0.00 B=0.22
+Cosmetics: None

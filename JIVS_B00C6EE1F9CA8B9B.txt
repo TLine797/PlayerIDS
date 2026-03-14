@@ -1,0 +1,7 @@
+Name: GTG
+ActorNumber: 307
+PlayerID: B00C6EE1F9CA8B9B
+Platform: Standalone
+AccountCreationDate: 2023-02-09 10:43:19 UTC
+Color: R=0.00 G=0.00 B=0.00
+Cosmetics: None

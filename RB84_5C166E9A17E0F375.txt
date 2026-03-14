@@ -1,0 +1,7 @@
+Name: AS1RO
+ActorNumber: 551
+PlayerID: 5C166E9A17E0F375
+Platform: Standalone
+AccountCreationDate: 2024-04-27 13:25:17 UTC
+Color: R=1.00 G=1.00 B=1.00
+Cosmetics: None

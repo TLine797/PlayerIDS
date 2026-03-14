@@ -1,0 +1,7 @@
+Name: ILUVHALEY
+ActorNumber: 484
+PlayerID: 6E484FB0FA24F6A8
+Platform: Unknown
+AccountCreationDate: 2022-12-29 13:22:39 UTC
+Color: R=0.67 G=0.33 B=0.00
+Cosmetics: None

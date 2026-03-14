@@ -1,0 +1,7 @@
+Name: NOOB
+ActorNumber: 1644
+PlayerID: ADFDFDD81149BA2B
+Platform: Unknown
+AccountCreationDate: 2024-12-25 11:16:20 UTC
+Color: R=0.56 G=0.78 B=0.67
+Cosmetics: None

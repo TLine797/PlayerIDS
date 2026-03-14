@@ -1,0 +1,7 @@
+Name: JOOB
+ActorNumber: 421
+PlayerID: 50B5ECF4A6D04569
+Platform: Unknown
+AccountCreationDate: 2022-03-19 00:47:19 UTC
+Color: R=0.00 G=0.11 B=1.00
+Cosmetics: None

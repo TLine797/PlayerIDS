@@ -1,0 +1,7 @@
+Name: BEATRICE
+ActorNumber: 665
+PlayerID: 3A3DAAB7753AFAE1
+Platform: Standalone
+AccountCreationDate: 2025-01-24 23:36:15 UTC
+Color: R=1.00 G=1.00 B=0.44
+Cosmetics: None

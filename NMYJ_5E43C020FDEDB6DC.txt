@@ -1,0 +1,7 @@
+Name: NBMTRACKEY
+ActorNumber: 1596
+PlayerID: 5E43C020FDEDB6DC
+Platform: Standalone
+AccountCreationDate: 2025-10-07 17:42:59 UTC
+Color: R=0.33 G=1.00 B=0.67
+Cosmetics: None

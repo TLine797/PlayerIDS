@@ -1,0 +1,7 @@
+Name: P
+ActorNumber: 404
+PlayerID: CE614C5E1CF512EC
+Platform: Standalone
+AccountCreationDate: 2025-12-25 14:53:32 UTC
+Color: R=0.33 G=0.33 B=0.89
+Cosmetics: None

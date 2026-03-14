@@ -1,0 +1,7 @@
+Name: TGTR4ZERVR
+ActorNumber: 415
+PlayerID: F80B22963CB39EB7
+Platform: Unknown
+AccountCreationDate: 2023-01-27 00:43:29 UTC
+Color: R=0.89 G=0.11 B=0.00
+Cosmetics: None

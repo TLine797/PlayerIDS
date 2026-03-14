@@ -1,0 +1,7 @@
+Name: EMU
+ActorNumber: 632
+PlayerID: 587729A89F437714
+Platform: Unknown
+AccountCreationDate: 2021-06-02 18:03:49 UTC
+Color: R=0.11 G=0.11 B=0.11
+Cosmetics: None

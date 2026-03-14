@@ -1,0 +1,7 @@
+Name: JMANFAN
+ActorNumber: 965
+PlayerID: 3BBA5444A0FFA8EC
+Platform: Standalone
+AccountCreationDate: 2024-12-25 16:22:48 UTC
+Color: R=0.00 G=0.89 B=1.00
+Cosmetics: None

@@ -1,0 +1,7 @@
+Name: JERRY
+ActorNumber: 1150
+PlayerID: 80ABFE1C8D903375
+Platform: Unknown
+AccountCreationDate: 2024-02-29 21:18:48 UTC
+Color: R=0.00 G=0.00 B=0.00
+Cosmetics: None

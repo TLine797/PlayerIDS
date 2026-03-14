@@ -1,0 +1,7 @@
+Name: BAROIIVR20K
+ActorNumber: 425
+PlayerID: D1C52D5A39938DEE
+Platform: PC
+AccountCreationDate: 2024-12-25 20:18:18 UTC
+Color: R=0.89 G=0.22 B=0.44
+Cosmetics: None

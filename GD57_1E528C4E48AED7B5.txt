@@ -1,0 +1,7 @@
+Name: SKITTLE
+ActorNumber: 185
+PlayerID: 1E528C4E48AED7B5
+Platform: Standalone
+AccountCreationDate: 2023-05-28 22:55:48 UTC
+Color: R=1.00 G=0.22 B=0.22
+Cosmetics: None

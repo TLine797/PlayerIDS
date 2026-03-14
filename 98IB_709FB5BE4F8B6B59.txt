@@ -1,0 +1,7 @@
+Name: LICKY990
+ActorNumber: 118
+PlayerID: 709FB5BE4F8B6B59
+Platform: Standalone
+AccountCreationDate: 2026-03-06 00:02:50 UTC
+Color: R=0.11 G=0.00 B=0.67
+Cosmetics: None

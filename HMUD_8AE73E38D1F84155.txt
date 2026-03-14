@@ -1,0 +1,7 @@
+Name: MONKKE7466
+ActorNumber: 127
+PlayerID: 8AE73E38D1F84155
+Platform: PC
+AccountCreationDate: 2024-01-29 12:41:31 UTC
+Color: R=0.78 G=0.44 B=0.89
+Cosmetics: None

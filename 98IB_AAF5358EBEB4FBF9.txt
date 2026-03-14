@@ -1,0 +1,7 @@
+Name: NOTFEATHERS
+ActorNumber: 151
+PlayerID: AAF5358EBEB4FBF9
+Platform: Standalone
+AccountCreationDate: 2025-05-01 11:24:37 UTC
+Color: R=0.33 G=0.78 B=1.00
+Cosmetics: None

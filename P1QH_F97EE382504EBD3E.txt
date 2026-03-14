@@ -1,0 +1,7 @@
+Name: AJABUG
+ActorNumber: 200
+PlayerID: F97EE382504EBD3E
+Platform: PC
+AccountCreationDate: 2026-02-19 21:15:18 UTC
+Color: R=1.00 G=1.00 B=1.00
+Cosmetics: None

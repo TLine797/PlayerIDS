@@ -1,0 +1,7 @@
+Name: BLAZE
+ActorNumber: 454
+PlayerID: FC7793C9F6040E
+Platform: Unknown
+AccountCreationDate: 2022-12-24 18:05:56 UTC
+Color: R=0.44 G=0.78 B=1.00
+Cosmetics: None

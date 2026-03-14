@@ -1,0 +1,7 @@
+Name: BOOHOO
+ActorNumber: 7
+PlayerID: C387D6082A14F762
+Platform: Standalone
+AccountCreationDate: 2023-08-13 15:50:53 UTC
+Color: R=0.00 G=0.33 B=0.44
+Cosmetics: None

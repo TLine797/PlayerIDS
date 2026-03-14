@@ -1,0 +1,7 @@
+Name: TSMSWOOP
+ActorNumber: 1110
+PlayerID: DB273CC1F2571558
+Platform: Standalone
+AccountCreationDate: 2025-12-25 21:33:40 UTC
+Color: R=0.78 G=0.00 B=0.33
+Cosmetics: None

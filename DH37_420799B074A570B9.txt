@@ -1,0 +1,7 @@
+Name: ARI
+ActorNumber: 420
+PlayerID: 420799B074A570B9
+Platform: Standalone
+AccountCreationDate: 2026-03-06 22:44:18 UTC
+Color: R=0.11 G=0.00 B=0.00
+Cosmetics: None

@@ -1,0 +1,7 @@
+Name: BATMONEY
+ActorNumber: 583
+PlayerID: B3643168EA8C62C7
+Platform: Standalone
+AccountCreationDate: 2023-12-26 15:37:52 UTC
+Color: R=0.00 G=0.00 B=0.00
+Cosmetics: None

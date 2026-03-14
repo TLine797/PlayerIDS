@@ -1,0 +1,7 @@
+Name: JESUSISKING
+ActorNumber: 541
+PlayerID: 92FB6D5DCE9E5EC3
+Platform: Standalone
+AccountCreationDate: 2023-07-23 00:40:20 UTC
+Color: R=0.00 G=0.89 B=1.00
+Cosmetics: None

@@ -1,0 +1,7 @@
+Name: FIRE
+ActorNumber: 1308
+PlayerID: 8CA8D78E58FC5C5D
+Platform: Standalone
+AccountCreationDate: 2025-06-08 01:26:09 UTC
+Color: R=0.67 G=0.00 B=0.00
+Cosmetics: None

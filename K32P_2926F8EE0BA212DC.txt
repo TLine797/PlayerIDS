@@ -1,0 +1,7 @@
+Name: gorilla9426
+ActorNumber: 744
+PlayerID: 2926F8EE0BA212DC
+Platform: Standalone
+AccountCreationDate: 2025-12-25 19:30:25 UTC
+Color: R=0.44 G=0.78 B=0.89
+Cosmetics: None

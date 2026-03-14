@@ -1,0 +1,7 @@
+Name: TTEPIC
+ActorNumber: 730
+PlayerID: 38569F854F1B98B4
+Platform: Standalone
+AccountCreationDate: 2026-01-30 19:47:41 UTC
+Color: R=1.00 G=0.00 B=0.00
+Cosmetics: None

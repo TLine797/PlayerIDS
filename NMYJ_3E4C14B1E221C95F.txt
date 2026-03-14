@@ -1,0 +1,7 @@
+Name: TDTLUX
+ActorNumber: 1679
+PlayerID: 3E4C14B1E221C95F
+Platform: Standalone
+AccountCreationDate: 2025-12-29 17:42:03 UTC
+Color: R=0.44 G=0.00 B=1.00
+Cosmetics: None

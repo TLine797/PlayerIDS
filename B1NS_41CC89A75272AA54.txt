@@ -1,0 +1,7 @@
+Name: CHARA
+ActorNumber: 560
+PlayerID: 41CC89A75272AA54
+Platform: Standalone
+AccountCreationDate: 2023-09-24 09:53:15 UTC
+Color: R=1.00 G=0.89 B=0.78
+Cosmetics: None

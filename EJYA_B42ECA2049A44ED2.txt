@@ -1,0 +1,7 @@
+Name: QUINN
+ActorNumber: 576
+PlayerID: B42ECA2049A44ED2
+Platform: Unknown
+AccountCreationDate: 2022-12-09 01:48:45 UTC
+Color: R=1.00 G=0.00 B=0.00
+Cosmetics: None

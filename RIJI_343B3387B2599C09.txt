@@ -1,0 +1,7 @@
+Name: KRUISE
+ActorNumber: 1209
+PlayerID: 343B3387B2599C09
+Platform: Standalone
+AccountCreationDate: 2025-04-01 14:30:34 UTC
+Color: R=1.00 G=1.00 B=0.00
+Cosmetics: None

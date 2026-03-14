@@ -1,0 +1,7 @@
+Name: gorilla8267
+ActorNumber: 693
+PlayerID: 98DA5D8C9D6E297B
+Platform: PC
+AccountCreationDate: 2025-12-25 22:18:40 UTC
+Color: R=0.59 G=0.72 B=0.96
+Cosmetics: None

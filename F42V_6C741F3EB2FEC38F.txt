@@ -1,0 +1,7 @@
+Name: YEETY
+ActorNumber: 814
+PlayerID: 6C741F3EB2FEC38F
+Platform: Standalone
+AccountCreationDate: 2025-07-27 21:45:26 UTC
+Color: R=0.11 G=0.67 B=0.56
+Cosmetics: None

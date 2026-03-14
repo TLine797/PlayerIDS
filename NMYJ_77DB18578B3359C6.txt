@@ -1,0 +1,7 @@
+Name: BIRDMAN6741
+ActorNumber: 1606
+PlayerID: 77DB18578B3359C6
+Platform: Standalone
+AccountCreationDate: 2026-03-04 01:30:00 UTC
+Color: R=0.56 G=1.00 B=0.67
+Cosmetics: None

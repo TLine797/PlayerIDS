@@ -1,0 +1,7 @@
+Name: ATLAS
+ActorNumber: 372
+PlayerID: 797D8ADCF4847C87
+Platform: Standalone
+AccountCreationDate: 2023-07-30 20:45:47 UTC
+Color: R=0.78 G=0.78 B=0.78
+Cosmetics: None

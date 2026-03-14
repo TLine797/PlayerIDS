@@ -1,0 +1,7 @@
+Name: BOB
+ActorNumber: 1631
+PlayerID: 4CCD5E9CC1898514
+Platform: Standalone
+AccountCreationDate: 2024-12-15 20:54:23 UTC
+Color: R=0.44 G=0.89 B=0.00
+Cosmetics: None

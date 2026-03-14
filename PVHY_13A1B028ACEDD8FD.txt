@@ -1,0 +1,7 @@
+Name: CHUBBY
+ActorNumber: 28
+PlayerID: 13A1B028ACEDD8FD
+Platform: Standalone
+AccountCreationDate: 2025-12-26 17:01:29 UTC
+Color: R=0.33 G=0.00 B=1.00
+Cosmetics: None

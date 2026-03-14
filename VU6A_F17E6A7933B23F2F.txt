@@ -1,0 +1,7 @@
+Name: ELTOEGT
+ActorNumber: 15
+PlayerID: F17E6A7933B23F2F
+Platform: Standalone
+AccountCreationDate: 2025-12-01 00:03:33 UTC
+Color: R=1.00 G=0.00 B=0.00
+Cosmetics: None

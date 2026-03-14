@@ -1,0 +1,7 @@
+Name: DSPICEMAN
+ActorNumber: 1648
+PlayerID: 16B1D4E76BF92331
+Platform: Standalone
+AccountCreationDate: 2023-04-09 20:48:51 UTC
+Color: R=0.00 G=0.00 B=0.00
+Cosmetics: None

@@ -1,0 +1,7 @@
+Name: CVT2
+ActorNumber: 35
+PlayerID: E7A04C951C1FF110
+Platform: Unknown
+AccountCreationDate: 2022-12-27 00:06:57 UTC
+Color: R=0.22 G=0.22 B=0.33
+Cosmetics: None

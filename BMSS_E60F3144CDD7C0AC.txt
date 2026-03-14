@@ -1,0 +1,7 @@
+Name: TSMLACHHEAD
+ActorNumber: 377
+PlayerID: E60F3144CDD7C0AC
+Platform: Standalone
+AccountCreationDate: 2025-04-12 13:20:30 UTC
+Color: R=0.44 G=0.00 B=0.89
+Cosmetics: None

@@ -1,0 +1,7 @@
+Name: SAV
+ActorNumber: 599
+PlayerID: C131CCA72AC0BE86
+Platform: Standalone
+AccountCreationDate: 2023-12-25 14:23:18 UTC
+Color: R=0.89 G=0.44 B=0.00
+Cosmetics: None

@@ -1,0 +1,7 @@
+Name: HORIZIN
+ActorNumber: 18
+PlayerID: 3805D1F1AA8C213A
+Platform: Standalone
+AccountCreationDate: 2025-12-25 14:04:33 UTC
+Color: R=1.00 G=0.44 B=0.00
+Cosmetics: None

@@ -1,0 +1,7 @@
+Name: 0
+ActorNumber: 1071
+PlayerID: FFE5AA1EE6E383B
+Platform: Standalone
+AccountCreationDate: 2025-12-05 03:07:41 UTC
+Color: R=0.00 G=0.00 B=0.00
+Cosmetics: None

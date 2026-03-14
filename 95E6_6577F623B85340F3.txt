@@ -1,0 +1,7 @@
+Name: FUNMONKEY
+ActorNumber: 518
+PlayerID: 6577F623B85340F3
+Platform: Standalone
+AccountCreationDate: 2024-12-28 07:49:17 UTC
+Color: R=0.00 G=0.00 B=0.00
+Cosmetics: None

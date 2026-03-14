@@ -1,0 +1,7 @@
+Name: ZIGGY
+ActorNumber: 181
+PlayerID: 146E3DBFAA11027B
+Platform: Standalone
+AccountCreationDate: 2026-01-13 22:15:52 UTC
+Color: R=1.00 G=1.00 B=1.00
+Cosmetics: None

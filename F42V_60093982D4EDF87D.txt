@@ -1,0 +1,7 @@
+Name: CARROT
+ActorNumber: 804
+PlayerID: 60093982D4EDF87D
+Platform: Standalone
+AccountCreationDate: 2024-12-30 01:08:43 UTC
+Color: R=1.00 G=0.56 B=0.00
+Cosmetics: None

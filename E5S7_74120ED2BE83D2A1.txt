@@ -1,0 +1,7 @@
+Name: COFFEEKILLER
+ActorNumber: 571
+PlayerID: 74120ED2BE83D2A1
+Platform: Unknown
+AccountCreationDate: 2022-12-26 23:36:43 UTC
+Color: R=0.00 G=0.00 B=0.00
+Cosmetics: None

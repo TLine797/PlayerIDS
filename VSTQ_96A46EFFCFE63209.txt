@@ -1,0 +1,7 @@
+Name: gorilla0153
+ActorNumber: 525
+PlayerID: 96A46EFFCFE63209
+Platform: Standalone
+AccountCreationDate: 2026-02-08 00:30:06 UTC
+Color: R=1.00 G=0.67 B=0.89
+Cosmetics: None

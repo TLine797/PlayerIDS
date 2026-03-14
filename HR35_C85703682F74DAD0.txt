@@ -1,0 +1,7 @@
+Name: gorilla
+ActorNumber: 4
+PlayerID: C85703682F74DAD0
+Platform: Standalone
+AccountCreationDate: 2026-02-09 14:51:08 UTC
+Color: R=1.00 G=0.33 B=0.33
+Cosmetics: None

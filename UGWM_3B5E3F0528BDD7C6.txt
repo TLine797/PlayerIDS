@@ -1,0 +1,7 @@
+Name: WADDLES
+ActorNumber: 37
+PlayerID: 3B5E3F0528BDD7C6
+Platform: Standalone
+AccountCreationDate: 2023-04-12 14:11:10 UTC
+Color: R=0.22 G=0.00 B=0.00
+Cosmetics: None

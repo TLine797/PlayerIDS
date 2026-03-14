@@ -1,0 +1,7 @@
+Name: GORILLABOT
+ActorNumber: 1162
+PlayerID: 1A1859B271C1908F
+Platform: Standalone
+AccountCreationDate: 2025-12-25 20:03:00 UTC
+Color: R=0.00 G=0.00 B=0.00
+Cosmetics: None

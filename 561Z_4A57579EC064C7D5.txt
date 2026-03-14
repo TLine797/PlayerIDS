@@ -1,0 +1,7 @@
+Name: JEFF27
+ActorNumber: 520
+PlayerID: 4A57579EC064C7D5
+Platform: Standalone
+AccountCreationDate: 2024-01-19 16:45:26 UTC
+Color: R=0.11 G=0.33 B=0.11
+Cosmetics: None

@@ -1,0 +1,7 @@
+Name: BEANS
+ActorNumber: 554
+PlayerID: 858F071F9346A15B
+Platform: Standalone
+AccountCreationDate: 2025-12-25 22:35:15 UTC
+Color: R=1.00 G=0.67 B=0.67
+Cosmetics: None

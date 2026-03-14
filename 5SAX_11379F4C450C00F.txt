@@ -1,0 +1,7 @@
+Name: LEO
+ActorNumber: 340
+PlayerID: 11379F4C450C00F
+Platform: Standalone
+AccountCreationDate: 2023-03-01 05:26:46 UTC
+Color: R=0.44 G=0.00 B=1.00
+Cosmetics: None

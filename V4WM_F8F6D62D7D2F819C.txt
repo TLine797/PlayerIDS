@@ -1,0 +1,7 @@
+Name: COOL
+ActorNumber: 547
+PlayerID: F8F6D62D7D2F819C
+Platform: Standalone
+AccountCreationDate: 2025-09-19 23:32:24 UTC
+Color: R=0.44 G=0.00 B=0.89
+Cosmetics: None

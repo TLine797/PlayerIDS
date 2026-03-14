@@ -1,0 +1,7 @@
+Name: WE
+ActorNumber: 233
+PlayerID: C0EBEEB994405084
+Platform: Unknown
+AccountCreationDate: 2022-12-26 02:12:16 UTC
+Color: R=1.00 G=1.00 B=1.00
+Cosmetics: None

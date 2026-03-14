@@ -1,0 +1,7 @@
+Name: COSMO
+ActorNumber: 605
+PlayerID: 59B8F814B2F59D93
+Platform: Standalone
+AccountCreationDate: 2025-09-03 18:16:39 UTC
+Color: R=0.33 G=0.00 B=0.56
+Cosmetics: None

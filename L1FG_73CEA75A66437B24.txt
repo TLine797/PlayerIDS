@@ -1,0 +1,7 @@
+Name: BOOTYBANDIT
+ActorNumber: 5999
+PlayerID: 73CEA75A66437B24
+Platform: Standalone
+AccountCreationDate: 2023-12-25 16:44:18 UTC
+Color: R=0.22 G=0.11 B=0.89
+Cosmetics: None

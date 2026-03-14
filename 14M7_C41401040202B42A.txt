@@ -1,0 +1,7 @@
+Name: DRDONUTTLOL
+ActorNumber: 601
+PlayerID: C41401040202B42A
+Platform: Standalone
+AccountCreationDate: 2024-12-26 19:18:28 UTC
+Color: R=1.00 G=0.33 B=1.00
+Cosmetics: None

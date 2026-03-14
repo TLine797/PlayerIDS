@@ -1,0 +1,7 @@
+Name: WOLFE
+ActorNumber: 170
+PlayerID: 53BB7284B0202C01
+Platform: Standalone
+AccountCreationDate: 2025-12-25 15:26:09 UTC
+Color: R=0.44 G=0.11 B=1.00
+Cosmetics: None

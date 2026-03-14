@@ -1,0 +1,7 @@
+Name: RUSTTT
+ActorNumber: 586
+PlayerID: 1834383F621244CF
+Platform: Unknown
+AccountCreationDate: 2022-12-25 14:29:14 UTC
+Color: R=1.00 G=0.22 B=0.89
+Cosmetics: None

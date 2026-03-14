@@ -1,0 +1,7 @@
+Name: TREY
+ActorNumber: 809
+PlayerID: 39B2119F6CA7787E
+Platform: Standalone
+AccountCreationDate: 2024-10-16 02:50:22 UTC
+Color: R=0.89 G=0.44 B=0.44
+Cosmetics: None

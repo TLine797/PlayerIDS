@@ -1,0 +1,7 @@
+Name: STAR
+ActorNumber: 22
+PlayerID: 33EAD4393C445690
+Platform: Standalone
+AccountCreationDate: 2023-07-07 00:03:21 UTC
+Color: R=0.00 G=0.00 B=0.00
+Cosmetics: None

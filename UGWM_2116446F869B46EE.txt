@@ -1,0 +1,7 @@
+Name: GHOSTFACE503
+ActorNumber: 39
+PlayerID: 2116446F869B46EE
+Platform: Standalone
+AccountCreationDate: 2026-01-03 13:56:15 UTC
+Color: R=0.00 G=0.00 B=0.00
+Cosmetics: None

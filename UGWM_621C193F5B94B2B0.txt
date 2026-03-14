@@ -1,0 +1,7 @@
+Name: X
+ActorNumber: 38
+PlayerID: 621C193F5B94B2B0
+Platform: Standalone
+AccountCreationDate: 2025-03-05 01:07:05 UTC
+Color: R=0.00 G=1.00 B=1.00
+Cosmetics: None

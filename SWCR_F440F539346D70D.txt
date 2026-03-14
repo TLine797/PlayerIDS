@@ -1,0 +1,7 @@
+Name: ELLIOTT
+ActorNumber: 919
+PlayerID: F440F539346D70D
+Platform: Standalone
+AccountCreationDate: 2025-12-25 22:19:25 UTC
+Color: R=0.89 G=0.56 B=0.56
+Cosmetics: None

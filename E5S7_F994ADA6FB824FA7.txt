@@ -1,0 +1,7 @@
+Name: KOWIZ
+ActorNumber: 574
+PlayerID: F994ADA6FB824FA7
+Platform: Unknown
+AccountCreationDate: 2021-08-22 19:57:40 UTC
+Color: R=0.00 G=0.00 B=0.00
+Cosmetics: None

@@ -1,7 +1,7 @@
-Name: NFURY
+Name: APOLLO
 ActorNumber: 1
 PlayerID: 62FF0D8F213DE1C6
 Platform: Standalone
 AccountCreationDate: 2024-12-18 22:45:49 UTC
-Color: R=0.00 G=0.00 B=0.22
+Color: R=0.22 G=0.67 B=0.56
 Cosmetics: None

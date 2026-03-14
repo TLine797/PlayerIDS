@@ -1,0 +1,7 @@
+Name: LOL
+ActorNumber: 184
+PlayerID: D30DAA3348020E07
+Platform: Standalone
+AccountCreationDate: 2025-11-26 16:43:53 UTC
+Color: R=0.00 G=0.00 B=0.00
+Cosmetics: None

@@ -1,0 +1,7 @@
+Name: LEGENDGT
+ActorNumber: 1590
+PlayerID: A2816FF1A11BD6AD
+Platform: Standalone
+AccountCreationDate: 2024-12-26 21:19:27 UTC
+Color: R=0.00 G=1.00 B=1.00
+Cosmetics: None

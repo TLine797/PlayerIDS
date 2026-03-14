@@ -1,0 +1,7 @@
+Name: FLOGT
+ActorNumber: 1522
+PlayerID: 82FEFED2BD01BBCA
+Platform: Standalone
+AccountCreationDate: 2024-02-17 19:40:55 UTC
+Color: R=0.44 G=0.00 B=0.78
+Cosmetics: None

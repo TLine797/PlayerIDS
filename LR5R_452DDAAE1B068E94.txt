@@ -1,0 +1,7 @@
+Name: XYZ
+ActorNumber: 1319
+PlayerID: 452DDAAE1B068E94
+Platform: Standalone
+AccountCreationDate: 2026-03-09 01:11:58 UTC
+Color: R=0.67 G=0.67 B=0.67
+Cosmetics: None

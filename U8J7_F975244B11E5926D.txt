@@ -1,0 +1,7 @@
+Name: TXXLUSID
+ActorNumber: 784
+PlayerID: F975244B11E5926D
+Platform: Standalone
+AccountCreationDate: 2024-12-30 00:05:32 UTC
+Color: R=0.00 G=0.11 B=0.22
+Cosmetics: None

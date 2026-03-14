@@ -1,0 +1,7 @@
+Name: C7BRRR
+ActorNumber: 17
+PlayerID: 1C76BFBC766278BF
+Platform: Unknown
+AccountCreationDate: 2022-12-31 05:39:07 UTC
+Color: R=0.11 G=0.22 B=1.00
+Cosmetics: None

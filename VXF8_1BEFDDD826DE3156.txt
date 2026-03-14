@@ -1,0 +1,7 @@
+Name: VOIDD
+ActorNumber: 1208
+PlayerID: 1BEFDDD826DE3156
+Platform: Standalone
+AccountCreationDate: 2025-12-25 19:27:40 UTC
+Color: R=0.89 G=0.56 B=0.89
+Cosmetics: None

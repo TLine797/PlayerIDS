@@ -1,0 +1,7 @@
+Name: BUGVR4
+ActorNumber: 1653
+PlayerID: 106DD7560E61F8B3
+Platform: Standalone
+AccountCreationDate: 2025-12-24 18:19:32 UTC
+Color: R=0.44 G=0.44 B=0.78
+Cosmetics: None

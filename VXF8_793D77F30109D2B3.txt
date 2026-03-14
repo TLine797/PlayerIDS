@@ -1,0 +1,7 @@
+Name: gorilla5294
+ActorNumber: 1214
+PlayerID: 793D77F30109D2B3
+Platform: Standalone
+AccountCreationDate: 2026-03-03 23:06:43 UTC
+Color: R=1.00 G=0.00 B=0.00
+Cosmetics: None

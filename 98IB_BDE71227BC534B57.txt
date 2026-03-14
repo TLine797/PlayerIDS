@@ -1,0 +1,7 @@
+Name: PROTO
+ActorNumber: 148
+PlayerID: BDE71227BC534B57
+Platform: Standalone
+AccountCreationDate: 2026-01-17 12:28:37 UTC
+Color: R=0.44 G=0.11 B=0.89
+Cosmetics: None

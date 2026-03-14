@@ -1,0 +1,7 @@
+Name: BLUEJACKETGT
+ActorNumber: 5991
+PlayerID: 7A8F41C99EA85123
+Platform: Standalone
+AccountCreationDate: 2023-12-25 14:14:29 UTC
+Color: R=0.00 G=0.00 B=0.78
+Cosmetics: None

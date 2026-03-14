@@ -1,0 +1,7 @@
+Name: GORILLA
+ActorNumber: 859
+PlayerID: CF09C495D20C625D
+Platform: Standalone
+AccountCreationDate: 2025-11-21 20:02:35 UTC
+Color: R=0.00 G=0.00 B=0.00
+Cosmetics: None

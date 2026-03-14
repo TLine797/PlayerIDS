@@ -1,0 +1,7 @@
+Name: MINT
+ActorNumber: 660
+PlayerID: B3DE2BEBB9174472
+Platform: Unknown
+AccountCreationDate: 2022-12-25 21:22:18 UTC
+Color: R=0.67 G=0.67 B=0.67
+Cosmetics: None

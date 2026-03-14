@@ -1,0 +1,7 @@
+Name: GTAGGUYVR
+ActorNumber: 865
+PlayerID: 95627E47E48E9B48
+Platform: Standalone
+AccountCreationDate: 2026-03-09 21:21:24 UTC
+Color: R=0.56 G=0.00 B=1.00
+Cosmetics: None

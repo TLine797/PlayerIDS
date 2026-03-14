@@ -1,0 +1,7 @@
+Name: MINNOW
+ActorNumber: 210
+PlayerID: 6716B61F0E4E53C4
+Platform: Standalone
+AccountCreationDate: 2025-12-25 14:20:05 UTC
+Color: R=0.67 G=0.78 B=1.00
+Cosmetics: None

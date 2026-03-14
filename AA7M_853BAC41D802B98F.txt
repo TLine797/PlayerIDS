@@ -1,0 +1,7 @@
+Name: CESAR
+ActorNumber: 206
+PlayerID: 853BAC41D802B98F
+Platform: Standalone
+AccountCreationDate: 2025-12-29 14:33:29 UTC
+Color: R=1.00 G=0.00 B=0.00
+Cosmetics: None

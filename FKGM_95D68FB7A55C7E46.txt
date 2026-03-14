@@ -1,0 +1,7 @@
+Name: CV1
+ActorNumber: 1153
+PlayerID: 95D68FB7A55C7E46
+Platform: Unknown
+AccountCreationDate: 2024-05-02 22:38:06 UTC
+Color: R=1.00 G=0.44 B=1.00
+Cosmetics: None

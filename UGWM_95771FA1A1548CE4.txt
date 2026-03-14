@@ -1,0 +1,7 @@
+Name: DAWN
+ActorNumber: 64
+PlayerID: 95771FA1A1548CE4
+Platform: PC
+AccountCreationDate: 2025-06-10 19:30:59 UTC
+Color: R=0.00 G=0.00 B=0.67
+Cosmetics: None

@@ -1,0 +1,7 @@
+Name: FORSTBITE
+ActorNumber: 1528
+PlayerID: 329E7931351D6429
+Platform: Unknown
+AccountCreationDate: 2022-04-12 23:29:24 UTC
+Color: R=1.00 G=0.56 B=0.67
+Cosmetics: None

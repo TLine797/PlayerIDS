@@ -1,0 +1,7 @@
+Name: gorilla
+ActorNumber: 577
+PlayerID: 8C92915658041D86
+Platform: Standalone
+AccountCreationDate: 2025-12-25 15:25:03 UTC
+Color: R=0.22 G=0.11 B=0.00
+Cosmetics: None

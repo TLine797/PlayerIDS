@@ -1,0 +1,7 @@
+Name: AVERY
+ActorNumber: 940
+PlayerID: A3A52F670C42B320
+Platform: Unknown
+AccountCreationDate: 2022-12-25 18:23:32 UTC
+Color: R=1.00 G=0.44 B=1.00
+Cosmetics: None

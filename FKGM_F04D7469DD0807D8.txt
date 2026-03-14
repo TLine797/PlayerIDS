@@ -1,0 +1,7 @@
+Name: BEEFY
+ActorNumber: 1149
+PlayerID: F04D7469DD0807D8
+Platform: Standalone
+AccountCreationDate: 2023-03-28 16:20:01 UTC
+Color: R=0.00 G=0.44 B=0.89
+Cosmetics: None

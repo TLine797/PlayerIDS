@@ -1,0 +1,7 @@
+Name: JOHN316
+ActorNumber: 777
+PlayerID: 4A2FE6E5E66C3D15
+Platform: Unknown
+AccountCreationDate: 2022-12-04 01:27:00 UTC
+Color: R=0.00 G=0.67 B=1.00
+Cosmetics: None

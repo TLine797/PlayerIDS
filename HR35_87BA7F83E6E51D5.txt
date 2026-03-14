@@ -1,0 +1,7 @@
+Name: NINJA
+ActorNumber: 18
+PlayerID: 87BA7F83E6E51D5
+Platform: Standalone
+AccountCreationDate: 2025-02-02 01:17:15 UTC
+Color: R=1.00 G=0.00 B=0.00
+Cosmetics: None

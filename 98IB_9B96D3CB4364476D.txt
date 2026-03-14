@@ -1,0 +1,7 @@
+Name: BOB
+ActorNumber: 183
+PlayerID: 9B96D3CB4364476D
+Platform: Standalone
+AccountCreationDate: 2025-11-08 21:07:37 UTC
+Color: R=0.44 G=0.00 B=0.78
+Cosmetics: None

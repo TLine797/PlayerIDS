@@ -1,0 +1,7 @@
+Name: gorilla5808
+ActorNumber: 229
+PlayerID: 8CC01E90270E784F
+Platform: Standalone
+AccountCreationDate: 2025-06-28 17:18:53 UTC
+Color: R=0.33 G=0.56 B=1.00
+Cosmetics: None

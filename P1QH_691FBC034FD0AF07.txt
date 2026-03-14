@@ -1,0 +1,7 @@
+Name: GHOST
+ActorNumber: 194
+PlayerID: 691FBC034FD0AF07
+Platform: Standalone
+AccountCreationDate: 2025-11-13 02:32:59 UTC
+Color: R=0.56 G=0.11 B=1.00
+Cosmetics: None

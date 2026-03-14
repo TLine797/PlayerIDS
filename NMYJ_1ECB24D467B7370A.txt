@@ -1,0 +1,7 @@
+Name: TODDVR
+ActorNumber: 1643
+PlayerID: 1ECB24D467B7370A
+Platform: Standalone
+AccountCreationDate: 2026-02-28 23:42:27 UTC
+Color: R=0.11 G=0.00 B=0.78
+Cosmetics: None

@@ -1,0 +1,7 @@
+Name: DEXTERMORGAN
+ActorNumber: 716
+PlayerID: D4E430E8B363DF15
+Platform: Standalone
+AccountCreationDate: 2024-12-30 23:59:08 UTC
+Color: R=1.00 G=0.67 B=0.56
+Cosmetics: None

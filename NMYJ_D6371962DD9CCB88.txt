@@ -1,0 +1,7 @@
+Name: KINGNETFLIX
+ActorNumber: 1672
+PlayerID: D6371962DD9CCB88
+Platform: Standalone
+AccountCreationDate: 2025-12-29 14:57:22 UTC
+Color: R=0.67 G=0.00 B=0.00
+Cosmetics: None

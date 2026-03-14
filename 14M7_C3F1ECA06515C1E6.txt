@@ -1,0 +1,7 @@
+Name: BLUE
+ActorNumber: 587
+PlayerID: C3F1ECA06515C1E6
+Platform: Standalone
+AccountCreationDate: 2024-11-09 00:09:29 UTC
+Color: R=0.78 G=0.78 B=1.00
+Cosmetics: None

@@ -1,0 +1,7 @@
+Name: AVA
+ActorNumber: 71
+PlayerID: 98F7CCE862FAE030
+Platform: Unknown
+AccountCreationDate: 2022-03-26 00:27:21 UTC
+Color: R=1.00 G=0.78 B=1.00
+Cosmetics: None

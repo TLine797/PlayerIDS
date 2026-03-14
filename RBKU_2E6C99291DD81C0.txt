@@ -1,0 +1,7 @@
+Name: TYLERGTAG547
+ActorNumber: 238
+PlayerID: 2E6C99291DD81C0
+Platform: Standalone
+AccountCreationDate: 2025-04-23 18:07:32 UTC
+Color: R=0.11 G=0.11 B=1.00
+Cosmetics: None

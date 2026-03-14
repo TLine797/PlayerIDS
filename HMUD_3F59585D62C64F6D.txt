@@ -1,0 +1,7 @@
+Name: gorilla6800
+ActorNumber: 96
+PlayerID: 3F59585D62C64F6D
+Platform: Standalone
+AccountCreationDate: 2024-05-31 02:53:48 UTC
+Color: R=0.67 G=0.00 B=0.89
+Cosmetics: None

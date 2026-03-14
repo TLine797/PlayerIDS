@@ -1,0 +1,7 @@
+Name: SNOW
+ActorNumber: 266
+PlayerID: 23A865F6B7516BD7
+Platform: Standalone
+AccountCreationDate: 2024-01-07 23:39:05 UTC
+Color: R=1.00 G=0.56 B=0.00
+Cosmetics: None

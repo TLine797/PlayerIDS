@@ -1,0 +1,7 @@
+Name: NIGHTMARE
+ActorNumber: 1628
+PlayerID: BC15BA856004A5F6
+Platform: Standalone
+AccountCreationDate: 2025-12-12 18:04:18 UTC
+Color: R=0.00 G=0.44 B=1.00
+Cosmetics: None

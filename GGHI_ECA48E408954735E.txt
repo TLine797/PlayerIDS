@@ -1,0 +1,7 @@
+Name: FGTV
+ActorNumber: 384
+PlayerID: ECA48E408954735E
+Platform: Standalone
+AccountCreationDate: 2025-12-25 12:11:24 UTC
+Color: R=0.22 G=0.22 B=0.78
+Cosmetics: None

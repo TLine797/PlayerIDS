@@ -1,0 +1,7 @@
+Name: BLOB
+ActorNumber: 252
+PlayerID: C04466EB5AC6DB38
+Platform: Unknown
+AccountCreationDate: 2024-03-26 15:41:02 UTC
+Color: R=0.33 G=0.33 B=0.67
+Cosmetics: None

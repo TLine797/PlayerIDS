@@ -1,0 +1,7 @@
+Name: gorilla
+ActorNumber: 599
+PlayerID: 6C839727799D298D
+Platform: Standalone
+AccountCreationDate: 2026-01-19 02:20:20 UTC
+Color: R=0.96 G=0.12 B=0.25
+Cosmetics: None

@@ -1,0 +1,7 @@
+Name: AMFLOPPY
+ActorNumber: 370
+PlayerID: 5D20052C2C5FA3B0
+Platform: Standalone
+AccountCreationDate: 2023-10-10 13:14:23 UTC
+Color: R=0.44 G=0.00 B=0.78
+Cosmetics: None

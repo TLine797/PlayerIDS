@@ -1,0 +1,7 @@
+Name: LGS
+ActorNumber: 772
+PlayerID: AC10533A39F6CEDC
+Platform: Standalone
+AccountCreationDate: 2024-12-25 14:40:52 UTC
+Color: R=0.44 G=0.67 B=0.78
+Cosmetics: None

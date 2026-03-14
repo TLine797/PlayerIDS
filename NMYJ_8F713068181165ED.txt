@@ -1,0 +1,7 @@
+Name: SEED
+ActorNumber: 1690
+PlayerID: 8F713068181165ED
+Platform: Standalone
+AccountCreationDate: 2026-01-17 05:09:29 UTC
+Color: R=1.00 G=1.00 B=1.00
+Cosmetics: None

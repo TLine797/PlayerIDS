@@ -1,0 +1,7 @@
+Name: APEVR105
+ActorNumber: 395
+PlayerID: FCDB4256A8F2D912
+Platform: Standalone
+AccountCreationDate: 2024-04-15 10:31:35 UTC
+Color: R=0.22 G=0.33 B=0.22
+Cosmetics: None

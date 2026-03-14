@@ -1,0 +1,7 @@
+Name: WALTER
+ActorNumber: 246
+PlayerID: 9A693BA0BE57C92F
+Platform: Standalone
+AccountCreationDate: 2025-06-15 19:27:46 UTC
+Color: R=1.00 G=0.00 B=0.00
+Cosmetics: None

@@ -1,0 +1,7 @@
+Name: TRICSSSSS
+ActorNumber: 600
+PlayerID: CFA12AB627832123
+Platform: Standalone
+AccountCreationDate: 2025-01-21 21:54:00 UTC
+Color: R=1.00 G=0.56 B=0.22
+Cosmetics: None

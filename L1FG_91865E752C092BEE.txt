@@ -1,0 +1,7 @@
+Name: NOVA
+ActorNumber: 5981
+PlayerID: 91865E752C092BEE
+Platform: Standalone
+AccountCreationDate: 2024-08-26 04:17:28 UTC
+Color: R=0.00 G=1.00 B=0.00
+Cosmetics: None

@@ -1,0 +1,7 @@
+Name: LARRY
+ActorNumber: 1685
+PlayerID: D196E070035094FF
+Platform: Standalone
+AccountCreationDate: 2022-05-16 21:28:16 UTC
+Color: R=0.56 G=0.44 B=1.00
+Cosmetics: None

@@ -1,0 +1,7 @@
+Name: gorilla4513
+ActorNumber: 169
+PlayerID: 50B42E52F815A3DD
+Platform: Standalone
+AccountCreationDate: 2021-05-05 04:23:06 UTC
+Color: R=1.00 G=0.67 B=0.67
+Cosmetics: None

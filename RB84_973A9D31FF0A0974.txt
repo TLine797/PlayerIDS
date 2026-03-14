@@ -1,0 +1,7 @@
+Name: BRAIDAGOAT
+ActorNumber: 543
+PlayerID: 973A9D31FF0A0974
+Platform: Standalone
+AccountCreationDate: 2026-01-20 22:05:03 UTC
+Color: R=0.00 G=0.00 B=0.00
+Cosmetics: None

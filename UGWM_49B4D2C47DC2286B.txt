@@ -1,0 +1,7 @@
+Name: NOOB
+ActorNumber: 14
+PlayerID: 49B4D2C47DC2286B
+Platform: Standalone
+AccountCreationDate: 2026-01-04 03:45:59 UTC
+Color: R=0.00 G=0.00 B=0.00
+Cosmetics: None

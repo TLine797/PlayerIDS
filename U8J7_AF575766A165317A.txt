@@ -1,0 +1,7 @@
+Name: KIPT
+ActorNumber: 793
+PlayerID: AF575766A165317A
+Platform: Standalone
+AccountCreationDate: 2024-07-14 21:22:00 UTC
+Color: R=0.44 G=0.00 B=0.00
+Cosmetics: None

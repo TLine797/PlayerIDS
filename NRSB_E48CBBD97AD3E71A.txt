@@ -1,0 +1,7 @@
+Name: gorilla4234
+ActorNumber: 230
+PlayerID: E48CBBD97AD3E71A
+Platform: Standalone
+AccountCreationDate: 2026-03-03 13:39:01 UTC
+Color: R=0.33 G=0.00 B=1.00
+Cosmetics: None

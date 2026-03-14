@@ -1,0 +1,7 @@
+Name: KILLER
+ActorNumber: 116
+PlayerID: 4765D1C8C2C8F373
+Platform: Standalone
+AccountCreationDate: 2024-12-26 16:46:08 UTC
+Color: R=1.00 G=0.44 B=0.67
+Cosmetics: None

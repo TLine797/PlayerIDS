@@ -1,0 +1,7 @@
+Name: TFTJUMBO
+ActorNumber: 606
+PlayerID: B641C6FB7A60157E
+Platform: Standalone
+AccountCreationDate: 2025-12-23 17:33:44 UTC
+Color: R=1.00 G=0.22 B=0.44
+Cosmetics: None

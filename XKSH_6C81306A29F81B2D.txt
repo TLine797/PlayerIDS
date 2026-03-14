@@ -1,0 +1,7 @@
+Name: TKNATANVR
+ActorNumber: 665
+PlayerID: 6C81306A29F81B2D
+Platform: Standalone
+AccountCreationDate: 2021-12-28 19:54:57 UTC
+Color: R=0.44 G=0.44 B=0.44
+Cosmetics: None

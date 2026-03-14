@@ -1,0 +1,7 @@
+Name: gorillaTTZZ2
+ActorNumber: 319
+PlayerID: A6B510853C4F3541
+Platform: Standalone
+AccountCreationDate: 2026-02-19 05:25:49 UTC
+Color: R=0.31 G=0.47 B=0.13
+Cosmetics: None

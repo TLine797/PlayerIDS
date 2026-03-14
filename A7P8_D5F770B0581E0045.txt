@@ -1,0 +1,7 @@
+Name: MUSTYRAT
+ActorNumber: 343
+PlayerID: D5F770B0581E0045
+Platform: Standalone
+AccountCreationDate: 2024-10-30 20:59:26 UTC
+Color: R=0.00 G=0.33 B=0.56
+Cosmetics: None

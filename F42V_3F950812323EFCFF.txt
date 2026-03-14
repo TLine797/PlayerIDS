@@ -1,0 +1,7 @@
+Name: PILLYCALOU
+ActorNumber: 810
+PlayerID: 3F950812323EFCFF
+Platform: Standalone
+AccountCreationDate: 2025-12-25 12:58:51 UTC
+Color: R=1.00 G=0.78 B=1.00
+Cosmetics: None

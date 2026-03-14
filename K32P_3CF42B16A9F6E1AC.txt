@@ -1,0 +1,7 @@
+Name: PSVR2
+ActorNumber: 686
+PlayerID: 3CF42B16A9F6E1AC
+Platform: Standalone
+AccountCreationDate: 2026-02-02 14:44:14 UTC
+Color: R=0.33 G=0.00 B=0.00
+Cosmetics: None

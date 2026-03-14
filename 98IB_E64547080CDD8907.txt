@@ -1,0 +1,7 @@
+Name: NOTHY
+ActorNumber: 135
+PlayerID: E64547080CDD8907
+Platform: Standalone
+AccountCreationDate: 2024-12-22 01:37:21 UTC
+Color: R=0.44 G=0.44 B=0.67
+Cosmetics: None

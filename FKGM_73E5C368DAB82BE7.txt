@@ -1,0 +1,7 @@
+Name: JLIOTS
+ActorNumber: 1138
+PlayerID: 73E5C368DAB82BE7
+Platform: Unknown
+AccountCreationDate: 2025-07-22 18:30:54 UTC
+Color: R=0.00 G=0.67 B=0.67
+Cosmetics: None

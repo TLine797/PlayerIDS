@@ -1,0 +1,7 @@
+Name: GUY
+ActorNumber: 121
+PlayerID: 7703C89EA66BC026
+Platform: Standalone
+AccountCreationDate: 2025-01-29 17:13:01 UTC
+Color: R=0.00 G=0.22 B=0.33
+Cosmetics: None

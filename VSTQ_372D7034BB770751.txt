@@ -1,0 +1,7 @@
+Name: gorilla
+ActorNumber: 530
+PlayerID: 372D7034BB770751
+Platform: Standalone
+AccountCreationDate: 2026-02-08 21:01:54 UTC
+Color: R=0.00 G=0.00 B=1.00
+Cosmetics: None

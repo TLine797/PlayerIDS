@@ -1,0 +1,7 @@
+Name: STARVR
+ActorNumber: 253
+PlayerID: 6034862E422A0CBE
+Platform: Standalone
+AccountCreationDate: 2025-05-11 13:52:59 UTC
+Color: R=0.11 G=0.00 B=1.00
+Cosmetics: None

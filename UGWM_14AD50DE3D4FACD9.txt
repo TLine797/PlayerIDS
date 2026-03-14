@@ -1,0 +1,7 @@
+Name: AQUAGT
+ActorNumber: 56
+PlayerID: 14AD50DE3D4FACD9
+Platform: Unknown
+AccountCreationDate: 2024-12-25 14:50:17 UTC
+Color: R=0.11 G=1.00 B=1.00
+Cosmetics: None

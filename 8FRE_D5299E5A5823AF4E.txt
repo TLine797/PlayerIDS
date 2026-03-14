@@ -1,0 +1,7 @@
+Name: DAISYO9
+ActorNumber: 25
+PlayerID: D5299E5A5823AF4E
+Platform: Standalone
+AccountCreationDate: 2025-10-27 00:12:06 UTC
+Color: R=1.00 G=0.67 B=0.78
+Cosmetics: None

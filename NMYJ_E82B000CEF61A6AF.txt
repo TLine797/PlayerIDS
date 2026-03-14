@@ -1,0 +1,7 @@
+Name: AIRLINK
+ActorNumber: 1683
+PlayerID: E82B000CEF61A6AF
+Platform: Standalone
+AccountCreationDate: 2024-12-28 03:45:05 UTC
+Color: R=1.00 G=1.00 B=1.00
+Cosmetics: None

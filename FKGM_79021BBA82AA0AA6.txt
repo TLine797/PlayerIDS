@@ -1,0 +1,7 @@
+Name: SLIPPZ
+ActorNumber: 1093
+PlayerID: 79021BBA82AA0AA6
+Platform: Unknown
+AccountCreationDate: 2022-05-31 21:55:40 UTC
+Color: R=0.33 G=0.56 B=1.00
+Cosmetics: None

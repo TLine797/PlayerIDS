@@ -1,0 +1,7 @@
+Name: SEEZO
+ActorNumber: 1105
+PlayerID: 324C6A99DDD83D1F
+Platform: Standalone
+AccountCreationDate: 2025-07-31 20:22:02 UTC
+Color: R=0.00 G=0.00 B=0.00
+Cosmetics: None

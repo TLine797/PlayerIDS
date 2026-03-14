@@ -1,0 +1,7 @@
+Name: NUTRO
+ActorNumber: 206
+PlayerID: B95464E8E0CFD0B9
+Platform: PC
+AccountCreationDate: 2026-03-06 23:48:44 UTC
+Color: R=0.00 G=0.00 B=0.00
+Cosmetics: None

@@ -1,0 +1,7 @@
+Name: GRIM
+ActorNumber: 33
+PlayerID: 2CF25D8B9F8BB6DA
+Platform: Standalone
+AccountCreationDate: 2024-12-25 20:18:26 UTC
+Color: R=1.00 G=0.67 B=1.00
+Cosmetics: None

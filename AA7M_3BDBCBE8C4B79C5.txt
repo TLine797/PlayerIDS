@@ -1,0 +1,7 @@
+Name: gorilla1522
+ActorNumber: 201
+PlayerID: 3BDBCBE8C4B79C5
+Platform: Standalone
+AccountCreationDate: 2025-12-25 01:57:19 UTC
+Color: R=0.00 G=0.00 B=1.00
+Cosmetics: None

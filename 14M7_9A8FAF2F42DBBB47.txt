@@ -1,0 +1,7 @@
+Name: JUANVO
+ActorNumber: 609
+PlayerID: 9A8FAF2F42DBBB47
+Platform: Unknown
+AccountCreationDate: 2024-11-16 00:15:42 UTC
+Color: R=0.00 G=1.00 B=0.00
+Cosmetics: None

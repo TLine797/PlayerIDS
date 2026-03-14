@@ -1,0 +1,7 @@
+Name: SKY
+ActorNumber: 155
+PlayerID: CB4FA3C0A33F48F1
+Platform: Standalone
+AccountCreationDate: 2024-05-14 15:14:12 UTC
+Color: R=1.00 G=1.00 B=1.00
+Cosmetics: None

@@ -1,0 +1,7 @@
+Name: GORILLA8429
+ActorNumber: 63
+PlayerID: 7A8CF9D68C8065C7
+Platform: Standalone
+AccountCreationDate: 2026-01-10 02:14:12 UTC
+Color: R=0.44 G=0.11 B=0.78
+Cosmetics: None

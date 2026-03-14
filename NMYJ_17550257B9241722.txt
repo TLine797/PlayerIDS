@@ -1,0 +1,7 @@
+Name: DFGHJKTSAFGH
+ActorNumber: 1678
+PlayerID: 17550257B9241722
+Platform: Standalone
+AccountCreationDate: 2026-01-04 21:49:31 UTC
+Color: R=0.44 G=0.11 B=1.00
+Cosmetics: None

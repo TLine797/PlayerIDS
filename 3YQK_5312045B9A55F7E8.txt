@@ -1,0 +1,7 @@
+Name: MONKETAZE
+ActorNumber: 598
+PlayerID: 5312045B9A55F7E8
+Platform: Standalone
+AccountCreationDate: 2025-06-09 17:00:57 UTC
+Color: R=0.00 G=0.00 B=0.00
+Cosmetics: None

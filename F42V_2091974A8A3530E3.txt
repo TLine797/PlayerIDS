@@ -1,0 +1,7 @@
+Name: MACHINE
+ActorNumber: 794
+PlayerID: 2091974A8A3530E3
+Platform: Unknown
+AccountCreationDate: 2022-08-26 22:10:59 UTC
+Color: R=0.11 G=0.33 B=0.44
+Cosmetics: None

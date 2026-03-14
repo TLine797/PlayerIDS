@@ -1,0 +1,7 @@
+Name: BNRAA
+ActorNumber: 1101
+PlayerID: C503A958226EACFB
+Platform: Standalone
+AccountCreationDate: 2024-06-24 02:52:02 UTC
+Color: R=1.00 G=0.00 B=0.56
+Cosmetics: None

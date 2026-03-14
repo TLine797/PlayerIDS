@@ -1,0 +1,7 @@
+Name: ASTRA
+ActorNumber: 1618
+PlayerID: 58D3A148A463F4F8
+Platform: Standalone
+AccountCreationDate: 2022-12-18 12:39:56 UTC
+Color: R=0.44 G=0.11 B=0.56
+Cosmetics: None

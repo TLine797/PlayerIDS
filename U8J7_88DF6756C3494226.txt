@@ -1,0 +1,7 @@
+Name: JJ
+ActorNumber: 779
+PlayerID: 88DF6756C3494226
+Platform: Standalone
+AccountCreationDate: 2025-08-23 18:26:28 UTC
+Color: R=0.00 G=0.22 B=0.44
+Cosmetics: None

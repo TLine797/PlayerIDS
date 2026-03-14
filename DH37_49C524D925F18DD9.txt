@@ -1,0 +1,7 @@
+Name: PEBBLE
+ActorNumber: 397
+PlayerID: 49C524D925F18DD9
+Platform: Standalone
+AccountCreationDate: 2025-06-04 22:28:58 UTC
+Color: R=0.00 G=0.00 B=1.00
+Cosmetics: None

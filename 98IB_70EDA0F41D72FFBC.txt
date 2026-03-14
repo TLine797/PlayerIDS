@@ -1,0 +1,7 @@
+Name: DIAMOND
+ActorNumber: 201
+PlayerID: 70EDA0F41D72FFBC
+Platform: Standalone
+AccountCreationDate: 2022-12-16 17:03:36 UTC
+Color: R=0.00 G=0.78 B=1.00
+Cosmetics: None

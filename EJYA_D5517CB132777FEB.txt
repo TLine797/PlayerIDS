@@ -1,0 +1,7 @@
+Name: EN3RU
+ActorNumber: 582
+PlayerID: D5517CB132777FEB
+Platform: Unknown
+AccountCreationDate: 2022-12-25 14:33:11 UTC
+Color: R=0.00 G=0.00 B=0.00
+Cosmetics: None

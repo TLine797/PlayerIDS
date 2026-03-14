@@ -1,0 +1,7 @@
+Name: SHKNPXRC
+ActorNumber: 1154
+PlayerID: 908094E8FABC161
+Platform: Standalone
+AccountCreationDate: 2024-09-07 22:22:00 UTC
+Color: R=0.00 G=0.00 B=0.56
+Cosmetics: None

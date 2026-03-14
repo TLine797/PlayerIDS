@@ -1,0 +1,7 @@
+Name: COOLGUYTUM
+ActorNumber: 937
+PlayerID: A8932E16BB7A6300
+Platform: Standalone
+AccountCreationDate: 2025-06-03 22:49:59 UTC
+Color: R=0.56 G=0.00 B=1.00
+Cosmetics: None

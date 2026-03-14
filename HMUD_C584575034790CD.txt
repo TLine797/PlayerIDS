@@ -1,0 +1,7 @@
+Name: STANDALONE
+ActorNumber: 128
+PlayerID: C584575034790CD
+Platform: Standalone
+AccountCreationDate: 2023-12-25 18:21:43 UTC
+Color: R=0.00 G=0.67 B=0.56
+Cosmetics: None

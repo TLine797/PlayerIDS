@@ -1,0 +1,7 @@
+Name: MONKE
+ActorNumber: 65
+PlayerID: 65C1E8545895238E
+Platform: Standalone
+AccountCreationDate: 2023-08-11 23:29:57 UTC
+Color: R=0.89 G=0.00 B=0.00
+Cosmetics: None

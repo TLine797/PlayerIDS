@@ -1,0 +1,7 @@
+Name: KRAMPUSVR
+ActorNumber: 153
+PlayerID: 56CE288665D04A37
+Platform: Standalone
+AccountCreationDate: 2025-12-25 13:07:58 UTC
+Color: R=0.22 G=0.00 B=0.00
+Cosmetics: None

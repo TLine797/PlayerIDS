@@ -1,0 +1,7 @@
+Name: CHOCOLATE
+ActorNumber: 5996
+PlayerID: B008A1494AE8CD45
+Platform: Standalone
+AccountCreationDate: 2025-12-25 15:44:21 UTC
+Color: R=0.22 G=0.11 B=0.00
+Cosmetics: None

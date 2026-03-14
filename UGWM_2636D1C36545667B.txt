@@ -1,0 +1,7 @@
+Name: LUUUP
+ActorNumber: 23
+PlayerID: 2636D1C36545667B
+Platform: Standalone
+AccountCreationDate: 2026-02-15 16:34:20 UTC
+Color: R=1.00 G=0.67 B=1.00
+Cosmetics: None

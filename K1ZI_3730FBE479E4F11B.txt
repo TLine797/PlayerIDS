@@ -1,0 +1,7 @@
+Name: LOST
+ActorNumber: 238
+PlayerID: 3730FBE479E4F11B
+Platform: Unknown
+AccountCreationDate: 2023-01-15 06:27:08 UTC
+Color: R=0.33 G=0.33 B=0.56
+Cosmetics: None

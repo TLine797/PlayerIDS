@@ -1,0 +1,7 @@
+Name: LDGTAG
+ActorNumber: 218
+PlayerID: 535A9F48A991D29E
+Platform: Standalone
+AccountCreationDate: 2025-12-25 13:01:07 UTC
+Color: R=0.00 G=0.89 B=0.89
+Cosmetics: None

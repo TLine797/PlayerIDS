@@ -1,0 +1,7 @@
+Name: KJAER
+ActorNumber: 157
+PlayerID: 3273D895C4EBF1DC
+Platform: Standalone
+AccountCreationDate: 2024-12-30 12:49:37 UTC
+Color: R=0.44 G=0.44 B=0.67
+Cosmetics: None

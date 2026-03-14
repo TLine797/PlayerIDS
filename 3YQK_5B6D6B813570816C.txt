@@ -1,0 +1,7 @@
+Name: WORKER
+ActorNumber: 602
+PlayerID: 5B6D6B813570816C
+Platform: Unknown
+AccountCreationDate: 2022-02-27 17:42:50 UTC
+Color: R=0.00 G=0.33 B=0.00
+Cosmetics: None

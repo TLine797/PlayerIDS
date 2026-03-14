@@ -1,0 +1,7 @@
+Name: CANDY
+ActorNumber: 612
+PlayerID: 91F4EA4451309BCE
+Platform: Standalone
+AccountCreationDate: 2023-10-05 21:22:07 UTC
+Color: R=0.22 G=0.22 B=0.33
+Cosmetics: None

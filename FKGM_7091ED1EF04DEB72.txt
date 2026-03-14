@@ -1,0 +1,7 @@
+Name: TTRPIGGYY
+ActorNumber: 1088
+PlayerID: 7091ED1EF04DEB72
+Platform: Standalone
+AccountCreationDate: 2023-07-04 20:06:23 UTC
+Color: R=0.67 G=0.22 B=0.78
+Cosmetics: None

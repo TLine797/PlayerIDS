@@ -1,0 +1,7 @@
+Name: LOL541
+ActorNumber: 389
+PlayerID: 7F97A6354695BB76
+Platform: Standalone
+AccountCreationDate: 2025-03-08 12:59:25 UTC
+Color: R=0.00 G=0.00 B=0.00
+Cosmetics: None

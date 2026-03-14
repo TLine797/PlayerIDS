@@ -1,0 +1,7 @@
+Name: PSVR2
+ActorNumber: 644
+PlayerID: 6FD6036F4708E7AF
+Platform: Unknown
+AccountCreationDate: 2022-06-07 03:33:27 UTC
+Color: R=0.22 G=0.22 B=0.22
+Cosmetics: None

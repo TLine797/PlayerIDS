@@ -1,0 +1,7 @@
+Name: TGMJOHN316
+ActorNumber: 1138
+PlayerID: C45D13CA86607A11
+Platform: Standalone
+AccountCreationDate: 2025-12-27 17:08:36 UTC
+Color: R=0.11 G=0.67 B=1.00
+Cosmetics: None

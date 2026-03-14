@@ -1,0 +1,7 @@
+Name: GORILLA2367
+ActorNumber: 220
+PlayerID: BAF6CE69374529F3
+Platform: Standalone
+AccountCreationDate: 2025-12-16 06:01:27 UTC
+Color: R=0.00 G=0.89 B=1.00
+Cosmetics: None

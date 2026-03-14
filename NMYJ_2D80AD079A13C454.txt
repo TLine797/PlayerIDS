@@ -1,0 +1,7 @@
+Name: BERTHA
+ActorNumber: 1528
+PlayerID: 2D80AD079A13C454
+Platform: Standalone
+AccountCreationDate: 2025-12-25 09:11:43 UTC
+Color: R=1.00 G=0.00 B=0.78
+Cosmetics: None

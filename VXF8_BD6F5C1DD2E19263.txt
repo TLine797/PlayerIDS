@@ -1,0 +1,7 @@
+Name: NEXSSSSSSSSS
+ActorNumber: 1200
+PlayerID: BD6F5C1DD2E19263
+Platform: Standalone
+AccountCreationDate: 2025-09-20 12:47:48 UTC
+Color: R=0.00 G=0.22 B=0.67
+Cosmetics: None

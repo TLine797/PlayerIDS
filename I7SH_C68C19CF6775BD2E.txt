@@ -1,0 +1,7 @@
+Name: BEAN
+ActorNumber: 145
+PlayerID: C68C19CF6775BD2E
+Platform: Unknown
+AccountCreationDate: 2022-03-19 15:42:09 UTC
+Color: R=0.00 G=0.00 B=0.00
+Cosmetics: None

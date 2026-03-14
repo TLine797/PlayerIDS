@@ -1,0 +1,7 @@
+Name: 6CLANCY
+ActorNumber: 792
+PlayerID: 95622A5989C0C3AC
+Platform: Standalone
+AccountCreationDate: 2025-03-08 00:51:50 UTC
+Color: R=0.89 G=0.89 B=1.00
+Cosmetics: None

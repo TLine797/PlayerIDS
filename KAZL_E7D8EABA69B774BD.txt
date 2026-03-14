@@ -1,0 +1,7 @@
+Name: VAMPP
+ActorNumber: 374
+PlayerID: E7D8EABA69B774BD
+Platform: Unknown
+AccountCreationDate: 2023-01-03 20:10:35 UTC
+Color: R=0.00 G=0.00 B=0.00
+Cosmetics: None

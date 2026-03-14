@@ -1,0 +1,7 @@
+Name: REX
+ActorNumber: 1232
+PlayerID: CBAEF4FC8711A16B
+Platform: Unknown
+AccountCreationDate: 2022-10-03 20:35:00 UTC
+Color: R=0.56 G=1.00 B=1.00
+Cosmetics: None

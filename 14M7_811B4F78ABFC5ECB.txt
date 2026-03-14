@@ -1,0 +1,7 @@
+Name: RMBLUEBERRY
+ActorNumber: 608
+PlayerID: 811B4F78ABFC5ECB
+Platform: Standalone
+AccountCreationDate: 2022-12-24 21:10:49 UTC
+Color: R=0.00 G=0.00 B=0.56
+Cosmetics: None

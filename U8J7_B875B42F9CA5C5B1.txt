@@ -1,0 +1,7 @@
+Name: FLAIRZYT
+ActorNumber: 785
+PlayerID: B875B42F9CA5C5B1
+Platform: Standalone
+AccountCreationDate: 2024-12-02 20:54:54 UTC
+Color: R=0.00 G=0.11 B=0.78
+Cosmetics: None

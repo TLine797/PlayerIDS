@@ -1,0 +1,7 @@
+Name: OBLIVION
+ActorNumber: 788
+PlayerID: AB5F20F5BB90D5D0
+Platform: Unknown
+AccountCreationDate: 2022-02-09 21:40:52 UTC
+Color: R=0.11 G=0.11 B=0.22
+Cosmetics: None

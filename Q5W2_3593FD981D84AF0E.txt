@@ -1,0 +1,7 @@
+Name: FFHVORTEX
+ActorNumber: 977
+PlayerID: 3593FD981D84AF0E
+Platform: Standalone
+AccountCreationDate: 2024-03-23 17:58:25 UTC
+Color: R=1.00 G=1.00 B=1.00
+Cosmetics: None

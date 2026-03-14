@@ -1,0 +1,7 @@
+Name: ALEXANDER7
+ActorNumber: 87
+PlayerID: C09EA3CB68FC8D50
+Platform: Unknown
+AccountCreationDate: 2022-08-19 00:55:55 UTC
+Color: R=0.00 G=0.78 B=1.00
+Cosmetics: None

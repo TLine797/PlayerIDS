@@ -1,0 +1,7 @@
+Name: BUNNY00VR
+ActorNumber: 139
+PlayerID: 5910959F086FB36D
+Platform: Standalone
+AccountCreationDate: 2025-12-25 18:06:13 UTC
+Color: R=1.00 G=0.78 B=1.00
+Cosmetics: None

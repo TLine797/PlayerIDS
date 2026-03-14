@@ -1,0 +1,7 @@
+Name: GOOFY
+ActorNumber: 546
+PlayerID: D8F6B45B1A3CF172
+Platform: PC
+AccountCreationDate: 2026-01-23 23:02:56 UTC
+Color: R=0.33 G=0.33 B=0.33
+Cosmetics: None

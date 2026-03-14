@@ -1,0 +1,7 @@
+Name: TEA
+ActorNumber: 583
+PlayerID: 66A6FD8E93887B7
+Platform: Standalone
+AccountCreationDate: 2024-03-27 03:39:05 UTC
+Color: R=0.11 G=0.11 B=0.22
+Cosmetics: None

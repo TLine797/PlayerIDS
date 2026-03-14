@@ -1,0 +1,7 @@
+Name: KNIGHT
+ActorNumber: 1068
+PlayerID: 9F273D0206E4C833
+Platform: Unknown
+AccountCreationDate: 2023-01-13 20:32:03 UTC
+Color: R=0.33 G=0.11 B=1.00
+Cosmetics: None

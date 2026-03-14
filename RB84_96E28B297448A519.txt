@@ -1,0 +1,7 @@
+Name: ORANG
+ActorNumber: 559
+PlayerID: 96E28B297448A519
+Platform: PC
+AccountCreationDate: 2023-01-09 00:36:53 UTC
+Color: R=1.00 G=0.56 B=0.00
+Cosmetics: None

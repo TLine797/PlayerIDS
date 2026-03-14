@@ -1,0 +1,7 @@
+Name: BOB
+ActorNumber: 211
+PlayerID: 7AA49BE9457B9445
+Platform: Unknown
+AccountCreationDate: 2022-12-25 00:57:52 UTC
+Color: R=1.00 G=0.00 B=0.00
+Cosmetics: None

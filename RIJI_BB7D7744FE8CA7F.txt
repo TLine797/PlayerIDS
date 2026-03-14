@@ -1,0 +1,7 @@
+Name: XVZ
+ActorNumber: 1226
+PlayerID: BB7D7744FE8CA7F
+Platform: Standalone
+AccountCreationDate: 2025-12-25 13:09:55 UTC
+Color: R=0.00 G=0.67 B=1.00
+Cosmetics: None

@@ -1,0 +1,7 @@
+Name: JIMBOBERT
+ActorNumber: 723
+PlayerID: E3AAD8A3A0C90E0C
+Platform: Unknown
+AccountCreationDate: 2022-12-27 01:00:00 UTC
+Color: R=0.67 G=0.44 B=0.22
+Cosmetics: None

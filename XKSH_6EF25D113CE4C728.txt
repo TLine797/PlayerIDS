@@ -1,0 +1,7 @@
+Name: KATIE
+ActorNumber: 646
+PlayerID: 6EF25D113CE4C728
+Platform: Unknown
+AccountCreationDate: 2023-01-31 00:23:21 UTC
+Color: R=1.00 G=1.00 B=1.00
+Cosmetics: None

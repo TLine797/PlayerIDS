@@ -1,0 +1,7 @@
+Name: HIRU
+ActorNumber: 1647
+PlayerID: A50D68992C7559FA
+Platform: Standalone
+AccountCreationDate: 2025-07-11 13:19:01 UTC
+Color: R=0.00 G=0.00 B=0.00
+Cosmetics: None

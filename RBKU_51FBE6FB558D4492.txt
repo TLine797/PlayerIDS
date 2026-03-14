@@ -1,0 +1,7 @@
+Name: PHANT0M
+ActorNumber: 229
+PlayerID: 51FBE6FB558D4492
+Platform: Standalone
+AccountCreationDate: 2026-02-01 23:26:37 UTC
+Color: R=0.44 G=0.11 B=0.56
+Cosmetics: None

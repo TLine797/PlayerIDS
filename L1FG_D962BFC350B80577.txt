@@ -1,0 +1,7 @@
+Name: SINGER
+ActorNumber: 5960
+PlayerID: D962BFC350B80577
+Platform: Standalone
+AccountCreationDate: 2025-08-11 08:39:53 UTC
+Color: R=0.56 G=0.22 B=1.00
+Cosmetics: None

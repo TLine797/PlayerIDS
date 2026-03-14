@@ -1,0 +1,7 @@
+Name: ORANGEMANVR
+ActorNumber: 750
+PlayerID: 9A7F58E2CC9C8260
+Platform: Standalone
+AccountCreationDate: 2025-12-29 20:07:43 UTC
+Color: R=0.89 G=0.44 B=0.00
+Cosmetics: None

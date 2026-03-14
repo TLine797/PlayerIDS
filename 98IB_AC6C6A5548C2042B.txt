@@ -1,0 +1,7 @@
+Name: 37
+ActorNumber: 211
+PlayerID: AC6C6A5548C2042B
+Platform: Standalone
+AccountCreationDate: 2023-07-22 23:08:11 UTC
+Color: R=0.33 G=0.67 B=0.67
+Cosmetics: None

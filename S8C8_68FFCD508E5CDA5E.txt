@@ -1,0 +1,7 @@
+Name: FOGISFOG
+ActorNumber: 8
+PlayerID: 68FFCD508E5CDA5E
+Platform: Standalone
+AccountCreationDate: 2024-06-08 16:20:38 UTC
+Color: R=1.00 G=1.00 B=0.22
+Cosmetics: None

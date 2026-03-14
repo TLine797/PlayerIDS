@@ -1,0 +1,7 @@
+Name: META
+ActorNumber: 15
+PlayerID: 7C635C2AF8F20CE1
+Platform: Standalone
+AccountCreationDate: 2024-12-25 14:04:19 UTC
+Color: R=0.22 G=0.67 B=0.22
+Cosmetics: None

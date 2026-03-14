@@ -1,0 +1,7 @@
+Name: FALE
+ActorNumber: 937
+PlayerID: 8B92A2B86EACA0D6
+Platform: Standalone
+AccountCreationDate: 2025-07-16 22:51:24 UTC
+Color: R=1.00 G=0.78 B=0.00
+Cosmetics: None

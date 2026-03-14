@@ -1,0 +1,7 @@
+Name: gorilla0549
+ActorNumber: 1142
+PlayerID: 5FDBED4AC61BD520
+Platform: Unknown
+AccountCreationDate: 2025-07-26 02:40:52 UTC
+Color: R=0.00 G=0.22 B=1.00
+Cosmetics: None

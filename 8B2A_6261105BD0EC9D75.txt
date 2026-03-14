@@ -1,0 +1,7 @@
+Name: gorilla
+ActorNumber: 623
+PlayerID: 6261105BD0EC9D75
+Platform: Standalone
+AccountCreationDate: 2025-06-16 01:45:29 UTC
+Color: R=0.78 G=1.00 B=0.11
+Cosmetics: None

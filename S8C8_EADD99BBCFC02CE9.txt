@@ -1,0 +1,7 @@
+Name: LAVENDER
+ActorNumber: 46
+PlayerID: EADD99BBCFC02CE9
+Platform: Standalone
+AccountCreationDate: 2024-12-25 16:22:59 UTC
+Color: R=1.00 G=0.89 B=1.00
+Cosmetics: None

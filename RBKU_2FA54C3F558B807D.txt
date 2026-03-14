@@ -1,0 +1,7 @@
+Name: MOON
+ActorNumber: 186
+PlayerID: 2FA54C3F558B807D
+Platform: Unknown
+AccountCreationDate: 2022-02-10 02:46:13 UTC
+Color: R=0.00 G=0.33 B=0.89
+Cosmetics: None

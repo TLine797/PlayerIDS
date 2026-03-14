@@ -1,0 +1,7 @@
+Name: JAZZ
+ActorNumber: 585
+PlayerID: 2AF95EC7BF3A1322
+Platform: Unknown
+AccountCreationDate: 2022-11-05 19:20:01 UTC
+Color: R=0.22 G=0.11 B=0.44
+Cosmetics: None

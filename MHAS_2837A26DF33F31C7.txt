@@ -1,0 +1,7 @@
+Name: 90
+ActorNumber: 1168
+PlayerID: 2837A26DF33F31C7
+Platform: Standalone
+AccountCreationDate: 2025-01-01 00:43:47 UTC
+Color: R=0.78 G=0.00 B=0.00
+Cosmetics: None

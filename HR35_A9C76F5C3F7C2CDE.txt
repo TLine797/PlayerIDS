@@ -1,0 +1,7 @@
+Name: GGS
+ActorNumber: 13
+PlayerID: A9C76F5C3F7C2CDE
+Platform: Standalone
+AccountCreationDate: 2025-05-26 14:26:56 UTC
+Color: R=0.78 G=0.00 B=0.00
+Cosmetics: None

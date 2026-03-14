@@ -1,0 +1,7 @@
+Name: gorilla4525
+ActorNumber: 237
+PlayerID: 61352871F16D32BC
+Platform: Standalone
+AccountCreationDate: 2025-05-31 00:05:38 UTC
+Color: R=1.00 G=0.89 B=0.56
+Cosmetics: None

@@ -1,0 +1,7 @@
+Name: APPLEBUTTER
+ActorNumber: 1706
+PlayerID: DC3877D42404D418
+Platform: Standalone
+AccountCreationDate: 2024-08-13 22:15:11 UTC
+Color: R=0.22 G=0.00 B=0.00
+Cosmetics: None

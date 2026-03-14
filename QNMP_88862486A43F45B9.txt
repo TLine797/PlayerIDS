@@ -1,0 +1,7 @@
+Name: YELLOW
+ActorNumber: 969
+PlayerID: 88862486A43F45B9
+Platform: Standalone
+AccountCreationDate: 2026-01-21 17:23:18 UTC
+Color: R=1.00 G=1.00 B=0.00
+Cosmetics: None

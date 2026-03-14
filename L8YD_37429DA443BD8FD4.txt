@@ -1,0 +1,7 @@
+Name: AJ
+ActorNumber: 158
+PlayerID: 37429DA443BD8FD4
+Platform: Standalone
+AccountCreationDate: 2025-11-30 05:36:33 UTC
+Color: R=0.56 G=0.44 B=0.78
+Cosmetics: None

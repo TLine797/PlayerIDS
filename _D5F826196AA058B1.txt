@@ -1,0 +1,7 @@
+Name: JMANCURLYFAN
+ActorNumber: 661
+PlayerID: D5F826196AA058B1
+Platform: Standalone
+AccountCreationDate: 2025-12-26 00:00:23 UTC
+Color: R=0.00 G=0.89 B=1.00
+Cosmetics: None

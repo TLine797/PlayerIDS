@@ -1,0 +1,7 @@
+Name: SILLYTUNA
+ActorNumber: 553
+PlayerID: 9D5236E66F259001
+Platform: Standalone
+AccountCreationDate: 2025-12-31 16:47:07 UTC
+Color: R=1.00 G=0.44 B=0.56
+Cosmetics: None

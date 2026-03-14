@@ -1,0 +1,7 @@
+Name: gorilla9930
+ActorNumber: 595
+PlayerID: 516DF4B872537FC9
+Platform: Standalone
+AccountCreationDate: 2023-11-12 17:30:29 UTC
+Color: R=0.67 G=1.00 B=0.78
+Cosmetics: None

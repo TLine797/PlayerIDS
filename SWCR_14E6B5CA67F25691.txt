@@ -1,0 +1,7 @@
+Name: MKX
+ActorNumber: 920
+PlayerID: 14E6B5CA67F25691
+Platform: Unknown
+AccountCreationDate: 2022-06-19 18:43:59 UTC
+Color: R=0.67 G=0.44 B=0.33
+Cosmetics: None

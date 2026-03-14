@@ -1,0 +1,7 @@
+Name: IMNOTGAYDUDE
+ActorNumber: 974
+PlayerID: A5F156B246A26945
+Platform: Standalone
+AccountCreationDate: 2024-08-26 00:06:52 UTC
+Color: R=0.33 G=0.33 B=0.33
+Cosmetics: None

@@ -1,0 +1,7 @@
+Name: GOOFY
+ActorNumber: 931
+PlayerID: 18D7B9066E58AA8E
+Platform: Unknown
+AccountCreationDate: 2021-08-23 12:52:54 UTC
+Color: R=0.33 G=0.00 B=0.00
+Cosmetics: None

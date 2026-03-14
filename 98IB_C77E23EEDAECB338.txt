@@ -1,0 +1,7 @@
+Name: ZlothY
+ActorNumber: 163
+PlayerID: C77E23EEDAECB338
+Platform: Standalone
+AccountCreationDate: 2024-02-24 19:24:08 UTC
+Color: R=1.00 G=0.44 B=1.00
+Cosmetics: None

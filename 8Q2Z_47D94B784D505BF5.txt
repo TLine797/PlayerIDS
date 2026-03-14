@@ -1,0 +1,7 @@
+Name: AVOCADOS
+ActorNumber: 654
+PlayerID: 47D94B784D505BF5
+Platform: Standalone
+AccountCreationDate: 2023-06-30 21:18:19 UTC
+Color: R=1.00 G=0.22 B=0.00
+Cosmetics: None

@@ -1,0 +1,7 @@
+Name: MACHBOOS
+ActorNumber: 167
+PlayerID: BF16F130971694E5
+Platform: Standalone
+AccountCreationDate: 2022-09-30 14:15:40 UTC
+Color: R=0.89 G=0.67 B=0.22
+Cosmetics: None

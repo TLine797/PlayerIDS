@@ -1,0 +1,7 @@
+Name: BRANCH
+ActorNumber: 456
+PlayerID: 490645CEFDF88FE1
+Platform: Standalone
+AccountCreationDate: 2024-12-25 22:21:03 UTC
+Color: R=0.89 G=0.67 B=0.89
+Cosmetics: None

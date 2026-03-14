@@ -1,0 +1,7 @@
+Name: VOID
+ActorNumber: 245
+PlayerID: B2A0CD65061031F8
+Platform: Standalone
+AccountCreationDate: 2024-12-25 15:57:03 UTC
+Color: R=0.00 G=0.00 B=0.00
+Cosmetics: None

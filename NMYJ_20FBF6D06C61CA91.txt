@@ -1,0 +1,7 @@
+Name: NIILAA
+ActorNumber: 1630
+PlayerID: 20FBF6D06C61CA91
+Platform: Standalone
+AccountCreationDate: 2024-02-28 00:25:09 UTC
+Color: R=0.44 G=0.00 B=0.22
+Cosmetics: None

@@ -1,0 +1,7 @@
+Name: IMSTANDALONE
+ActorNumber: 668
+PlayerID: F261E709064F2DCB
+Platform: Standalone
+AccountCreationDate: 2024-03-30 22:21:01 UTC
+Color: R=0.56 G=0.11 B=1.00
+Cosmetics: None

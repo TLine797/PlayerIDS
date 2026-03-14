@@ -1,0 +1,7 @@
+Name: CDEF
+ActorNumber: 270
+PlayerID: E9F878E3C9712EB9
+Platform: Standalone
+AccountCreationDate: 2024-03-16 17:26:03 UTC
+Color: R=0.22 G=0.00 B=0.33
+Cosmetics: None

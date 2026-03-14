@@ -1,0 +1,7 @@
+Name: BELLA
+ActorNumber: 204
+PlayerID: C9C054E54F71272
+Platform: Standalone
+AccountCreationDate: 2026-02-23 15:46:52 UTC
+Color: R=0.67 G=0.00 B=0.00
+Cosmetics: None

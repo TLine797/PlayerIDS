@@ -1,0 +1,7 @@
+Name: DRPSYCHO
+ActorNumber: 1652
+PlayerID: E10F0CE0AD08C6D5
+Platform: Standalone
+AccountCreationDate: 2025-02-21 17:25:46 UTC
+Color: R=1.00 G=0.78 B=0.00
+Cosmetics: None

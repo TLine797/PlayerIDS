@@ -1,0 +1,7 @@
+Name: CC
+ActorNumber: 752
+PlayerID: A9F8754BE2FFE504
+Platform: Standalone
+AccountCreationDate: 2024-07-01 04:33:56 UTC
+Color: R=0.89 G=0.00 B=0.00
+Cosmetics: None

@@ -1,0 +1,7 @@
+Name: IMAFLY
+ActorNumber: 722
+PlayerID: AD32737D523758BC
+Platform: Standalone
+AccountCreationDate: 2025-09-29 01:21:20 UTC
+Color: R=1.00 G=0.22 B=0.22
+Cosmetics: None

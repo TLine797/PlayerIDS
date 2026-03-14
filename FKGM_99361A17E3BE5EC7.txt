@@ -1,0 +1,7 @@
+Name: DREN
+ActorNumber: 1108
+PlayerID: 99361A17E3BE5EC7
+Platform: Standalone
+AccountCreationDate: 2022-04-23 10:12:39 UTC
+Color: R=0.00 G=0.00 B=1.00
+Cosmetics: None

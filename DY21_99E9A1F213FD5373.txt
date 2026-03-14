@@ -1,0 +1,7 @@
+Name: DEKU
+ActorNumber: 261
+PlayerID: 99E9A1F213FD5373
+Platform: Standalone
+AccountCreationDate: 2024-04-10 21:05:04 UTC
+Color: R=0.00 G=0.56 B=0.00
+Cosmetics: None

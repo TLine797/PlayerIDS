@@ -1,0 +1,7 @@
+Name: SHARKY
+ActorNumber: 516
+PlayerID: 8E32C56C55906D71
+Platform: Unknown
+AccountCreationDate: 2022-12-19 18:06:18 UTC
+Color: R=0.00 G=1.00 B=0.00
+Cosmetics: None

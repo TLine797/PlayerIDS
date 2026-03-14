@@ -1,0 +1,7 @@
+Name: SGREAL
+ActorNumber: 231
+PlayerID: E0E150247BF6AB5E
+Platform: Unknown
+AccountCreationDate: 2022-01-05 22:08:47 UTC
+Color: R=0.78 G=0.56 B=1.00
+Cosmetics: None

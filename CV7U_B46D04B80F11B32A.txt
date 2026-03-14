@@ -1,0 +1,7 @@
+Name: CHICA
+ActorNumber: 1067
+PlayerID: B46D04B80F11B32A
+Platform: Standalone
+AccountCreationDate: 2025-12-25 14:39:28 UTC
+Color: R=0.00 G=0.00 B=0.00
+Cosmetics: None

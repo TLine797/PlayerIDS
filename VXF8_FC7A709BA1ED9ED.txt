@@ -1,0 +1,7 @@
+Name: R
+ActorNumber: 1218
+PlayerID: FC7A709BA1ED9ED
+Platform: Unknown
+AccountCreationDate: 2022-01-03 03:41:54 UTC
+Color: R=0.00 G=1.00 B=0.00
+Cosmetics: None

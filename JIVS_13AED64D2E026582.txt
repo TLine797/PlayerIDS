@@ -1,0 +1,7 @@
+Name: VIRUSREVIVAL
+ActorNumber: 298
+PlayerID: 13AED64D2E026582
+Platform: Standalone
+AccountCreationDate: 2024-02-28 21:38:35 UTC
+Color: R=0.00 G=0.00 B=0.78
+Cosmetics: None

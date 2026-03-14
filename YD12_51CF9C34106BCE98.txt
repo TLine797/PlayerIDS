@@ -1,0 +1,7 @@
+Name: SOCCERVR
+ActorNumber: 460
+PlayerID: 51CF9C34106BCE98
+Platform: Standalone
+AccountCreationDate: 2024-05-19 19:27:01 UTC
+Color: R=0.00 G=0.00 B=0.00
+Cosmetics: None

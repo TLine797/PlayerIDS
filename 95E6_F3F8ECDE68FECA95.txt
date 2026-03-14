@@ -1,0 +1,7 @@
+Name: RROXKET
+ActorNumber: 522
+PlayerID: F3F8ECDE68FECA95
+Platform: Unknown
+AccountCreationDate: 2022-01-05 00:41:09 UTC
+Color: R=0.00 G=0.33 B=0.00
+Cosmetics: None

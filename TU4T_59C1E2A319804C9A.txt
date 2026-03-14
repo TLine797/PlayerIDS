@@ -1,0 +1,7 @@
+Name: LANDO3K
+ActorNumber: 801
+PlayerID: 59C1E2A319804C9A
+Platform: Standalone
+AccountCreationDate: 2023-03-03 01:05:03 UTC
+Color: R=0.56 G=1.00 B=0.00
+Cosmetics: None

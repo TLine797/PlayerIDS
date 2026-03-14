@@ -1,0 +1,7 @@
+Name: HIMATHY
+ActorNumber: 649
+PlayerID: 9FE05C8BAE9B7852
+Platform: Standalone
+AccountCreationDate: 2025-12-27 12:21:00 UTC
+Color: R=0.56 G=0.00 B=1.00
+Cosmetics: None

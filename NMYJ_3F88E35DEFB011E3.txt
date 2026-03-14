@@ -1,0 +1,7 @@
+Name: NUGG
+ActorNumber: 1633
+PlayerID: 3F88E35DEFB011E3
+Platform: Unknown
+AccountCreationDate: 2024-05-02 03:43:24 UTC
+Color: R=0.33 G=0.22 B=0.67
+Cosmetics: None

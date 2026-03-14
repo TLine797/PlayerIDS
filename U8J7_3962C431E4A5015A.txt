@@ -1,0 +1,7 @@
+Name: SEXYMAN
+ActorNumber: 789
+PlayerID: 3962C431E4A5015A
+Platform: PC
+AccountCreationDate: 2025-11-13 23:37:02 UTC
+Color: R=0.44 G=0.78 B=1.00
+Cosmetics: None

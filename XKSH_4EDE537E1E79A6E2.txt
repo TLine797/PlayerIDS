@@ -1,0 +1,7 @@
+Name: MELONMONKEVR
+ActorNumber: 653
+PlayerID: 4EDE537E1E79A6E2
+Platform: Standalone
+AccountCreationDate: 2025-12-25 12:09:26 UTC
+Color: R=0.56 G=0.33 B=0.67
+Cosmetics: None

@@ -1,0 +1,7 @@
+Name: WASHED
+ActorNumber: 389
+PlayerID: 394B09B95EC03F8A
+Platform: Standalone
+AccountCreationDate: 2022-10-08 01:56:28 UTC
+Color: R=0.00 G=0.56 B=1.00
+Cosmetics: None

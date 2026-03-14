@@ -1,0 +1,7 @@
+Name: MUDRIK
+ActorNumber: 1663
+PlayerID: D79EFFC418C7C47E
+Platform: Standalone
+AccountCreationDate: 2026-02-09 16:51:42 UTC
+Color: R=0.44 G=0.33 B=0.78
+Cosmetics: None

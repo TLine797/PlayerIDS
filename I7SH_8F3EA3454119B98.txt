@@ -1,0 +1,7 @@
+Name: HAYDEN
+ActorNumber: 251
+PlayerID: 8F3EA3454119B98
+Platform: Standalone
+AccountCreationDate: 2025-12-25 21:00:59 UTC
+Color: R=0.56 G=0.33 B=0.89
+Cosmetics: None

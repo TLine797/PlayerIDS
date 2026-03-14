@@ -1,0 +1,7 @@
+Name: GOBOOOOOOOOO
+ActorNumber: 26
+PlayerID: 45D1563541F36BD5
+Platform: Standalone
+AccountCreationDate: 2024-12-25 05:59:35 UTC
+Color: R=0.67 G=0.00 B=1.00
+Cosmetics: None

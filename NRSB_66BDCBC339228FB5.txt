@@ -1,0 +1,7 @@
+Name: HAKTSTCHEEEI
+ActorNumber: 238
+PlayerID: 66BDCBC339228FB5
+Platform: Standalone
+AccountCreationDate: 2022-12-18 15:20:01 UTC
+Color: R=0.67 G=0.44 B=0.78
+Cosmetics: None

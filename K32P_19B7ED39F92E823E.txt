@@ -1,0 +1,7 @@
+Name: CANTAXI
+ActorNumber: 751
+PlayerID: 19B7ED39F92E823E
+Platform: Standalone
+AccountCreationDate: 2023-12-25 16:18:20 UTC
+Color: R=0.67 G=0.67 B=0.67
+Cosmetics: None

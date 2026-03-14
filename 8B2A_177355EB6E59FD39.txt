@@ -1,0 +1,7 @@
+Name: JJ
+ActorNumber: 604
+PlayerID: 177355EB6E59FD39
+Platform: Standalone
+AccountCreationDate: 2025-12-25 18:56:15 UTC
+Color: R=0.44 G=0.33 B=0.22
+Cosmetics: None

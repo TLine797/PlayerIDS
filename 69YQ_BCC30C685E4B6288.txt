@@ -1,0 +1,7 @@
+Name: TGTHALLON
+ActorNumber: 1050
+PlayerID: BCC30C685E4B6288
+Platform: Standalone
+AccountCreationDate: 2025-08-01 10:45:52 UTC
+Color: R=1.00 G=1.00 B=1.00
+Cosmetics: None

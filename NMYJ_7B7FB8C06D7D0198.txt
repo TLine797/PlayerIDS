@@ -1,0 +1,7 @@
+Name: FEMBOY
+ActorNumber: 1588
+PlayerID: 7B7FB8C06D7D0198
+Platform: Standalone
+AccountCreationDate: 2024-05-23 19:10:54 UTC
+Color: R=0.78 G=0.00 B=0.11
+Cosmetics: None

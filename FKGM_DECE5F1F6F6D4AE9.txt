@@ -1,0 +1,7 @@
+Name: ALSHEHRI
+ActorNumber: 1177
+PlayerID: DECE5F1F6F6D4AE9
+Platform: Standalone
+AccountCreationDate: 2022-09-15 15:35:40 UTC
+Color: R=0.22 G=0.44 B=0.78
+Cosmetics: None

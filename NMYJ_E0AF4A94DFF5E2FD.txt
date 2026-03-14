@@ -1,0 +1,7 @@
+Name: SQUIRTLE
+ActorNumber: 1700
+PlayerID: E0AF4A94DFF5E2FD
+Platform: PC
+AccountCreationDate: 2022-06-11 09:06:20 UTC
+Color: R=1.00 G=1.00 B=1.00
+Cosmetics: None

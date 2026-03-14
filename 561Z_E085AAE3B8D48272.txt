@@ -1,0 +1,7 @@
+Name: DUCKY
+ActorNumber: 515
+PlayerID: E085AAE3B8D48272
+Platform: Standalone
+AccountCreationDate: 2025-12-25 16:48:02 UTC
+Color: R=0.56 G=0.22 B=1.00
+Cosmetics: None

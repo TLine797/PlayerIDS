@@ -1,0 +1,7 @@
+Name: HYAENA
+ActorNumber: 130
+PlayerID: C06FA88370BD5026
+Platform: Unknown
+AccountCreationDate: 2022-01-31 16:13:00 UTC
+Color: R=0.00 G=0.33 B=0.78
+Cosmetics: None

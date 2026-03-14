@@ -1,0 +1,7 @@
+Name: SILBER
+ActorNumber: 714
+PlayerID: 611987B0B79BD918
+Platform: Standalone
+AccountCreationDate: 2024-12-25 01:21:23 UTC
+Color: R=0.00 G=0.00 B=0.00
+Cosmetics: None

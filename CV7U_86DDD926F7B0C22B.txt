@@ -1,0 +1,7 @@
+Name: JIMMY
+ActorNumber: 1057
+PlayerID: 86DDD926F7B0C22B
+Platform: Standalone
+AccountCreationDate: 2025-06-30 13:41:26 UTC
+Color: R=0.11 G=0.33 B=0.67
+Cosmetics: None

@@ -1,0 +1,7 @@
+Name: APOLLO
+ActorNumber: 24
+PlayerID: 62FF0D8F213DE1C6
+Platform: Standalone
+AccountCreationDate: 2024-12-18 22:45:49 UTC
+Color: R=0.56 G=1.00 B=0.33
+Cosmetics: None

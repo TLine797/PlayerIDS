@@ -1,0 +1,7 @@
+Name: BLUEBERRIE
+ActorNumber: 622
+PlayerID: 70B5D2848435F2D
+Platform: Standalone
+AccountCreationDate: 2025-12-26 22:31:48 UTC
+Color: R=1.00 G=1.00 B=1.00
+Cosmetics: None

@@ -1,0 +1,7 @@
+Name: F1G
+ActorNumber: 548
+PlayerID: BDBCB70DA098FC55
+Platform: Standalone
+AccountCreationDate: 2024-01-19 20:36:53 UTC
+Color: R=0.89 G=0.67 B=0.89
+Cosmetics: None

@@ -1,0 +1,7 @@
+Name: ELENNA
+ActorNumber: 1288
+PlayerID: 839B80604D9EAC2B
+Platform: Unknown
+AccountCreationDate: 2022-12-25 18:57:50 UTC
+Color: R=0.67 G=0.67 B=0.67
+Cosmetics: None

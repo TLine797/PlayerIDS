@@ -1,0 +1,7 @@
+Name: CUTIE
+ActorNumber: 198
+PlayerID: 6F41FDDE94A00179
+Platform: Standalone
+AccountCreationDate: 2025-05-09 18:33:15 UTC
+Color: R=1.00 G=0.44 B=1.00
+Cosmetics: None

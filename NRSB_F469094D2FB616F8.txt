@@ -1,0 +1,7 @@
+Name: BURGER
+ActorNumber: 224
+PlayerID: F469094D2FB616F8
+Platform: Unknown
+AccountCreationDate: 2025-10-11 13:30:17 UTC
+Color: R=0.22 G=1.00 B=0.11
+Cosmetics: None

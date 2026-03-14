@@ -1,0 +1,7 @@
+Name: REDGUYVR
+ActorNumber: 1196
+PlayerID: 82A07C69FD70ADC4
+Platform: Standalone
+AccountCreationDate: 2025-07-24 01:49:15 UTC
+Color: R=0.89 G=0.00 B=0.00
+Cosmetics: None

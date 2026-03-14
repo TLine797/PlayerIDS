@@ -1,0 +1,7 @@
+Name: GENTILLE
+ActorNumber: 1124
+PlayerID: B28F0C70443BC7F5
+Platform: Unknown
+AccountCreationDate: 2023-12-24 21:38:16 UTC
+Color: R=0.67 G=0.00 B=0.22
+Cosmetics: None

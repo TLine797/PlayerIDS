@@ -1,0 +1,7 @@
+Name: FEELWIND
+ActorNumber: 795
+PlayerID: D4AF6990F83BFF91
+Platform: Standalone
+AccountCreationDate: 2024-12-27 02:21:21 UTC
+Color: R=0.56 G=0.11 B=0.89
+Cosmetics: None

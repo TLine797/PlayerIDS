@@ -1,0 +1,7 @@
+Name: VERI8ON
+ActorNumber: 607
+PlayerID: ADAAB8AED43A6AED
+Platform: Standalone
+AccountCreationDate: 2025-12-25 15:53:27 UTC
+Color: R=0.44 G=0.44 B=0.44
+Cosmetics: None

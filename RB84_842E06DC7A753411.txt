@@ -1,0 +1,7 @@
+Name: GHOSTBOY
+ActorNumber: 521
+PlayerID: 842E06DC7A753411
+Platform: Unknown
+AccountCreationDate: 2022-07-13 02:46:16 UTC
+Color: R=1.00 G=0.11 B=1.00
+Cosmetics: None

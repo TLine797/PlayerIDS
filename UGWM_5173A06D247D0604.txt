@@ -1,0 +1,7 @@
+Name: RUFUSVR
+ActorNumber: 20
+PlayerID: 5173A06D247D0604
+Platform: Standalone
+AccountCreationDate: 2023-07-12 00:23:35 UTC
+Color: R=0.11 G=0.22 B=1.00
+Cosmetics: None

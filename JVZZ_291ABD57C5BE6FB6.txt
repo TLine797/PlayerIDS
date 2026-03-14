@@ -1,0 +1,7 @@
+Name: SHADOW
+ActorNumber: 715
+PlayerID: 291ABD57C5BE6FB6
+Platform: Standalone
+AccountCreationDate: 2026-01-17 22:28:54 UTC
+Color: R=0.22 G=0.22 B=0.22
+Cosmetics: None

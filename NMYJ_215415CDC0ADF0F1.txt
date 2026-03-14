@@ -1,0 +1,7 @@
+Name: AA
+ActorNumber: 1612
+PlayerID: 215415CDC0ADF0F1
+Platform: Standalone
+AccountCreationDate: 2025-07-14 02:41:00 UTC
+Color: R=0.11 G=0.89 B=1.00
+Cosmetics: None

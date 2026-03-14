@@ -1,0 +1,7 @@
+Name: GOFFY
+ActorNumber: 601
+PlayerID: EABBCB1018A296FC
+Platform: Standalone
+AccountCreationDate: 2026-01-31 08:12:59 UTC
+Color: R=0.89 G=0.22 B=1.00
+Cosmetics: None

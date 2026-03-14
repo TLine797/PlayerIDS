@@ -1,0 +1,7 @@
+Name: ZF0RCEYT
+ActorNumber: 530
+PlayerID: E10877ABB156C52B
+Platform: Standalone
+AccountCreationDate: 2024-12-22 22:23:09 UTC
+Color: R=0.11 G=0.22 B=0.44
+Cosmetics: None

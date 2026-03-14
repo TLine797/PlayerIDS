@@ -1,0 +1,7 @@
+Name: DUCKVR
+ActorNumber: 23
+PlayerID: 59664A81F564859B
+Platform: Standalone
+AccountCreationDate: 2023-06-07 18:00:51 UTC
+Color: R=0.00 G=0.00 B=0.78
+Cosmetics: None

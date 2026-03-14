@@ -1,0 +1,7 @@
+Name: NOAUDIO
+ActorNumber: 985
+PlayerID: 4498DF3C0AB7BA78
+Platform: Standalone
+AccountCreationDate: 2026-02-05 18:21:04 UTC
+Color: R=1.00 G=0.00 B=0.00
+Cosmetics: None

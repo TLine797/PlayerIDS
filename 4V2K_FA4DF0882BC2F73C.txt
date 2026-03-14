@@ -1,0 +1,7 @@
+Name: COOLKID
+ActorNumber: 190
+PlayerID: FA4DF0882BC2F73C
+Platform: Unknown
+AccountCreationDate: 2023-01-13 01:55:38 UTC
+Color: R=0.33 G=0.33 B=0.33
+Cosmetics: None

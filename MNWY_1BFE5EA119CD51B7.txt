@@ -1,0 +1,7 @@
+Name: PSGSUNDINO
+ActorNumber: 442
+PlayerID: 1BFE5EA119CD51B7
+Platform: Standalone
+AccountCreationDate: 2024-01-25 21:39:47 UTC
+Color: R=0.44 G=0.00 B=0.78
+Cosmetics: None

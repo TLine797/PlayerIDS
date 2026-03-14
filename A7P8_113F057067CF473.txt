@@ -1,0 +1,7 @@
+Name: DLEEC14
+ActorNumber: 417
+PlayerID: 113F057067CF473
+Platform: Standalone
+AccountCreationDate: 2025-12-26 16:07:41 UTC
+Color: R=0.00 G=1.00 B=1.00
+Cosmetics: None

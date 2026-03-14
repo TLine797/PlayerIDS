@@ -1,0 +1,7 @@
+Name: JAX
+ActorNumber: 14
+PlayerID: CE1D3A21C76094D4
+Platform: Standalone
+AccountCreationDate: 2024-06-19 17:32:07 UTC
+Color: R=0.00 G=0.00 B=0.00
+Cosmetics: None

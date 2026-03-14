@@ -1,0 +1,7 @@
+Name: RAYGT
+ActorNumber: 588
+PlayerID: C65D4E3599A6E681
+Platform: Standalone
+AccountCreationDate: 2025-01-24 05:05:34 UTC
+Color: R=0.33 G=0.22 B=1.00
+Cosmetics: None

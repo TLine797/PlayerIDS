@@ -1,0 +1,7 @@
+Name: MICKEYMOUSE
+ActorNumber: 1328
+PlayerID: 89090EBC89B44134
+Platform: Standalone
+AccountCreationDate: 2025-08-10 17:20:35 UTC
+Color: R=0.89 G=0.78 B=0.67
+Cosmetics: None

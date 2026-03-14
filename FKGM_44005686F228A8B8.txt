@@ -1,0 +1,7 @@
+Name: FL4WLESS
+ActorNumber: 1094
+PlayerID: 44005686F228A8B8
+Platform: Standalone
+AccountCreationDate: 2026-03-06 01:07:12 UTC
+Color: R=0.22 G=0.22 B=0.22
+Cosmetics: None

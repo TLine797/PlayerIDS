@@ -1,0 +1,7 @@
+Name: SAUSAGE
+ActorNumber: 59
+PlayerID: 8601BD7E138EF317
+Platform: Standalone
+AccountCreationDate: 2024-02-27 21:11:36 UTC
+Color: R=1.00 G=0.89 B=0.67
+Cosmetics: None

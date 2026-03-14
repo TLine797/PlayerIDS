@@ -1,0 +1,7 @@
+Name: BOBVR
+ActorNumber: 113
+PlayerID: D4EB96D3196950E7
+Platform: Standalone
+AccountCreationDate: 2024-12-25 12:47:51 UTC
+Color: R=0.56 G=0.00 B=1.00
+Cosmetics: None

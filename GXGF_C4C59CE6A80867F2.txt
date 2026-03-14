@@ -1,0 +1,7 @@
+Name: MAXINE
+ActorNumber: 193
+PlayerID: C4C59CE6A80867F2
+Platform: Standalone
+AccountCreationDate: 2025-12-27 21:54:18 UTC
+Color: R=0.33 G=0.67 B=0.78
+Cosmetics: None

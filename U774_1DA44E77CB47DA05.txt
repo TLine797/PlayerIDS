@@ -1,0 +1,7 @@
+Name: NOOB
+ActorNumber: 3
+PlayerID: 1DA44E77CB47DA05
+Platform: Standalone
+AccountCreationDate: 2026-01-26 00:30:19 UTC
+Color: R=1.00 G=0.33 B=0.00
+Cosmetics: None

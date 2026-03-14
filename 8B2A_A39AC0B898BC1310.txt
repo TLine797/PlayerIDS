@@ -1,0 +1,7 @@
+Name: JEFFYPOOOOO
+ActorNumber: 630
+PlayerID: A39AC0B898BC1310
+Platform: Unknown
+AccountCreationDate: 2022-03-17 19:30:19 UTC
+Color: R=0.67 G=0.00 B=0.00
+Cosmetics: None

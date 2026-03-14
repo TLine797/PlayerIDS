@@ -1,0 +1,7 @@
+Name: SUBTOBUZZGT
+ActorNumber: 13
+PlayerID: F9177BA95D96953D
+Platform: Standalone
+AccountCreationDate: 2025-10-26 18:55:50 UTC
+Color: R=0.56 G=0.00 B=0.67
+Cosmetics: None

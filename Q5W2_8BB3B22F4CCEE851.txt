@@ -1,0 +1,7 @@
+Name: AGUXX
+ActorNumber: 983
+PlayerID: 8BB3B22F4CCEE851
+Platform: Unknown
+AccountCreationDate: 2021-12-01 10:36:35 UTC
+Color: R=1.00 G=0.00 B=0.00
+Cosmetics: None

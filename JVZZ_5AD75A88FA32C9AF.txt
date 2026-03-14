@@ -1,0 +1,7 @@
+Name: ELPANAWAZAAA
+ActorNumber: 726
+PlayerID: 5AD75A88FA32C9AF
+Platform: Unknown
+AccountCreationDate: 2022-12-26 20:06:00 UTC
+Color: R=0.00 G=0.00 B=0.00
+Cosmetics: None

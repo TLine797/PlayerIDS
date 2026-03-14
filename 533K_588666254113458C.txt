@@ -1,0 +1,7 @@
+Name: PATO
+ActorNumber: 702
+PlayerID: 588666254113458C
+Platform: Unknown
+AccountCreationDate: 2021-05-17 15:53:17 UTC
+Color: R=0.00 G=0.56 B=0.56
+Cosmetics: None

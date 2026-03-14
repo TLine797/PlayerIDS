@@ -1,0 +1,7 @@
+Name: ZELNXX
+ActorNumber: 615
+PlayerID: 43069802CAA12E5B
+Platform: Standalone
+AccountCreationDate: 2024-01-28 06:08:24 UTC
+Color: R=0.67 G=0.89 B=0.89
+Cosmetics: None

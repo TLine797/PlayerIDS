@@ -1,0 +1,7 @@
+Name: DAX611
+ActorNumber: 227
+PlayerID: 3D771F05D9FC52E1
+Platform: Standalone
+AccountCreationDate: 2024-12-31 02:40:05 UTC
+Color: R=1.00 G=1.00 B=1.00
+Cosmetics: None

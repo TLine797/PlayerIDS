@@ -1,0 +1,7 @@
+Name: NOTCITRVS
+ActorNumber: 1096
+PlayerID: 8FC8E7F121B58BF1
+Platform: Unknown
+AccountCreationDate: 2021-07-27 06:31:43 UTC
+Color: R=1.00 G=1.00 B=1.00
+Cosmetics: None

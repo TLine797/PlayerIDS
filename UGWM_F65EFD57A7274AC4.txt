@@ -1,0 +1,7 @@
+Name: GODISGOOD
+ActorNumber: 35
+PlayerID: F65EFD57A7274AC4
+Platform: Standalone
+AccountCreationDate: 2024-12-24 19:36:54 UTC
+Color: R=0.00 G=0.00 B=0.00
+Cosmetics: None

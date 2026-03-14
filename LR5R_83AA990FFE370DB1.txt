@@ -1,0 +1,7 @@
+Name: TTCSCUSTOM
+ActorNumber: 1318
+PlayerID: 83AA990FFE370DB1
+Platform: Standalone
+AccountCreationDate: 2023-07-30 00:54:44 UTC
+Color: R=0.44 G=0.00 B=0.78
+Cosmetics: None

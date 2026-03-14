@@ -1,0 +1,7 @@
+Name: RIVIX
+ActorNumber: 968
+PlayerID: FA40C9ECDA13D61C
+Platform: Standalone
+AccountCreationDate: 2026-01-24 19:30:20 UTC
+Color: R=0.11 G=0.44 B=0.89
+Cosmetics: None

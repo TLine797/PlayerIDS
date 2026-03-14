@@ -1,0 +1,7 @@
+Name: X4V13R
+ActorNumber: 1118
+PlayerID: 90315F37E5BE5747
+Platform: Standalone
+AccountCreationDate: 2025-11-14 04:39:59 UTC
+Color: R=0.56 G=0.00 B=0.00
+Cosmetics: None

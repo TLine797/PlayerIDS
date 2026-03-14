@@ -1,0 +1,7 @@
+Name: NGA
+ActorNumber: 610
+PlayerID: 91ACB1B7DCDE9572
+Platform: Standalone
+AccountCreationDate: 2022-01-22 01:03:57 UTC
+Color: R=0.33 G=0.22 B=0.11
+Cosmetics: None

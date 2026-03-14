@@ -1,0 +1,7 @@
+Name: GHOST
+ActorNumber: 5976
+PlayerID: 4B926623FC74C2C3
+Platform: Standalone
+AccountCreationDate: 2026-02-18 03:37:32 UTC
+Color: R=0.00 G=0.00 B=0.00
+Cosmetics: None

@@ -1,0 +1,7 @@
+Name: DALLAS
+ActorNumber: 590
+PlayerID: C904BC9A018AF174
+Platform: Standalone
+AccountCreationDate: 2023-03-22 21:45:30 UTC
+Color: R=0.00 G=0.22 B=1.00
+Cosmetics: None

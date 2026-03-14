@@ -1,0 +1,7 @@
+Name: SLIMJIMMY
+ActorNumber: 799
+PlayerID: F61C378939ECEEF3
+Platform: Standalone
+AccountCreationDate: 2024-05-28 21:39:17 UTC
+Color: R=1.00 G=1.00 B=1.00
+Cosmetics: None

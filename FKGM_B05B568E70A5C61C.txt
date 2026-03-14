@@ -1,0 +1,7 @@
+Name: TANGARINEVR
+ActorNumber: 1144
+PlayerID: B05B568E70A5C61C
+Platform: Standalone
+AccountCreationDate: 2024-12-26 14:50:21 UTC
+Color: R=1.00 G=0.56 B=0.33
+Cosmetics: None

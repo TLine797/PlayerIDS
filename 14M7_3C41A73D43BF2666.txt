@@ -1,0 +1,7 @@
+Name: ROMANS1219
+ActorNumber: 596
+PlayerID: 3C41A73D43BF2666
+Platform: Standalone
+AccountCreationDate: 2024-12-25 17:42:08 UTC
+Color: R=1.00 G=0.44 B=0.00
+Cosmetics: None

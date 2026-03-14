@@ -1,0 +1,7 @@
+Name: LEGACY
+ActorNumber: 186
+PlayerID: ADAE0F7F136A0591
+Platform: Standalone
+AccountCreationDate: 2023-08-30 21:36:12 UTC
+Color: R=0.44 G=0.67 B=0.56
+Cosmetics: None

@@ -1,0 +1,7 @@
+Name: ZIG
+ActorNumber: 500
+PlayerID: 72B98B0143C505D6
+Platform: Unknown
+AccountCreationDate: 2022-12-26 04:52:38 UTC
+Color: R=0.67 G=0.56 B=0.44
+Cosmetics: None

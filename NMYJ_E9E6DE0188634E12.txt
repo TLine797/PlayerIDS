@@ -1,0 +1,7 @@
+Name: LEOGOAT
+ActorNumber: 1689
+PlayerID: E9E6DE0188634E12
+Platform: Standalone
+AccountCreationDate: 2025-12-25 22:31:46 UTC
+Color: R=0.00 G=0.89 B=1.00
+Cosmetics: None

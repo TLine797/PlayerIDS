@@ -1,0 +1,7 @@
+Name: JADE
+ActorNumber: 524
+PlayerID: 229A47910541A020
+Platform: Unknown
+AccountCreationDate: 2022-12-25 16:06:20 UTC
+Color: R=0.89 G=0.89 B=0.44
+Cosmetics: None

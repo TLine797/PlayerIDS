@@ -1,0 +1,7 @@
+Name: TBBKIO
+ActorNumber: 235
+PlayerID: B423347ED4EED3A
+Platform: PC
+AccountCreationDate: 2025-08-14 20:41:06 UTC
+Color: R=0.11 G=0.78 B=1.00
+Cosmetics: None

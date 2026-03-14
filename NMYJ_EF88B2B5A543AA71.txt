@@ -1,0 +1,7 @@
+Name: VILLADS
+ActorNumber: 1659
+PlayerID: EF88B2B5A543AA71
+Platform: Standalone
+AccountCreationDate: 2025-04-05 16:55:44 UTC
+Color: R=0.44 G=0.00 B=0.78
+Cosmetics: None

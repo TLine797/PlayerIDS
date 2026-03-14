@@ -1,0 +1,7 @@
+Name: UNKNWNVR
+ActorNumber: 30
+PlayerID: 1E8983D32367A73F
+Platform: Standalone
+AccountCreationDate: 2026-01-09 00:55:09 UTC
+Color: R=0.00 G=0.00 B=0.33
+Cosmetics: None

@@ -1,0 +1,7 @@
+Name: 50KRONER
+ActorNumber: 1636
+PlayerID: C8952BDD37F7621A
+Platform: PC
+AccountCreationDate: 2023-11-09 17:32:13 UTC
+Color: R=0.00 G=0.00 B=0.00
+Cosmetics: None

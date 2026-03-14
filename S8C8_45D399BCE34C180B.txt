@@ -1,0 +1,7 @@
+Name: TRIGGERH4PPY
+ActorNumber: 31
+PlayerID: 45D399BCE34C180B
+Platform: Standalone
+AccountCreationDate: 2024-08-18 18:33:36 UTC
+Color: R=0.67 G=0.33 B=0.44
+Cosmetics: None

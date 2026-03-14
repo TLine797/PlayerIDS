@@ -1,0 +1,7 @@
+Name: TTTCOOLNESS
+ActorNumber: 642
+PlayerID: C96B3414A04C1D14
+Platform: Standalone
+AccountCreationDate: 2023-03-18 19:30:56 UTC
+Color: R=1.00 G=0.44 B=1.00
+Cosmetics: None

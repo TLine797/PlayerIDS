@@ -1,0 +1,7 @@
+Name: DIMAKALBASKA
+ActorNumber: 1682
+PlayerID: 62BB92D53C1657B8
+Platform: Standalone
+AccountCreationDate: 2023-05-08 19:40:00 UTC
+Color: R=0.00 G=1.00 B=1.00
+Cosmetics: None

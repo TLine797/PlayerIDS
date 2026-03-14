@@ -1,0 +1,7 @@
+Name: BOB
+ActorNumber: 363
+PlayerID: B11BD402F049F7C4
+Platform: Unknown
+AccountCreationDate: 2022-05-16 19:11:03 UTC
+Color: R=0.33 G=0.11 B=0.78
+Cosmetics: None

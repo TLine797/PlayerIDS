@@ -1,0 +1,7 @@
+Name: CANTSEE
+ActorNumber: 50
+PlayerID: 6DE21780835C15AB
+Platform: Standalone
+AccountCreationDate: 2025-12-31 20:03:38 UTC
+Color: R=0.00 G=0.00 B=0.00
+Cosmetics: None

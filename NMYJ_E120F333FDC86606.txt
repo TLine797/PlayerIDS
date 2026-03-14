@@ -1,0 +1,7 @@
+Name: CAYDX
+ActorNumber: 1662
+PlayerID: E120F333FDC86606
+Platform: Standalone
+AccountCreationDate: 2021-05-23 18:31:13 UTC
+Color: R=0.00 G=0.67 B=1.00
+Cosmetics: None

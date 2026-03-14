@@ -1,0 +1,7 @@
+Name: BISCUIT
+ActorNumber: 1721
+PlayerID: 6467CBFA68B3164D
+Platform: Standalone
+AccountCreationDate: 2026-02-03 04:21:46 UTC
+Color: R=0.33 G=0.11 B=0.44
+Cosmetics: None

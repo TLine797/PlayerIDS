@@ -1,0 +1,7 @@
+Name: NORMALLY
+ActorNumber: 1176
+PlayerID: E13663192EC854E9
+Platform: Standalone
+AccountCreationDate: 2021-05-09 14:31:03 UTC
+Color: R=0.67 G=0.78 B=1.00
+Cosmetics: None

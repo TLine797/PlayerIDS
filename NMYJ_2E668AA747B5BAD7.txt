@@ -1,0 +1,7 @@
+Name: HI
+ActorNumber: 1625
+PlayerID: 2E668AA747B5BAD7
+Platform: Standalone
+AccountCreationDate: 2025-12-30 18:55:46 UTC
+Color: R=1.00 G=1.00 B=0.89
+Cosmetics: None

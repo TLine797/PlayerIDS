@@ -1,0 +1,7 @@
+Name: BAZOOKABRO
+ActorNumber: 269
+PlayerID: C3F18C8F618EFCB1
+Platform: Standalone
+AccountCreationDate: 2024-06-15 15:49:44 UTC
+Color: R=0.00 G=0.67 B=0.00
+Cosmetics: None

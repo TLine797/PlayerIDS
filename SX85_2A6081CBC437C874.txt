@@ -1,0 +1,7 @@
+Name: WREX
+ActorNumber: 71
+PlayerID: 2A6081CBC437C874
+Platform: Unknown
+AccountCreationDate: 2021-12-25 10:31:52 UTC
+Color: R=0.00 G=0.00 B=0.00
+Cosmetics: None

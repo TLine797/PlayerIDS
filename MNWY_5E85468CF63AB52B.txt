@@ -1,0 +1,7 @@
+Name: RCJAMES
+ActorNumber: 453
+PlayerID: 5E85468CF63AB52B
+Platform: Standalone
+AccountCreationDate: 2024-12-24 16:24:41 UTC
+Color: R=0.44 G=0.33 B=1.00
+Cosmetics: None

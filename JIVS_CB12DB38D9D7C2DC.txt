@@ -1,0 +1,7 @@
+Name: MURO
+ActorNumber: 306
+PlayerID: CB12DB38D9D7C2DC
+Platform: Standalone
+AccountCreationDate: 2024-12-26 21:26:46 UTC
+Color: R=0.44 G=0.00 B=1.00
+Cosmetics: None

@@ -1,0 +1,7 @@
+Name: SEXYYUKO
+ActorNumber: 104
+PlayerID: 32F0FFFFD4BA02DD
+Platform: Standalone
+AccountCreationDate: 2025-03-02 03:59:26 UTC
+Color: R=0.89 G=0.67 B=0.00
+Cosmetics: None

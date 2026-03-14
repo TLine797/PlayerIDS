@@ -1,0 +1,7 @@
+Name: MINT
+ActorNumber: 234
+PlayerID: C504383C5276D00B
+Platform: Standalone
+AccountCreationDate: 2026-01-03 18:31:00 UTC
+Color: R=0.78 G=1.00 B=0.78
+Cosmetics: None

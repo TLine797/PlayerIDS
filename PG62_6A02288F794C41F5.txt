@@ -1,0 +1,7 @@
+Name: JUSTIN
+ActorNumber: 8
+PlayerID: 6A02288F794C41F5
+Platform: Standalone
+AccountCreationDate: 2024-12-27 01:33:16 UTC
+Color: R=1.00 G=0.44 B=0.00
+Cosmetics: None

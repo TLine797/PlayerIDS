@@ -1,0 +1,7 @@
+Name: FLAPPY
+ActorNumber: 10
+PlayerID: F2A97EA9BFAB8964
+Platform: Standalone
+AccountCreationDate: 2024-10-06 23:58:32 UTC
+Color: R=0.00 G=0.67 B=1.00
+Cosmetics: None

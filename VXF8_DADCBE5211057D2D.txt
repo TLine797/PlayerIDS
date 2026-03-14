@@ -1,0 +1,7 @@
+Name: JUBILATOR
+ActorNumber: 1213
+PlayerID: DADCBE5211057D2D
+Platform: Standalone
+AccountCreationDate: 2023-10-06 01:42:38 UTC
+Color: R=0.44 G=0.00 B=0.00
+Cosmetics: None

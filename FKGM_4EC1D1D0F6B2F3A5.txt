@@ -1,0 +1,7 @@
+Name: MRGOOF
+ActorNumber: 1109
+PlayerID: 4EC1D1D0F6B2F3A5
+Platform: Standalone
+AccountCreationDate: 2023-02-13 03:39:08 UTC
+Color: R=1.00 G=1.00 B=1.00
+Cosmetics: None

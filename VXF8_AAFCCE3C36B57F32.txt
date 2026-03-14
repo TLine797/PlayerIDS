@@ -1,0 +1,7 @@
+Name: BADDIE
+ActorNumber: 1219
+PlayerID: AAFCCE3C36B57F32
+Platform: Standalone
+AccountCreationDate: 2023-12-25 15:09:36 UTC
+Color: R=0.56 G=0.33 B=0.11
+Cosmetics: None

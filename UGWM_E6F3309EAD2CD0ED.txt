@@ -1,0 +1,7 @@
+Name: gorilla4526
+ActorNumber: 60
+PlayerID: E6F3309EAD2CD0ED
+Platform: Standalone
+AccountCreationDate: 2025-12-25 09:01:31 UTC
+Color: R=1.00 G=0.00 B=0.89
+Cosmetics: None

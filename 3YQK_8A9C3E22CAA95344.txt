@@ -1,0 +1,7 @@
+Name: DARKSOUL
+ActorNumber: 610
+PlayerID: 8A9C3E22CAA95344
+Platform: PC
+AccountCreationDate: 2026-03-10 01:24:12 UTC
+Color: R=0.00 G=0.00 B=0.00
+Cosmetics: None

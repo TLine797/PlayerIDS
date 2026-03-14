@@ -1,0 +1,7 @@
+Name: TTBIRD
+ActorNumber: 1103
+PlayerID: AD12A5D7B9507AA0
+Platform: Standalone
+AccountCreationDate: 2025-07-29 03:37:51 UTC
+Color: R=0.00 G=0.00 B=0.67
+Cosmetics: None

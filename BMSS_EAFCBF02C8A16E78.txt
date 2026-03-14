@@ -1,0 +1,7 @@
+Name: BEARTHEBEAST
+ActorNumber: 371
+PlayerID: EAFCBF02C8A16E78
+Platform: Standalone
+AccountCreationDate: 2023-12-23 18:04:09 UTC
+Color: R=0.67 G=0.00 B=1.00
+Cosmetics: None

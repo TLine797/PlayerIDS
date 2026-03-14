@@ -1,0 +1,7 @@
+Name: MBSAUSE
+ActorNumber: 19
+PlayerID: 18DFCD85F60FDE7F
+Platform: Standalone
+AccountCreationDate: 2024-12-25 18:24:08 UTC
+Color: R=0.89 G=0.56 B=0.89
+Cosmetics: None

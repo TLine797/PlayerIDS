@@ -1,0 +1,7 @@
+Name: gorilla0569
+ActorNumber: 22
+PlayerID: FA1247534876CEBC
+Platform: Standalone
+AccountCreationDate: 2025-12-26 13:31:49 UTC
+Color: R=0.00 G=0.89 B=1.00
+Cosmetics: None

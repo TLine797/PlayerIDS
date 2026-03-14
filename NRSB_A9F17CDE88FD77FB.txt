@@ -1,0 +1,7 @@
+Name: LAZER
+ActorNumber: 216
+PlayerID: A9F17CDE88FD77FB
+Platform: Standalone
+AccountCreationDate: 2026-01-25 03:24:50 UTC
+Color: R=1.00 G=0.11 B=0.00
+Cosmetics: None

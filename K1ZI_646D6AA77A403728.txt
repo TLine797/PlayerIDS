@@ -1,0 +1,7 @@
+Name: SPOON
+ActorNumber: 246
+PlayerID: 646D6AA77A403728
+Platform: Standalone
+AccountCreationDate: 2024-04-08 08:24:44 UTC
+Color: R=1.00 G=1.00 B=1.00
+Cosmetics: None

@@ -1,0 +1,7 @@
+Name: LITRO
+ActorNumber: 1610
+PlayerID: E5597B523A16A645
+Platform: Standalone
+AccountCreationDate: 2025-10-22 07:07:04 UTC
+Color: R=0.22 G=0.00 B=0.22
+Cosmetics: None

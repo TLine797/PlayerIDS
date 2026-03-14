@@ -1,0 +1,7 @@
+Name: MRWASHED
+ActorNumber: 804
+PlayerID: 46CF3DA49CC47B83
+Platform: Standalone
+AccountCreationDate: 2022-01-23 17:01:01 UTC
+Color: R=0.00 G=0.78 B=0.67
+Cosmetics: None

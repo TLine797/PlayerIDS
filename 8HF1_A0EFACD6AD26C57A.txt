@@ -1,0 +1,7 @@
+Name: WEMMY
+ActorNumber: 836
+PlayerID: A0EFACD6AD26C57A
+Platform: Standalone
+AccountCreationDate: 2026-01-17 21:44:21 UTC
+Color: R=0.00 G=0.00 B=0.00
+Cosmetics: None

@@ -1,0 +1,7 @@
+Name: NETANYAHU
+ActorNumber: 132
+PlayerID: E4949CB940EE6146
+Platform: Standalone
+AccountCreationDate: 2023-07-15 16:26:57 UTC
+Color: R=0.67 G=0.56 B=0.44
+Cosmetics: None

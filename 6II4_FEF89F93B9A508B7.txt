@@ -1,0 +1,7 @@
+Name: SLOWWYY
+ActorNumber: 713
+PlayerID: FEF89F93B9A508B7
+Platform: Standalone
+AccountCreationDate: 2026-02-11 21:21:51 UTC
+Color: R=0.56 G=0.89 B=0.78
+Cosmetics: None

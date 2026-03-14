@@ -1,0 +1,7 @@
+Name: TMPSAWYER
+ActorNumber: 41
+PlayerID: 62435E7D0BAA868F
+Platform: Unknown
+AccountCreationDate: 2021-11-05 01:30:42 UTC
+Color: R=1.00 G=0.00 B=0.22
+Cosmetics: None

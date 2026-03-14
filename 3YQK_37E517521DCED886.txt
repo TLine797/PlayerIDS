@@ -1,0 +1,7 @@
+Name: DREADHEAD
+ActorNumber: 612
+PlayerID: 37E517521DCED886
+Platform: Unknown
+AccountCreationDate: 2022-05-14 20:54:58 UTC
+Color: R=0.22 G=0.00 B=0.00
+Cosmetics: None

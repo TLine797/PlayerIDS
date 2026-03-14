@@ -1,0 +1,7 @@
+Name: DRXO
+ActorNumber: 236
+PlayerID: 3339E8B3D5463A20
+Platform: PC
+AccountCreationDate: 2023-11-30 12:17:32 UTC
+Color: R=0.56 G=0.44 B=0.78
+Cosmetics: None

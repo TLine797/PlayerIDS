@@ -1,0 +1,7 @@
+Name: CORZVR
+ActorNumber: 398
+PlayerID: 8C0D3C44B7F7AF09
+Platform: Standalone
+AccountCreationDate: 2022-12-25 10:49:20 UTC
+Color: R=0.67 G=0.78 B=1.00
+Cosmetics: None

@@ -1,0 +1,7 @@
+Name: H
+ActorNumber: 578
+PlayerID: F73DD97F3390612C
+Platform: Standalone
+AccountCreationDate: 2025-12-31 02:19:42 UTC
+Color: R=0.67 G=0.00 B=0.22
+Cosmetics: None

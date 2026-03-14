@@ -1,0 +1,7 @@
+Name: MUSTYGT
+ActorNumber: 966
+PlayerID: 81A05A2FCD3972E2
+Platform: Standalone
+AccountCreationDate: 2026-01-17 15:33:13 UTC
+Color: R=0.56 G=0.56 B=0.56
+Cosmetics: None

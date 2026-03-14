@@ -1,0 +1,7 @@
+Name: JAEDONHINSHA
+ActorNumber: 747
+PlayerID: CBA5C2DF9CD6CADB
+Platform: Unknown
+AccountCreationDate: 2023-01-12 00:56:40 UTC
+Color: R=1.00 G=1.00 B=1.00
+Cosmetics: None

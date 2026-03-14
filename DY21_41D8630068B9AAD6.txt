@@ -1,0 +1,7 @@
+Name: BOBBLES2
+ActorNumber: 249
+PlayerID: 41D8630068B9AAD6
+Platform: Unknown
+AccountCreationDate: 2021-12-24 20:23:58 UTC
+Color: R=0.67 G=0.67 B=1.00
+Cosmetics: None

@@ -1,0 +1,7 @@
+Name: LOSER
+ActorNumber: 21
+PlayerID: 3487F5FD58AE2B36
+Platform: Standalone
+AccountCreationDate: 2025-09-20 14:48:19 UTC
+Color: R=0.00 G=0.00 B=0.00
+Cosmetics: None

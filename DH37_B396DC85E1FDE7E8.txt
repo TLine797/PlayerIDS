@@ -1,0 +1,7 @@
+Name: ALFRED
+ActorNumber: 358
+PlayerID: B396DC85E1FDE7E8
+Platform: Standalone
+AccountCreationDate: 2024-12-25 15:19:05 UTC
+Color: R=1.00 G=1.00 B=0.00
+Cosmetics: None

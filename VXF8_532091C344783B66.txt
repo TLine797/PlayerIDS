@@ -1,0 +1,7 @@
+Name: PARADISE
+ActorNumber: 1223
+PlayerID: 532091C344783B66
+Platform: Standalone
+AccountCreationDate: 2022-12-26 06:39:15 UTC
+Color: R=0.11 G=0.11 B=0.22
+Cosmetics: None

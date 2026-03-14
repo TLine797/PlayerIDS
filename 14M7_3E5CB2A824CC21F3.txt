@@ -1,0 +1,7 @@
+Name: SHADOWVR
+ActorNumber: 583
+PlayerID: 3E5CB2A824CC21F3
+Platform: Standalone
+AccountCreationDate: 2023-04-02 03:46:07 UTC
+Color: R=0.33 G=0.00 B=0.33
+Cosmetics: None

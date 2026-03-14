@@ -1,0 +1,7 @@
+Name: TTSBEN
+ActorNumber: 168
+PlayerID: 164B59B7C90F4C84
+Platform: Standalone
+AccountCreationDate: 2025-12-25 15:01:16 UTC
+Color: R=1.00 G=0.56 B=0.00
+Cosmetics: None

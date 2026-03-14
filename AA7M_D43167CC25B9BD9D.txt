@@ -1,0 +1,7 @@
+Name: TRAVLER
+ActorNumber: 208
+PlayerID: D43167CC25B9BD9D
+Platform: Standalone
+AccountCreationDate: 2024-01-01 01:45:54 UTC
+Color: R=0.00 G=0.00 B=0.00
+Cosmetics: None

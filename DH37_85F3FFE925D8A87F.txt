@@ -1,0 +1,7 @@
+Name: MOSS
+ActorNumber: 424
+PlayerID: 85F3FFE925D8A87F
+Platform: Standalone
+AccountCreationDate: 2022-12-16 01:07:48 UTC
+Color: R=0.33 G=0.22 B=0.22
+Cosmetics: None

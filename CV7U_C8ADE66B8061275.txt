@@ -1,0 +1,7 @@
+Name: TIMMY
+ActorNumber: 1056
+PlayerID: C8ADE66B8061275
+Platform: Standalone
+AccountCreationDate: 2024-11-06 21:15:35 UTC
+Color: R=0.11 G=0.33 B=0.67
+Cosmetics: None

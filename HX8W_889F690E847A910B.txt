@@ -1,0 +1,7 @@
+Name: GOJO
+ActorNumber: 1182
+PlayerID: 889F690E847A910B
+Platform: PC
+AccountCreationDate: 2026-02-16 04:28:47 UTC
+Color: R=1.00 G=1.00 B=1.00
+Cosmetics: None

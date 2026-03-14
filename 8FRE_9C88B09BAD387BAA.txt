@@ -1,0 +1,7 @@
+Name: CAMMANVR
+ActorNumber: 4
+PlayerID: 9C88B09BAD387BAA
+Platform: Unknown
+AccountCreationDate: 2021-05-10 20:36:34 UTC
+Color: R=0.56 G=0.11 B=0.00
+Cosmetics: None

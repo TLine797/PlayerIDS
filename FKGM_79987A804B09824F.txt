@@ -1,0 +1,7 @@
+Name: CAMERA
+ActorNumber: 1139
+PlayerID: 79987A804B09824F
+Platform: Standalone
+AccountCreationDate: 2022-05-14 05:32:39 UTC
+Color: R=0.56 G=0.33 B=0.00
+Cosmetics: None

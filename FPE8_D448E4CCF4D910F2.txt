@@ -1,0 +1,7 @@
+Name: KIRATOOLAGGY
+ActorNumber: 1188
+PlayerID: D448E4CCF4D910F2
+Platform: Standalone
+AccountCreationDate: 2026-02-06 22:57:29 UTC
+Color: R=0.00 G=0.00 B=0.00
+Cosmetics: None

@@ -1,0 +1,7 @@
+Name: 1MM0RT4L1TY
+ActorNumber: 179
+PlayerID: B3E7ACD7B0A210C6
+Platform: Standalone
+AccountCreationDate: 2023-12-25 14:49:19 UTC
+Color: R=0.44 G=0.00 B=1.00
+Cosmetics: None

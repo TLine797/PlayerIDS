@@ -1,0 +1,7 @@
+Name: TAYLOR
+ActorNumber: 606
+PlayerID: 1B44A3CB91FFF24B
+Platform: Standalone
+AccountCreationDate: 2023-12-26 01:00:02 UTC
+Color: R=0.00 G=0.00 B=0.00
+Cosmetics: None

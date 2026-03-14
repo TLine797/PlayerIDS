@@ -1,0 +1,7 @@
+Name: BAABY
+ActorNumber: 242
+PlayerID: 1C133D69A4CC9FC8
+Platform: Standalone
+AccountCreationDate: 2025-01-25 15:39:49 UTC
+Color: R=0.00 G=0.00 B=0.00
+Cosmetics: None

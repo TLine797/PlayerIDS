@@ -1,0 +1,7 @@
+Name: QUIETTORI
+ActorNumber: 984
+PlayerID: 4550E27C06558CF2
+Platform: Standalone
+AccountCreationDate: 2024-09-25 01:17:59 UTC
+Color: R=0.00 G=0.00 B=0.00
+Cosmetics: None

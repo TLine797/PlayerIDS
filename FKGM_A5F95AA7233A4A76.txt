@@ -1,0 +1,7 @@
+Name: VICDEMTC
+ActorNumber: 1132
+PlayerID: A5F95AA7233A4A76
+Platform: Standalone
+AccountCreationDate: 2025-02-17 21:10:49 UTC
+Color: R=0.56 G=0.44 B=1.00
+Cosmetics: None

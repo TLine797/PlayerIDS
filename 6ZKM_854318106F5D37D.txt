@@ -1,0 +1,7 @@
+Name: NOTCOOZY
+ActorNumber: 1291
+PlayerID: 854318106F5D37D
+Platform: Standalone
+AccountCreationDate: 2023-03-31 01:43:38 UTC
+Color: R=1.00 G=0.56 B=0.89
+Cosmetics: None

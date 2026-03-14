@@ -1,0 +1,7 @@
+Name: MINDSET
+ActorNumber: 740
+PlayerID: 5E554B284E5B6852
+Platform: Standalone
+AccountCreationDate: 2026-03-13 01:13:26 UTC
+Color: R=0.89 G=1.00 B=1.00
+Cosmetics: None

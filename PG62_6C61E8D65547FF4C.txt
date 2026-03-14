@@ -1,0 +1,7 @@
+Name: TICKLER
+ActorNumber: 12
+PlayerID: 6C61E8D65547FF4C
+Platform: Standalone
+AccountCreationDate: 2023-09-18 02:18:46 UTC
+Color: R=0.11 G=0.33 B=0.33
+Cosmetics: None

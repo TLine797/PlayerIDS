@@ -1,0 +1,7 @@
+Name: TYRONE
+ActorNumber: 419
+PlayerID: 4A40B6819DB034B5
+Platform: Standalone
+AccountCreationDate: 2025-12-25 00:16:45 UTC
+Color: R=0.00 G=0.00 B=0.00
+Cosmetics: None

@@ -1,0 +1,7 @@
+Name: SYS
+ActorNumber: 401
+PlayerID: BA203C3CEB39F8CF
+Platform: Standalone
+AccountCreationDate: 2024-07-30 16:18:14 UTC
+Color: R=1.00 G=0.67 B=0.67
+Cosmetics: None

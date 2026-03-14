@@ -1,0 +1,7 @@
+Name: MMHCC
+ActorNumber: 857
+PlayerID: FE57ACE18BC328E1
+Platform: Standalone
+AccountCreationDate: 2023-08-02 03:14:29 UTC
+Color: R=0.44 G=0.44 B=0.44
+Cosmetics: None

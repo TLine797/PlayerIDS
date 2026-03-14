@@ -1,0 +1,7 @@
+Name: APX
+ActorNumber: 1146
+PlayerID: 7FADD21E7EEEAC29
+Platform: Standalone
+AccountCreationDate: 2023-12-25 15:16:20 UTC
+Color: R=0.00 G=0.89 B=0.89
+Cosmetics: None

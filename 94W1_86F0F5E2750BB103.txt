@@ -1,0 +1,7 @@
+Name: KYLINGLING10
+ActorNumber: 48
+PlayerID: 86F0F5E2750BB103
+Platform: Standalone
+AccountCreationDate: 2026-02-26 20:25:36 UTC
+Color: R=0.22 G=0.44 B=0.44
+Cosmetics: None

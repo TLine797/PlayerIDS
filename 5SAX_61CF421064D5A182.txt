@@ -1,0 +1,7 @@
+Name: CHUCK
+ActorNumber: 341
+PlayerID: 61CF421064D5A182
+Platform: Unknown
+AccountCreationDate: 2022-12-26 16:04:25 UTC
+Color: R=1.00 G=1.00 B=1.00
+Cosmetics: None

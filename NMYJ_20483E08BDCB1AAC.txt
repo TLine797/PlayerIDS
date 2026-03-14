@@ -1,0 +1,7 @@
+Name: INVINCIBLE
+ActorNumber: 1635
+PlayerID: 20483E08BDCB1AAC
+Platform: Unknown
+AccountCreationDate: 2024-04-10 07:44:16 UTC
+Color: R=1.00 G=0.89 B=0.78
+Cosmetics: None

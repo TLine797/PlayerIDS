@@ -1,0 +1,7 @@
+Name: MOSAFAN
+ActorNumber: 637
+PlayerID: 784DC7E5189395AA
+Platform: Standalone
+AccountCreationDate: 2024-11-13 04:16:46 UTC
+Color: R=0.00 G=0.00 B=0.00
+Cosmetics: None

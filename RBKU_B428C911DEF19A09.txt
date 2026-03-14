@@ -1,0 +1,7 @@
+Name: FELLA
+ActorNumber: 237
+PlayerID: B428C911DEF19A09
+Platform: Standalone
+AccountCreationDate: 2024-04-20 21:49:48 UTC
+Color: R=0.00 G=0.33 B=1.00
+Cosmetics: None

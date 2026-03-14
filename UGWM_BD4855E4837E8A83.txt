@@ -1,0 +1,7 @@
+Name: FLUFFY
+ActorNumber: 49
+PlayerID: BD4855E4837E8A83
+Platform: Standalone
+AccountCreationDate: 2025-12-13 20:45:02 UTC
+Color: R=0.78 G=0.00 B=0.33
+Cosmetics: None

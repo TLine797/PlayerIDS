@@ -1,0 +1,7 @@
+Name: APE123
+ActorNumber: 1656
+PlayerID: 8B2A4C4F3EC0D13C
+Platform: Standalone
+AccountCreationDate: 2023-03-08 20:40:33 UTC
+Color: R=1.00 G=0.44 B=0.44
+Cosmetics: None

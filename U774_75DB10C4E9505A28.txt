@@ -1,0 +1,7 @@
+Name: FENT
+ActorNumber: 33
+PlayerID: 75DB10C4E9505A28
+Platform: Unknown
+AccountCreationDate: 2023-11-18 19:45:50 UTC
+Color: R=0.44 G=0.00 B=0.78
+Cosmetics: None

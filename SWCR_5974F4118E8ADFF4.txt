@@ -1,0 +1,7 @@
+Name: JAX26337
+ActorNumber: 950
+PlayerID: 5974F4118E8ADFF4
+Platform: Standalone
+AccountCreationDate: 2024-01-27 19:54:44 UTC
+Color: R=0.00 G=0.89 B=1.00
+Cosmetics: None

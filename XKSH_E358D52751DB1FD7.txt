@@ -1,0 +1,7 @@
+Name: NOTLUCY
+ActorNumber: 659
+PlayerID: E358D52751DB1FD7
+Platform: Standalone
+AccountCreationDate: 2024-03-24 00:02:12 UTC
+Color: R=0.00 G=0.00 B=0.78
+Cosmetics: None

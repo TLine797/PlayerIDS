@@ -1,0 +1,7 @@
+Name: 6667
+ActorNumber: 1686
+PlayerID: 5BEDB6AF1F4D4CA1
+Platform: PC
+AccountCreationDate: 2026-03-08 11:54:10 UTC
+Color: R=0.56 G=0.00 B=0.67
+Cosmetics: None

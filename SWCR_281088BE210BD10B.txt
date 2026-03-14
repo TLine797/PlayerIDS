@@ -1,0 +1,7 @@
+Name: LARRYGT
+ActorNumber: 940
+PlayerID: 281088BE210BD10B
+Platform: Standalone
+AccountCreationDate: 2024-12-26 02:37:50 UTC
+Color: R=0.44 G=0.56 B=0.67
+Cosmetics: None

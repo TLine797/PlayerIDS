@@ -1,0 +1,7 @@
+Name: DOOKY
+ActorNumber: 310
+PlayerID: 7C450DA29D91184B
+Platform: Standalone
+AccountCreationDate: 2023-12-25 22:11:38 UTC
+Color: R=0.44 G=0.11 B=0.78
+Cosmetics: None

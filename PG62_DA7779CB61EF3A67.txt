@@ -1,0 +1,7 @@
+Name: ADANTE295
+ActorNumber: 14
+PlayerID: DA7779CB61EF3A67
+Platform: Standalone
+AccountCreationDate: 2023-12-26 22:10:10 UTC
+Color: R=0.89 G=0.89 B=1.00
+Cosmetics: None

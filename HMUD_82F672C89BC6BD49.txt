@@ -1,0 +1,7 @@
+Name: SCP
+ActorNumber: 108
+PlayerID: 82F672C89BC6BD49
+Platform: Standalone
+AccountCreationDate: 2025-11-04 22:30:11 UTC
+Color: R=0.67 G=1.00 B=0.00
+Cosmetics: None

@@ -1,0 +1,7 @@
+Name: PINK
+ActorNumber: 808
+PlayerID: 2BBC971039CE4B69
+Platform: Standalone
+AccountCreationDate: 2024-12-06 11:51:15 UTC
+Color: R=1.00 G=0.78 B=1.00
+Cosmetics: None

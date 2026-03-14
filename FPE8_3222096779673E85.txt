@@ -1,0 +1,7 @@
+Name: ANDERDINGUS
+ActorNumber: 1185
+PlayerID: 3222096779673E85
+Platform: Standalone
+AccountCreationDate: 2024-07-07 15:55:28 UTC
+Color: R=0.33 G=0.00 B=0.11
+Cosmetics: None

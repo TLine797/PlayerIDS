@@ -1,0 +1,7 @@
+Name: SHADOWPENGUI
+ActorNumber: 26
+PlayerID: 4BDA6FBFC06043A2
+Platform: Standalone
+AccountCreationDate: 2024-07-20 15:56:41 UTC
+Color: R=0.00 G=0.67 B=1.00
+Cosmetics: None

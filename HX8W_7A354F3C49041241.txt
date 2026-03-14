@@ -1,0 +1,7 @@
+Name: LIONEL
+ActorNumber: 1137
+PlayerID: 7A354F3C49041241
+Platform: Standalone
+AccountCreationDate: 2026-02-24 04:19:21 UTC
+Color: R=0.00 G=0.00 B=1.00
+Cosmetics: None

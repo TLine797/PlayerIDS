@@ -1,0 +1,7 @@
+Name: BRNASSUALT
+ActorNumber: 6
+PlayerID: 620F0165DFD76952
+Platform: Standalone
+AccountCreationDate: 2023-04-15 01:50:53 UTC
+Color: R=0.00 G=0.33 B=0.44
+Cosmetics: None

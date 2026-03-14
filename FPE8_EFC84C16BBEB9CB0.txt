@@ -1,0 +1,7 @@
+Name: GREYOUT
+ActorNumber: 1203
+PlayerID: EFC84C16BBEB9CB0
+Platform: Standalone
+AccountCreationDate: 2025-12-25 22:40:41 UTC
+Color: R=0.56 G=0.56 B=0.56
+Cosmetics: None

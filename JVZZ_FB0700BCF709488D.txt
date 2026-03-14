@@ -1,0 +1,7 @@
+Name: JKGTG
+ActorNumber: 753
+PlayerID: FB0700BCF709488D
+Platform: Standalone
+AccountCreationDate: 2026-01-03 03:58:35 UTC
+Color: R=1.00 G=0.22 B=0.00
+Cosmetics: None

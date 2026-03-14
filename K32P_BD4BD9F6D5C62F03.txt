@@ -1,0 +1,7 @@
+Name: QWERTY
+ActorNumber: 742
+PlayerID: BD4BD9F6D5C62F03
+Platform: Standalone
+AccountCreationDate: 2025-12-24 14:16:03 UTC
+Color: R=0.11 G=1.00 B=0.67
+Cosmetics: None

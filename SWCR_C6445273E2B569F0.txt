@@ -1,0 +1,7 @@
+Name: JOHNTHETICKL
+ActorNumber: 948
+PlayerID: C6445273E2B569F0
+Platform: Standalone
+AccountCreationDate: 2026-02-26 01:42:48 UTC
+Color: R=0.00 G=0.67 B=0.67
+Cosmetics: None

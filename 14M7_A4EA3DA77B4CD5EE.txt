@@ -1,0 +1,7 @@
+Name: NOVAA
+ActorNumber: 607
+PlayerID: A4EA3DA77B4CD5EE
+Platform: Standalone
+AccountCreationDate: 2025-12-27 19:55:58 UTC
+Color: R=1.00 G=0.00 B=0.00
+Cosmetics: None

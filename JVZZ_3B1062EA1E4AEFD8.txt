@@ -1,0 +1,7 @@
+Name: ABYSS
+ActorNumber: 741
+PlayerID: 3B1062EA1E4AEFD8
+Platform: Standalone
+AccountCreationDate: 2024-08-16 02:25:29 UTC
+Color: R=0.67 G=0.22 B=0.44
+Cosmetics: None

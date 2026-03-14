@@ -1,0 +1,7 @@
+Name: GGJAX
+ActorNumber: 372
+PlayerID: 569D9D6E07721AF1
+Platform: Standalone
+AccountCreationDate: 2024-12-25 14:43:34 UTC
+Color: R=0.67 G=0.78 B=1.00
+Cosmetics: None

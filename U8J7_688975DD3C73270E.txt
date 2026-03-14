@@ -1,0 +1,7 @@
+Name: FLUX
+ActorNumber: 797
+PlayerID: 688975DD3C73270E
+Platform: Standalone
+AccountCreationDate: 2026-01-01 00:57:44 UTC
+Color: R=0.44 G=0.67 B=0.00
+Cosmetics: None

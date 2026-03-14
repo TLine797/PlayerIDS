@@ -1,0 +1,7 @@
+Name: BERRYGMONEY
+ActorNumber: 1105
+PlayerID: 55B2226A9F95D41
+Platform: Standalone
+AccountCreationDate: 2025-12-26 01:00:11 UTC
+Color: R=0.00 G=0.56 B=1.00
+Cosmetics: None

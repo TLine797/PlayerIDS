@@ -1,0 +1,7 @@
+Name: HELIOS
+ActorNumber: 230
+PlayerID: 93125D9C4DDD55D4
+Platform: Unknown
+AccountCreationDate: 2022-10-22 09:43:02 UTC
+Color: R=1.00 G=0.00 B=0.33
+Cosmetics: None

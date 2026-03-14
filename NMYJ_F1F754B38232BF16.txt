@@ -1,0 +1,7 @@
+Name: CANDYVR
+ActorNumber: 1707
+PlayerID: F1F754B38232BF16
+Platform: Standalone
+AccountCreationDate: 2024-12-01 09:13:54 UTC
+Color: R=1.00 G=0.44 B=0.67
+Cosmetics: None

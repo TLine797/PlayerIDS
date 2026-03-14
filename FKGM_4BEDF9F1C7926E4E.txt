@@ -1,0 +1,7 @@
+Name: CAESAER
+ActorNumber: 1128
+PlayerID: 4BEDF9F1C7926E4E
+Platform: Standalone
+AccountCreationDate: 2025-04-01 19:11:49 UTC
+Color: R=0.00 G=0.33 B=0.78
+Cosmetics: None

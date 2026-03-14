@@ -1,0 +1,7 @@
+Name: ANGEL
+ActorNumber: 489
+PlayerID: B4069E5284418AED
+Platform: Unknown
+AccountCreationDate: 2021-07-20 22:52:19 UTC
+Color: R=0.67 G=0.44 B=0.22
+Cosmetics: None

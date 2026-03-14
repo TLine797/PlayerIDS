@@ -1,0 +1,7 @@
+Name: SPRITEGT
+ActorNumber: 210
+PlayerID: AFEDE991011CC13E
+Platform: Standalone
+AccountCreationDate: 2025-12-27 20:00:13 UTC
+Color: R=0.00 G=1.00 B=0.44
+Cosmetics: None

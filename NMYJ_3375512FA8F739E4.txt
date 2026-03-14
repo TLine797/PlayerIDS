@@ -1,0 +1,7 @@
+Name: GRANDMA
+ActorNumber: 1667
+PlayerID: 3375512FA8F739E4
+Platform: Standalone
+AccountCreationDate: 2025-03-09 17:39:53 UTC
+Color: R=0.00 G=0.33 B=1.00
+Cosmetics: None

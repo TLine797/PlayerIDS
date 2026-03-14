@@ -1,0 +1,7 @@
+Name: FUZZY
+ActorNumber: 19
+PlayerID: 8C74FDF513AB2AA7
+Platform: Standalone
+AccountCreationDate: 2025-01-22 01:08:30 UTC
+Color: R=0.67 G=0.44 B=0.44
+Cosmetics: None

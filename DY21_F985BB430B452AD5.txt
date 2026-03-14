@@ -1,0 +1,7 @@
+Name: BUDDCR7
+ActorNumber: 256
+PlayerID: F985BB430B452AD5
+Platform: Standalone
+AccountCreationDate: 2025-08-07 21:55:08 UTC
+Color: R=1.00 G=1.00 B=1.00
+Cosmetics: None

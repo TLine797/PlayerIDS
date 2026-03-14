@@ -1,0 +1,7 @@
+Name: METZ
+ActorNumber: 235
+PlayerID: D57130DCCF14A72C
+Platform: PC
+AccountCreationDate: 2024-12-26 17:51:03 UTC
+Color: R=0.00 G=0.67 B=0.78
+Cosmetics: None

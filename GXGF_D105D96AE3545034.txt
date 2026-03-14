@@ -1,0 +1,7 @@
+Name: DAMONKE12345
+ActorNumber: 180
+PlayerID: D105D96AE3545034
+Platform: Standalone
+AccountCreationDate: 2026-02-21 20:47:58 UTC
+Color: R=0.00 G=0.89 B=1.00
+Cosmetics: None

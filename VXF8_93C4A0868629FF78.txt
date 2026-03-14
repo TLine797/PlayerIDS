@@ -1,0 +1,7 @@
+Name: MISA
+ActorNumber: 1195
+PlayerID: 93C4A0868629FF78
+Platform: Standalone
+AccountCreationDate: 2023-06-02 18:32:33 UTC
+Color: R=1.00 G=0.89 B=0.56
+Cosmetics: None

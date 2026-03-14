@@ -1,0 +1,7 @@
+Name: KZO
+ActorNumber: 181
+PlayerID: 5E3308CF371471E4
+Platform: Standalone
+AccountCreationDate: 2025-10-25 18:22:03 UTC
+Color: R=0.89 G=0.56 B=0.11
+Cosmetics: None

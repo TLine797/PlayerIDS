@@ -1,0 +1,7 @@
+Name: PK
+ActorNumber: 200
+PlayerID: B827CC61E6AC4572
+Platform: Standalone
+AccountCreationDate: 2026-02-20 16:37:30 UTC
+Color: R=1.00 G=1.00 B=1.00
+Cosmetics: None

@@ -1,0 +1,7 @@
+Name: FEMBOYFYS
+ActorNumber: 1236
+PlayerID: EF978B4AE8BFC863
+Platform: PC
+AccountCreationDate: 2022-05-02 18:59:24 UTC
+Color: R=0.06 G=0.68 B=0.49
+Cosmetics: None

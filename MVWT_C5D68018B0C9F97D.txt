@@ -1,0 +1,7 @@
+Name: YAK
+ActorNumber: 42
+PlayerID: C5D68018B0C9F97D
+Platform: Standalone
+AccountCreationDate: 2025-11-26 16:44:16 UTC
+Color: R=1.00 G=0.33 B=0.44
+Cosmetics: None

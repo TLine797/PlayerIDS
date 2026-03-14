@@ -1,0 +1,7 @@
+Name: NOAH
+ActorNumber: 388
+PlayerID: 810C6E9096AC75B3
+Platform: Unknown
+AccountCreationDate: 2021-05-04 16:48:26 UTC
+Color: R=0.33 G=1.00 B=0.00
+Cosmetics: None

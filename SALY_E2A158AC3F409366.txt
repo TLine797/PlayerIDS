@@ -1,0 +1,7 @@
+Name: JMIR
+ActorNumber: 163
+PlayerID: E2A158AC3F409366
+Platform: Unknown
+AccountCreationDate: 2021-10-13 19:34:35 UTC
+Color: R=0.22 G=0.22 B=0.33
+Cosmetics: None

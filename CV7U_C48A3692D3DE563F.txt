@@ -1,0 +1,7 @@
+Name: MOAIMAN
+ActorNumber: 1063
+PlayerID: C48A3692D3DE563F
+Platform: Standalone
+AccountCreationDate: 2023-07-17 21:21:15 UTC
+Color: R=0.00 G=0.00 B=0.00
+Cosmetics: None

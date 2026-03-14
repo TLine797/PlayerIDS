@@ -1,0 +1,7 @@
+Name: KHLOEE
+ActorNumber: 495
+PlayerID: 91BD7190E5E14D0E
+Platform: Standalone
+AccountCreationDate: 2025-12-26 00:51:43 UTC
+Color: R=0.00 G=0.56 B=0.89
+Cosmetics: None

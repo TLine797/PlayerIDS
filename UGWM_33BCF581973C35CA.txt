@@ -1,0 +1,7 @@
+Name: ULTRAMANHACK
+ActorNumber: 27
+PlayerID: 33BCF581973C35CA
+Platform: Standalone
+AccountCreationDate: 2024-01-14 03:03:41 UTC
+Color: R=1.00 G=0.11 B=0.00
+Cosmetics: None

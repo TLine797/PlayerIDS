@@ -1,0 +1,7 @@
+Name: gorilla6553
+ActorNumber: 196
+PlayerID: E6B41921515F4950
+Platform: Standalone
+AccountCreationDate: 2025-12-25 19:05:30 UTC
+Color: R=0.11 G=1.00 B=0.00
+Cosmetics: None

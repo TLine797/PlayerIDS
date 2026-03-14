@@ -1,0 +1,7 @@
+Name: SWEATYMONKE
+ActorNumber: 210
+PlayerID: 58B4260CD446CC50
+Platform: Standalone
+AccountCreationDate: 2023-06-28 02:42:11 UTC
+Color: R=0.00 G=0.00 B=0.56
+Cosmetics: None

@@ -1,0 +1,7 @@
+Name: RUNN
+ActorNumber: 65
+PlayerID: 55E26E9AEB2DD6A
+Platform: Standalone
+AccountCreationDate: 2025-11-25 17:31:01 UTC
+Color: R=0.00 G=0.00 B=0.00
+Cosmetics: None

@@ -1,0 +1,7 @@
+Name: GPOPVR
+ActorNumber: 946
+PlayerID: A1C537CFDAE93852
+Platform: Standalone
+AccountCreationDate: 2026-01-11 01:28:52 UTC
+Color: R=0.78 G=0.33 B=0.67
+Cosmetics: None

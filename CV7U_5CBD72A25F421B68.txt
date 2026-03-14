@@ -1,0 +1,7 @@
+Name: KPROVR
+ActorNumber: 1073
+PlayerID: 5CBD72A25F421B68
+Platform: Standalone
+AccountCreationDate: 2025-12-26 03:35:59 UTC
+Color: R=1.00 G=0.00 B=0.00
+Cosmetics: None

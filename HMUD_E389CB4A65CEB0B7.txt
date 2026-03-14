@@ -1,0 +1,7 @@
+Name: YOURMOM
+ActorNumber: 126
+PlayerID: E389CB4A65CEB0B7
+Platform: Unknown
+AccountCreationDate: 2022-09-06 00:19:20 UTC
+Color: R=0.22 G=0.67 B=1.00
+Cosmetics: None

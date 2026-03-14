@@ -1,0 +1,7 @@
+Name: HIO
+ActorNumber: 207
+PlayerID: D62B209745677A24
+Platform: Standalone
+AccountCreationDate: 2026-01-05 10:11:15 UTC
+Color: R=0.44 G=0.00 B=0.78
+Cosmetics: None

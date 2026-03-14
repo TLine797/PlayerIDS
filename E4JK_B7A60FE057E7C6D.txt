@@ -1,0 +1,7 @@
+Name: SUPAMONKE
+ActorNumber: 527
+PlayerID: B7A60FE057E7C6D
+Platform: Standalone
+AccountCreationDate: 2024-12-24 02:19:51 UTC
+Color: R=0.00 G=0.33 B=1.00
+Cosmetics: None

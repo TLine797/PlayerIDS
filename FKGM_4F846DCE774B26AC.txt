@@ -1,0 +1,7 @@
+Name: TTMJACKYVR
+ActorNumber: 1156
+PlayerID: 4F846DCE774B26AC
+Platform: Unknown
+AccountCreationDate: 2025-10-04 01:48:10 UTC
+Color: R=0.33 G=0.33 B=0.78
+Cosmetics: None

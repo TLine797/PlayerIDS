@@ -1,0 +1,7 @@
+Name: SQUID
+ActorNumber: 1604
+PlayerID: 3CAD986FA44E441F
+Platform: Unknown
+AccountCreationDate: 2022-12-25 14:53:15 UTC
+Color: R=0.00 G=0.00 B=0.00
+Cosmetics: None

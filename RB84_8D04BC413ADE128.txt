@@ -1,0 +1,7 @@
+Name: METADATA
+ActorNumber: 545
+PlayerID: 8D04BC413ADE128
+Platform: Unknown
+AccountCreationDate: 2022-03-05 13:50:26 UTC
+Color: R=0.44 G=0.00 B=0.78
+Cosmetics: None

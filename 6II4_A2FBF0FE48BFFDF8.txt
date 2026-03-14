@@ -1,0 +1,7 @@
+Name: CAPSWAY
+ActorNumber: 735
+PlayerID: A2FBF0FE48BFFDF8
+Platform: Unknown
+AccountCreationDate: 2022-09-30 16:29:19 UTC
+Color: R=0.33 G=0.00 B=0.00
+Cosmetics: None

@@ -1,0 +1,7 @@
+Name: CWMZOMB
+ActorNumber: 593
+PlayerID: 26CF9DBA07FD0D8E
+Platform: Standalone
+AccountCreationDate: 2024-03-22 19:25:53 UTC
+Color: R=1.00 G=1.00 B=1.00
+Cosmetics: None

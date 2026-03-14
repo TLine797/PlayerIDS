@@ -1,0 +1,7 @@
+Name: CHEFLINCOLN
+ActorNumber: 1113
+PlayerID: 263BDAE42F59C4E7
+Platform: Unknown
+AccountCreationDate: 2022-07-12 02:13:55 UTC
+Color: R=0.00 G=0.00 B=0.22
+Cosmetics: None

@@ -1,0 +1,7 @@
+Name: HAG3N
+ActorNumber: 70
+PlayerID: 8734B66F96425208
+Platform: Standalone
+AccountCreationDate: 2024-06-16 21:41:20 UTC
+Color: R=0.00 G=0.00 B=0.00
+Cosmetics: None

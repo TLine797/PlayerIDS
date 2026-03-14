@@ -1,0 +1,7 @@
+Name: BLACKBEETLES
+ActorNumber: 1668
+PlayerID: A135E9DE1FFB43D
+Platform: Unknown
+AccountCreationDate: 2024-02-11 11:20:57 UTC
+Color: R=0.67 G=0.00 B=0.89
+Cosmetics: None

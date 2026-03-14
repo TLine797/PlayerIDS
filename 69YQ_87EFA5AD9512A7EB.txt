@@ -1,0 +1,7 @@
+Name: DAMN
+ActorNumber: 1056
+PlayerID: 87EFA5AD9512A7EB
+Platform: Standalone
+AccountCreationDate: 2025-12-25 21:20:03 UTC
+Color: R=0.22 G=0.00 B=0.00
+Cosmetics: None

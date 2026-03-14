@@ -1,0 +1,7 @@
+Name: IGOTMUTED
+ActorNumber: 611
+PlayerID: 89A15CCEC653862
+Platform: Standalone
+AccountCreationDate: 2024-10-22 01:41:17 UTC
+Color: R=0.89 G=0.89 B=0.89
+Cosmetics: None

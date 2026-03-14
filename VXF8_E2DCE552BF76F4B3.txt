@@ -1,0 +1,7 @@
+Name: OGER
+ActorNumber: 1215
+PlayerID: E2DCE552BF76F4B3
+Platform: Standalone
+AccountCreationDate: 2025-03-31 00:49:02 UTC
+Color: R=1.00 G=0.00 B=0.00
+Cosmetics: None

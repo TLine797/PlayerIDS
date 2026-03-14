@@ -1,0 +1,7 @@
+Name: MACHINE
+ActorNumber: 169
+PlayerID: 6BC44DE96D21D13C
+Platform: Unknown
+AccountCreationDate: 2022-01-27 22:56:47 UTC
+Color: R=0.22 G=0.00 B=0.89
+Cosmetics: None

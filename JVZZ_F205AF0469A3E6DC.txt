@@ -1,0 +1,7 @@
+Name: MYAVR
+ActorNumber: 729
+PlayerID: F205AF0469A3E6DC
+Platform: Standalone
+AccountCreationDate: 2025-12-25 23:27:52 UTC
+Color: R=1.00 G=0.56 B=1.00
+Cosmetics: None

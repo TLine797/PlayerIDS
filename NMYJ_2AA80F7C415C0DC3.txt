@@ -1,0 +1,7 @@
+Name: SNIKERSNI
+ActorNumber: 1723
+PlayerID: 2AA80F7C415C0DC3
+Platform: Standalone
+AccountCreationDate: 2025-09-20 14:23:26 UTC
+Color: R=0.00 G=0.00 B=0.00
+Cosmetics: None

@@ -1,0 +1,7 @@
+Name: ROOTBEER
+ActorNumber: 544
+PlayerID: 4B880FDD6F83B010
+Platform: Standalone
+AccountCreationDate: 2025-12-24 17:47:57 UTC
+Color: R=0.00 G=0.11 B=0.00
+Cosmetics: None

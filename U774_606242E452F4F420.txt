@@ -1,0 +1,7 @@
+Name: MUFFIN
+ActorNumber: 26
+PlayerID: 606242E452F4F420
+Platform: Standalone
+AccountCreationDate: 2025-03-22 16:01:33 UTC
+Color: R=0.11 G=0.89 B=1.00
+Cosmetics: None

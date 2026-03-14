@@ -1,0 +1,7 @@
+Name: SYNCED
+ActorNumber: 1729
+PlayerID: D5B68826ED874DC7
+Platform: Standalone
+AccountCreationDate: 2022-02-13 19:23:15 UTC
+Color: R=0.00 G=0.44 B=1.00
+Cosmetics: None

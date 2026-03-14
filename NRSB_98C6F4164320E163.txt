@@ -1,0 +1,7 @@
+Name: ASTTRO
+ActorNumber: 228
+PlayerID: 98C6F4164320E163
+Platform: Standalone
+AccountCreationDate: 2026-03-02 15:33:30 UTC
+Color: R=0.89 G=0.67 B=0.33
+Cosmetics: None

@@ -1,0 +1,7 @@
+Name: X2YVR
+ActorNumber: 8
+PlayerID: 1FB525331C0CEFE2
+Platform: Standalone
+AccountCreationDate: 2023-07-09 16:27:57 UTC
+Color: R=0.00 G=0.67 B=0.22
+Cosmetics: None

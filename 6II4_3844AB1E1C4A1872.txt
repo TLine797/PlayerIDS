@@ -1,0 +1,7 @@
+Name: STAYHARD
+ActorNumber: 724
+PlayerID: 3844AB1E1C4A1872
+Platform: Unknown
+AccountCreationDate: 2022-07-06 21:56:02 UTC
+Color: R=1.00 G=1.00 B=1.00
+Cosmetics: None

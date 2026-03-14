@@ -1,0 +1,7 @@
+Name: MP
+ActorNumber: 34
+PlayerID: 31DD6F64B4DBAC3D
+Platform: Unknown
+AccountCreationDate: 2022-12-25 03:53:42 UTC
+Color: R=0.33 G=0.33 B=0.22
+Cosmetics: None

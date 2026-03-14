@@ -1,0 +1,7 @@
+Name: ZYLO
+ActorNumber: 1516
+PlayerID: 2C1784B9CEFDD7B6
+Platform: Standalone
+AccountCreationDate: 2025-12-30 00:49:30 UTC
+Color: R=1.00 G=0.78 B=0.33
+Cosmetics: None

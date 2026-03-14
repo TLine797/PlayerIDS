@@ -1,0 +1,7 @@
+Name: SPOODERMAN
+ActorNumber: 391
+PlayerID: A97EFF0F37C9D6A5
+Platform: Standalone
+AccountCreationDate: 2026-03-06 02:25:06 UTC
+Color: R=0.44 G=0.78 B=0.67
+Cosmetics: None

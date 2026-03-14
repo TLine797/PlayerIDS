@@ -1,0 +1,7 @@
+Name: VOID
+ActorNumber: 452
+PlayerID: ECF8868B9D841513
+Platform: Standalone
+AccountCreationDate: 2025-12-30 01:26:01 UTC
+Color: R=0.44 G=0.00 B=0.78
+Cosmetics: None

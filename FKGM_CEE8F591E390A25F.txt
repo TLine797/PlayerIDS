@@ -1,0 +1,7 @@
+Name: N0TAC3
+ActorNumber: 1110
+PlayerID: CEE8F591E390A25F
+Platform: Unknown
+AccountCreationDate: 2024-09-16 22:11:34 UTC
+Color: R=0.11 G=0.00 B=0.00
+Cosmetics: None

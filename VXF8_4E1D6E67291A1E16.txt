@@ -1,0 +1,7 @@
+Name: gorilla6793
+ActorNumber: 1229
+PlayerID: 4E1D6E67291A1E16
+Platform: Unknown
+AccountCreationDate: 2025-12-14 04:09:27 UTC
+Color: R=0.56 G=0.22 B=0.78
+Cosmetics: None

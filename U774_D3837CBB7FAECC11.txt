@@ -1,0 +1,7 @@
+Name: JUAN
+ActorNumber: 8
+PlayerID: D3837CBB7FAECC11
+Platform: Standalone
+AccountCreationDate: 2024-07-17 02:28:36 UTC
+Color: R=0.00 G=0.00 B=0.00
+Cosmetics: None

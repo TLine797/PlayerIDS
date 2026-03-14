@@ -1,0 +1,7 @@
+Name: XOZA
+ActorNumber: 648
+PlayerID: 99B4334FF597ECF5
+Platform: Standalone
+AccountCreationDate: 2025-12-30 17:58:19 UTC
+Color: R=0.89 G=0.33 B=0.67
+Cosmetics: None

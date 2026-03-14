@@ -1,0 +1,7 @@
+Name: JOHN
+ActorNumber: 1194
+PlayerID: 7B60BF9742371923
+Platform: Standalone
+AccountCreationDate: 2025-01-05 19:52:16 UTC
+Color: R=0.22 G=1.00 B=0.44
+Cosmetics: None

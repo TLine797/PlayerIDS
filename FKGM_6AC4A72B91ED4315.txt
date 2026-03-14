@@ -1,0 +1,7 @@
+Name: KATIANA
+ActorNumber: 1158
+PlayerID: 6AC4A72B91ED4315
+Platform: Standalone
+AccountCreationDate: 2025-12-25 21:38:18 UTC
+Color: R=0.44 G=0.22 B=0.89
+Cosmetics: None

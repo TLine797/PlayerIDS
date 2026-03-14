@@ -1,0 +1,7 @@
+Name: KIM
+ActorNumber: 45
+PlayerID: FA98BAA8F60ADBAB
+Platform: PC
+AccountCreationDate: 2026-03-04 23:00:29 UTC
+Color: R=1.00 G=0.00 B=1.00
+Cosmetics: None

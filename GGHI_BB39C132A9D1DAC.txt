@@ -1,0 +1,7 @@
+Name: gorilla5018
+ActorNumber: 368
+PlayerID: BB39C132A9D1DAC
+Platform: Standalone
+AccountCreationDate: 2025-12-30 11:58:17 UTC
+Color: R=0.00 G=0.00 B=1.00
+Cosmetics: None

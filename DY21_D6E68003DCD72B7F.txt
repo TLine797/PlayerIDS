@@ -1,0 +1,7 @@
+Name: RTX
+ActorNumber: 260
+PlayerID: D6E68003DCD72B7F
+Platform: Standalone
+AccountCreationDate: 2025-12-03 02:11:30 UTC
+Color: R=1.00 G=0.00 B=0.00
+Cosmetics: None

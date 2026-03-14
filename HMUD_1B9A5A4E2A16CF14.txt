@@ -1,0 +1,7 @@
+Name: gorilla5218
+ActorNumber: 131
+PlayerID: 1B9A5A4E2A16CF14
+Platform: Standalone
+AccountCreationDate: 2024-12-26 11:52:22 UTC
+Color: R=1.00 G=0.89 B=1.00
+Cosmetics: None

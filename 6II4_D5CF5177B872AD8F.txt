@@ -1,0 +1,7 @@
+Name: GOOBER
+ActorNumber: 728
+PlayerID: D5CF5177B872AD8F
+Platform: Standalone
+AccountCreationDate: 2025-12-25 23:56:19 UTC
+Color: R=0.89 G=1.00 B=0.89
+Cosmetics: None

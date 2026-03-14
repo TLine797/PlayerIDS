@@ -1,0 +1,7 @@
+Name: TTBSUNRISE
+ActorNumber: 541
+PlayerID: 711DFEF35C90327C
+Platform: Standalone
+AccountCreationDate: 2025-12-25 00:06:10 UTC
+Color: R=0.33 G=0.00 B=0.78
+Cosmetics: None

@@ -1,0 +1,7 @@
+Name: GOKU
+ActorNumber: 356
+PlayerID: FB2AC7F902A0E6F5
+Platform: Standalone
+AccountCreationDate: 2025-04-16 14:29:59 UTC
+Color: R=1.00 G=0.00 B=0.00
+Cosmetics: None

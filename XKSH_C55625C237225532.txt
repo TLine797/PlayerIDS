@@ -1,0 +1,7 @@
+Name: 3GAMERS
+ActorNumber: 661
+PlayerID: C55625C237225532
+Platform: Standalone
+AccountCreationDate: 2025-06-16 16:39:32 UTC
+Color: R=0.89 G=0.89 B=0.89
+Cosmetics: None

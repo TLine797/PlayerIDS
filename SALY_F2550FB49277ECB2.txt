@@ -1,0 +1,7 @@
+Name: MOONGT
+ActorNumber: 171
+PlayerID: F2550FB49277ECB2
+Platform: Standalone
+AccountCreationDate: 2025-12-25 14:47:43 UTC
+Color: R=0.33 G=0.00 B=0.78
+Cosmetics: None

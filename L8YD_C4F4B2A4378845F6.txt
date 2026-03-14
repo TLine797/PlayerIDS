@@ -1,0 +1,7 @@
+Name: POOHBEAR
+ActorNumber: 87
+PlayerID: C4F4B2A4378845F6
+Platform: Standalone
+AccountCreationDate: 2026-01-03 22:52:00 UTC
+Color: R=1.00 G=0.78 B=0.00
+Cosmetics: None

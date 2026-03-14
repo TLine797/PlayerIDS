@@ -1,0 +1,7 @@
+Name: PPDCHIMP
+ActorNumber: 291
+PlayerID: 7AE28E3BB93CE699
+Platform: Unknown
+AccountCreationDate: 2022-11-12 19:25:50 UTC
+Color: R=0.00 G=0.11 B=0.33
+Cosmetics: None

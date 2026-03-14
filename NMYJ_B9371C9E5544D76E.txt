@@ -1,0 +1,7 @@
+Name: TGTE
+ActorNumber: 1591
+PlayerID: B9371C9E5544D76E
+Platform: Standalone
+AccountCreationDate: 2025-12-25 20:02:52 UTC
+Color: R=0.67 G=0.00 B=1.00
+Cosmetics: None

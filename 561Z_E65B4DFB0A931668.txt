@@ -1,0 +1,7 @@
+Name: gorilla4690
+ActorNumber: 482
+PlayerID: E65B4DFB0A931668
+Platform: Standalone
+AccountCreationDate: 2025-12-25 18:41:24 UTC
+Color: R=1.00 G=0.00 B=0.00
+Cosmetics: None

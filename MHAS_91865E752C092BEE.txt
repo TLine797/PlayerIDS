@@ -1,0 +1,7 @@
+Name: E
+ActorNumber: 1153
+PlayerID: 91865E752C092BEE
+Platform: PC
+AccountCreationDate: 2024-08-26 04:17:28 UTC
+Color: R=0.00 G=0.22 B=0.89
+Cosmetics: None

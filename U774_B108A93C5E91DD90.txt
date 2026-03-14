@@ -1,0 +1,7 @@
+Name: TGYRAM
+ActorNumber: 1
+PlayerID: B108A93C5E91DD90
+Platform: Standalone
+AccountCreationDate: 2024-12-30 16:37:04 UTC
+Color: R=1.00 G=0.22 B=0.22
+Cosmetics: None

@@ -1,0 +1,7 @@
+Name: FEXJEX
+ActorNumber: 1717
+PlayerID: 26BE897F8F6B9F1C
+Platform: Standalone
+AccountCreationDate: 2022-04-24 22:01:08 UTC
+Color: R=1.00 G=1.00 B=1.00
+Cosmetics: None

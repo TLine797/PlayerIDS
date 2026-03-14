@@ -1,0 +1,7 @@
+Name: HONEYBEE
+ActorNumber: 597
+PlayerID: D51515E946BACAF3
+Platform: Standalone
+AccountCreationDate: 2025-03-26 20:05:08 UTC
+Color: R=1.00 G=0.89 B=0.00
+Cosmetics: None

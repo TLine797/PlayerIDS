@@ -1,0 +1,7 @@
+Name: PINK
+ActorNumber: 185
+PlayerID: F4ACB718511EB6D6
+Platform: Standalone
+AccountCreationDate: 2023-12-30 23:16:44 UTC
+Color: R=0.00 G=1.00 B=0.00
+Cosmetics: None

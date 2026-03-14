@@ -1,0 +1,7 @@
+Name: HIIII
+ActorNumber: 449
+PlayerID: 6159A8508CF973E4
+Platform: Standalone
+AccountCreationDate: 2025-08-17 01:11:47 UTC
+Color: R=1.00 G=1.00 B=0.78
+Cosmetics: None

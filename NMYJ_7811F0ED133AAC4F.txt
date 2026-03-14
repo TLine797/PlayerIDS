@@ -1,0 +1,7 @@
+Name: COOPNOOP
+ActorNumber: 1613
+PlayerID: 7811F0ED133AAC4F
+Platform: Standalone
+AccountCreationDate: 2023-12-31 17:33:41 UTC
+Color: R=0.56 G=0.22 B=1.00
+Cosmetics: None

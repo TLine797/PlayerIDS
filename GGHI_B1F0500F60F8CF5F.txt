@@ -1,0 +1,7 @@
+Name: PEANUT
+ActorNumber: 383
+PlayerID: B1F0500F60F8CF5F
+Platform: Standalone
+AccountCreationDate: 2025-12-14 15:34:38 UTC
+Color: R=1.00 G=0.33 B=1.00
+Cosmetics: None

@@ -1,0 +1,7 @@
+Name: KNINLYRIFT
+ActorNumber: 778
+PlayerID: BC4133507F6BA94C
+Platform: PC
+AccountCreationDate: 2025-12-20 23:18:48 UTC
+Color: R=0.44 G=0.00 B=0.00
+Cosmetics: None

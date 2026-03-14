@@ -1,0 +1,7 @@
+Name: EDBALL
+ActorNumber: 539
+PlayerID: FAF8B771BB4C1559
+Platform: Standalone
+AccountCreationDate: 2026-01-29 22:02:35 UTC
+Color: R=0.67 G=0.44 B=0.00
+Cosmetics: None

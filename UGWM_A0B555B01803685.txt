@@ -1,0 +1,7 @@
+Name: TTMRED
+ActorNumber: 28
+PlayerID: A0B555B01803685
+Platform: Unknown
+AccountCreationDate: 2022-02-23 21:26:53 UTC
+Color: R=1.00 G=0.89 B=0.00
+Cosmetics: None

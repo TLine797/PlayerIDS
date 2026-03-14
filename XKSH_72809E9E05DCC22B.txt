@@ -1,0 +1,7 @@
+Name: COLOSSIAN32
+ActorNumber: 645
+PlayerID: 72809E9E05DCC22B
+Platform: Standalone
+AccountCreationDate: 2025-12-28 21:42:21 UTC
+Color: R=0.78 G=0.33 B=0.22
+Cosmetics: None

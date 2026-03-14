@@ -1,0 +1,7 @@
+Name: JOHN618
+ActorNumber: 1135
+PlayerID: 31D6BC88B9F29BFE
+Platform: Standalone
+AccountCreationDate: 2026-02-15 22:34:20 UTC
+Color: R=0.44 G=0.00 B=0.78
+Cosmetics: None

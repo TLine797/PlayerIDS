@@ -1,0 +1,7 @@
+Name: VALVE
+ActorNumber: 1189
+PlayerID: C6960CFAD050BD45
+Platform: Standalone
+AccountCreationDate: 2025-02-26 23:56:02 UTC
+Color: R=0.11 G=0.44 B=0.56
+Cosmetics: None

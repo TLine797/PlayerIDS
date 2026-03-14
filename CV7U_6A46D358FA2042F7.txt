@@ -1,0 +1,7 @@
+Name: HANDTRACKER
+ActorNumber: 1070
+PlayerID: 6A46D358FA2042F7
+Platform: Standalone
+AccountCreationDate: 2024-12-24 15:30:46 UTC
+Color: R=0.33 G=0.00 B=0.44
+Cosmetics: None

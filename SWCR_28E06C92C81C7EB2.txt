@@ -1,0 +1,7 @@
+Name: FETVV
+ActorNumber: 938
+PlayerID: 28E06C92C81C7EB2
+Platform: Standalone
+AccountCreationDate: 2025-01-14 19:00:47 UTC
+Color: R=0.78 G=0.11 B=0.33
+Cosmetics: None

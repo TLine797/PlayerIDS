@@ -1,0 +1,7 @@
+Name: BRITISHGUY2
+ActorNumber: 1085
+PlayerID: 9AD880AC331EC047
+Platform: Standalone
+AccountCreationDate: 2025-06-11 10:09:03 UTC
+Color: R=0.00 G=0.00 B=0.00
+Cosmetics: None

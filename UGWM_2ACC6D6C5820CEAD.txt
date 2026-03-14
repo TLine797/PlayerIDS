@@ -1,0 +1,7 @@
+Name: TSBAEROHVR
+ActorNumber: 17
+PlayerID: 2ACC6D6C5820CEAD
+Platform: Standalone
+AccountCreationDate: 2025-12-25 14:36:51 UTC
+Color: R=0.56 G=0.67 B=1.00
+Cosmetics: None

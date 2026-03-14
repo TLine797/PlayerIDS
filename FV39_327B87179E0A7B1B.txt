@@ -1,0 +1,7 @@
+Name: SNAPCHAT
+ActorNumber: 363
+PlayerID: 327B87179E0A7B1B
+Platform: Standalone
+AccountCreationDate: 2025-12-27 04:12:54 UTC
+Color: R=1.00 G=0.00 B=0.22
+Cosmetics: None

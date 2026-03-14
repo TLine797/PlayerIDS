@@ -1,0 +1,7 @@
+Name: SREN
+ActorNumber: 715
+PlayerID: 39BD944FD6FC5BD2
+Platform: Standalone
+AccountCreationDate: 2026-01-02 22:13:38 UTC
+Color: R=0.00 G=0.89 B=1.00
+Cosmetics: None

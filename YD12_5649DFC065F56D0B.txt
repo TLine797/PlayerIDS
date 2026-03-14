@@ -1,0 +1,7 @@
+Name: MANGO
+ActorNumber: 452
+PlayerID: 5649DFC065F56D0B
+Platform: PC
+AccountCreationDate: 2024-02-24 15:01:46 UTC
+Color: R=1.00 G=0.89 B=1.00
+Cosmetics: None

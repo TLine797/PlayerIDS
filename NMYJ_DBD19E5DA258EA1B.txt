@@ -1,0 +1,7 @@
+Name: WT
+ActorNumber: 1699
+PlayerID: DBD19E5DA258EA1B
+Platform: Standalone
+AccountCreationDate: 2025-12-25 20:37:16 UTC
+Color: R=0.56 G=0.44 B=0.33
+Cosmetics: None

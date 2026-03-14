@@ -1,0 +1,7 @@
+Name: KASS
+ActorNumber: 1
+PlayerID: BF6282EEEE689FC3
+Platform: Standalone
+AccountCreationDate: 2025-12-25 21:25:23 UTC
+Color: R=0.22 G=0.22 B=0.22
+Cosmetics: None

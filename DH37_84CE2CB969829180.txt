@@ -1,0 +1,7 @@
+Name: IMSICK
+ActorNumber: 430
+PlayerID: 84CE2CB969829180
+Platform: Standalone
+AccountCreationDate: 2025-12-26 01:38:34 UTC
+Color: R=1.00 G=0.67 B=0.00
+Cosmetics: None

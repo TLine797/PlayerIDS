@@ -1,0 +1,7 @@
+Name: TRECOOL
+ActorNumber: 20
+PlayerID: 15FE73343159FC1E
+Platform: Standalone
+AccountCreationDate: 2024-12-25 09:31:58 UTC
+Color: R=0.11 G=0.78 B=1.00
+Cosmetics: None

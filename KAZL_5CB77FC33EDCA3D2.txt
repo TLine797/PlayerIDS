@@ -1,0 +1,7 @@
+Name: MASON67
+ActorNumber: 351
+PlayerID: 5CB77FC33EDCA3D2
+Platform: Standalone
+AccountCreationDate: 2023-08-25 00:52:28 UTC
+Color: R=0.00 G=0.89 B=1.00
+Cosmetics: None

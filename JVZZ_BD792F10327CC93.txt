@@ -1,0 +1,7 @@
+Name: RA1DRPGCATGG
+ActorNumber: 737
+PlayerID: BD792F10327CC93
+Platform: Standalone
+AccountCreationDate: 2025-12-10 05:42:25 UTC
+Color: R=0.44 G=0.33 B=0.22
+Cosmetics: None

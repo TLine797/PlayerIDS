@@ -1,0 +1,7 @@
+Name: VOIDVR
+ActorNumber: 225
+PlayerID: 79355CEFF3B33878
+Platform: Standalone
+AccountCreationDate: 2023-12-26 19:06:48 UTC
+Color: R=1.00 G=0.44 B=0.00
+Cosmetics: None

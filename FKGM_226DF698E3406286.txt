@@ -1,0 +1,7 @@
+Name: WRISTWEIGHTS
+ActorNumber: 1090
+PlayerID: 226DF698E3406286
+Platform: Unknown
+AccountCreationDate: 2022-08-13 22:53:46 UTC
+Color: R=0.00 G=0.44 B=0.33
+Cosmetics: None

@@ -1,0 +1,7 @@
+Name: REDREAPER
+ActorNumber: 20
+PlayerID: B88DED68E658C1F1
+Platform: Standalone
+AccountCreationDate: 2025-04-13 02:11:47 UTC
+Color: R=1.00 G=0.00 B=0.00
+Cosmetics: None

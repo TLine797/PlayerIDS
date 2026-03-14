@@ -1,0 +1,7 @@
+Name: SYNC
+ActorNumber: 221
+PlayerID: 4EE61DA60D7AC001
+Platform: Standalone
+AccountCreationDate: 2024-09-14 01:30:23 UTC
+Color: R=0.00 G=0.89 B=1.00
+Cosmetics: None

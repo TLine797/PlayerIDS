@@ -1,0 +1,7 @@
+Name: AKZVR
+ActorNumber: 1728
+PlayerID: BED13C84E6B57F78
+Platform: Unknown
+AccountCreationDate: 2026-01-31 16:42:22 UTC
+Color: R=1.00 G=0.67 B=1.00
+Cosmetics: None

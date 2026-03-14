@@ -1,0 +1,7 @@
+Name: TFFELIJAH
+ActorNumber: 381
+PlayerID: 1E9AA43B5D0279D3
+Platform: Standalone
+AccountCreationDate: 2025-03-09 21:45:32 UTC
+Color: R=0.22 G=0.22 B=0.22
+Cosmetics: None

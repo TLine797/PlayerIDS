@@ -1,0 +1,7 @@
+Name: gorilla
+ActorNumber: 40
+PlayerID: 7C5E1B781D2558C1
+Platform: Standalone
+AccountCreationDate: 2025-12-25 13:58:09 UTC
+Color: R=0.00 G=1.00 B=0.00
+Cosmetics: None

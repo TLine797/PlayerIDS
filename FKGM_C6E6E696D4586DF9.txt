@@ -1,0 +1,7 @@
+Name: SYMBIONT
+ActorNumber: 1171
+PlayerID: C6E6E696D4586DF9
+Platform: Standalone
+AccountCreationDate: 2024-05-16 03:54:07 UTC
+Color: R=0.11 G=0.11 B=1.00
+Cosmetics: None

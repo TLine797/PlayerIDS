@@ -1,0 +1,7 @@
+Name: JEFFRY
+ActorNumber: 524
+PlayerID: E5D9DA2490F110AB
+Platform: Standalone
+AccountCreationDate: 2025-12-25 16:01:04 UTC
+Color: R=0.67 G=0.11 B=0.33
+Cosmetics: None

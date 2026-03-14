@@ -1,0 +1,7 @@
+Name: 1234567123RT
+ActorNumber: 1014
+PlayerID: A2AC0C40AA39E7E7
+Platform: Standalone
+AccountCreationDate: 2025-12-25 14:55:19 UTC
+Color: R=1.00 G=1.00 B=1.00
+Cosmetics: None

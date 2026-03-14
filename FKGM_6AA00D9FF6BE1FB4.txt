@@ -1,0 +1,7 @@
+Name: ZO9
+ActorNumber: 1180
+PlayerID: 6AA00D9FF6BE1FB4
+Platform: Standalone
+AccountCreationDate: 2025-02-24 14:30:33 UTC
+Color: R=0.44 G=0.00 B=0.78
+Cosmetics: None

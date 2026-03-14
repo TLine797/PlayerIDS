@@ -1,0 +1,7 @@
+Name: DUMB
+ActorNumber: 224
+PlayerID: E19256F4650988F5
+Platform: Standalone
+AccountCreationDate: 2025-12-13 02:38:54 UTC
+Color: R=0.00 G=0.11 B=0.22
+Cosmetics: None

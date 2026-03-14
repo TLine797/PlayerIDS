@@ -1,0 +1,7 @@
+Name: AJ
+ActorNumber: 308
+PlayerID: F0F9413593FED948
+Platform: Standalone
+AccountCreationDate: 2025-02-15 04:33:51 UTC
+Color: R=0.33 G=0.00 B=0.00
+Cosmetics: None

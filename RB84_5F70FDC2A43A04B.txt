@@ -1,0 +1,7 @@
+Name: STATUE
+ActorNumber: 539
+PlayerID: 5F70FDC2A43A04B
+Platform: Standalone
+AccountCreationDate: 2025-03-18 17:19:44 UTC
+Color: R=0.78 G=0.56 B=0.44
+Cosmetics: None

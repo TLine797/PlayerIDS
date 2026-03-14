@@ -1,0 +1,7 @@
+Name: MONITOPEDRO
+ActorNumber: 640
+PlayerID: 6E53801A9E26BFC3
+Platform: Standalone
+AccountCreationDate: 2025-12-21 23:44:01 UTC
+Color: R=0.44 G=0.11 B=1.00
+Cosmetics: None

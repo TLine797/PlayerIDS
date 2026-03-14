@@ -1,0 +1,7 @@
+Name: CRANEVR
+ActorNumber: 642
+PlayerID: 529F17DA2275E718
+Platform: Standalone
+AccountCreationDate: 2025-12-25 13:42:39 UTC
+Color: R=1.00 G=1.00 B=1.00
+Cosmetics: None

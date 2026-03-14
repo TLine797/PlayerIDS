@@ -1,0 +1,7 @@
+Name: MAX
+ActorNumber: 160
+PlayerID: 250413CC75CF86B1
+Platform: Standalone
+AccountCreationDate: 2025-01-05 20:11:32 UTC
+Color: R=0.44 G=0.22 B=0.89
+Cosmetics: None

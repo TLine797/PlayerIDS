@@ -1,0 +1,7 @@
+Name: PUPPY
+ActorNumber: 1164
+PlayerID: 99C378F5C74D7786
+Platform: Unknown
+AccountCreationDate: 2025-08-30 03:15:18 UTC
+Color: R=0.00 G=0.78 B=1.00
+Cosmetics: None

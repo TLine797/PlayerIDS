@@ -1,0 +1,7 @@
+Name: FANCYSEAL
+ActorNumber: 430
+PlayerID: C18BDD5D8BFA1F4F
+Platform: Standalone
+AccountCreationDate: 2024-02-18 16:38:04 UTC
+Color: R=0.22 G=0.22 B=0.33
+Cosmetics: None

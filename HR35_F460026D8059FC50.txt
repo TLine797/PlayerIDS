@@ -1,0 +1,7 @@
+Name: 16
+ActorNumber: 7
+PlayerID: F460026D8059FC50
+Platform: Standalone
+AccountCreationDate: 2026-02-07 17:56:37 UTC
+Color: R=0.67 G=0.56 B=0.67
+Cosmetics: None

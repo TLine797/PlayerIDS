@@ -1,0 +1,7 @@
+Name: JARVIS
+ActorNumber: 650
+PlayerID: 97443672B735848B
+Platform: Standalone
+AccountCreationDate: 2024-04-10 00:39:05 UTC
+Color: R=0.22 G=1.00 B=0.22
+Cosmetics: None

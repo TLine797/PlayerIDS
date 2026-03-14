@@ -1,0 +1,7 @@
+Name: CRIMSON
+ActorNumber: 399
+PlayerID: 65B66FA3A6EF1EE4
+Platform: Standalone
+AccountCreationDate: 2024-09-05 17:38:25 UTC
+Color: R=0.67 G=0.00 B=0.11
+Cosmetics: None

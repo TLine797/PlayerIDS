@@ -1,0 +1,7 @@
+Name: 1EEDD
+ActorNumber: 401
+PlayerID: BB32A5151C343D74
+Platform: Standalone
+AccountCreationDate: 2025-01-17 00:34:54 UTC
+Color: R=0.33 G=0.00 B=0.78
+Cosmetics: None

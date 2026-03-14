@@ -1,0 +1,7 @@
+Name: HDDBHCNDB
+ActorNumber: 86
+PlayerID: 43DAE9E02A6630FF
+Platform: Unknown
+AccountCreationDate: 2023-01-23 22:40:35 UTC
+Color: R=1.00 G=0.44 B=0.00
+Cosmetics: None

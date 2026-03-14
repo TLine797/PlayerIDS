@@ -1,0 +1,7 @@
+Name: AWESOMESAUCE
+ActorNumber: 606
+PlayerID: 566790F42FD76D37
+Platform: Standalone
+AccountCreationDate: 2025-07-29 17:44:50 UTC
+Color: R=1.00 G=0.67 B=1.00
+Cosmetics: None

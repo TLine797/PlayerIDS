@@ -1,0 +1,7 @@
+Name: WOODYVR
+ActorNumber: 194
+PlayerID: 7899366EB6341C5D
+Platform: Standalone
+AccountCreationDate: 2023-12-25 15:40:41 UTC
+Color: R=0.67 G=0.11 B=0.00
+Cosmetics: None

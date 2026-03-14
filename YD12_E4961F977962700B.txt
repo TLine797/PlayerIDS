@@ -1,0 +1,7 @@
+Name: BUTTER
+ActorNumber: 446
+PlayerID: E4961F977962700B
+Platform: Standalone
+AccountCreationDate: 2024-03-24 01:30:38 UTC
+Color: R=0.00 G=0.00 B=0.56
+Cosmetics: None

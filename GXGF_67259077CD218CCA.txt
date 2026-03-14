@@ -1,0 +1,7 @@
+Name: BADATTHEGAM
+ActorNumber: 190
+PlayerID: 67259077CD218CCA
+Platform: Standalone
+AccountCreationDate: 2024-01-27 12:19:03 UTC
+Color: R=0.44 G=0.33 B=0.22
+Cosmetics: None

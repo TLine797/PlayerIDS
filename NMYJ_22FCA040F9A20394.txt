@@ -1,0 +1,7 @@
+Name: RRBRO
+ActorNumber: 1646
+PlayerID: 22FCA040F9A20394
+Platform: Standalone
+AccountCreationDate: 2022-07-03 18:25:48 UTC
+Color: R=0.44 G=0.00 B=0.00
+Cosmetics: None

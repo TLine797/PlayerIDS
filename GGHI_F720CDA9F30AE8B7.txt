@@ -1,0 +1,7 @@
+Name: gorilla6891
+ActorNumber: 373
+PlayerID: F720CDA9F30AE8B7
+Platform: Standalone
+AccountCreationDate: 2026-01-01 00:08:04 UTC
+Color: R=0.56 G=0.00 B=0.67
+Cosmetics: None

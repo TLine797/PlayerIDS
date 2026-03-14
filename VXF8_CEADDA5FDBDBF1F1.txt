@@ -1,0 +1,7 @@
+Name: BYZEL
+ActorNumber: 1227
+PlayerID: CEADDA5FDBDBF1F1
+Platform: Standalone
+AccountCreationDate: 2024-09-16 02:31:56 UTC
+Color: R=0.44 G=0.00 B=0.78
+Cosmetics: None

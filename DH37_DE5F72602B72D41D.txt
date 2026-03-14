@@ -1,0 +1,7 @@
+Name: GOOFBALL
+ActorNumber: 426
+PlayerID: DE5F72602B72D41D
+Platform: Standalone
+AccountCreationDate: 2025-08-05 02:32:03 UTC
+Color: R=0.00 G=0.00 B=0.00
+Cosmetics: None

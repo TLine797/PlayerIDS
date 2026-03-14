@@ -1,0 +1,7 @@
+Name: ROBODOG2026
+ActorNumber: 1622
+PlayerID: 6E5EE504C32E5E71
+Platform: PC
+AccountCreationDate: 2023-12-25 10:29:10 UTC
+Color: R=0.00 G=0.78 B=1.00
+Cosmetics: None

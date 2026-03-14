@@ -1,0 +1,7 @@
+Name: 1FLY
+ActorNumber: 64
+PlayerID: 5DAF721C0C73DA17
+Platform: Standalone
+AccountCreationDate: 2024-10-24 21:28:45 UTC
+Color: R=0.33 G=0.33 B=0.00
+Cosmetics: None

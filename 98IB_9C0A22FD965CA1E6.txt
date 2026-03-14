@@ -1,0 +1,7 @@
+Name: gorilla6201
+ActorNumber: 192
+PlayerID: 9C0A22FD965CA1E6
+Platform: Standalone
+AccountCreationDate: 2025-04-28 23:26:30 UTC
+Color: R=1.00 G=0.11 B=0.00
+Cosmetics: None

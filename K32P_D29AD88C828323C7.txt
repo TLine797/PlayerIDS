@@ -1,0 +1,7 @@
+Name: BANANA
+ActorNumber: 749
+PlayerID: D29AD88C828323C7
+Platform: Standalone
+AccountCreationDate: 2022-11-06 19:58:37 UTC
+Color: R=1.00 G=1.00 B=0.00
+Cosmetics: None

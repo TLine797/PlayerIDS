@@ -1,0 +1,7 @@
+Name: DADDY
+ActorNumber: 62
+PlayerID: CD8FA1C7D5DD3922
+Platform: Standalone
+AccountCreationDate: 2025-12-26 00:59:26 UTC
+Color: R=0.00 G=0.00 B=0.00
+Cosmetics: None

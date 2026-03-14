@@ -1,0 +1,7 @@
+Name: COMPH4PKY
+ActorNumber: 189
+PlayerID: 7BFE6724EA82E88
+Platform: Standalone
+AccountCreationDate: 2024-09-09 11:46:24 UTC
+Color: R=0.56 G=0.00 B=0.00
+Cosmetics: None

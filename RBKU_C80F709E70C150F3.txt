@@ -1,0 +1,7 @@
+Name: COSA
+ActorNumber: 245
+PlayerID: C80F709E70C150F3
+Platform: Standalone
+AccountCreationDate: 2025-05-10 16:00:17 UTC
+Color: R=0.56 G=0.44 B=1.00
+Cosmetics: None

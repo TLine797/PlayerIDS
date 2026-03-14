@@ -1,0 +1,7 @@
+Name: BENDYFAN1016
+ActorNumber: 319
+PlayerID: 633325247D88D939
+Platform: Standalone
+AccountCreationDate: 2024-04-03 19:03:48 UTC
+Color: R=0.00 G=0.89 B=1.00
+Cosmetics: None

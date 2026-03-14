@@ -1,0 +1,7 @@
+Name: ARSENALE
+ActorNumber: 600
+PlayerID: 280838A766D1EBAE
+Platform: Standalone
+AccountCreationDate: 2025-03-14 00:37:02 UTC
+Color: R=0.33 G=0.78 B=1.00
+Cosmetics: None

@@ -1,0 +1,7 @@
+Name: JESUSISKING
+ActorNumber: 1684
+PlayerID: 7607A4F220DDB880
+Platform: Unknown
+AccountCreationDate: 2024-05-03 19:10:00 UTC
+Color: R=0.00 G=0.00 B=0.33
+Cosmetics: None

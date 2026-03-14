@@ -1,0 +1,7 @@
+Name: RM
+ActorNumber: 964
+PlayerID: A24FD7EA68EE340F
+Platform: Unknown
+AccountCreationDate: 2022-04-11 20:46:07 UTC
+Color: R=0.22 G=0.00 B=0.22
+Cosmetics: None

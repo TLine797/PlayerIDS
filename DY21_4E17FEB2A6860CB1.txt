@@ -1,0 +1,7 @@
+Name: DOPAMEAN
+ActorNumber: 247
+PlayerID: 4E17FEB2A6860CB1
+Platform: Standalone
+AccountCreationDate: 2024-09-23 14:04:20 UTC
+Color: R=0.44 G=0.22 B=0.89
+Cosmetics: None

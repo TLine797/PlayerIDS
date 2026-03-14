@@ -1,0 +1,7 @@
+Name: GEO
+ActorNumber: 1680
+PlayerID: C4CDC16EA075764C
+Platform: Standalone
+AccountCreationDate: 2023-09-04 21:13:44 UTC
+Color: R=0.44 G=0.22 B=1.00
+Cosmetics: None

@@ -1,0 +1,7 @@
+Name: TARZAN09870
+ActorNumber: 1664
+PlayerID: 230BA0BF0B4F03F8
+Platform: Standalone
+AccountCreationDate: 2022-07-26 18:07:18 UTC
+Color: R=0.11 G=0.00 B=0.00
+Cosmetics: None

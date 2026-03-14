@@ -1,0 +1,7 @@
+Name: CROCODILE
+ActorNumber: 1165
+PlayerID: 3DF0B55C015FDC40
+Platform: Unknown
+AccountCreationDate: 2024-12-24 16:28:39 UTC
+Color: R=0.56 G=0.78 B=0.56
+Cosmetics: None

@@ -1,0 +1,7 @@
+Name: DRPEPPER
+ActorNumber: 2
+PlayerID: 3DEFAB9DC64126F9
+Platform: Standalone
+AccountCreationDate: 2025-12-25 13:39:25 UTC
+Color: R=1.00 G=0.00 B=0.00
+Cosmetics: None

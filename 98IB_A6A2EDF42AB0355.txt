@@ -1,0 +1,7 @@
+Name: KEYSHIA
+ActorNumber: 159
+PlayerID: A6A2EDF42AB0355
+Platform: Standalone
+AccountCreationDate: 2025-02-17 01:00:42 UTC
+Color: R=0.00 G=0.00 B=0.22
+Cosmetics: None

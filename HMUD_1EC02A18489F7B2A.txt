@@ -1,0 +1,7 @@
+Name: THJRANIMATES
+ActorNumber: 117
+PlayerID: 1EC02A18489F7B2A
+Platform: Standalone
+AccountCreationDate: 2025-12-25 19:37:14 UTC
+Color: R=0.44 G=0.00 B=0.00
+Cosmetics: None

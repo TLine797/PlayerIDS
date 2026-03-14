@@ -1,0 +1,7 @@
+Name: LOBBY
+ActorNumber: 618
+PlayerID: D6EEEFD2F22FAC96
+Platform: Standalone
+AccountCreationDate: 2025-12-25 17:22:08 UTC
+Color: R=0.00 G=0.00 B=0.00
+Cosmetics: None

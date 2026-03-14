@@ -1,0 +1,7 @@
+Name: DXRKNESS
+ActorNumber: 600
+PlayerID: F48157446A0A35E5
+Platform: Unknown
+AccountCreationDate: 2022-12-27 16:43:11 UTC
+Color: R=0.33 G=0.33 B=0.33
+Cosmetics: None

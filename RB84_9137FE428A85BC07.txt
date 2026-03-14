@@ -1,0 +1,7 @@
+Name: JERRY
+ActorNumber: 542
+PlayerID: 9137FE428A85BC07
+Platform: Standalone
+AccountCreationDate: 2025-12-25 17:21:17 UTC
+Color: R=0.56 G=0.44 B=0.78
+Cosmetics: None

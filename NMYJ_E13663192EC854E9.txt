@@ -1,0 +1,7 @@
+Name: NORMAL
+ActorNumber: 1616
+PlayerID: E13663192EC854E9
+Platform: Standalone
+AccountCreationDate: 2021-05-09 14:31:03 UTC
+Color: R=0.33 G=0.33 B=0.56
+Cosmetics: None

@@ -1,0 +1,7 @@
+Name: TTRDAWNYY
+ActorNumber: 1089
+PlayerID: D3B3C32A6B335CFE
+Platform: Standalone
+AccountCreationDate: 2026-02-06 20:16:51 UTC
+Color: R=0.67 G=0.22 B=0.78
+Cosmetics: None

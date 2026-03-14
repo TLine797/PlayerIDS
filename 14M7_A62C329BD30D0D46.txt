@@ -1,0 +1,7 @@
+Name: HERCATBOY
+ActorNumber: 614
+PlayerID: A62C329BD30D0D46
+Platform: Standalone
+AccountCreationDate: 2023-08-21 20:57:33 UTC
+Color: R=1.00 G=1.00 B=1.00
+Cosmetics: None

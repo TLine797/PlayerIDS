@@ -1,0 +1,7 @@
+Name: UNI
+ActorNumber: 1082
+PlayerID: B12614F9437F9523
+Platform: Standalone
+AccountCreationDate: 2026-01-22 23:25:58 UTC
+Color: R=0.78 G=0.89 B=1.00
+Cosmetics: None

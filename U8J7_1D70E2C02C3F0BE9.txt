@@ -1,0 +1,7 @@
+Name: TTTSUN
+ActorNumber: 802
+PlayerID: 1D70E2C02C3F0BE9
+Platform: Standalone
+AccountCreationDate: 2025-12-25 15:27:37 UTC
+Color: R=0.78 G=0.78 B=0.78
+Cosmetics: None

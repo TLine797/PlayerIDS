@@ -1,0 +1,7 @@
+Name: BANDO
+ActorNumber: 202
+PlayerID: 4DD04F78661115A4
+Platform: Standalone
+AccountCreationDate: 2026-01-18 01:19:43 UTC
+Color: R=0.44 G=1.00 B=0.67
+Cosmetics: None

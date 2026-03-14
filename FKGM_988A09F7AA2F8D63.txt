@@ -1,0 +1,7 @@
+Name: TSARDOM
+ActorNumber: 1122
+PlayerID: 988A09F7AA2F8D63
+Platform: Unknown
+AccountCreationDate: 2025-12-25 23:44:58 UTC
+Color: R=0.00 G=0.33 B=0.00
+Cosmetics: None

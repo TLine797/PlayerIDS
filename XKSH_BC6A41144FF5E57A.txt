@@ -1,0 +1,7 @@
+Name: I
+ActorNumber: 641
+PlayerID: BC6A41144FF5E57A
+Platform: Unknown
+AccountCreationDate: 2022-03-23 14:37:47 UTC
+Color: R=0.33 G=0.22 B=0.11
+Cosmetics: None

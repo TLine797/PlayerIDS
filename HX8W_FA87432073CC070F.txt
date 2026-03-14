@@ -1,0 +1,7 @@
+Name: PROTOTYEP
+ActorNumber: 1181
+PlayerID: FA87432073CC070F
+Platform: Standalone
+AccountCreationDate: 2024-12-24 15:02:31 UTC
+Color: R=0.00 G=0.89 B=1.00
+Cosmetics: None

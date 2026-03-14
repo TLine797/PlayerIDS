@@ -1,0 +1,7 @@
+Name: KJNKVNBBBNKC
+ActorNumber: 1100
+PlayerID: 91D1D0459454ACE8
+Platform: Standalone
+AccountCreationDate: 2026-03-08 18:01:21 UTC
+Color: R=0.22 G=0.00 B=0.67
+Cosmetics: None

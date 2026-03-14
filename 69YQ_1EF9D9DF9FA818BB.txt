@@ -1,0 +1,7 @@
+Name: KYYANGT
+ActorNumber: 1023
+PlayerID: 1EF9D9DF9FA818BB
+Platform: Standalone
+AccountCreationDate: 2024-12-25 14:50:59 UTC
+Color: R=0.44 G=0.00 B=0.78
+Cosmetics: None

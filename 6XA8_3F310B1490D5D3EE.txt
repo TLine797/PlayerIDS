@@ -1,0 +1,7 @@
+Name: ILOVEBROOK
+ActorNumber: 609
+PlayerID: 3F310B1490D5D3EE
+Platform: Standalone
+AccountCreationDate: 2024-12-15 17:58:58 UTC
+Color: R=0.22 G=0.22 B=0.44
+Cosmetics: None

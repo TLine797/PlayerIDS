@@ -1,0 +1,7 @@
+Name: KOOLONRIFTS
+ActorNumber: 250
+PlayerID: B61BA208C45F33C8
+Platform: Standalone
+AccountCreationDate: 2025-06-29 10:59:58 UTC
+Color: R=0.00 G=0.00 B=0.00
+Cosmetics: None

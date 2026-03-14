@@ -1,0 +1,7 @@
+Name: SPIDER
+ActorNumber: 531
+PlayerID: A8FAB53AA75D7B2D
+Platform: Standalone
+AccountCreationDate: 2024-12-25 15:17:53 UTC
+Color: R=0.78 G=0.00 B=0.11
+Cosmetics: None

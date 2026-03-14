@@ -1,0 +1,7 @@
+Name: SH4DOW
+ActorNumber: 207
+PlayerID: 8AD2A8E9DDD30C2A
+Platform: Standalone
+AccountCreationDate: 2025-08-29 12:27:13 UTC
+Color: R=0.33 G=0.00 B=0.56
+Cosmetics: None

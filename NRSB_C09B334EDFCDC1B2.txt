@@ -1,0 +1,7 @@
+Name: DINGLEBERRY
+ActorNumber: 222
+PlayerID: C09B334EDFCDC1B2
+Platform: Standalone
+AccountCreationDate: 2023-02-19 15:28:01 UTC
+Color: R=0.00 G=0.56 B=0.00
+Cosmetics: None

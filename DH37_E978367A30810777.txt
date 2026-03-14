@@ -1,0 +1,7 @@
+Name: GREENGT
+ActorNumber: 389
+PlayerID: E978367A30810777
+Platform: Standalone
+AccountCreationDate: 2023-05-14 18:38:06 UTC
+Color: R=0.00 G=0.11 B=1.00
+Cosmetics: None

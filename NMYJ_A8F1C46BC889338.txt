@@ -1,0 +1,7 @@
+Name: BUTTER
+ActorNumber: 1669
+PlayerID: A8F1C46BC889338
+Platform: Standalone
+AccountCreationDate: 2026-01-04 20:11:29 UTC
+Color: R=0.00 G=1.00 B=0.00
+Cosmetics: None

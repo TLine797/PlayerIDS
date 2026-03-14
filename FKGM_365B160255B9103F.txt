@@ -1,0 +1,7 @@
+Name: ICEBANANA
+ActorNumber: 1084
+PlayerID: 365B160255B9103F
+Platform: Standalone
+AccountCreationDate: 2025-12-01 16:20:22 UTC
+Color: R=1.00 G=0.78 B=0.89
+Cosmetics: None

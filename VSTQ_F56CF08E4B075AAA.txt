@@ -1,0 +1,7 @@
+Name: BABYCHIMP
+ActorNumber: 510
+PlayerID: F56CF08E4B075AAA
+Platform: Standalone
+AccountCreationDate: 2023-12-26 23:51:29 UTC
+Color: R=0.89 G=0.56 B=0.67
+Cosmetics: None

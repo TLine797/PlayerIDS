@@ -1,0 +1,7 @@
+Name: QQW255FTTWEE
+ActorNumber: 209
+PlayerID: C443F0668D04E544
+Platform: Standalone
+AccountCreationDate: 2025-12-26 16:25:16 UTC
+Color: R=0.00 G=0.78 B=0.89
+Cosmetics: None

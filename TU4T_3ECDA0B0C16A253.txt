@@ -1,0 +1,7 @@
+Name: GVVVVVVVVVVV
+ActorNumber: 804
+PlayerID: 3ECDA0B0C16A253
+Platform: PC
+AccountCreationDate: 2025-07-22 18:57:01 UTC
+Color: R=0.11 G=0.11 B=0.11
+Cosmetics: None

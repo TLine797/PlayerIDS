@@ -1,0 +1,7 @@
+Name: M15K
+ActorNumber: 838
+PlayerID: E55B63AC685D12CC
+Platform: Standalone
+AccountCreationDate: 2025-12-30 19:34:08 UTC
+Color: R=1.00 G=0.67 B=0.78
+Cosmetics: None

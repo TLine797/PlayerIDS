@@ -1,0 +1,7 @@
+Name: RATBOYY
+ActorNumber: 391
+PlayerID: 436617C1AEF5BFF1
+Platform: Standalone
+AccountCreationDate: 2025-05-03 13:33:59 UTC
+Color: R=0.00 G=0.00 B=0.00
+Cosmetics: None

@@ -1,0 +1,7 @@
+Name: KAT
+ActorNumber: 7
+PlayerID: 73FE732D94228DA3
+Platform: Standalone
+AccountCreationDate: 2025-05-17 18:33:41 UTC
+Color: R=1.00 G=0.00 B=1.00
+Cosmetics: None

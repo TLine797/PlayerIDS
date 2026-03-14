@@ -1,0 +1,7 @@
+Name: CAPPY
+ActorNumber: 451
+PlayerID: C805E07C7ABA8C11
+Platform: Standalone
+AccountCreationDate: 2024-02-02 19:25:50 UTC
+Color: R=1.00 G=0.78 B=1.00
+Cosmetics: None

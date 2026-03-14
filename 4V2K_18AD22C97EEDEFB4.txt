@@ -1,0 +1,7 @@
+Name: FROSTY
+ActorNumber: 179
+PlayerID: 18AD22C97EEDEFB4
+Platform: Standalone
+AccountCreationDate: 2023-12-28 18:30:45 UTC
+Color: R=0.56 G=0.56 B=0.89
+Cosmetics: None

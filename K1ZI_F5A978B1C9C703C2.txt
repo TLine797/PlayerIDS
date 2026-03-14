@@ -1,0 +1,7 @@
+Name: ROD
+ActorNumber: 236
+PlayerID: F5A978B1C9C703C2
+Platform: Standalone
+AccountCreationDate: 2025-12-25 15:42:09 UTC
+Color: R=0.00 G=0.22 B=0.00
+Cosmetics: None

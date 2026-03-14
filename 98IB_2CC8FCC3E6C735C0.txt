@@ -1,0 +1,7 @@
+Name: gorilla8093
+ActorNumber: 181
+PlayerID: 2CC8FCC3E6C735C0
+Platform: Standalone
+AccountCreationDate: 2025-12-25 08:34:57 UTC
+Color: R=1.00 G=0.56 B=0.67
+Cosmetics: None

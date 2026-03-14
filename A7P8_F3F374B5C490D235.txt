@@ -1,0 +1,7 @@
+Name: ICE
+ActorNumber: 437
+PlayerID: F3F374B5C490D235
+Platform: Standalone
+AccountCreationDate: 2025-12-25 12:12:44 UTC
+Color: R=0.00 G=0.67 B=0.00
+Cosmetics: None

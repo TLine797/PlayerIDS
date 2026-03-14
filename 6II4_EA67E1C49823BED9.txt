@@ -1,0 +1,7 @@
+Name: PPPTIG
+ActorNumber: 730
+PlayerID: EA67E1C49823BED9
+Platform: Standalone
+AccountCreationDate: 2023-03-30 20:13:51 UTC
+Color: R=0.22 G=0.11 B=0.33
+Cosmetics: None

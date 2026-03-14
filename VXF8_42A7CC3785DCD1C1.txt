@@ -1,0 +1,7 @@
+Name: JOHN316
+ActorNumber: 1222
+PlayerID: 42A7CC3785DCD1C1
+Platform: Standalone
+AccountCreationDate: 2025-04-02 23:57:45 UTC
+Color: R=0.00 G=0.00 B=0.00
+Cosmetics: None

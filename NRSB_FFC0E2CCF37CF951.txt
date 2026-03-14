@@ -1,0 +1,7 @@
+Name: JEFFREYEPSTE
+ActorNumber: 247
+PlayerID: FFC0E2CCF37CF951
+Platform: Standalone
+AccountCreationDate: 2026-01-04 17:35:26 UTC
+Color: R=0.00 G=0.00 B=0.00
+Cosmetics: None

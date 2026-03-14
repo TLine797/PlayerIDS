@@ -1,0 +1,7 @@
+Name: GODLOVESU2
+ActorNumber: 1727
+PlayerID: CD54AFF2F6846F57
+Platform: Standalone
+AccountCreationDate: 2025-12-25 03:48:38 UTC
+Color: R=1.00 G=0.00 B=0.00
+Cosmetics: None

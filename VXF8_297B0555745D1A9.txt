@@ -1,0 +1,7 @@
+Name: MORRO
+ActorNumber: 1209
+PlayerID: 297B0555745D1A9
+Platform: Standalone
+AccountCreationDate: 2024-12-25 18:56:09 UTC
+Color: R=0.33 G=0.00 B=0.67
+Cosmetics: None

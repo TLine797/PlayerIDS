@@ -1,0 +1,7 @@
+Name: GHOSTGIRL
+ActorNumber: 522
+PlayerID: 9803B546CA6DB403
+Platform: Standalone
+AccountCreationDate: 2023-12-28 01:20:49 UTC
+Color: R=0.67 G=0.78 B=0.78
+Cosmetics: None

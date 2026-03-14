@@ -1,0 +1,7 @@
+Name: FLOWER
+ActorNumber: 180
+PlayerID: 2C4A6DE45F54E19A
+Platform: Unknown
+AccountCreationDate: 2022-12-25 13:44:44 UTC
+Color: R=0.44 G=0.00 B=0.44
+Cosmetics: None

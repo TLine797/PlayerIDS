@@ -1,0 +1,7 @@
+Name: UWURAWRXD
+ActorNumber: 1235
+PlayerID: ED0E932655B26F68
+Platform: Standalone
+AccountCreationDate: 2024-08-15 23:55:41 UTC
+Color: R=1.00 G=0.67 B=0.78
+Cosmetics: None

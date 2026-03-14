@@ -1,0 +1,7 @@
+Name: PIZZAGT
+ActorNumber: 312
+PlayerID: 12B839DC87C19D0C
+Platform: Standalone
+AccountCreationDate: 2023-06-17 02:37:23 UTC
+Color: R=1.00 G=0.44 B=0.00
+Cosmetics: None

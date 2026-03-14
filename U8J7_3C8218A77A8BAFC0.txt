@@ -1,0 +1,7 @@
+Name: MCMONK
+ActorNumber: 801
+PlayerID: 3C8218A77A8BAFC0
+Platform: Standalone
+AccountCreationDate: 2025-07-02 02:29:21 UTC
+Color: R=0.22 G=0.22 B=0.22
+Cosmetics: None

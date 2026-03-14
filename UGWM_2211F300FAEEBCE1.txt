@@ -1,0 +1,7 @@
+Name: gorilla5721
+ActorNumber: 45
+PlayerID: 2211F300FAEEBCE1
+Platform: Standalone
+AccountCreationDate: 2026-02-19 01:05:47 UTC
+Color: R=0.44 G=0.00 B=1.00
+Cosmetics: None

@@ -1,0 +1,7 @@
+Name: ICANTHEAR
+ActorNumber: 518
+PlayerID: 29028C55B23190AF
+Platform: Standalone
+AccountCreationDate: 2025-05-17 00:18:13 UTC
+Color: R=0.22 G=0.00 B=0.67
+Cosmetics: None

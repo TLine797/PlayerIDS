@@ -1,0 +1,7 @@
+Name: PLUMM
+ActorNumber: 375
+PlayerID: 681D8F3C6D5C51F
+Platform: Unknown
+AccountCreationDate: 2022-04-17 01:53:42 UTC
+Color: R=0.33 G=0.22 B=0.33
+Cosmetics: None

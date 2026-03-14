@@ -1,0 +1,7 @@
+Name: TIMMY
+ActorNumber: 886
+PlayerID: 5938996D80364E24
+Platform: Unknown
+AccountCreationDate: 2022-12-25 14:50:54 UTC
+Color: R=0.00 G=0.11 B=1.00
+Cosmetics: None

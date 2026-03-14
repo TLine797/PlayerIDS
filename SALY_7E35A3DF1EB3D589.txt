@@ -1,0 +1,7 @@
+Name: TGR
+ActorNumber: 148
+PlayerID: 7E35A3DF1EB3D589
+Platform: Standalone
+AccountCreationDate: 2024-11-30 22:36:42 UTC
+Color: R=0.33 G=0.00 B=0.56
+Cosmetics: None

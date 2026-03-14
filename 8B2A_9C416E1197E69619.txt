@@ -1,0 +1,7 @@
+Name: SNIPERMONKEY
+ActorNumber: 638
+PlayerID: 9C416E1197E69619
+Platform: Standalone
+AccountCreationDate: 2023-11-25 02:10:18 UTC
+Color: R=1.00 G=0.00 B=0.78
+Cosmetics: None

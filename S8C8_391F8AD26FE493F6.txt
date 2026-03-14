@@ -1,0 +1,7 @@
+Name: MINIBREAD
+ActorNumber: 7
+PlayerID: 391F8AD26FE493F6
+Platform: Standalone
+AccountCreationDate: 2023-12-25 17:18:22 UTC
+Color: R=0.44 G=1.00 B=0.44
+Cosmetics: None

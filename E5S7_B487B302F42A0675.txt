@@ -1,0 +1,7 @@
+Name: STARR
+ActorNumber: 590
+PlayerID: B487B302F42A0675
+Platform: Standalone
+AccountCreationDate: 2025-08-23 15:31:53 UTC
+Color: R=0.67 G=0.67 B=0.67
+Cosmetics: None

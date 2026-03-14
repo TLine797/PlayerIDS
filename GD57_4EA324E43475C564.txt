@@ -1,0 +1,7 @@
+Name: LILLY
+ActorNumber: 188
+PlayerID: 4EA324E43475C564
+Platform: Standalone
+AccountCreationDate: 2025-01-06 22:29:39 UTC
+Color: R=0.00 G=0.00 B=0.00
+Cosmetics: None
