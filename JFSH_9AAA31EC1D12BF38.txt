@@ -1,0 +1,7 @@
+Name: LUIZVR
+ActorNumber: 1120
+PlayerID: 9AAA31EC1D12BF38
+Platform: Standalone
+AccountCreationDate: 2024-06-09 16:50:46 UTC
+Color: R=0.00 G=0.44 B=1.00
+Cosmetics: None

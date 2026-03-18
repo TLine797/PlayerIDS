@@ -1,0 +1,7 @@
+Name: V1X
+ActorNumber: 418
+PlayerID: 5A99A56995A8C511
+Platform: PC
+AccountCreationDate: 2025-12-26 02:53:07 UTC
+Color: R=0.00 G=0.44 B=1.00
+Cosmetics: None

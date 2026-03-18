@@ -1,0 +1,7 @@
+Name: BBBPIG
+ActorNumber: 1015
+PlayerID: FC85ECDD6646798
+Platform: Standalone
+AccountCreationDate: 2022-03-19 20:21:56 UTC
+Color: R=1.00 G=0.67 B=1.00
+Cosmetics: None

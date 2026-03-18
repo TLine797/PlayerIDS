@@ -1,0 +1,7 @@
+Name: ILUVWALLY
+ActorNumber: 989
+PlayerID: 960B1CF6972790E3
+Platform: Unknown
+AccountCreationDate: 2022-09-23 01:08:33 UTC
+Color: R=0.33 G=0.33 B=0.78
+Cosmetics: None

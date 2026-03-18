@@ -1,0 +1,7 @@
+Name: WHOPPERSV
+ActorNumber: 1000
+PlayerID: BC03A658AB3A4A
+Platform: Unknown
+AccountCreationDate: 2021-05-31 03:11:22 UTC
+Color: R=0.00 G=0.00 B=1.00
+Cosmetics: None

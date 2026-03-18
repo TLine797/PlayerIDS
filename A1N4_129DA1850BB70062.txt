@@ -1,0 +1,7 @@
+Name: ROMANS1210
+ActorNumber: 1316
+PlayerID: 129DA1850BB70062
+Platform: Standalone
+AccountCreationDate: 2025-12-30 03:09:01 UTC
+Color: R=0.56 G=0.00 B=1.00
+Cosmetics: None

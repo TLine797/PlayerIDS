@@ -1,0 +1,7 @@
+Name: ZOMIEGT
+ActorNumber: 725
+PlayerID: 324E4BD19D5288AB
+Platform: Standalone
+AccountCreationDate: 2025-12-26 21:55:41 UTC
+Color: R=1.00 G=1.00 B=1.00
+Cosmetics: None

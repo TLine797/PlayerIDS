@@ -1,0 +1,7 @@
+Name: KINGVR
+ActorNumber: 1312
+PlayerID: 3D5C9E0BE51470B2
+Platform: Unknown
+AccountCreationDate: 2022-12-27 21:39:54 UTC
+Color: R=0.00 G=0.00 B=0.00
+Cosmetics: None

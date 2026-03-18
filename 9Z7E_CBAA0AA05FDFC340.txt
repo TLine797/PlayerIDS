@@ -1,0 +1,7 @@
+Name: YEKTRIX
+ActorNumber: 695
+PlayerID: CBAA0AA05FDFC340
+Platform: Standalone
+AccountCreationDate: 2025-03-23 22:15:13 UTC
+Color: R=0.89 G=0.78 B=0.00
+Cosmetics: None

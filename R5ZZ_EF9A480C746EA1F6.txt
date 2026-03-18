@@ -1,0 +1,7 @@
+Name: ALEXYT
+ActorNumber: 420
+PlayerID: EF9A480C746EA1F6
+Platform: Standalone
+AccountCreationDate: 2026-03-12 17:08:16 UTC
+Color: R=0.00 G=0.00 B=0.00
+Cosmetics: None

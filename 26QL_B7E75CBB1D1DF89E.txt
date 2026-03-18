@@ -1,0 +1,7 @@
+Name: NOOB
+ActorNumber: 946
+PlayerID: B7E75CBB1D1DF89E
+Platform: Standalone
+AccountCreationDate: 2026-01-02 21:48:43 UTC
+Color: R=1.00 G=0.00 B=0.00
+Cosmetics: None

@@ -1,0 +1,7 @@
+Name: MUNCHIE
+ActorNumber: 144
+PlayerID: DC2A109FE538178F
+Platform: Unknown
+AccountCreationDate: 2022-12-25 19:34:10 UTC
+Color: R=0.33 G=0.78 B=1.00
+Cosmetics: None

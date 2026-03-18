@@ -1,0 +1,7 @@
+Name: M1CR
+ActorNumber: 585
+PlayerID: CB8401E321245FC
+Platform: Unknown
+AccountCreationDate: 2022-01-16 03:50:30 UTC
+Color: R=0.00 G=1.00 B=0.00
+Cosmetics: None

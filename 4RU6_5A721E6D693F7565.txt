@@ -1,0 +1,7 @@
+Name: LUV
+ActorNumber: 247
+PlayerID: 5A721E6D693F7565
+Platform: Standalone
+AccountCreationDate: 2025-05-04 17:26:00 UTC
+Color: R=0.44 G=0.00 B=1.00
+Cosmetics: None

@@ -1,0 +1,7 @@
+Name: LANDO
+ActorNumber: 433
+PlayerID: 7A85C3619DD34B56
+Platform: Unknown
+AccountCreationDate: 2025-08-02 19:58:21 UTC
+Color: R=0.56 G=0.44 B=1.00
+Cosmetics: None

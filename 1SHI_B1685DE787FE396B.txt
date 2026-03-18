@@ -1,0 +1,7 @@
+Name: CHESSTYPEBEA
+ActorNumber: 884
+PlayerID: B1685DE787FE396B
+Platform: Standalone
+AccountCreationDate: 2023-12-25 14:06:43 UTC
+Color: R=1.00 G=1.00 B=1.00
+Cosmetics: None

@@ -1,0 +1,7 @@
+Name: RTRMOVEMENT
+ActorNumber: 265
+PlayerID: 9C82FD9F8EC6EA04
+Platform: Standalone
+AccountCreationDate: 2025-12-25 21:28:04 UTC
+Color: R=0.33 G=0.00 B=0.89
+Cosmetics: None

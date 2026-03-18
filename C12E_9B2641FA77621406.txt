@@ -1,0 +1,7 @@
+Name: CFT
+ActorNumber: 553
+PlayerID: 9B2641FA77621406
+Platform: Unknown
+AccountCreationDate: 2022-07-28 03:24:35 UTC
+Color: R=1.00 G=0.33 B=0.33
+Cosmetics: None

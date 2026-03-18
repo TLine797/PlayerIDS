@@ -1,0 +1,7 @@
+Name: MAYO
+ActorNumber: 1019
+PlayerID: 53E495FF3BE41B7D
+Platform: Standalone
+AccountCreationDate: 2025-07-12 17:14:28 UTC
+Color: R=0.56 G=0.44 B=0.33
+Cosmetics: None

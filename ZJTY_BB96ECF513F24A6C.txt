@@ -1,0 +1,7 @@
+Name: CAICH777
+ActorNumber: 526
+PlayerID: BB96ECF513F24A6C
+Platform: Unknown
+AccountCreationDate: 2022-05-11 02:54:30 UTC
+Color: R=0.00 G=0.78 B=0.11
+Cosmetics: None

@@ -1,0 +1,7 @@
+Name: E36
+ActorNumber: 1195
+PlayerID: F9392A7A51280A1C
+Platform: Standalone
+AccountCreationDate: 2023-12-25 03:47:44 UTC
+Color: R=1.00 G=0.00 B=0.00
+Cosmetics: None

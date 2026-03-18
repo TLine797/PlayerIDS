@@ -1,0 +1,7 @@
+Name: VENOM
+ActorNumber: 691
+PlayerID: 74D88D5E8478BF7C
+Platform: Unknown
+AccountCreationDate: 2022-12-25 18:59:32 UTC
+Color: R=0.22 G=0.00 B=0.22
+Cosmetics: None

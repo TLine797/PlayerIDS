@@ -1,0 +1,7 @@
+Name: GITGUD
+ActorNumber: 1109
+PlayerID: 593F10CF59D60EE2
+Platform: Unknown
+AccountCreationDate: 2022-02-04 20:22:43 UTC
+Color: R=0.89 G=0.33 B=0.33
+Cosmetics: None

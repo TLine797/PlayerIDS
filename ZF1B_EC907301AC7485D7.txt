@@ -1,0 +1,7 @@
+Name: CELESTE
+ActorNumber: 722
+PlayerID: EC907301AC7485D7
+Platform: Unknown
+AccountCreationDate: 2023-01-03 18:58:57 UTC
+Color: R=0.67 G=0.78 B=0.78
+Cosmetics: None

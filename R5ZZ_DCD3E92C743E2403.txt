@@ -1,0 +1,7 @@
+Name: ZYPHOR
+ActorNumber: 427
+PlayerID: DCD3E92C743E2403
+Platform: Standalone
+AccountCreationDate: 2026-01-04 06:05:24 UTC
+Color: R=0.67 G=0.33 B=0.78
+Cosmetics: None

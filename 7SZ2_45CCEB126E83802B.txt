@@ -1,0 +1,7 @@
+Name: NINJABRADYVR
+ActorNumber: 204
+PlayerID: 45CCEB126E83802B
+Platform: Standalone
+AccountCreationDate: 2024-12-25 02:00:28 UTC
+Color: R=0.56 G=0.00 B=1.00
+Cosmetics: None

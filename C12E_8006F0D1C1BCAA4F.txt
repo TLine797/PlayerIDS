@@ -1,0 +1,7 @@
+Name: TRWBB
+ActorNumber: 564
+PlayerID: 8006F0D1C1BCAA4F
+Platform: Standalone
+AccountCreationDate: 2024-08-15 00:39:41 UTC
+Color: R=1.00 G=0.00 B=0.00
+Cosmetics: None

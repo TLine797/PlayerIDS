@@ -1,0 +1,7 @@
+Name: VJTELLO
+ActorNumber: 986
+PlayerID: B72ECC21482C6521
+Platform: Standalone
+AccountCreationDate: 2026-02-05 00:03:57 UTC
+Color: R=0.00 G=0.00 B=0.00
+Cosmetics: None

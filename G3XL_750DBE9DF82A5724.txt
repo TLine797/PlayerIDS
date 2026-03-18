@@ -1,0 +1,7 @@
+Name: GOBLIN
+ActorNumber: 53
+PlayerID: 750DBE9DF82A5724
+Platform: Standalone
+AccountCreationDate: 2024-02-28 22:40:20 UTC
+Color: R=0.00 G=0.44 B=0.00
+Cosmetics: None

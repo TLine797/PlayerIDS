@@ -1,0 +1,7 @@
+Name: ASH
+ActorNumber: 1326
+PlayerID: B7A05475D43CAD30
+Platform: Standalone
+AccountCreationDate: 2026-01-11 00:18:27 UTC
+Color: R=0.89 G=0.00 B=0.00
+Cosmetics: None

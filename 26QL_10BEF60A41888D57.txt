@@ -1,0 +1,7 @@
+Name: TTT
+ActorNumber: 947
+PlayerID: 10BEF60A41888D57
+Platform: Standalone
+AccountCreationDate: 2025-03-15 22:47:58 UTC
+Color: R=0.44 G=0.00 B=0.89
+Cosmetics: None

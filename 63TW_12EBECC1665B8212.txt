@@ -1,0 +1,7 @@
+Name: XXEVEYXX
+ActorNumber: 5
+PlayerID: 12EBECC1665B8212
+Platform: Standalone
+AccountCreationDate: 2026-01-10 21:44:39 UTC
+Color: R=0.44 G=0.11 B=0.78
+Cosmetics: None

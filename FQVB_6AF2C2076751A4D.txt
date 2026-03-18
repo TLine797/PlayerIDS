@@ -1,0 +1,7 @@
+Name: RICHARD
+ActorNumber: 1167
+PlayerID: 6AF2C2076751A4D
+Platform: Standalone
+AccountCreationDate: 2026-03-13 20:40:51 UTC
+Color: R=0.00 G=0.00 B=0.00
+Cosmetics: None

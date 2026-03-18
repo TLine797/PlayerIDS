@@ -1,0 +1,7 @@
+Name: DDB
+ActorNumber: 432
+PlayerID: 963A182C83CD8509
+Platform: Standalone
+AccountCreationDate: 2025-01-01 19:43:18 UTC
+Color: R=0.44 G=0.00 B=1.00
+Cosmetics: None

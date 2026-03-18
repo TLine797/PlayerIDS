@@ -1,0 +1,7 @@
+Name: LILDIH
+ActorNumber: 210
+PlayerID: 6AF84CDA26C37238
+Platform: Unknown
+AccountCreationDate: 2023-01-07 20:48:42 UTC
+Color: R=0.33 G=0.00 B=0.22
+Cosmetics: None

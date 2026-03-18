@@ -1,0 +1,7 @@
+Name: OWGMANGO
+ActorNumber: 75
+PlayerID: F44871B7CFDDF510
+Platform: Standalone
+AccountCreationDate: 2026-03-01 00:43:46 UTC
+Color: R=0.56 G=0.78 B=1.00
+Cosmetics: None

@@ -1,0 +1,7 @@
+Name: GUAPO
+ActorNumber: 1179
+PlayerID: CC624DFEADB5DF46
+Platform: Standalone
+AccountCreationDate: 2025-01-09 03:37:23 UTC
+Color: R=0.33 G=0.00 B=0.67
+Cosmetics: None

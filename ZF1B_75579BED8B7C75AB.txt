@@ -1,0 +1,7 @@
+Name: BOB
+ActorNumber: 711
+PlayerID: 75579BED8B7C75AB
+Platform: Standalone
+AccountCreationDate: 2024-12-25 23:48:47 UTC
+Color: R=1.00 G=0.00 B=0.11
+Cosmetics: None

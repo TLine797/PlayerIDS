@@ -1,0 +1,7 @@
+Name: MARLON
+ActorNumber: 142
+PlayerID: FBF11121311F0DFC
+Platform: Unknown
+AccountCreationDate: 2022-01-09 01:44:06 UTC
+Color: R=0.44 G=0.00 B=0.00
+Cosmetics: None

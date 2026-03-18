@@ -1,0 +1,7 @@
+Name: FRAGZZGT
+ActorNumber: 65
+PlayerID: 1FAA633A8053579B
+Platform: Unknown
+AccountCreationDate: 2022-02-25 21:31:59 UTC
+Color: R=0.33 G=0.33 B=0.33
+Cosmetics: None

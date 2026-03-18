@@ -1,0 +1,7 @@
+Name: JMANFAN
+ActorNumber: 970
+PlayerID: 2590EF9D4D35F635
+Platform: Standalone
+AccountCreationDate: 2024-12-30 17:40:01 UTC
+Color: R=0.00 G=1.00 B=1.00
+Cosmetics: None

@@ -1,0 +1,7 @@
+Name: GOAT
+ActorNumber: 203
+PlayerID: B1C7078FD357805C
+Platform: Standalone
+AccountCreationDate: 2024-06-23 04:42:41 UTC
+Color: R=1.00 G=1.00 B=1.00
+Cosmetics: None

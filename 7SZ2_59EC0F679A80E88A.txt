@@ -1,0 +1,7 @@
+Name: NEO
+ActorNumber: 213
+PlayerID: 59EC0F679A80E88A
+Platform: Standalone
+AccountCreationDate: 2024-12-28 19:24:47 UTC
+Color: R=0.67 G=0.33 B=0.67
+Cosmetics: None

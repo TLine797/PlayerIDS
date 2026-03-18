@@ -1,0 +1,7 @@
+Name: FEMBOY
+ActorNumber: 141
+PlayerID: C07CC1A32BB88A65
+Platform: PC
+AccountCreationDate: 2026-01-13 14:38:22 UTC
+Color: R=1.00 G=0.33 B=1.00
+Cosmetics: None

@@ -1,0 +1,7 @@
+Name: CRAESTAL
+ActorNumber: 2
+PlayerID: FB40B1AA2CC0DE51
+Platform: Standalone
+AccountCreationDate: 2025-07-10 12:47:09 UTC
+Color: R=0.67 G=0.11 B=1.00
+Cosmetics: None

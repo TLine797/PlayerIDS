@@ -1,0 +1,7 @@
+Name: HARDCORE
+ActorNumber: 143
+PlayerID: A0F142E0B07009DE
+Platform: Standalone
+AccountCreationDate: 2023-10-30 15:52:19 UTC
+Color: R=1.00 G=0.00 B=0.00
+Cosmetics: None

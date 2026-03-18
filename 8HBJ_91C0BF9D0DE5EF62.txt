@@ -1,0 +1,7 @@
+Name: TWRRIZGOD
+ActorNumber: 998
+PlayerID: 91C0BF9D0DE5EF62
+Platform: Unknown
+AccountCreationDate: 2024-03-07 23:25:15 UTC
+Color: R=0.44 G=0.00 B=1.00
+Cosmetics: None

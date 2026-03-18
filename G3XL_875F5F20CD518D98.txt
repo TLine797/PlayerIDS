@@ -1,0 +1,7 @@
+Name: IAM6SS
+ActorNumber: 47
+PlayerID: 875F5F20CD518D98
+Platform: Standalone
+AccountCreationDate: 2024-12-25 23:07:58 UTC
+Color: R=0.00 G=0.11 B=0.67
+Cosmetics: None

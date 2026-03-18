@@ -1,0 +1,7 @@
+Name: DAZ5KYT
+ActorNumber: 1110
+PlayerID: B336F72198341003
+Platform: Unknown
+AccountCreationDate: 2022-02-27 05:04:32 UTC
+Color: R=0.00 G=0.00 B=0.00
+Cosmetics: None

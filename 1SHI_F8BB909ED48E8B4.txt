@@ -1,0 +1,7 @@
+Name: WE5
+ActorNumber: 876
+PlayerID: F8BB909ED48E8B4
+Platform: Standalone
+AccountCreationDate: 2024-05-26 06:46:27 UTC
+Color: R=1.00 G=0.78 B=0.78
+Cosmetics: None

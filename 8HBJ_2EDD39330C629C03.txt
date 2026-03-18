@@ -1,0 +1,7 @@
+Name: gorilla5780
+ActorNumber: 1012
+PlayerID: 2EDD39330C629C03
+Platform: Standalone
+AccountCreationDate: 2024-12-26 20:16:40 UTC
+Color: R=0.44 G=0.44 B=1.00
+Cosmetics: None

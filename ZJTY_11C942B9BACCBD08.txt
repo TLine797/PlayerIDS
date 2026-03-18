@@ -1,0 +1,7 @@
+Name: GGYGTTRDCEWQ
+ActorNumber: 525
+PlayerID: 11C942B9BACCBD08
+Platform: Standalone
+AccountCreationDate: 2025-10-26 13:49:32 UTC
+Color: R=0.44 G=0.00 B=0.78
+Cosmetics: None

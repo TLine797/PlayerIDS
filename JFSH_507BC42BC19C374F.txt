@@ -1,0 +1,7 @@
+Name: INVISGTVR
+ActorNumber: 1126
+PlayerID: 507BC42BC19C374F
+Platform: Standalone
+AccountCreationDate: 2026-03-15 01:59:32 UTC
+Color: R=0.98 G=0.26 B=0.21
+Cosmetics: None

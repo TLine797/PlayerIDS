@@ -1,0 +1,7 @@
+Name: BANANA
+ActorNumber: 412
+PlayerID: 5BF29AD1D358BEAD
+Platform: Unknown
+AccountCreationDate: 2022-01-07 01:46:16 UTC
+Color: R=0.33 G=1.00 B=0.67
+Cosmetics: None

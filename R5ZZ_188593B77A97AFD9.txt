@@ -1,0 +1,7 @@
+Name: KIT
+ActorNumber: 423
+PlayerID: 188593B77A97AFD9
+Platform: Unknown
+AccountCreationDate: 2022-04-28 07:11:15 UTC
+Color: R=1.00 G=0.11 B=1.00
+Cosmetics: None

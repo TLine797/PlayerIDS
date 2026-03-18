@@ -1,0 +1,7 @@
+Name: CAMVR
+ActorNumber: 254
+PlayerID: EA7814CF7F1664B6
+Platform: Unknown
+AccountCreationDate: 2022-12-25 23:20:34 UTC
+Color: R=0.00 G=0.22 B=0.33
+Cosmetics: None

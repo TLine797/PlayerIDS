@@ -1,0 +1,7 @@
+Name: TTTANNAFREY
+ActorNumber: 981
+PlayerID: 830DE5CCA17775D2
+Platform: Unknown
+AccountCreationDate: 2022-12-25 18:30:03 UTC
+Color: R=1.00 G=0.33 B=1.00
+Cosmetics: None

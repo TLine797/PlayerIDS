@@ -1,0 +1,7 @@
+Name: ILOVEJESUS
+ActorNumber: 686
+PlayerID: 9806C060BBEC1E0B
+Platform: Standalone
+AccountCreationDate: 2024-12-25 14:06:39 UTC
+Color: R=0.00 G=0.00 B=0.89
+Cosmetics: None

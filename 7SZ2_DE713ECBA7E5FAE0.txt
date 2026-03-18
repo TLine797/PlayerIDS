@@ -1,0 +1,7 @@
+Name: GH0ST
+ActorNumber: 196
+PlayerID: DE713ECBA7E5FAE0
+Platform: Standalone
+AccountCreationDate: 2025-11-26 22:43:13 UTC
+Color: R=0.56 G=0.00 B=0.89
+Cosmetics: None

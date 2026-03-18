@@ -1,0 +1,7 @@
+Name: BRYTHEGOAT
+ActorNumber: 188
+PlayerID: 838C73E1071188B4
+Platform: Standalone
+AccountCreationDate: 2026-03-13 12:14:30 UTC
+Color: R=0.99 G=0.64 B=0.88
+Cosmetics: None

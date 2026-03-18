@@ -1,0 +1,7 @@
+Name: CTTBOBBY
+ActorNumber: 585
+PlayerID: AE359396E9D3B6A5
+Platform: Standalone
+AccountCreationDate: 2025-12-25 05:07:52 UTC
+Color: R=0.00 G=0.00 B=0.00
+Cosmetics: None

@@ -1,0 +1,7 @@
+Name: TDBFLIKZGT
+ActorNumber: 68
+PlayerID: DB8F7CAC14314B02
+Platform: Unknown
+AccountCreationDate: 2022-01-08 17:00:58 UTC
+Color: R=0.44 G=0.00 B=0.00
+Cosmetics: None

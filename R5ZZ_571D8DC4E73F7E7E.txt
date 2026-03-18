@@ -1,0 +1,7 @@
+Name: LUKE4GTVR
+ActorNumber: 409
+PlayerID: 571D8DC4E73F7E7E
+Platform: Standalone
+AccountCreationDate: 2026-02-08 22:26:00 UTC
+Color: R=0.44 G=0.00 B=0.78
+Cosmetics: None

@@ -1,0 +1,7 @@
+Name: GHOSTVR
+ActorNumber: 990
+PlayerID: E865AEB0527A8B56
+Platform: Unknown
+AccountCreationDate: 2022-12-25 07:29:28 UTC
+Color: R=0.89 G=0.67 B=0.44
+Cosmetics: None

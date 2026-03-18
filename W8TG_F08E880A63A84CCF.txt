@@ -1,0 +1,7 @@
+Name: GODISUNFAIR
+ActorNumber: 605
+PlayerID: F08E880A63A84CCF
+Platform: Standalone
+AccountCreationDate: 2024-01-14 08:38:55 UTC
+Color: R=0.00 G=0.00 B=0.00
+Cosmetics: None

@@ -1,0 +1,7 @@
+Name: F0X3R
+ActorNumber: 601
+PlayerID: 1FFEF75D2D0A2677
+Platform: Standalone
+AccountCreationDate: 2025-12-12 02:50:29 UTC
+Color: R=0.22 G=0.56 B=0.89
+Cosmetics: None

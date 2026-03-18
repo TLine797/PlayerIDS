@@ -1,0 +1,7 @@
+Name: FORRT
+ActorNumber: 71
+PlayerID: 72E92C9F7FAB5A49
+Platform: Unknown
+AccountCreationDate: 2022-05-14 17:41:28 UTC
+Color: R=0.89 G=0.11 B=0.33
+Cosmetics: None

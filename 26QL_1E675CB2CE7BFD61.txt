@@ -1,0 +1,7 @@
+Name: STARBOYFAN
+ActorNumber: 952
+PlayerID: 1E675CB2CE7BFD61
+Platform: Standalone
+AccountCreationDate: 2023-03-06 00:28:55 UTC
+Color: R=0.00 G=1.00 B=0.00
+Cosmetics: None

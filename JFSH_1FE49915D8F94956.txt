@@ -1,0 +1,7 @@
+Name: BEAN
+ActorNumber: 1123
+PlayerID: 1FE49915D8F94956
+Platform: Standalone
+AccountCreationDate: 2024-01-20 18:20:44 UTC
+Color: R=0.22 G=0.00 B=0.00
+Cosmetics: None

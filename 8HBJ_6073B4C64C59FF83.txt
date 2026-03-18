@@ -1,0 +1,7 @@
+Name: TTTPIGJR
+ActorNumber: 1022
+PlayerID: 6073B4C64C59FF83
+Platform: Standalone
+AccountCreationDate: 2025-07-28 17:11:19 UTC
+Color: R=0.44 G=0.00 B=0.78
+Cosmetics: None

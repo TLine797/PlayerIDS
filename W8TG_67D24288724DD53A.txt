@@ -1,0 +1,7 @@
+Name: AIMREBOOT
+ActorNumber: 588
+PlayerID: 67D24288724DD53A
+Platform: Standalone
+AccountCreationDate: 2024-05-23 05:33:25 UTC
+Color: R=0.67 G=0.89 B=1.00
+Cosmetics: None

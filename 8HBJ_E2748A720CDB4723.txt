@@ -1,0 +1,7 @@
+Name: WATCHER
+ActorNumber: 1029
+PlayerID: E2748A720CDB4723
+Platform: Standalone
+AccountCreationDate: 2026-01-20 22:06:17 UTC
+Color: R=0.00 G=0.00 B=0.00
+Cosmetics: None

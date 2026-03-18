@@ -1,0 +1,7 @@
+Name: SATURN
+ActorNumber: 426
+PlayerID: E9E59E7FBD219F3
+Platform: Standalone
+AccountCreationDate: 2024-10-15 22:22:33 UTC
+Color: R=0.00 G=0.00 B=0.33
+Cosmetics: None

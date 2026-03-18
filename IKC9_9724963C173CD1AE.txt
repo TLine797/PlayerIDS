@@ -1,0 +1,7 @@
+Name: YOUGETJOB
+ActorNumber: 158
+PlayerID: 9724963C173CD1AE
+Platform: Standalone
+AccountCreationDate: 2024-02-28 21:42:09 UTC
+Color: R=0.33 G=0.44 B=0.33
+Cosmetics: None

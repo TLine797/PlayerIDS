@@ -1,0 +1,7 @@
+Name: GODLOVESU
+ActorNumber: 594
+PlayerID: A0A3A109C8A902C3
+Platform: Standalone
+AccountCreationDate: 2025-11-11 00:21:14 UTC
+Color: R=0.56 G=0.78 B=1.00
+Cosmetics: None

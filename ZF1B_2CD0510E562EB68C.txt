@@ -1,0 +1,7 @@
+Name: MRROSE
+ActorNumber: 738
+PlayerID: 2CD0510E562EB68C
+Platform: Standalone
+AccountCreationDate: 2025-12-03 01:26:46 UTC
+Color: R=1.00 G=0.44 B=0.11
+Cosmetics: None

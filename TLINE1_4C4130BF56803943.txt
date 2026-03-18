@@ -1,0 +1,7 @@
+Name: ACUTEBUNNY
+ActorNumber: 1
+PlayerID: 4C4130BF56803943
+Platform: Unknown
+AccountCreationDate: 2022-08-23 21:34:10 UTC
+Color: R=1.00 G=0.78 B=0.78
+Cosmetics: None

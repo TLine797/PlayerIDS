@@ -1,0 +1,7 @@
+Name: 0
+ActorNumber: 465
+PlayerID: D3D0E427F9810257
+Platform: Standalone
+AccountCreationDate: 2026-03-17 15:37:50 UTC
+Color: R=0.11 G=0.44 B=1.00
+Cosmetics: None

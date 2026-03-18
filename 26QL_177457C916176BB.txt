@@ -1,0 +1,7 @@
+Name: LOL
+ActorNumber: 945
+PlayerID: 177457C916176BB
+Platform: Standalone
+AccountCreationDate: 2025-12-28 03:21:06 UTC
+Color: R=0.56 G=0.56 B=1.00
+Cosmetics: None

@@ -1,0 +1,7 @@
+Name: IMDEAF
+ActorNumber: 406
+PlayerID: 34F4880CED0956BC
+Platform: Standalone
+AccountCreationDate: 2025-06-13 02:58:02 UTC
+Color: R=0.33 G=0.00 B=0.56
+Cosmetics: None

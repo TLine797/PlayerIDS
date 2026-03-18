@@ -1,0 +1,7 @@
+Name: GBEAST
+ActorNumber: 1014
+PlayerID: 8BA612036AACBD47
+Platform: Standalone
+AccountCreationDate: 2025-12-25 14:46:30 UTC
+Color: R=1.00 G=1.00 B=1.00
+Cosmetics: None

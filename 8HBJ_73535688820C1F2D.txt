@@ -1,0 +1,7 @@
+Name: TOOLEGIT
+ActorNumber: 1023
+PlayerID: 73535688820C1F2D
+Platform: Standalone
+AccountCreationDate: 2025-05-17 21:07:15 UTC
+Color: R=0.22 G=0.44 B=0.78
+Cosmetics: None

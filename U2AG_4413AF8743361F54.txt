@@ -1,0 +1,7 @@
+Name: TGBWHITE
+ActorNumber: 416
+PlayerID: 4413AF8743361F54
+Platform: Standalone
+AccountCreationDate: 2025-12-30 01:34:41 UTC
+Color: R=1.00 G=1.00 B=1.00
+Cosmetics: None

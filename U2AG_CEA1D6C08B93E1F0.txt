@@ -1,0 +1,7 @@
+Name: IDK
+ActorNumber: 407
+PlayerID: CEA1D6C08B93E1F0
+Platform: Unknown
+AccountCreationDate: 2023-01-28 15:28:11 UTC
+Color: R=0.89 G=1.00 B=1.00
+Cosmetics: None

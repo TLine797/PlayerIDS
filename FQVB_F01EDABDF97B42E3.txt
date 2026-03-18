@@ -1,0 +1,7 @@
+Name: PONG0
+ActorNumber: 1186
+PlayerID: F01EDABDF97B42E3
+Platform: PC
+AccountCreationDate: 2025-04-08 23:50:21 UTC
+Color: R=0.44 G=0.00 B=0.56
+Cosmetics: None

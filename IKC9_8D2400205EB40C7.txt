@@ -1,0 +1,7 @@
+Name: 1
+ActorNumber: 164
+PlayerID: 8D2400205EB40C7
+Platform: Standalone
+AccountCreationDate: 2025-06-15 18:17:37 UTC
+Color: R=0.00 G=0.22 B=0.00
+Cosmetics: None

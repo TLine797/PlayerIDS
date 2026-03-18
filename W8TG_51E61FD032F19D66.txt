@@ -1,0 +1,7 @@
+Name: FURRYFEMBOY
+ActorNumber: 604
+PlayerID: 51E61FD032F19D66
+Platform: Standalone
+AccountCreationDate: 2022-02-24 14:50:38 UTC
+Color: R=1.00 G=0.78 B=1.00
+Cosmetics: None

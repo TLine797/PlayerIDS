@@ -1,0 +1,7 @@
+Name: MICHAEL
+ActorNumber: 1008
+PlayerID: 603EF334C14529F2
+Platform: Standalone
+AccountCreationDate: 2025-03-30 01:39:02 UTC
+Color: R=0.11 G=0.00 B=0.00
+Cosmetics: None

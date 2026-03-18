@@ -1,0 +1,7 @@
+Name: CINNAMONBUN
+ActorNumber: 9
+PlayerID: C39E80976E25C75B
+Platform: Standalone
+AccountCreationDate: 2024-10-28 21:42:39 UTC
+Color: R=0.00 G=0.00 B=0.00
+Cosmetics: None

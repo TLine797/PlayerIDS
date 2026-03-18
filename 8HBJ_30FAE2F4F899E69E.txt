@@ -1,0 +1,7 @@
+Name: G
+ActorNumber: 1007
+PlayerID: 30FAE2F4F899E69E
+Platform: Unknown
+AccountCreationDate: 2021-04-19 02:00:58 UTC
+Color: R=0.78 G=0.00 B=0.22
+Cosmetics: None

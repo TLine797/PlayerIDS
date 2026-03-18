@@ -1,0 +1,7 @@
+Name: LOCKIN
+ActorNumber: 935
+PlayerID: FD91255CC8648F5A
+Platform: Unknown
+AccountCreationDate: 2022-04-01 03:58:16 UTC
+Color: R=0.44 G=0.00 B=0.78
+Cosmetics: None

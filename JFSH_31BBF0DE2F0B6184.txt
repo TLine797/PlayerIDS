@@ -1,0 +1,7 @@
+Name: BOYBISCUT
+ActorNumber: 1127
+PlayerID: 31BBF0DE2F0B6184
+Platform: Standalone
+AccountCreationDate: 2025-12-28 04:47:05 UTC
+Color: R=0.00 G=0.22 B=0.00
+Cosmetics: None

@@ -1,0 +1,7 @@
+Name: BP
+ActorNumber: 593
+PlayerID: F8BBD10BEBBA8DBB
+Platform: Standalone
+AccountCreationDate: 2025-02-12 03:44:43 UTC
+Color: R=0.00 G=0.00 B=0.00
+Cosmetics: None

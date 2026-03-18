@@ -1,0 +1,7 @@
+Name: YENIX
+ActorNumber: 1027
+PlayerID: 3A807580654B2D5D
+Platform: Standalone
+AccountCreationDate: 2025-12-24 15:06:05 UTC
+Color: R=0.67 G=0.00 B=0.44
+Cosmetics: None

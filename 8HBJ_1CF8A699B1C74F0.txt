@@ -1,0 +1,7 @@
+Name: MEOWCALADA
+ActorNumber: 1006
+PlayerID: 1CF8A699B1C74F0
+Platform: Unknown
+AccountCreationDate: 2023-09-11 20:30:32 UTC
+Color: R=1.00 G=0.22 B=0.33
+Cosmetics: None

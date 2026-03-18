@@ -1,0 +1,7 @@
+Name: YALLAREWEIRD
+ActorNumber: 588
+PlayerID: B2D997B9F7DF86D0
+Platform: Standalone
+AccountCreationDate: 2024-02-06 00:07:04 UTC
+Color: R=1.00 G=1.00 B=1.00
+Cosmetics: None

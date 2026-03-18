@@ -1,0 +1,7 @@
+Name: CLANBUTHEAD
+ActorNumber: 582
+PlayerID: F9756F8B9E96E774
+Platform: Unknown
+AccountCreationDate: 2022-12-25 18:53:49 UTC
+Color: R=1.00 G=0.00 B=0.00
+Cosmetics: None

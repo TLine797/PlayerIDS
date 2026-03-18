@@ -1,0 +1,7 @@
+Name: ZOINKSGT
+ActorNumber: 23
+PlayerID: EE7203DCDFE87165
+Platform: Unknown
+AccountCreationDate: 2022-12-27 03:44:56 UTC
+Color: R=0.00 G=0.00 B=1.00
+Cosmetics: None

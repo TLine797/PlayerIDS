@@ -1,0 +1,7 @@
+Name: DREX
+ActorNumber: 1325
+PlayerID: CD137BFE8FAC7B81
+Platform: Standalone
+AccountCreationDate: 2026-01-25 09:39:56 UTC
+Color: R=1.00 G=0.00 B=0.11
+Cosmetics: None

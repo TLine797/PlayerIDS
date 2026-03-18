@@ -1,0 +1,7 @@
+Name: THEDEMON
+ActorNumber: 144
+PlayerID: B81BCB9BD03E0962
+Platform: Standalone
+AccountCreationDate: 2024-07-30 04:17:24 UTC
+Color: R=0.56 G=0.00 B=0.78
+Cosmetics: None

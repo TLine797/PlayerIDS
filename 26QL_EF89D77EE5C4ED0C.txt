@@ -1,0 +1,7 @@
+Name: BODO
+ActorNumber: 909
+PlayerID: EF89D77EE5C4ED0C
+Platform: Standalone
+AccountCreationDate: 2024-07-09 23:41:19 UTC
+Color: R=0.33 G=0.00 B=0.67
+Cosmetics: None

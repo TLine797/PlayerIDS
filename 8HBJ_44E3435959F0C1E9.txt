@@ -1,0 +1,7 @@
+Name: TURTLEMONKEY
+ActorNumber: 1020
+PlayerID: 44E3435959F0C1E9
+Platform: Unknown
+AccountCreationDate: 2023-12-25 22:00:03 UTC
+Color: R=0.44 G=0.00 B=1.00
+Cosmetics: None

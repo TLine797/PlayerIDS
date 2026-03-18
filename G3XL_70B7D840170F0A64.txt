@@ -1,0 +1,7 @@
+Name: DOZZZA
+ActorNumber: 76
+PlayerID: 70B7D840170F0A64
+Platform: Standalone
+AccountCreationDate: 2025-10-12 04:48:23 UTC
+Color: R=0.00 G=0.67 B=1.00
+Cosmetics: None

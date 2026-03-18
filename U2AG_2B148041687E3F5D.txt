@@ -1,0 +1,7 @@
+Name: SIDEQUEST
+ActorNumber: 420
+PlayerID: 2B148041687E3F5D
+Platform: Standalone
+AccountCreationDate: 2026-02-01 18:22:57 UTC
+Color: R=0.56 G=0.00 B=1.00
+Cosmetics: None

@@ -1,0 +1,7 @@
+Name: I
+ActorNumber: 77
+PlayerID: 2E31D72665389FBB
+Platform: Standalone
+AccountCreationDate: 2023-12-25 17:16:05 UTC
+Color: R=0.11 G=0.44 B=0.67
+Cosmetics: None

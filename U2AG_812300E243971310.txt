@@ -1,0 +1,7 @@
+Name: NIPPLE112
+ActorNumber: 423
+PlayerID: 812300E243971310
+Platform: Unknown
+AccountCreationDate: 2022-12-26 17:36:20 UTC
+Color: R=0.67 G=0.00 B=0.22
+Cosmetics: None

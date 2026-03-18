@@ -1,0 +1,7 @@
+Name: COMECLOSER
+ActorNumber: 737
+PlayerID: 82233E0F62830E35
+Platform: Standalone
+AccountCreationDate: 2026-02-12 23:36:58 UTC
+Color: R=0.00 G=0.00 B=0.00
+Cosmetics: None

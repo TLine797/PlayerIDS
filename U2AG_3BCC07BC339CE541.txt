@@ -1,0 +1,7 @@
+Name: GLOX
+ActorNumber: 402
+PlayerID: 3BCC07BC339CE541
+Platform: Unknown
+AccountCreationDate: 2022-10-02 01:06:50 UTC
+Color: R=0.00 G=0.00 B=0.00
+Cosmetics: None

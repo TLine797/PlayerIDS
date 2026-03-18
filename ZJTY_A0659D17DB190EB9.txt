@@ -1,0 +1,7 @@
+Name: RTRCANDY
+ActorNumber: 523
+PlayerID: A0659D17DB190EB9
+Platform: Standalone
+AccountCreationDate: 2023-12-25 17:11:31 UTC
+Color: R=0.33 G=0.00 B=0.89
+Cosmetics: None

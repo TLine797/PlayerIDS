@@ -1,0 +1,7 @@
+Name: KIM
+ActorNumber: 733
+PlayerID: 5FD00F27EF0C79B5
+Platform: Standalone
+AccountCreationDate: 2025-08-08 11:04:48 UTC
+Color: R=0.67 G=0.78 B=0.78
+Cosmetics: None

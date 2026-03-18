@@ -1,0 +1,7 @@
+Name: ROMANCEGT
+ActorNumber: 992
+PlayerID: 6983F658AFE4E01A
+Platform: Unknown
+AccountCreationDate: 2023-01-02 01:10:57 UTC
+Color: R=0.44 G=0.11 B=0.67
+Cosmetics: None

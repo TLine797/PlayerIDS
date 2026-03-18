@@ -1,0 +1,7 @@
+Name: KYNXX
+ActorNumber: 527
+PlayerID: C31C165EEA5ED4D3
+Platform: Standalone
+AccountCreationDate: 2025-12-25 19:45:18 UTC
+Color: R=0.44 G=0.00 B=0.78
+Cosmetics: None

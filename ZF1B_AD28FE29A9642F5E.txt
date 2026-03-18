@@ -1,0 +1,7 @@
+Name: SUSHI
+ActorNumber: 734
+PlayerID: AD28FE29A9642F5E
+Platform: Standalone
+AccountCreationDate: 2024-12-06 02:07:04 UTC
+Color: R=0.67 G=0.67 B=0.67
+Cosmetics: None

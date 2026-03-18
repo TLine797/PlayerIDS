@@ -1,0 +1,7 @@
+Name: GRGHOSTRIDER
+ActorNumber: 728
+PlayerID: 7890F8133841FC43
+Platform: Standalone
+AccountCreationDate: 2025-12-20 11:35:28 UTC
+Color: R=0.22 G=0.00 B=0.00
+Cosmetics: None

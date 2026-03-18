@@ -1,0 +1,7 @@
+Name: S3NSE
+ActorNumber: 595
+PlayerID: CE5D287C377D6945
+Platform: Standalone
+AccountCreationDate: 2024-07-06 13:39:08 UTC
+Color: R=1.00 G=0.33 B=0.56
+Cosmetics: None

@@ -1,0 +1,7 @@
+Name: CHILL
+ActorNumber: 568
+PlayerID: 560538B64043604E
+Platform: Standalone
+AccountCreationDate: 2026-01-16 22:58:22 UTC
+Color: R=0.11 G=0.22 B=0.22
+Cosmetics: None

@@ -1,0 +1,7 @@
+Name: CFT
+ActorNumber: 591
+PlayerID: 9B2641FA77621406
+Platform: Unknown
+AccountCreationDate: 2022-07-28 03:24:35 UTC
+Color: R=0.67 G=0.44 B=0.89
+Cosmetics: None

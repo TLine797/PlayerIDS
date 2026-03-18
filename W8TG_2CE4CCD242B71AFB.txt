@@ -1,0 +1,7 @@
+Name: JOEY66
+ActorNumber: 607
+PlayerID: 2CE4CCD242B71AFB
+Platform: Standalone
+AccountCreationDate: 2021-11-04 22:25:14 UTC
+Color: R=0.89 G=0.67 B=0.44
+Cosmetics: None

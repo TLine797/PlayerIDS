@@ -1,0 +1,7 @@
+Name: HIICANTHEARY
+ActorNumber: 228
+PlayerID: 6023535E7186BEC8
+Platform: Standalone
+AccountCreationDate: 2026-01-12 22:54:45 UTC
+Color: R=0.11 G=0.22 B=0.33
+Cosmetics: None

@@ -1,0 +1,7 @@
+Name: IHR510
+ActorNumber: 923
+PlayerID: 3F64F751DCCA0217
+Platform: Standalone
+AccountCreationDate: 2025-06-03 02:27:30 UTC
+Color: R=1.00 G=0.00 B=0.00
+Cosmetics: None

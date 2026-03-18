@@ -1,0 +1,7 @@
+Name: TTT
+ActorNumber: 1192
+PlayerID: 8DFDCFD49E3A12B4
+Platform: Standalone
+AccountCreationDate: 2026-01-19 19:43:46 UTC
+Color: R=0.44 G=0.00 B=0.67
+Cosmetics: None

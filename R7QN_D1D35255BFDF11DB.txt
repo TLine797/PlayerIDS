@@ -1,0 +1,7 @@
+Name: STICKMANVR
+ActorNumber: 236
+PlayerID: D1D35255BFDF11DB
+Platform: Standalone
+AccountCreationDate: 2025-03-04 22:43:19 UTC
+Color: R=0.22 G=0.11 B=0.00
+Cosmetics: None

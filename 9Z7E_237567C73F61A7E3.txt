@@ -1,0 +1,7 @@
+Name: SIGGYVR
+ActorNumber: 679
+PlayerID: 237567C73F61A7E3
+Platform: Standalone
+AccountCreationDate: 2024-06-06 22:41:15 UTC
+Color: R=0.00 G=0.22 B=1.00
+Cosmetics: None

@@ -1,0 +1,7 @@
+Name: PUMKINZZVR
+ActorNumber: 1184
+PlayerID: 3A1CE033DAA37E16
+Platform: Standalone
+AccountCreationDate: 2024-12-25 15:22:14 UTC
+Color: R=0.78 G=0.44 B=0.00
+Cosmetics: None

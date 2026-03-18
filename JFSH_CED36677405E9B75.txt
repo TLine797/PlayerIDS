@@ -1,0 +1,7 @@
+Name: 4HKPY
+ActorNumber: 1125
+PlayerID: CED36677405E9B75
+Platform: Unknown
+AccountCreationDate: 2022-12-28 15:05:58 UTC
+Color: R=0.78 G=0.00 B=0.22
+Cosmetics: None

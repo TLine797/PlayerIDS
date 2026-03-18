@@ -1,0 +1,7 @@
+Name: CHEESEBURGER
+ActorNumber: 485
+PlayerID: 1509F13DA1445D7
+Platform: Standalone
+AccountCreationDate: 2024-12-28 10:22:45 UTC
+Color: R=0.56 G=0.11 B=0.22
+Cosmetics: None

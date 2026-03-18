@@ -1,0 +1,7 @@
+Name: DUSAA
+ActorNumber: 1010
+PlayerID: 401238F5C00354A1
+Platform: Unknown
+AccountCreationDate: 2026-02-11 01:14:35 UTC
+Color: R=0.44 G=0.00 B=0.78
+Cosmetics: None

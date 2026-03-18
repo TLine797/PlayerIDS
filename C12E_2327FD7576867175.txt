@@ -1,0 +1,7 @@
+Name: HERZZYGT
+ActorNumber: 584
+PlayerID: 2327FD7576867175
+Platform: Standalone
+AccountCreationDate: 2025-01-18 05:10:39 UTC
+Color: R=0.22 G=0.00 B=0.00
+Cosmetics: None

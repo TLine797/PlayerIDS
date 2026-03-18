@@ -1,0 +1,7 @@
+Name: ILOVEJESUS
+ActorNumber: 491
+PlayerID: FFDC1237E14C9E62
+Platform: Standalone
+AccountCreationDate: 2025-01-12 00:54:13 UTC
+Color: R=0.33 G=0.89 B=0.67
+Cosmetics: None

@@ -1,0 +1,7 @@
+Name: TTRALEX1
+ActorNumber: 506
+PlayerID: 746352A86124C72D
+Platform: Standalone
+AccountCreationDate: 2024-01-01 03:40:50 UTC
+Color: R=0.00 G=0.00 B=0.00
+Cosmetics: None

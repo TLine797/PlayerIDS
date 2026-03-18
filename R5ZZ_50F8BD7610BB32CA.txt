@@ -1,0 +1,7 @@
+Name: TOBLEGACY
+ActorNumber: 418
+PlayerID: 50F8BD7610BB32CA
+Platform: Standalone
+AccountCreationDate: 2025-12-25 16:24:03 UTC
+Color: R=0.33 G=0.33 B=0.33
+Cosmetics: None

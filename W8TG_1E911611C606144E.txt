@@ -1,0 +1,7 @@
+Name: JJJVR
+ActorNumber: 590
+PlayerID: 1E911611C606144E
+Platform: Standalone
+AccountCreationDate: 2023-05-25 00:31:06 UTC
+Color: R=0.44 G=0.00 B=0.78
+Cosmetics: None

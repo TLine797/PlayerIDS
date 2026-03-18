@@ -1,0 +1,7 @@
+Name: BABOON
+ActorNumber: 578
+PlayerID: 9E9A830340E2377
+Platform: Standalone
+AccountCreationDate: 2025-06-11 01:30:46 UTC
+Color: R=0.78 G=0.00 B=0.00
+Cosmetics: None

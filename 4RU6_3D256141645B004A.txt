@@ -1,0 +1,7 @@
+Name: TBCHUSTLE
+ActorNumber: 268
+PlayerID: 3D256141645B004A
+Platform: Standalone
+AccountCreationDate: 2026-01-06 21:41:05 UTC
+Color: R=0.22 G=0.56 B=1.00
+Cosmetics: None

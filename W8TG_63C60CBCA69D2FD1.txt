@@ -1,0 +1,7 @@
+Name: GETDUSTEDD
+ActorNumber: 575
+PlayerID: 63C60CBCA69D2FD1
+Platform: Standalone
+AccountCreationDate: 2026-02-13 04:09:24 UTC
+Color: R=0.33 G=0.11 B=0.44
+Cosmetics: None

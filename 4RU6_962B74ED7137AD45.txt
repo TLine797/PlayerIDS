@@ -1,0 +1,7 @@
+Name: LOVSTRTHEFEM
+ActorNumber: 222
+PlayerID: 962B74ED7137AD45
+Platform: Standalone
+AccountCreationDate: 2024-06-20 20:50:51 UTC
+Color: R=0.33 G=0.22 B=0.00
+Cosmetics: None

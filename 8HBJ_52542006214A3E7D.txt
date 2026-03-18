@@ -1,0 +1,7 @@
+Name: SEV
+ActorNumber: 985
+PlayerID: 52542006214A3E7D
+Platform: Standalone
+AccountCreationDate: 2023-12-26 20:43:27 UTC
+Color: R=1.00 G=0.89 B=1.00
+Cosmetics: None

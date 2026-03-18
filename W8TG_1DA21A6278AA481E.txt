@@ -1,0 +1,7 @@
+Name: LAVAVRGT
+ActorNumber: 578
+PlayerID: 1DA21A6278AA481E
+Platform: Standalone
+AccountCreationDate: 2024-09-15 13:43:23 UTC
+Color: R=1.00 G=0.00 B=0.00
+Cosmetics: None

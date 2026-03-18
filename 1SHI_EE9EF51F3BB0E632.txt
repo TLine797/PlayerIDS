@@ -1,0 +1,7 @@
+Name: NOV
+ActorNumber: 845
+PlayerID: EE9EF51F3BB0E632
+Platform: Standalone
+AccountCreationDate: 2024-12-25 21:54:18 UTC
+Color: R=1.00 G=0.67 B=0.56
+Cosmetics: None

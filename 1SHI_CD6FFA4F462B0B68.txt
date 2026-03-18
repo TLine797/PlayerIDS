@@ -1,0 +1,7 @@
+Name: MOOSE
+ActorNumber: 874
+PlayerID: CD6FFA4F462B0B68
+Platform: Unknown
+AccountCreationDate: 2022-07-26 23:56:55 UTC
+Color: R=0.89 G=0.67 B=0.33
+Cosmetics: None

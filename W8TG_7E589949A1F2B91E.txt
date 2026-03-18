@@ -1,0 +1,7 @@
+Name: HELLOKITTYYY
+ActorNumber: 609
+PlayerID: 7E589949A1F2B91E
+Platform: PC
+AccountCreationDate: 2021-11-16 20:00:52 UTC
+Color: R=1.00 G=0.44 B=0.56
+Cosmetics: None

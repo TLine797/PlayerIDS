@@ -1,0 +1,7 @@
+Name: TDM
+ActorNumber: 1016
+PlayerID: 4EB8DA6086E44677
+Platform: Standalone
+AccountCreationDate: 2021-12-04 05:42:30 UTC
+Color: R=0.22 G=0.44 B=0.67
+Cosmetics: None

@@ -1,0 +1,7 @@
+Name: BROOK
+ActorNumber: 249
+PlayerID: 3036CDBD19AD07CA
+Platform: Unknown
+AccountCreationDate: 2023-01-02 23:08:52 UTC
+Color: R=0.00 G=0.00 B=0.00
+Cosmetics: None

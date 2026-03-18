@@ -1,0 +1,7 @@
+Name: MONKEYMAN
+ActorNumber: 417
+PlayerID: 22B500D76E23D903
+Platform: Standalone
+AccountCreationDate: 2023-12-25 22:29:27 UTC
+Color: R=0.44 G=0.00 B=0.78
+Cosmetics: None

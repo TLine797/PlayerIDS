@@ -1,0 +1,7 @@
+Name: GINGERBREAD
+ActorNumber: 1307
+PlayerID: 527C980F600E242
+Platform: Standalone
+AccountCreationDate: 2024-04-12 01:42:15 UTC
+Color: R=0.44 G=0.22 B=1.00
+Cosmetics: None

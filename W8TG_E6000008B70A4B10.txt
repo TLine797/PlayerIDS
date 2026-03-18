@@ -1,0 +1,7 @@
+Name: LOL
+ActorNumber: 597
+PlayerID: E6000008B70A4B10
+Platform: Standalone
+AccountCreationDate: 2021-05-17 17:57:24 UTC
+Color: R=1.00 G=0.67 B=0.78
+Cosmetics: None

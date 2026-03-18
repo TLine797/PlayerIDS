@@ -1,0 +1,7 @@
+Name: DAISY09
+ActorNumber: 580
+PlayerID: 95C0AAFB4D96E375
+Platform: Standalone
+AccountCreationDate: 2026-01-31 19:11:30 UTC
+Color: R=1.00 G=0.33 B=1.00
+Cosmetics: None

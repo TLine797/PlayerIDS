@@ -1,0 +1,7 @@
+Name: TAKEYOURGIRL
+ActorNumber: 586
+PlayerID: BDC34DFE0FA5AAD3
+Platform: Unknown
+AccountCreationDate: 2022-07-06 16:10:59 UTC
+Color: R=0.56 G=0.44 B=1.00
+Cosmetics: None

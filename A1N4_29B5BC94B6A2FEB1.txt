@@ -1,0 +1,7 @@
+Name: TVBKING
+ActorNumber: 1324
+PlayerID: 29B5BC94B6A2FEB1
+Platform: Standalone
+AccountCreationDate: 2024-05-24 13:51:14 UTC
+Color: R=0.56 G=0.44 B=1.00
+Cosmetics: None

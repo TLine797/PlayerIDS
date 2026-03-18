@@ -1,0 +1,7 @@
+Name: TWEAKA
+ActorNumber: 580
+PlayerID: 7E6559E471A45C0F
+Platform: Standalone
+AccountCreationDate: 2025-12-25 15:27:20 UTC
+Color: R=1.00 G=1.00 B=1.00
+Cosmetics: None

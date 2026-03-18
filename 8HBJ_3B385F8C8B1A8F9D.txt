@@ -1,0 +1,7 @@
+Name: BABYBOO
+ActorNumber: 976
+PlayerID: 3B385F8C8B1A8F9D
+Platform: Unknown
+AccountCreationDate: 2022-01-12 20:42:09 UTC
+Color: R=0.33 G=0.00 B=0.11
+Cosmetics: None

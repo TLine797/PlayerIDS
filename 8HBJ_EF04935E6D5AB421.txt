@@ -1,0 +1,7 @@
+Name: STRAWBERRY
+ActorNumber: 997
+PlayerID: EF04935E6D5AB421
+Platform: Standalone
+AccountCreationDate: 2025-08-23 04:45:59 UTC
+Color: R=1.00 G=0.00 B=0.00
+Cosmetics: None

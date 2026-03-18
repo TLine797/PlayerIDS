@@ -1,0 +1,7 @@
+Name: HIMMY
+ActorNumber: 422
+PlayerID: 9E730F141B18A67D
+Platform: Standalone
+AccountCreationDate: 2025-12-31 03:03:20 UTC
+Color: R=0.22 G=1.00 B=0.67
+Cosmetics: None

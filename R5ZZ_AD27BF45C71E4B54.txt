@@ -1,0 +1,7 @@
+Name: GORILLAGUY
+ActorNumber: 424
+PlayerID: AD27BF45C71E4B54
+Platform: Standalone
+AccountCreationDate: 2025-12-27 17:53:19 UTC
+Color: R=0.00 G=0.22 B=0.67
+Cosmetics: None

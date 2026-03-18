@@ -1,0 +1,7 @@
+Name: TNPSWAG
+ActorNumber: 541
+PlayerID: ECF67945EC9CF781
+Platform: Standalone
+AccountCreationDate: 2024-12-25 17:08:49 UTC
+Color: R=0.67 G=0.33 B=0.44
+Cosmetics: None

@@ -1,0 +1,7 @@
+Name: SILLYBOI
+ActorNumber: 162
+PlayerID: 64EE62D06EDCF76E
+Platform: Standalone
+AccountCreationDate: 2025-03-21 23:36:35 UTC
+Color: R=0.00 G=0.00 B=0.00
+Cosmetics: None
